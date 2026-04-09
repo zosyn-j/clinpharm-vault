@@ -9,6 +9,7 @@ import markdown
 
 ROOT = Path(__file__).resolve().parent
 WIKI = ROOT / 'wiki'
+INVENTORIES = ROOT / 'inventories'
 SITE = ROOT / 'site'
 
 STYLE = """
@@ -20,13 +21,16 @@ STYLE = """
   --line: #d8e1ec;
   --accent: #183A63;
   --accent2: #285a8c;
+  --sidebar-ink: #f5f9ff;
+  --sidebar-muted: #c9dbf2;
 }
 body { font-family: Inter, Arial, sans-serif; margin: 0; background: var(--bg); color: var(--ink); }
 .wrap { display: grid; grid-template-columns: 300px 1fr; min-height: 100vh; }
-.sidebar { background: linear-gradient(180deg, var(--accent), #102945); color: white; padding: 22px; position: sticky; top: 0; height: 100vh; overflow-y: auto; box-sizing: border-box; }
-.sidebar a { color: #dbe8ff; text-decoration: none; }
-.sidebar a:hover { text-decoration: underline; }
+.sidebar { background: linear-gradient(180deg, var(--accent), #102945); color: var(--sidebar-ink); padding: 22px; position: sticky; top: 0; height: 100vh; overflow-y: auto; box-sizing: border-box; }
+.sidebar a { color: #f2f7ff; text-decoration: none; }
+.sidebar a:hover { color: #ffffff; text-decoration: underline; }
 .sidebar ul { padding-left: 18px; margin-top: 6px; }
+.sidebar h2, .sidebar h3 { color: #ffffff; }
 .sidebar h2 { margin-top: 0; }
 .main { padding: 28px; max-width: 1100px; }
 .content { background: var(--panel); border: 1px solid var(--line); border-radius: 16px; padding: 28px; box-shadow: 0 8px 30px rgba(14, 31, 53, 0.06); }
@@ -35,7 +39,7 @@ pre { background: #eef3f8; padding: 12px; overflow-x: auto; border-radius: 10px;
 a { color: var(--accent2); }
 h1, h2, h3 { color: var(--accent); }
 h1 { margin-top: 0; }
-.small { color: #d6e3f5; font-size: 14px; }
+.small { color: var(--sidebar-muted); font-size: 14px; }
 table { width: 100%; border-collapse: collapse; margin: 16px 0; font-size: 14px; }
 th, td { border: 1px solid var(--line); padding: 10px; text-align: left; vertical-align: top; }
 th { background: #eef4fb; }
@@ -43,11 +47,20 @@ tr:nth-child(even) td { background: #fbfdff; }
 blockquote { border-left: 4px solid #b8cae0; margin-left: 0; padding-left: 14px; color: var(--muted); }
 .badge { display: inline-block; background: #e8f1fb; color: var(--accent); border: 1px solid #cfe0f4; border-radius: 999px; padding: 4px 10px; font-size: 12px; font-weight: 700; margin-bottom: 10px; }
 .topbar { margin-bottom: 16px; color: var(--muted); font-size: 14px; }
+.hero { background: linear-gradient(135deg, #eff5fc, #ffffff); border: 1px solid #d8e4f3; border-radius: 18px; padding: 28px; margin-bottom: 24px; }
+.hero p { font-size: 17px; color: #304255; margin-bottom: 0; }
+.card-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; margin: 22px 0; }
+.card { background: #fbfdff; border: 1px solid var(--line); border-radius: 14px; padding: 18px; }
+.card h3 { margin-top: 0; margin-bottom: 8px; font-size: 18px; }
+.card p { margin: 0 0 10px 0; color: #425466; }
+.card a { font-weight: 600; }
+.note { background: #f8fbff; border-left: 4px solid #8db4df; padding: 14px 16px; border-radius: 10px; color: #425466; }
 @media (max-width: 900px) {
   .wrap { grid-template-columns: 1fr; }
   .sidebar { position: static; height: auto; }
   .main { padding: 14px; }
   .content { padding: 18px; }
+  .hero { padding: 20px; }
 }
 """
 
@@ -133,8 +146,8 @@ def wrap_page(title: str, body: str) -> str:
 </html>"""
 
 
-def render_file(md_path: Path):
-    rel = md_path.relative_to(WIKI)
+def render_file(md_path: Path, base_dir: Path):
+    rel = md_path.relative_to(base_dir)
     out = SITE / rel.with_suffix('.html')
     out.parent.mkdir(parents=True, exist_ok=True)
     text = md_path.read_text()
@@ -150,10 +163,13 @@ def main():
     for md_path in WIKI.rglob('*.md'):
         if md_path.name == 'README.md':
             continue
-        render_file(md_path)
+        render_file(md_path, WIKI)
+    for md_path in [INVENTORIES / 'source_registry.md', INVENTORIES / 'dispute_index.md']:
+        if md_path.exists():
+            render_file(md_path, ROOT)
     index_md = WIKI / 'index.md'
     if index_md.exists():
-        render_file(index_md)
+        render_file(index_md, WIKI)
     print(f'Built site at {SITE}')
 
 

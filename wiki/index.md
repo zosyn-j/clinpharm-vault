@@ -1,13 +1,39 @@
 # ClinPharm Vault
 
-## What this is
+<div class="hero">
+  <h2>Source-first clinical pharmacology knowledge base</h2>
+  <p>This site is built from local raw evidence, normalized registries, and derived wiki pages. If a claim matters, you should be able to trace it back to the underlying source files.</p>
+</div>
 
-This vault is a source-first clinical pharmacology knowledge base.
+## What is here
 
-It is organized into three layers:
+This vault is organized into three layers:
 1. **Raw evidence** in `../raw/`
 2. **Registries and inventories** in `../inventories/`
 3. **Derived wiki pages** in this `wiki/` folder
+
+<div class="card-grid">
+  <div class="card">
+    <h3>Programs</h3>
+    <p>Program-level evidence maps, sponsor context, and study inventory.</p>
+    <a href="/programs/remibrutinib.html">Open program pages</a>
+  </div>
+  <div class="card">
+    <h3>Trials</h3>
+    <p>Study-level pages with design, endpoints, provenance, and open questions.</p>
+    <a href="/trials/remibrutinib-nct03926611-phase-2b.html">Open trial pages</a>
+  </div>
+  <div class="card">
+    <h3>Registry</h3>
+    <p>The main provenance spine linking CT.gov, sponsor artifacts, and publications.</p>
+    <a href="/inventories/source_registry.html">Open source registry</a>
+  </div>
+  <div class="card">
+    <h3>Disputes</h3>
+    <p>Flag questionable statements, track unresolved items, and route them back for correction.</p>
+    <a href="/disputes/index.html">Open dispute workflow</a>
+  </div>
+</div>
 
 ## Current emphasis
 - Urticaria development landscape
@@ -21,11 +47,6 @@ It is organized into three layers:
 - [Source registry](../inventories/source_registry.md)
 - [Dispute index](../inventories/dispute_index.md)
 
-## Hosting model
-- Edit in Obsidian
-- Sync with Git
-- Publish as a generated static site
-
-## Notes
-- Derived pages are not the source of truth.
-- If a claim matters, follow it back to the registry and raw source files.
+<div class="note">
+  <strong>Editing model:</strong> edit in Obsidian, track changes with Git, and publish through the generated static site. Derived pages are not the source of truth, the underlying raw evidence and registries are.
+</div>
