@@ -17,6 +17,19 @@ indications:
 - Development focus: Completed or historical urticaria development represented in current raw-source layer
 - Indications represented in current raw sources: Chronic Spontaneous Urticaria
 
+## Strategy readout
+- Headline: More focused BTK challenger strategy in CSU, with a thinner visible development stack than remibrutinib.
+- Current strategic read: In the current local evidence layer, rilzabrutinib looks like a narrower CSU-centered BTK program rather than a broad urticaria franchise. The strategic posture appears more concentrated and later-entry than remibrutinib’s multi-branch stack.
+- Highest visible phase in current registry: Phase 2
+- Strategy confidence in current local layer: Medium
+
+### Why this looks like the strategy
+- The current local layer shows one clear CSU trial and one primary manuscript, without the same visible extension, CIndU, pediatric, or real-world lattice seen for remibrutinib.
+- That makes the program easier to describe, but also indicates less disclosed breadth in the current source cache.
+
+### What to watch next
+- Whether additional sponsor materials reveal broader lifecycle or subtype expansion plans beyond the currently visible CSU focus.
+
 ## Study Inventory
 
 ### Completed / historical studies

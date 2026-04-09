@@ -184,6 +184,121 @@ REMI_PROGRAM_GROUPS = [
     ('Access and real-world evidence layer', ['NCT05170724', 'NCT07358364', 'NCT07358780', 'NCT07408219']),
 ]
 
+PROGRAM_STRATEGY_OVERRIDES = {
+    'barzolvolimab': {
+        'headline': 'Parallel KIT franchise build across CSU and CIndU, now extending into multiple phase 3 tracks.',
+        'readout': 'The current local source layer suggests Celldex is not treating barzolvolimab as a single-study CSU asset. Instead, it is using early KIT proof across both spontaneous and inducible urticaria to support a broader late-stage urticaria franchise.',
+        'bullets': [
+            'Completed early studies cover both CSU and CIndU, so proof-of-concept was established across more than one urticaria phenotype before the current phase 3 wave.',
+            'Two active phase 3 CSU studies plus a separate recruiting phase 3 CIndU study suggest deliberate parallel expansion rather than sequential single-indication development.',
+            'The LTE study indicates lifecycle and durability planning, not just a one-shot registrational attempt.',
+        ],
+        'watch_items': [
+            'How the sponsor differentiates the CSU pair versus the CIndU phase 3 branch in eventual positioning and labeling logic.',
+            'Whether later derived pages can tie sponsor posters and press releases more tightly to explicit trial IDs.',
+        ],
+        'confidence': 'High',
+    },
+    'blu-808': {
+        'headline': 'Broad early basket-style KIT exploration across CSU and CIndU before visible program narrowing.',
+        'readout': 'The current registry footprint is still thin, but the visible study design suggests Blueprint is testing whether a wild-type KIT program can generate signal across both spontaneous and inducible urticaria before committing to a narrower late-stage path.',
+        'bullets': [
+            'Only one CT.gov-linked study is visible in the current local layer, but it explicitly spans both CIndU and CSU.',
+            'At this stage the apparent strategy is breadth-first signal seeking, not yet a deep registrational stack.',
+        ],
+        'watch_items': [
+            'Whether later sponsor or abstract evidence shows which urticaria subtype becomes the lead indication.',
+        ],
+        'confidence': 'Low',
+    },
+    'briquilimab': {
+        'headline': 'Earlier-stage KIT exploration across CSU and CIndU, with extension follow-up but no visible late-stage build yet.',
+        'readout': 'The current local stack suggests Jasper is using briquilimab to test KIT-driven benefit across both spontaneous and inducible disease, but the program remains meaningfully earlier than barzolvolimab in visible development maturity.',
+        'bullets': [
+            'Separate dose-escalation studies exist for CSU and CIndU, which suggests intentional dual-indication exploration rather than a single narrow pilot.',
+            'The extension study indicates enough early interest to follow patients longer, but there is no phase 3 or manuscript-rich layer yet in the current cache.',
+        ],
+        'watch_items': [
+            'Whether one phenotype becomes the clear lead path for registrational development.',
+        ],
+        'confidence': 'Medium',
+    },
+    'ep262': {
+        'headline': 'Split proof-of-concept strategy across CIndU and CSU, but still early and sponsor-heavy in the current evidence layer.',
+        'readout': 'The current local evidence suggests Escient is probing both inducible and spontaneous urticaria rather than staying confined to one subtype, but the support is still relatively thin and manuscript depth is weak.',
+        'bullets': [
+            'One early CIndU study and one randomized CSU study are visible, which looks like paired proof-of-concept branching across the broader urticaria space.',
+            'Because publication support is weak in the local cache, this remains a cautious strategic read rather than a fully triangulated one.',
+        ],
+        'watch_items': [
+            'Whether future sponsor or conference materials clarify which phenotype has the stronger efficacy story.',
+        ],
+        'confidence': 'Low',
+    },
+    'evo756': {
+        'headline': 'Parallel MRGPRX2 development in CSU and CIndU from the phase 2 stage.',
+        'readout': 'The current raw-source layer suggests Evommune is not waiting to prove one urticaria subtype first. Instead, EVO756 is being positioned as a broader urticaria mechanism program with concurrent phase 2 activity in CSU and CIndU.',
+        'bullets': [
+            'Visible trials cover both CIndU and CSU rather than a single lead indication.',
+            'The phase 2b CSU study plus separate CIndU study suggest deliberate dual-path development early in the program.',
+        ],
+        'watch_items': [
+            'Which subtype becomes the commercial or registrational lead as more efficacy detail becomes source-backed.',
+        ],
+        'confidence': 'Medium',
+    },
+    'fenebrutinib': {
+        'headline': 'Historical BTK CSU proof-of-concept program, not a visibly expanding current franchise in the local layer.',
+        'readout': 'The local evidence stack shows meaningful phase 2 CSU evidence for fenebrutinib, but the currently visible urticaria program looks more like an important earlier BTK proof point than an actively widening late-stage strategy.',
+        'bullets': [
+            'The program has a clear primary manuscript and completed CT.gov history, but no active recruiting urticaria studies are currently visible in the local registry.',
+            'This makes fenebrutinib strategically important as precedent and mechanism validation, even if it is not the broadest active BTK urticaria stack here.',
+        ],
+        'watch_items': [
+            'Whether additional source work shows newer urticaria development activity not yet captured in the current local layer.',
+        ],
+        'confidence': 'Medium',
+    },
+    'remibrutinib': {
+        'headline': 'Broad BTK franchise strategy: establish CSU depth first, then layer on lifecycle, comparator, pediatric, CIndU, and real-world expansion.',
+        'readout': 'The current local source layer suggests Novartis is treating remibrutinib as a platform urticaria program rather than a single pivotal asset. CSU is the deepest evidence base, but the surrounding studies show deliberate expansion into lifecycle management, differentiation versus standards, CIndU growth, and post-approval evidence generation.',
+        'bullets': [
+            'The CSU package is unusually dense: phase 2b core and extension, paired REMIX phase 3 studies, long-term follow-up, regional expansion, and dedicated safety work.',
+            'Comparator, adolescent, and mixed-CU studies suggest the sponsor is broadening both label reach and positioning, not only finishing the core adult CSU story.',
+            'The CIndU basket study and later real-world studies indicate the program is being extended beyond classic pivotal CSU into franchise-level expansion.',
+        ],
+        'watch_items': [
+            'How strongly the CIndU branch matures relative to the already dense CSU package.',
+            'Whether comparator studies become mainly differentiation tools or major label-shaping assets.',
+        ],
+        'confidence': 'High',
+    },
+    'rilzabrutinib': {
+        'headline': 'More focused BTK challenger strategy in CSU, with a thinner visible development stack than remibrutinib.',
+        'readout': 'In the current local evidence layer, rilzabrutinib looks like a narrower CSU-centered BTK program rather than a broad urticaria franchise. The strategic posture appears more concentrated and later-entry than remibrutinib’s multi-branch stack.',
+        'bullets': [
+            'The current local layer shows one clear CSU trial and one primary manuscript, without the same visible extension, CIndU, pediatric, or real-world lattice seen for remibrutinib.',
+            'That makes the program easier to describe, but also indicates less disclosed breadth in the current source cache.',
+        ],
+        'watch_items': [
+            'Whether additional sponsor materials reveal broader lifecycle or subtype expansion plans beyond the currently visible CSU focus.',
+        ],
+        'confidence': 'Medium',
+    },
+    'sep-631': {
+        'headline': 'Pipeline-visible MRGPRX2 program without a disclosed CT.gov study stack in the current local cache.',
+        'readout': 'The current local layer shows SEP-631 as strategically interesting, but still early from an evidence-architecture perspective. Right now it reads more like a program signal from sponsor materials than a transparently disclosed clinical development strategy.',
+        'bullets': [
+            'No CT.gov-linked urticaria records are currently captured in the local registry.',
+            'The visible strategy therefore comes mostly from sponsor and poster materials rather than a fully surfaced trial stack.',
+        ],
+        'watch_items': [
+            'Whether a study record or more explicit protocol-level disclosure appears and allows stronger normalization.',
+        ],
+        'confidence': 'Low',
+    },
+}
+
 
 def load_json(path: Path):
     return json.loads(path.read_text())
@@ -242,6 +357,52 @@ def infer_program_focus(program_entry: dict) -> str:
     if any(s in STATUS_COMPLETED for s in statuses):
         return 'Completed or historical urticaria development represented in current raw-source layer'
     return 'Program tracked in current raw-source layer'
+
+
+def highest_phase_label(program_entry: dict) -> str:
+    order = {'PHASE1': 1, 'PHASE2': 2, 'PHASE3': 3, 'PHASE4': 4}
+    best = 0
+    best_label = 'NR'
+    for trial in program_entry.get('ctgov_trials', []):
+        for phase in trial.get('phase', []) or []:
+            if order.get(phase, 0) > best:
+                best = order[phase]
+                best_label = phase.replace('PHASE', 'Phase ')
+    return best_label
+
+
+def get_program_strategy(program_entry: dict) -> dict:
+    strategy = PROGRAM_STRATEGY_OVERRIDES.get(program_entry['program_key'])
+    if strategy:
+        return strategy
+    return {
+        'headline': 'Program strategy not yet manually summarized.',
+        'readout': 'The current local source layer is still too thin for a higher-confidence strategic interpretation beyond the visible study inventory.',
+        'bullets': [],
+        'watch_items': ['Manual enrichment is still needed before making a stronger strategy claim.'],
+        'confidence': 'Low',
+    }
+
+
+def append_strategy_section(lines: list[str], program_entry: dict):
+    strategy = get_program_strategy(program_entry)
+    lines.extend([
+        '## Strategy readout',
+        f"- Headline: {strategy['headline']}",
+        f"- Current strategic read: {strategy['readout']}",
+        f"- Highest visible phase in current registry: {highest_phase_label(program_entry)}",
+        f"- Strategy confidence in current local layer: {strategy['confidence']}",
+        '',
+        '### Why this looks like the strategy',
+    ])
+    for item in strategy.get('bullets', []):
+        lines.append(f'- {item}')
+    if not strategy.get('bullets'):
+        lines.append('- The current visible study stack is not yet rich enough for a better derived summary.')
+    lines.extend(['', '### What to watch next'])
+    for item in strategy.get('watch_items', []):
+        lines.append(f'- {item}')
+    lines.append('')
 
 
 def existing_trial_slug_map() -> dict[str, str]:
@@ -327,9 +488,12 @@ def build_remibrutinib_program_page(program_entry: dict, trial_slug_map: dict[st
         '- Alias(es): LOU064',
         '- Development shape in the current raw-source layer: foundational phase 2b CSU dose-finding, pivotal REMIX phase 3 CSU program, extension/lifecycle studies, late-stage CIndU expansion, comparator studies, and real-world follow-up.',
         '',
+    ]
+    append_strategy_section(lines, program_entry)
+    lines.extend([
         '## Program map',
         '',
-    ]
+    ])
     for group_title, ids in REMI_PROGRAM_GROUPS:
         lines.append(f'### {group_title}')
         for trial_id in ids:
@@ -431,9 +595,12 @@ def build_program_page(program_entry: dict, trial_slug_map: dict[str, str]) -> s
         f"- Development focus: {infer_program_focus(program_entry)}",
         f"- Indications represented in current raw sources: {', '.join(indications) if indications else 'NR'}",
         '',
+    ]
+    append_strategy_section(lines, program_entry)
+    lines.extend([
         '## Study Inventory',
         '',
-    ]
+    ])
 
     def add_group(title: str, items: list[tuple[dict, str]]):
         lines.append(f"### {title}")
@@ -675,6 +842,7 @@ def build_query_pages(registry: dict, trial_slug_map: dict[str, str]):
         '',
         f"- Programs in current derived layer: {len(programs)}",
         f"- CT.gov trials in current registry: {sum(len(p.get('ctgov_trials', [])) for p in programs)}",
+        '- Derived strategy view: [Program strategy briefs](../queries/program-strategy-briefs.md)',
         '',
         '| Program | Class | Trials | Primary pubs | Program page |',
         '|---|---|---:|---:|---|',
@@ -703,6 +871,43 @@ def build_query_pages(registry: dict, trial_slug_map: dict[str, str]):
             lines.append(f"- [{trial['trial_id']}](../trials/{link_name}) - {title}")
         lines.append('')
     write_text(QUERIES_DIR / 'catalog.md', '\n'.join(lines))
+
+    strategy_lines = [
+        '---',
+        'title: Program strategy briefs',
+        'tags:',
+        '  - type/query',
+        '---',
+        '# Program strategy briefs',
+        '',
+        'This page is a derived interpretation layer. It is meant to answer the question: what does the current local source stack suggest each sponsor is trying to do with its urticaria program?',
+        '',
+        '| Program | Class | Highest phase | Trials | Primary pubs | Strategy confidence | Strategy headline |',
+        '|---|---|---|---:|---:|---|---|',
+    ]
+    for program in programs:
+        strategy = get_program_strategy(program)
+        strategy_lines.append(
+            f"| [{program['display_name']}](../programs/{program['program_key']}.md) | {', '.join(program.get('priority_classes', [])) or 'NR'} | {highest_phase_label(program)} | {len(program.get('ctgov_trials', []))} | {len(program.get('primary_publications', []))} | {strategy['confidence']} | {strategy['headline']} |"
+        )
+    strategy_lines.extend(['', '## Program-by-program strategic readouts', ''])
+    for program in programs:
+        strategy = get_program_strategy(program)
+        strategy_lines.append(f"### {program['display_name']}")
+        strategy_lines.append(f"- Program page: [open](../programs/{program['program_key']}.md)")
+        strategy_lines.append(f"- Strategic read: {strategy['readout']}")
+        strategy_lines.append(f"- Why this read is plausible in the current local layer: {strategy['headline']}")
+        strategy_lines.append(f"- Evidence depth: {len(program.get('ctgov_trials', []))} CT.gov trials, {len(program.get('primary_publications', []))} primary publication(s), {len(program.get('sponsor_artifacts', []))} sponsor artifact(s)")
+        strategy_lines.append('- Key reasons:')
+        for item in strategy.get('bullets', []):
+            strategy_lines.append(f"  - {item}")
+        if not strategy.get('bullets'):
+            strategy_lines.append('  - The visible source stack is still too thin for a richer derived summary.')
+        strategy_lines.append('- What to watch:')
+        for item in strategy.get('watch_items', []):
+            strategy_lines.append(f"  - {item}")
+        strategy_lines.append('')
+    write_text(QUERIES_DIR / 'program-strategy-briefs.md', '\n'.join(strategy_lines))
 
 
 def main():

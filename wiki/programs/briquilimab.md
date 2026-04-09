@@ -19,6 +19,19 @@ indications:
 - Development focus: Active clinical development represented in current raw-source layer
 - Indications represented in current raw sources: Chronic Spontaneous Urticaria, Chronic Inducible Urticaria, Urticaria Chronic
 
+## Strategy readout
+- Headline: Earlier-stage KIT exploration across CSU and CIndU, with extension follow-up but no visible late-stage build yet.
+- Current strategic read: The current local stack suggests Jasper is using briquilimab to test KIT-driven benefit across both spontaneous and inducible disease, but the program remains meaningfully earlier than barzolvolimab in visible development maturity.
+- Highest visible phase in current registry: Phase 2
+- Strategy confidence in current local layer: Medium
+
+### Why this looks like the strategy
+- Separate dose-escalation studies exist for CSU and CIndU, which suggests intentional dual-indication exploration rather than a single narrow pilot.
+- The extension study indicates enough early interest to follow patients longer, but there is no phase 3 or manuscript-rich layer yet in the current cache.
+
+### What to watch next
+- Whether one phenotype becomes the clear lead path for registrational development.
+
 ## Study Inventory
 
 ### Completed / historical studies
