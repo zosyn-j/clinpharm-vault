@@ -1,66 +1,111 @@
+---
+title: Remibrutinib
+program_key: remibrutinib
+sponsor: "Novartis Pharmaceuticals"
+tags:
+  - class/btk
+  - type/program
+indications:
+  - "Chronic Spontaneous Urticaria"
+  - "Chronic Inducible Urticaria"
+  - "Chronic Urticaria (CU): Chronic Inducible Urticaria (CINDU) and Chronic Spontaneous Urticaria (CSU)"
+  - "Chronic Spontaneous Urticaria (CSU)"
+---
 # Remibrutinib
 
 ## Overview
-- Mechanism: Bruton's tyrosine kinase inhibitor
-- Alias(es): LOU064
-- Sponsor: Novartis
-- Development focus: Chronic spontaneous urticaria, with additional chronic inducible urticaria development captured in the raw source layer
-- Indications currently represented in v2 raw sources: CSU, CIndU
+- Priority class: BTK
+- Mechanistic bucket: Bruton's tyrosine kinase pathway program
+- Sponsor: Novartis Pharmaceuticals
+- Development focus: Active clinical development represented in current raw-source layer
+- Indications represented in current raw sources: Chronic Spontaneous Urticaria, Chronic Inducible Urticaria, Chronic Urticaria (CU): Chronic Inducible Urticaria (CINDU) and Chronic Spontaneous Urticaria (CSU), Chronic Spontaneous Urticaria (CSU)
 
 ## Study Inventory
 
-### Completed or published CSU studies
-- `NCT03926611` - Phase 2b dose-finding CSU study (`../trials/remibrutinib-nct03926611-phase-2b.md`)
-- `NCT04109313` - completed CSU Phase 2 study (CT.gov cache only in v2 so far)
-- `NCT05030311` - Phase 3 CSU study linked to PMID 40043237 and PMID 41115533
-- `NCT05032157` - Phase 3 CSU study linked to PMID 40043237 and PMID 41115533
-- `NCT05048342` - completed CSU Phase 3 study
-- `NCT05795153` - completed CSU Phase 3 study
+### Completed / historical studies
+- [NCT03926611](../trials/remibrutinib-nct03926611-phase-2b.md) - Phase 2; COMPLETED; Chronic Spontaneous Urticaria
+- [NCT04109313](../trials/remibrutinib-nct04109313.md) - Phase 2; COMPLETED; Chronic Spontaneous Urticaria
+- [NCT05030311](../trials/remibrutinib-nct05030311.md) - Phase 3; COMPLETED; Chronic Spontaneous Urticaria
+- [NCT05032157](../trials/remibrutinib-nct05032157.md) - Phase 3; COMPLETED; Chronic Spontaneous Urticaria
+- [NCT05048342](../trials/remibrutinib-nct05048342.md) - Phase 3; COMPLETED; Chronic Spontaneous Urticaria
+- [NCT05795153](../trials/remibrutinib-nct05795153.md) - Phase 3; COMPLETED; Chronic Spontaneous Urticaria
 
-### Active or recruiting studies in current raw cache
-- `NCT05513001`
-- `NCT05677451`
-- `NCT06042478`
-- `NCT06868212`
-- `NCT07358364`
-- `NCT07358780`
-- `NCT07408219`
+### Active / recruiting studies
+- [NCT05513001](../trials/remibrutinib-nct05513001.md) - Phase 3; ACTIVE_NOT_RECRUITING; Chronic Spontaneous Urticaria
+- [NCT05677451](../trials/remibrutinib-nct05677451.md) - Phase 3; RECRUITING; Chronic Spontaneous Urticaria
+- [NCT05976243](../trials/remibrutinib-nct05976243.md) - Phase 3; ACTIVE_NOT_RECRUITING; Chronic Inducible Urticaria
+- [NCT06042478](../trials/remibrutinib-nct06042478.md) - Phase 3; ACTIVE_NOT_RECRUITING; Chronic Spontaneous Urticaria
+- [NCT06865651](../trials/remibrutinib-nct06865651.md) - Phase 2; RECRUITING; Chronic Urticaria (CU): Chronic Inducible Urticaria (CINDU) and Chronic Spontaneous Urticaria (CSU)
+- [NCT06868212](../trials/remibrutinib-nct06868212.md) - Phase 3; RECRUITING; Chronic Spontaneous Urticaria (CSU)
+- [NCT07358364](../trials/remibrutinib-nct07358364.md) - NR; RECRUITING; Chronic Spontaneous Urticaria
+- [NCT07358780](../trials/remibrutinib-nct07358780.md) - NR; RECRUITING; Chronic Spontaneous Urticaria
+- [NCT07408219](../trials/remibrutinib-nct07408219.md) - NR; RECRUITING; Chronic Spontaneous Urticaria
 
-### CIndU / mixed-CU studies in current raw cache
-- `NCT05976243` - active not recruiting Phase 3 CIndU study
-- `NCT06865651` - recruiting Phase 2 mixed chronic urticaria study with sponsor trial-page cache
+### Other registry entries
+- [NCT05170724](../trials/remibrutinib-nct05170724.md) - NR; AVAILABLE; Chronic Spontaneous Urticaria
 
-## Evidence Summary
+## Evidence Coverage
+- CT.gov trials in registry: 16
+- Sponsor artifacts in registry: 4
+- Primary publications in registry: 4
+- Supporting publications in registry: 2
+- Publication status: primary_manuscripts_found
+- Publication summary: Strong manuscript coverage. Original CSU clinical data are available for phase 2b, phase 2b extension, phase 3 REMIX week-12/24 results, and 52-week REMIX follow-up.
 
-### Verified facts
-- `NCT03926611` is a randomized, placebo-controlled Phase 2b dose-finding study in adults with CSU inadequately controlled by H1-antihistamines (`../raw/clinicaltrials/markdown/NCT03926611.md`).
-- PMID 36096203 reports that `NCT03926611` randomized 311 patients across 6 remibrutinib dose groups plus placebo, with week-4 UAS7 improvements observed across all remibrutinib doses (`../raw/publications/pubmed/markdown/PMID36096203.md`).
-- PMID 37866460 reports a Phase 2b extension study with 194 treated patients and 52-week follow-up efficacy/safety data (`../raw/publications/pubmed/markdown/PMID37866460.md`).
-- PMID 40043237 and PMID 41115533 are curated as primary Phase 3 manuscripts linked to `NCT05030311` and `NCT05032157` in the registry (`../inventories/source_registry.md`).
+## Primary publications
 
-### Interpretation
-- Remibrutinib is currently the strongest BTK program in the v2 evidence stack because it has broad CT.gov coverage, multiple sponsor artifacts, and multiple curated primary manuscripts with explicit NCT linkage.
-- The CSU evidence chain is already strong enough to support study-by-study rebuilding from v2 without relying on the older wiki as the primary source.
+- PMID 36096203 (2022, The Journal of allergy and clinical immunology): **Remibrutinib, a novel BTK inhibitor, demonstrates promising efficacy and safety in chronic spontaneous urticaria.**
+  - Role: phase_2b_core
+  - Linked trial IDs: NCT03926611
+  - Local cache: `raw/publications/pubmed/markdown/PMID36096203.md`
+- PMID 37866460 (2024, The Journal of allergy and clinical immunology): **Remibrutinib demonstrates favorable safety profile and sustained efficacy in chronic spontaneous urticaria over 52 weeks.**
+  - Role: phase_2b_extension
+  - Linked trial IDs: NCT03926611
+  - Local cache: `raw/publications/pubmed/markdown/PMID37866460.md`
+- PMID 40043237 (2025, The New England journal of medicine): **Remibrutinib in Chronic Spontaneous Urticaria.**
+  - Role: phase_3_core
+  - Linked trial IDs: NCT05030311, NCT05032157
+  - Local cache: `raw/publications/pubmed/markdown/PMID40043237.md`
+- PMID 41115533 (2026, The Journal of allergy and clinical immunology): **Remibrutinib in chronic spontaneous urticaria: 52-week results from two phase 3 studies.**
+  - Role: phase_3_long_term
+  - Linked trial IDs: NCT05030311, NCT05032157
+  - Local cache: `raw/publications/pubmed/markdown/PMID41115533.md`
 
-### Open questions
-- Several CT.gov records in the remibrutinib cluster are not yet paired to sponsor artifacts or manuscripts in the v2 registry.
-- CIndU and mixed-CU branches should be normalized into dedicated study pages next.
-- Sponsor press releases for the remibrutinib program remain program-level artifacts unless an explicit study linkage is stated in the cached metadata.
+## Supporting evidence
+
+- PMID 33834628: Remibrutinib (LOU064): A selective potent oral BTK inhibitor with promising clinical safety and pharmacodynamics in a randomized phase I trial. (`raw/publications/pubmed/markdown/PMID33834628.md`)
+- PMID 40455080: Evaluating remibrutinib in the treatment of chronic spontaneous urticaria. (`raw/publications/pubmed/markdown/PMID40455080.md`)
+- Sponsor artifact: 2023 Phase III primary endpoints press release (Novartis)
+  - `raw/sponsors/btk/remibrutinib/2023-phase-iii-primary-endpoints-press-release.html`
+  - `raw/sponsors/btk/remibrutinib/2023-phase-iii-primary-endpoints-press-release.md`
+- Sponsor artifact: 2024 sustained efficacy and safety press release (Novartis)
+  - `raw/sponsors/btk/remibrutinib/2024-sustained-efficacy-and-safety-press-release.html`
+  - `raw/sponsors/btk/remibrutinib/2024-sustained-efficacy-and-safety-press-release.md`
+- Sponsor artifact: 2026 CIndU Phase III RemIND press release (Novartis)
+  - `raw/sponsors/btk/remibrutinib/2026-cindu-phase-iii-remind-press-release.html`
+  - `raw/sponsors/btk/remibrutinib/2026-cindu-phase-iii-remind-press-release.md`
+- Sponsor artifact: Novartis trial page NCT06865651 (Novartis)
+  - `raw/sponsors/btk/remibrutinib/novartis-trial-page-nct06865651.html`
+  - `raw/sponsors/btk/remibrutinib/novartis-trial-page-nct06865651.md`
+
+## Interpretation
+
+- Verified facts: the current v2 registry tracks 16 CT.gov entries for this program and links them conservatively to sponsor and publication evidence where explicit identifiers are available.
+- Interpretation: this program already has enough linked manuscript or registry support for a source-first derived program page, but individual study pages should still be reviewed and enriched over time.
+- Open questions:
+  - Unclassified publication PMIDs remain in the search set: 35667749, 32083858, 41186128, 38141832, 35175630, 40074986, 40663028, 39598410, 40911497, 40747638, 31446134, 41105846, 40682317
+  - Several sponsor artifacts remain program-level because no explicit study identifier was captured in cached metadata.
 
 ## Provenance
 - Primary source(s):
   - `../inventories/source_registry.json`
-  - `../raw/clinicaltrials/markdown/NCT03926611.md`
-  - `../raw/publications/pubmed/markdown/PMID36096203.md`
-  - `../raw/publications/pubmed/markdown/PMID37866460.md`
-  - `../raw/publications/pubmed/markdown/PMID40043237.md`
-  - `../raw/publications/pubmed/markdown/PMID41115533.md`
+  - `../inventories/source_registry.md`
 - Supporting source(s):
-  - `../raw/sponsors/btk/remibrutinib/2023-phase-iii-primary-endpoints-press-release.md`
-  - `../raw/sponsors/btk/remibrutinib/2024-sustained-efficacy-and-safety-press-release.md`
-  - `../raw/sponsors/btk/remibrutinib/2026-cindu-phase-iii-remind-press-release.md`
+  - `../inventories/ctgov_priority_trials.json`
+  - `../inventories/publication_priority_curation.json`
+  - `../inventories/sponsor_priority_sources.json`
 - Last verified: 2026-04-08
 - Verification status: Partial
 
 ## Change Log
-- 2026-04-08: Created initial v2 remibrutinib program page from the new source registry and raw-source caches.
+- 2026-04-08: Generated or refreshed this program page from the v2 source registry and local source caches.

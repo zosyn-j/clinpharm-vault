@@ -12,16 +12,21 @@ This vault is organized into three layers:
 2. **Registries and inventories** in `../inventories/`
 3. **Derived wiki pages** in this `wiki/` folder
 
+Current first-pass derived coverage now includes:
+- **9 program pages**
+- **35 CT.gov-linked trial pages**
+- registry, dispute, and data-access pages
+
 <div class="card-grid">
   <div class="card">
     <h3>Programs</h3>
-    <p>Program-level evidence maps, sponsor context, and study inventory.</p>
-    <a href="programs/remibrutinib.html">Open program pages</a>
+    <p>Program-level evidence maps, sponsor context, and study inventory across the current urticaria set.</p>
+    <a href="queries/catalog.html">Open program catalog</a>
   </div>
   <div class="card">
     <h3>Trials</h3>
     <p>Study-level pages with design, endpoints, provenance, and open questions.</p>
-    <a href="trials/remibrutinib-nct03926611-phase-2b.html">Open trial pages</a>
+    <a href="queries/catalog.html">Browse trial catalog</a>
   </div>
   <div class="card">
     <h3>Registry</h3>
@@ -47,8 +52,11 @@ This vault is organized into three layers:
 - Source-backed study design and manuscript linkage
 
 ## Key entry points
+- [Program and trial catalog](queries/catalog.md)
 - [Remibrutinib program](programs/remibrutinib.md)
-- [Remibrutinib Phase 2b study](trials/remibrutinib-nct03926611-phase-2b.md)
+- [Barzolvolimab program](programs/barzolvolimab.md)
+- [Fenebrutinib program](programs/fenebrutinib.md)
+- [Rilzabrutinib program](programs/rilzabrutinib.md)
 - [Source registry](../inventories/source_registry.md)
 - [Dispute index](../inventories/dispute_index.md)
 - [Data access](data.md)

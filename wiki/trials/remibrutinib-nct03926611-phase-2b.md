@@ -1,76 +1,85 @@
-# Remibrutinib CSU Phase 2b dose-finding study (NCT03926611)
+---
+title: "This Was a Dose-finding Study to Evaluate Efficacy and Safety of LOU064 in Patients With CSU Inadequately Controlled by H1-antihistamines"
+trial_id: NCT03926611
+program_key: remibrutinib
+status: COMPLETED
+tags:
+  - type/trial
+  - program/remibrutinib
+  - phase/phase2
+---
+# This Was a Dose-finding Study to Evaluate Efficacy and Safety of LOU064 in Patients With CSU Inadequately Controlled by H1-antihistamines
 
 ## Study Snapshot
 - Program: Remibrutinib
-- Alias(es): LOU064
 - Study ID(s): NCT03926611
-- Phase: Phase 2b
-- Indication: Chronic spontaneous urticaria
+- Phase: Phase 2
+- Indication: Chronic Spontaneous Urticaria
 - Status: Completed
+- Sponsor: Novartis Pharmaceuticals
 
 ## Design
-- Randomization: Randomized, 1:1:1:1:1:1:1 across 6 active dose groups and placebo (per PMID 36096203)
-- Masking: Double-blind in manuscript wording; CT.gov cache lists triple masking
-- Control: Placebo
-- Duration: 12-week core treatment period in the manuscript; Phase 2b extension reported separately in PMID 37866460
+- Study type: INTERVENTIONAL
+- Randomization / allocation: RANDOMIZED
+- Intervention model: PARALLEL
+- Masking: TRIPLE
+- Primary purpose: TREATMENT
+- Enrollment: 311 (ACTUAL)
 
 ## Population
-- Adults with CSU inadequately controlled with second-generation H1-antihistamines
-- Baseline activity threshold in CT.gov cache: UAS7 ≥16 and HSS7 ≥8 during the 7 days before randomization
-- CT.gov exclusion snapshot includes predominant chronic inducible urticaria, other urticaria/angioedema-causing diseases, relevant chronic infections, pregnancy/nursing, and inadequate contraception
+- Conditions: Chronic Spontaneous Urticaria
+- Sex: ALL
+- Age range: 18 Years to 99 Years
+- Healthy volunteers: False
+- Summary: This was a multicenter, randomized, double-blind and placebo-controlled phase 2b dose-finding study to assess the efficacy and safety of LOU064 in adults chronic spontaneous urticaria (CSU) patients inadequately controlled by H1-antihistamines
 
 ## Arms
-| Arm | Dose | Route | N | Evidence status |
+| Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
-| Remibrutinib | 10 mg once daily | Oral | NR | Verified dose, per-arm realized N not directly stated in saved source text |
-| Remibrutinib | 35 mg once daily | Oral | NR | Verified dose, per-arm realized N not directly stated in saved source text |
-| Remibrutinib | 100 mg once daily | Oral | NR | Verified dose, per-arm realized N not directly stated in saved source text |
-| Remibrutinib | 10 mg twice daily | Oral | NR | Verified dose, per-arm realized N not directly stated in saved source text |
-| Remibrutinib | 25 mg twice daily | Oral | NR | Verified dose, per-arm realized N not directly stated in saved source text |
-| Remibrutinib | 100 mg twice daily | Oral | NR | Verified dose, per-arm realized N not directly stated in saved source text |
-| Placebo | Matching placebo | Oral | NR | Comparator confirmed, per-arm realized N not directly stated in saved source text |
+| LOU064 Arm 1 | EXPERIMENTAL | 10 mg LOU064 qd capsule once daily | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| LOU064 Arm 2 | EXPERIMENTAL | 35 mg capsule qd LOU064 once daily | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| LOU064 Arm 3 | EXPERIMENTAL | 100 mg capsule qd LOU064 once daily | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| LOU064 Arm 4 | EXPERIMENTAL | 10 mg capsule LOU064 bid | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| LOU064 Arm 5 | EXPERIMENTAL | 25 mg capsule LOU064 bid | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| LOU064 Arm 6 | EXPERIMENTAL | 100 mg capsule LOU064 bid | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| Placebo Arm | PLACEBO_COMPARATOR | Participants took matching placebo twice daily | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
 
 ## Endpoints
-- Primary: Change from baseline in weekly Urticaria Activity Score (UAS7) at week 4
-- Secondary / key efficacy: symptom reduction through week 12, complete and well-controlled disease measures reported in extension paper
-- Safety: adverse event profile assessed in core and extension studies
+- Primary outcomes:
+  - Change From Baseline in Weekly Urticaria Activity Score (UAS7) at Week 4 (time frame: Baseline, Week 4)
 
 ## Clinical Pharmacology Findings
-- PK: [SOURCE NEEDED] Study-specific PK results are not captured in the currently reviewed CT.gov or abstract text.
-- PD: [SOURCE NEEDED] Study-specific PD findings are not captured in the currently reviewed CT.gov or abstract text.
-- Exposure-response: Dose-response was an explicit study goal; PMID 36096203 reports efficacy across the tested dose range with week-4 UAS7 changes listed by dose.
-- Food effect: Not described in the currently reviewed source text.
-- Special populations: Prior anti-IgE treatment was allowed per the manuscript abstract.
+- PK: Not clearly summarized in the currently linked local source snippets.
+- PD: Not clearly summarized in the currently linked local source snippets.
+- Linked manuscripts: Primary publication support is available in the registry (PMID 36096203; PMID 37866460).
 
 ## Safety Findings
-- Common AEs: Most adverse events were mild or moderate, with no dose-dependent pattern reported in PMID 36096203.
-- Serious AEs: Not specifically summarized in the saved abstract text reviewed here.
-- Discontinuations: Not specifically summarized in the saved abstract text reviewed here.
+- Safety details should be reviewed in the linked primary publication(s) for fuller interpretation beyond the CT.gov inventory layer.
+
+## Linked Evidence
+- CT.gov page: https://clinicaltrials.gov/study/NCT03926611
+- Local CT.gov cache: `raw/clinicaltrials/markdown/NCT03926611.md`
+- Primary publications:
+  - PMID 36096203: Remibrutinib, a novel BTK inhibitor, demonstrates promising efficacy and safety in chronic spontaneous urticaria. (`../raw/publications/pubmed/markdown/PMID36096203.md`)
+  - PMID 37866460: Remibrutinib demonstrates favorable safety profile and sustained efficacy in chronic spontaneous urticaria over 52 weeks. (`../raw/publications/pubmed/markdown/PMID37866460.md`)
 
 ## Interpretation
-- Verified facts:
-  - CT.gov identifies `NCT03926611` as a completed Phase 2 dose-finding CSU trial with 311 actual participants (`../raw/clinicaltrials/markdown/NCT03926611.md`).
-  - PMID 36096203 explicitly links the manuscript to `NCT03926611` and reports 311 randomized patients plus dose-specific week-4 UAS7 improvements (`../raw/publications/pubmed/markdown/PMID36096203.md`).
-  - PMID 37866460 reports a related Phase 2b extension with 194 treated patients and 52-week safety/efficacy follow-up (`../raw/publications/pubmed/markdown/PMID37866460.md`).
-- Interpretation:
-  - This appears to be the foundational CSU efficacy study for remibrutinib in the v2 dataset and is a strong anchor point for rebuilding the program page from source-first evidence.
+- Verified facts: this page reflects the current local registry and CT.gov inventory export without inferring unsupported arm sizes or endpoint results.
+- Interpretation: this trial already has direct manuscript support in the local source layer and should be a higher-priority candidate for manual enrichment.
 - Open questions:
-  - [NEEDS REVIEW] Manuscript wording says double-blind, while the CT.gov cache lists triple masking; the exact operational masking definition should be reconciled from a fuller source.
-  - [SOURCE NEEDED] Per-arm realized N values are not yet captured in the local source snippets reviewed for this page.
-  - [SOURCE NEEDED] Study-level PK/PD detail needs a fuller manuscript or protocol review.
+  - Per-arm realized N values are not promoted unless directly stated in the current local source layer.
+  - No sponsor artifact is explicitly linked to this trial by identifier in the current registry.
 
 ## Provenance
-- Source type: ClinicalTrials.gov and manuscript abstracts
+- Source type: ClinicalTrials.gov inventory with linked sponsor/publication registry where available
 - Primary source(s):
   - NCT03926611
   - `../raw/clinicaltrials/markdown/NCT03926611.md`
-  - `../raw/publications/pubmed/markdown/PMID36096203.md`
-- Supporting source(s):
-  - `../raw/publications/pubmed/markdown/PMID37866460.md`
   - `../inventories/source_registry.json`
+- Supporting source(s):
+  - `../inventories/ctgov_priority_trials.json`
 - Last verified: 2026-04-08
 - Verification status: Partial
 
 ## Change Log
-- 2026-04-08: Created initial v2 study page for remibrutinib Phase 2b from CT.gov cache plus linked primary publication.
-- 2026-04-08: Left per-arm N values unresolved because the locally reviewed source text did not directly state realized arm counts.
+- 2026-04-08: Generated or refreshed this study page from the v2 source registry and CT.gov inventory.
