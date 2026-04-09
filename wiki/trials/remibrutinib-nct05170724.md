@@ -36,14 +36,16 @@ tags:
 
 ## Operational design summary
 - Arms represented in current CT.gov export: NR
-- Active dose levels represented in current local source layer: NR
+- Active dose regimens represented in current local source layer: NR
 - Total study enrollment in CT.gov: None (None)
-- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+- Design interpretation: Managed access cohort rather than a conventional randomized efficacy trial.
+- Per-arm sample size summary: The current CT.gov export does not provide a structured arm table or enrollment target for this managed-access record.
+- Arm-size evidence source: ClinicalTrials.gov record metadata.
 
 ## Arms
-| Arm | Type | Description | N | Evidence status |
-|---|---|---|---:|---|
-| NR | NR | No arm-group details parsed into current inventory | NR | NR |
+| Arm | Type | Dose | Frequency | Route | Description | N | Evidence status |
+|---|---|---|---|---|---|---:|---|
+| NR | NR | NR | NR | NR | No arm-group details parsed into current inventory | NR | NR |
 
 ## Key source-backed points
 - CT.gov identifies this as a managed access program cohort treatment plan for adult CSU patients.
@@ -68,7 +70,7 @@ tags:
 - Verified facts: this page reflects the current local registry and CT.gov inventory export without inferring unsupported arm sizes or endpoint results.
 - Interpretation: this trial is currently represented mainly by CT.gov and any linked sponsor-source artifacts; manual enrichment is still needed for a richer narrative page.
 - Open questions:
-  - Per-arm realized N values are not promoted unless directly stated in the current local source layer.
+  - Some studies still lack exact arm-specific N in the current promoted evidence layer even when allocation schema or total enrollment is visible.
   - No explicit trial-level primary manuscript is currently linked in the registry.
   - No sponsor artifact is explicitly linked to this trial by identifier in the current registry.
 

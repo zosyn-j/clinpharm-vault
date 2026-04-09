@@ -37,15 +37,16 @@ This study will also fulfill the Celldex commitment to provide post-trial access
 
 ## Operational design summary
 - Arms represented in current CT.gov export: 2
-- Active dose levels represented in current local source layer: 2
+- Active dose regimens represented in current local source layer: 1
 - Total study enrollment in CT.gov: 1370 (ESTIMATED)
-- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+- Per-arm sample size summary: 1370 total across 2 listed arms; exact arm-specific counts are not explicitly stated in the current local source text.
+- Arm-size evidence source: ClinicalTrials.gov arm descriptions and summary text.
 
 ## Arms
-| Arm | Type | Description | N | Evidence status |
-|---|---|---|---:|---|
-| Group 1 Observation Group | EXPERIMENTAL | Standard of care treatment (at least 2nd generation Type 1 antihistamines \[H1AH\] with or without other permitted background medications) for 52 weeks.  For participants with worsening disease (UAS7 score of 16 or greater at any time between Weeks 0-24), barzolvolimab will be administered once as a 300 mg subcutaneous injection followed by 150 mg every 4 weeks for up to 52 weeks. | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| Group 2 Barzolvolimab Retreatment Group | EXPERIMENTAL | Barzolvolimab given once as a 300 mg subcutaneous injection followed by 150 mg administered every 4 weeks for 52 weeks | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Arm | Type | Dose | Frequency | Route | Description | N | Evidence status |
+|---|---|---|---|---|---|---:|---|
+| Group 1 Observation Group | EXPERIMENTAL | 300 mg -> 150 mg | Single loading dose + Q4W | Subcutaneous | Standard of care treatment (at least 2nd generation Type 1 antihistamines \[H1AH\] with or without other permitted background medications) for 52 weeks.  For participants with worsening disease (UAS7 score of 16 or greater at any time between Weeks 0-24), barzolvolimab will be administered once as a 300 mg subcutaneous injection followed by 150 mg every 4 weeks for up to 52 weeks. | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| Group 2 Barzolvolimab Retreatment Group | EXPERIMENTAL | 300 mg -> 150 mg | Single loading dose + Q4W | Subcutaneous | Barzolvolimab given once as a 300 mg subcutaneous injection followed by 150 mg administered every 4 weeks for 52 weeks | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
 
 ## Endpoints
 - Primary outcomes:
@@ -69,7 +70,7 @@ This study will also fulfill the Celldex commitment to provide post-trial access
 - Verified facts: this page reflects the current local registry and CT.gov inventory export without inferring unsupported arm sizes or endpoint results.
 - Interpretation: this trial is currently represented mainly by CT.gov and any linked sponsor-source artifacts; manual enrichment is still needed for a richer narrative page.
 - Open questions:
-  - Per-arm realized N values are not promoted unless directly stated in the current local source layer.
+  - Some studies still lack exact arm-specific N in the current promoted evidence layer even when allocation schema or total enrollment is visible.
   - No explicit trial-level primary manuscript is currently linked in the registry.
   - No sponsor artifact is explicitly linked to this trial by identifier in the current registry.
 

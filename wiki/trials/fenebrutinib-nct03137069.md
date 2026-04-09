@@ -35,21 +35,21 @@ tags:
 
 ## Operational design summary
 - Arms represented in current CT.gov export: 6
-- Active dose levels represented in current local source layer: 3
+- Active dose regimens represented in current local source layer: 3
 - Total study enrollment in CT.gov: 134 (ACTUAL)
 - Design interpretation: Pilot plus dose-ranging fenebrutinib phase 2 study with separate cohort 1 and cohort 2 structures.
 - Per-arm sample size summary: PMCID full text directly supports cohort 2 randomized sizes of placebo n=23, fenebrutinib 50 mg daily n=23, 150 mg daily n=24, and 200 mg twice daily n=23; CT.gov lists 134 actual participants overall across both cohorts.
 - Arm-size evidence source: PMCID PMC8604722 full text.
 
 ## Arms
-| Arm | Type | Description | N | Evidence status |
-|---|---|---|---:|---|
-| Cohort 1: Placebo | PLACEBO_COMPARATOR | Participants received matching placebo twice daily from Day 1 to 56. | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| Cohort 1: GDC-0853 200mg BID | EXPERIMENTAL | Participants received GDC-0853 200mg twice daily from Day 1 to 56. | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| Cohort 2: Placebo | PLACEBO_COMPARATOR | Participants received matching placebo up to twice daily from Day 1 to 56. | 23 | Directly supported by linked local publication/source text |
-| Cohort 2: GDC-0853 50mg QD | EXPERIMENTAL | Participants received GDC-0853 50mg once daily from Day 1 to 56. | 23 | Directly supported by linked local publication/source text |
-| Cohort 2: GDC-0853 150mg QD | EXPERIMENTAL | Participants received GDC-0853 150mg once daily from Day 1 to 56. | 24 | Directly supported by linked local publication/source text |
-| Cohort 2: GDC-0853 200mg BID | EXPERIMENTAL | Participants received GDC-0853 200mg twice daily from Day 1 to 56. | 23 | Directly supported by linked local publication/source text |
+| Arm | Type | Dose | Frequency | Route | Description | N | Evidence status |
+|---|---|---|---|---|---|---:|---|
+| Cohort 1: Placebo | PLACEBO_COMPARATOR | NR | BID | NR | Participants received matching placebo twice daily from Day 1 to 56. | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| Cohort 1: GDC-0853 200mg BID | EXPERIMENTAL | 200mg | BID | NR | Participants received GDC-0853 200mg twice daily from Day 1 to 56. | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| Cohort 2: Placebo | PLACEBO_COMPARATOR | NR | BID | NR | Participants received matching placebo up to twice daily from Day 1 to 56. | 23 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
+| Cohort 2: GDC-0853 50mg QD | EXPERIMENTAL | 50mg | QD | NR | Participants received GDC-0853 50mg once daily from Day 1 to 56. | 23 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
+| Cohort 2: GDC-0853 150mg QD | EXPERIMENTAL | 150mg | QD | NR | Participants received GDC-0853 150mg once daily from Day 1 to 56. | 24 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
+| Cohort 2: GDC-0853 200mg BID | EXPERIMENTAL | 200mg | BID | NR | Participants received GDC-0853 200mg twice daily from Day 1 to 56. | 23 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
 
 ## Endpoints
 - Primary outcomes:
@@ -71,7 +71,7 @@ tags:
 - Verified facts: this page reflects the current local registry and CT.gov inventory export without inferring unsupported arm sizes or endpoint results.
 - Interpretation: this trial is currently represented mainly by CT.gov and any linked sponsor-source artifacts; manual enrichment is still needed for a richer narrative page.
 - Open questions:
-  - Per-arm realized N values are not promoted unless directly stated in the current local source layer.
+  - Some studies still lack exact arm-specific N in the current promoted evidence layer even when allocation schema or total enrollment is visible.
   - No explicit trial-level primary manuscript is currently linked in the registry.
   - No sponsor artifact is explicitly linked to this trial by identifier in the current registry.
 

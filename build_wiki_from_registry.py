@@ -212,6 +212,11 @@ TRIAL_OPERATIONAL_OVERRIDES = {
         },
         'source_note': 'PMID 40043237 abstract.',
     },
+    'NCT05170724': {
+        'design_summary': 'Managed access cohort rather than a conventional randomized efficacy trial.',
+        'per_arm_summary': 'The current CT.gov export does not provide a structured arm table or enrollment target for this managed-access record.',
+        'source_note': 'ClinicalTrials.gov record metadata.',
+    },
     'NCT04538794': {
         'active_dose_levels_count': 4,
         'design_summary': 'Sequential 4-cohort phase 1b IV multiple-ascending-dose study with pooled placebo control.',
@@ -234,6 +239,20 @@ TRIAL_OPERATIONAL_OVERRIDES = {
         'per_arm_summary': 'Publication abstract supports placebo-controlled core randomization of 75 mg Q4W (n=53), 150 mg Q4W (n=52), 300 mg Q8W (n=51), and placebo (n=51).',
         'source_note': 'PMID 41747871 abstract.',
     },
+    'NCT05405660': {
+        'active_dose_levels_count': 2,
+        'design_summary': 'Phase 2 randomized dose-finding CIndU study run as two parallel 3-arm strata, one in ColdU and one in symptomatic dermographism.',
+        'per_arm_summary': 'ACAAI poster text supports ColdU n=96 split as 150 mg Q4W n=32, 300 mg Q8W n=32, placebo n=32, and symptomatic dermographism n=97 split as 150 mg Q4W n=33, 300 mg Q8W n=33, placebo n=31.',
+        'arm_sizes': {
+            'barzolvolimab 150 mg in patients with Symptomatic Dermographism': '33',
+            'barzolvolimab 300 mg in patients with Symptomatic Dermographism': '33',
+            'Placebo Comparator in patients with Symptomatic Dermographism': '31',
+            'barzolvolimab 150 mg in patients with Chronic Inducible Cold Urticaria': '32',
+            'barzolvolimab 300 mg in patients with Chronic Inducible Cold Urticaria': '32',
+            'Placebo Comparator in patients with Chronic Inducible Cold Urticaria': '32',
+        },
+        'source_note': 'Celldex Phase 2 CIndU ACAAI poster text cached locally.',
+    },
     'NCT03137069': {
         'active_dose_levels_count': 3,
         'design_summary': 'Pilot plus dose-ranging fenebrutinib phase 2 study with separate cohort 1 and cohort 2 structures.',
@@ -251,6 +270,18 @@ TRIAL_OPERATIONAL_OVERRIDES = {
         'design_summary': '4-arm phase 2 dose-ranging study with three oral rilzabrutinib regimens plus placebo.',
         'per_arm_summary': 'PMCID full text directly supports randomized sizes of 400 mg/d n=38, 800 mg/d n=41, 1200 mg/d n=41, and placebo n=40 overall; it also reports primary-analysis sample sizes of placebo n=36, 400 mg/d n=37, 800 mg/d n=35, and 1200 mg/d n=35.',
         'source_note': 'PMID 40266575 abstract plus PMCID PMC12019677 full text.',
+    },
+    'NCT06865651': {
+        'active_dose_levels_count': 2,
+        'design_summary': 'Exploratory parallel-group mixed-CU study with separate remibrutinib/placebo comparisons in CIndU and CSU strata.',
+        'per_arm_summary': 'Novartis trial-page text plus CT.gov support approximately 44 total participants across 4 listed arms and notes the study will attempt to enroll approximately 4 to 5 participants for each included chronic urticaria subtype; exact arm-specific counts are not explicitly stated in the current saved source text.',
+        'source_note': 'CT.gov plus cached Novartis trial page NCT06865651.',
+    },
+    'NCT06873516': {
+        'active_dose_levels_count': 3,
+        'design_summary': 'Global randomized, double-blind, placebo-controlled phase 2b CSU dose-ranging study of oral EVO756.',
+        'per_arm_summary': 'Evommune trial-initiation source states approximately 160 patients will be enrolled and randomized to one of three active dose regimens or placebo; exact arm-specific counts are not explicitly stated in the current local source text.',
+        'source_note': 'Evommune CSU phase 2b trial-initiation PDF cached locally.',
     },
 }
 
@@ -458,9 +489,131 @@ def get_trial_operational_override(trial_id: str) -> dict:
     return TRIAL_OPERATIONAL_OVERRIDES.get(trial_id, {})
 
 
+DOSE_RE = re.compile(r'\b\d+(?:\.\d+)?\s*(?:mg/kg|mg|mcg|μg|ug|g)\b', re.IGNORECASE)
+RATIO_RE = re.compile(r'(\d+\s*:\s*\d+(?::\s*\d+)*)\s*ratio', re.IGNORECASE)
+
+
+def arm_text_blob(arm: dict) -> str:
+    intervention_names = arm.get('intervention_names') or []
+    return ' '.join(filter(None, [arm.get('label'), arm.get('description'), ' '.join(intervention_names)]))
+
+
+def infer_arm_route(arm: dict) -> str:
+    text = arm_text_blob(arm).lower()
+    routes = []
+    route_checks = [
+        ('Subcutaneous', ['subcutaneous', 's.c.', 'sq injection']),
+        ('Intravenous', ['intravenous']),
+        ('Oral', ['oral', 'orally', 'capsule', 'tablet', 'p.o.']),
+        ('Injection', ['injection']),
+    ]
+    for label, needles in route_checks:
+        if any(needle in text for needle in needles):
+            if label == 'Injection' and any(r in routes for r in ['Subcutaneous', 'Intravenous']):
+                continue
+            if label not in routes:
+                routes.append(label)
+    if re.search(r'\biv\b', text) and 'Intravenous' not in routes:
+        routes.append('Intravenous')
+    return ' + '.join(routes) if routes else 'NR'
+
+
+def infer_arm_frequency(arm: dict) -> str:
+    text = arm_text_blob(arm).lower()
+    found = []
+    patterns = [
+        ('single dose', 'Single dose'),
+        ('once as a', 'Single loading dose'),
+        ('twice daily', 'BID'),
+        ('b.i.d.', 'BID'),
+        (' bid', 'BID'),
+        ('once daily', 'QD'),
+        (' qd', 'QD'),
+        ('qd ', 'QD'),
+        ('every 4 weeks', 'Q4W'),
+        ('q4w', 'Q4W'),
+        ('every 8 weeks', 'Q8W'),
+        ('q8w', 'Q8W'),
+        ('every other week', 'Q2W'),
+    ]
+    for needle, label in patterns:
+        if needle in text and label not in found:
+            found.append(label)
+    return ' + '.join(found) if found else 'NR'
+
+
+def infer_arm_dose(arm: dict) -> str:
+    text = arm_text_blob(arm)
+    doses = []
+    for match in DOSE_RE.findall(text):
+        dose = ' '.join(match.split())
+        if dose not in doses:
+            doses.append(dose)
+    if doses:
+        return ' -> '.join(doses)
+    label = (arm.get('label') or '').strip()
+    if re.search(r'\bdose [A-Z0-9]+\b', label, re.IGNORECASE):
+        return label
+    if label.lower().startswith('dose '):
+        return label
+    return 'NR'
+
+
+def arm_regimen_details(arm: dict) -> dict:
+    return {
+        'dose': infer_arm_dose(arm),
+        'frequency': infer_arm_frequency(arm),
+        'route': infer_arm_route(arm),
+    }
+
+
 def active_dose_levels_from_ct(ct: dict) -> int | None:
-    experimental = [arm for arm in (ct.get('arm_groups') or []) if (arm.get('type') or '').upper() != 'PLACEBO_COMPARATOR']
-    return len(experimental) or None
+    regimens = []
+    for arm in (ct.get('arm_groups') or []):
+        arm_type = (arm.get('type') or '').upper()
+        if arm_type == 'PLACEBO_COMPARATOR':
+            continue
+        regimen = arm_regimen_details(arm)
+        dose = regimen['dose']
+        freq = regimen['frequency']
+        route = regimen['route']
+        if dose == 'NR' and freq == 'NR' and route == 'NR':
+            continue
+        key = (dose, freq, route)
+        if key not in regimens:
+            regimens.append(key)
+    return len(regimens) or None
+
+
+def infer_per_arm_summary(ct: dict, arm_sizes: dict[str, str]) -> str | None:
+    arm_groups = ct.get('arm_groups') or []
+    enrollment = ct.get('enrollment')
+    if arm_sizes:
+        labeled = []
+        for arm in arm_groups:
+            label = arm.get('label')
+            if label in arm_sizes:
+                labeled.append(f"{label} n={arm_sizes[label]}")
+        if labeled:
+            return '; '.join(labeled)
+    if len(arm_groups) == 1 and enrollment not in (None, '', 'NR'):
+        label = arm_groups[0].get('label', 'Single arm')
+        return f"{label} n={enrollment} in this single-arm study."
+    blob = ' '.join(filter(None, [ct.get('brief_summary'), ct.get('detailed_description')] + [arm_text_blob(a) for a in arm_groups]))
+    ratio_match = RATIO_RE.search(blob)
+    if ratio_match and enrollment not in (None, '', 'NR') and arm_groups:
+        return f"{enrollment} total with a {ratio_match.group(1)} allocation schema across {len(arm_groups)} listed arms; exact arm-specific counts are not explicitly stated in the current local source text."
+    if enrollment not in (None, '', 'NR') and arm_groups:
+        return f"{enrollment} total across {len(arm_groups)} listed arms; exact arm-specific counts are not explicitly stated in the current local source text."
+    return None
+
+
+def infer_source_note(ct: dict, override: dict) -> str | None:
+    if override.get('source_note'):
+        return override['source_note']
+    if ct.get('arm_groups'):
+        return 'ClinicalTrials.gov arm descriptions and summary text.'
+    return None
 
 
 def trial_operational_snapshot(ct: dict) -> dict:
@@ -475,13 +628,15 @@ def trial_operational_snapshot(ct: dict) -> dict:
         label = arm_groups[0].get('label')
         if label:
             arm_sizes[label] = str(enrollment)
+    arm_regimens = {arm.get('label', 'NR'): arm_regimen_details(arm) for arm in arm_groups}
     return {
         'arm_count': arm_count,
         'active_dose_levels_count': active_dose_levels,
         'design_summary': override.get('design_summary'),
-        'per_arm_summary': override.get('per_arm_summary'),
-        'source_note': override.get('source_note'),
+        'per_arm_summary': override.get('per_arm_summary') or infer_per_arm_summary(ct, arm_sizes),
+        'source_note': infer_source_note(ct, override),
         'arm_sizes': arm_sizes,
+        'arm_regimens': arm_regimens,
     }
 
 
@@ -593,7 +748,7 @@ def build_remibrutinib_program_page(program_entry: dict, trial_slug_map: dict[st
     append_strategy_section(lines, program_entry)
     lines.extend([
         '## Operational study design view',
-        '| Trial | Arms in registry | Active dose levels | Total enrollment | Per-arm sample size summary |',
+        '| Trial | Arms in registry | Active dose regimens | Total enrollment | Per-arm sample size summary |',
         '|---|---:|---:|---:|---|',
     ])
     for trial in program_entry.get('ctgov_trials', []):
@@ -715,7 +870,7 @@ def build_program_page(program_entry: dict, trial_slug_map: dict[str, str]) -> s
     append_strategy_section(lines, program_entry)
     lines.extend([
         '## Operational study design view',
-        '| Trial | Arms in registry | Active dose levels | Total enrollment | Per-arm sample size summary |',
+        '| Trial | Arms in registry | Active dose regimens | Total enrollment | Per-arm sample size summary |',
         '|---|---:|---:|---:|---|',
     ])
     for trial in program_entry.get('ctgov_trials', []):
@@ -879,7 +1034,7 @@ def build_trial_page(program_entry: dict, ct: dict, trial_registry_entry: dict) 
 
     lines.extend(['', '## Operational design summary'])
     lines.append(f"- Arms represented in current CT.gov export: {operational['arm_count'] if operational['arm_count'] is not None else 'NR'}")
-    lines.append(f"- Active dose levels represented in current local source layer: {operational['active_dose_levels_count'] if operational['active_dose_levels_count'] is not None else 'NR'}")
+    lines.append(f"- Active dose regimens represented in current local source layer: {operational['active_dose_levels_count'] if operational['active_dose_levels_count'] is not None else 'NR'}")
     lines.append(f"- Total study enrollment in CT.gov: {ct.get('enrollment', 'NR')} ({ct.get('enrollment_type', 'NR')})")
     if operational.get('design_summary'):
         lines.append(f"- Design interpretation: {operational['design_summary']}")
@@ -890,7 +1045,7 @@ def build_trial_page(program_entry: dict, ct: dict, trial_registry_entry: dict) 
     if operational.get('source_note'):
         lines.append(f"- Arm-size evidence source: {operational['source_note']}")
 
-    lines.extend(['', '## Arms', '| Arm | Type | Description | N | Evidence status |', '|---|---|---|---:|---|'])
+    lines.extend(['', '## Arms', '| Arm | Type | Dose | Frequency | Route | Description | N | Evidence status |', '|---|---|---|---|---|---|---:|---|'])
     if ct.get('arm_groups'):
         for arm in ct['arm_groups']:
             desc = (arm.get('description') or 'NR').replace('\n', ' ')
@@ -898,16 +1053,23 @@ def build_trial_page(program_entry: dict, ct: dict, trial_registry_entry: dict) 
             label = raw_label.replace('|', '\\|')
             atype = (arm.get('type') or 'NR').replace('|', '\\|')
             desc = desc.replace('|', '\\|')
+            regimen = operational.get('arm_regimens', {}).get(raw_label, {})
+            dose = regimen.get('dose', 'NR').replace('|', '\\|')
+            frequency = regimen.get('frequency', 'NR').replace('|', '\\|')
+            route = regimen.get('route', 'NR').replace('|', '\\|')
             exact_n = operational.get('arm_sizes', {}).get(raw_label)
             if exact_n:
-                evidence_status = 'Directly supported by linked local publication/source text'
+                evidence_status = 'Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context'
                 n_value = exact_n
             else:
-                evidence_status = 'Per-arm realized N not directly captured in current promoted local evidence for this arm label'
+                if operational.get('per_arm_summary'):
+                    evidence_status = 'Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer'
+                else:
+                    evidence_status = 'Exact arm-specific N not explicitly promoted from the current local evidence layer'
                 n_value = 'NR'
-            lines.append(f"| {label} | {atype} | {desc} | {n_value} | {evidence_status} |")
+            lines.append(f"| {label} | {atype} | {dose} | {frequency} | {route} | {desc} | {n_value} | {evidence_status} |")
     else:
-        lines.append('| NR | NR | No arm-group details parsed into current inventory | NR | NR |')
+        lines.append('| NR | NR | NR | NR | NR | No arm-group details parsed into current inventory | NR | NR |')
 
     if override.get('key_points'):
         lines.extend(['', '## Key source-backed points'])
@@ -958,7 +1120,7 @@ def build_trial_page(program_entry: dict, ct: dict, trial_registry_entry: dict) 
     else:
         lines.append('- Interpretation: this trial is currently represented mainly by CT.gov and any linked sponsor-source artifacts; manual enrichment is still needed for a richer narrative page.')
     lines.append('- Open questions:')
-    lines.append('  - Per-arm realized N values are not promoted unless directly stated in the current local source layer.')
+    lines.append('  - Some studies still lack exact arm-specific N in the current promoted evidence layer even when allocation schema or total enrollment is visible.')
     if not trial_registry_entry.get('primary_publications'):
         lines.append('  - No explicit trial-level primary manuscript is currently linked in the registry.')
     if not trial_registry_entry.get('sponsor_artifacts'):

@@ -41,19 +41,20 @@ The purpose of the OLE period is to collect long-term efficacy, safety, and tole
 
 ## Operational design summary
 - Arms represented in current CT.gov export: 6
-- Active dose levels represented in current local source layer: 3
+- Active dose regimens represented in current local source layer: 1
 - Total study enrollment in CT.gov: 362 (ACTUAL)
-- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+- Per-arm sample size summary: 362 total across 6 listed arms; exact arm-specific counts are not explicitly stated in the current local source text.
+- Arm-size evidence source: ClinicalTrials.gov arm descriptions and summary text.
 
 ## Arms
-| Arm | Type | Description | N | Evidence status |
-|---|---|---|---:|---|
-| Remibrutinib, symptomatic dermographism group | EXPERIMENTAL | Remibrutinib oral twice daily in participants with symptomatic dermographism | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| Placebo, symptomatic dermographism group | PLACEBO_COMPARATOR | Placebo oral twice daily, symptomatic dermographism | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| Remibrutinib, cold urticaria group | EXPERIMENTAL | Remibrutinib oral twice daily, cold urticaria | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| Placebo, cold urticaria group | PLACEBO_COMPARATOR | Placebo oral twice daily, cold urticaria | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| Remibrutinib, cholinergic urticaria group | EXPERIMENTAL | Remibrutinib oral twice daily, cholinergic urticaria | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| Placebo, cholinergic urticaria | PLACEBO_COMPARATOR | Placebo oral twice daily, cholinergic urticaria | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Arm | Type | Dose | Frequency | Route | Description | N | Evidence status |
+|---|---|---|---|---|---|---:|---|
+| Remibrutinib, symptomatic dermographism group | EXPERIMENTAL | NR | BID | Oral | Remibrutinib oral twice daily in participants with symptomatic dermographism | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| Placebo, symptomatic dermographism group | PLACEBO_COMPARATOR | NR | BID | Oral | Placebo oral twice daily, symptomatic dermographism | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| Remibrutinib, cold urticaria group | EXPERIMENTAL | NR | BID | Oral | Remibrutinib oral twice daily, cold urticaria | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| Placebo, cold urticaria group | PLACEBO_COMPARATOR | NR | BID | Oral | Placebo oral twice daily, cold urticaria | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| Remibrutinib, cholinergic urticaria group | EXPERIMENTAL | NR | BID | Oral | Remibrutinib oral twice daily, cholinergic urticaria | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| Placebo, cholinergic urticaria | PLACEBO_COMPARATOR | NR | BID | Oral | Placebo oral twice daily, cholinergic urticaria | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
 
 ## Key source-backed points
 - CT.gov lists 362 actual participants in a 52-week randomized double-blind placebo-controlled basket study with open-label extension.
@@ -82,7 +83,7 @@ The purpose of the OLE period is to collect long-term efficacy, safety, and tole
 - Verified facts: this page reflects the current local registry and CT.gov inventory export without inferring unsupported arm sizes or endpoint results.
 - Interpretation: this trial is currently represented mainly by CT.gov and any linked sponsor-source artifacts; manual enrichment is still needed for a richer narrative page.
 - Open questions:
-  - Per-arm realized N values are not promoted unless directly stated in the current local source layer.
+  - Some studies still lack exact arm-specific N in the current promoted evidence layer even when allocation schema or total enrollment is visible.
   - No explicit trial-level primary manuscript is currently linked in the registry.
   - No sponsor artifact is explicitly linked to this trial by identifier in the current registry.
 

@@ -36,24 +36,24 @@ indications:
 - Whether comparator studies become mainly differentiation tools or major label-shaping assets.
 
 ## Operational study design view
-| Trial | Arms in registry | Active dose levels | Total enrollment | Per-arm sample size summary |
+| Trial | Arms in registry | Active dose regimens | Total enrollment | Per-arm sample size summary |
 |---|---:|---:|---:|---|
 | [NCT03926611](../trials/remibrutinib-nct03926611-phase-2b.md) | 7 | 6 | 311 | Publication abstract directly supports 311 total randomized and a 1:1:1:1:1:1:1 design, but the exact realized per-arm N is not stated in the currently saved local excerpt. |
-| [NCT04109313](../trials/remibrutinib-nct04109313.md) | 1 | 1 | 229 | Direct per-arm N has not yet been promoted from the current local source layer. |
+| [NCT04109313](../trials/remibrutinib-nct04109313.md) | 1 | 1 | 229 | All participants n=229 |
 | [NCT05030311](../trials/remibrutinib-nct05030311.md) | 2 | 1 | 470 | 313 remibrutinib, 157 placebo. |
 | [NCT05032157](../trials/remibrutinib-nct05032157.md) | 2 | 1 | 455 | 300 remibrutinib, 155 placebo. |
-| [NCT05048342](../trials/remibrutinib-nct05048342.md) | 1 | 1 | 71 | Direct per-arm N has not yet been promoted from the current local source layer. |
-| [NCT05170724](../trials/remibrutinib-nct05170724.md) | NR | NR | None | Direct per-arm N has not yet been promoted from the current local source layer. |
-| [NCT05513001](../trials/remibrutinib-nct05513001.md) | 3 | 2 | 696 | Direct per-arm N has not yet been promoted from the current local source layer. |
-| [NCT05677451](../trials/remibrutinib-nct05677451.md) | 2 | 1 | 100 | Direct per-arm N has not yet been promoted from the current local source layer. |
-| [NCT05795153](../trials/remibrutinib-nct05795153.md) | 1 | 1 | 144 | Direct per-arm N has not yet been promoted from the current local source layer. |
-| [NCT05976243](../trials/remibrutinib-nct05976243.md) | 6 | 3 | 362 | Direct per-arm N has not yet been promoted from the current local source layer. |
-| [NCT06042478](../trials/remibrutinib-nct06042478.md) | 4 | 2 | 470 | Direct per-arm N has not yet been promoted from the current local source layer. |
-| [NCT06865651](../trials/remibrutinib-nct06865651.md) | 4 | 2 | 44 | Direct per-arm N has not yet been promoted from the current local source layer. |
-| [NCT06868212](../trials/remibrutinib-nct06868212.md) | 2 | 2 | 400 | Direct per-arm N has not yet been promoted from the current local source layer. |
-| [NCT07358364](../trials/remibrutinib-nct07358364.md) | 3 | 3 | 3280 | Direct per-arm N has not yet been promoted from the current local source layer. |
-| [NCT07358780](../trials/remibrutinib-nct07358780.md) | 3 | 3 | 505 | Direct per-arm N has not yet been promoted from the current local source layer. |
-| [NCT07408219](../trials/remibrutinib-nct07408219.md) | 2 | 2 | 350 | Direct per-arm N has not yet been promoted from the current local source layer. |
+| [NCT05048342](../trials/remibrutinib-nct05048342.md) | 1 | 1 | 71 | LOU064 25 mg b.i.d. n=71 |
+| [NCT05170724](../trials/remibrutinib-nct05170724.md) | NR | NR | None | The current CT.gov export does not provide a structured arm table or enrollment target for this managed-access record. |
+| [NCT05513001](../trials/remibrutinib-nct05513001.md) | 3 | 1 | 696 | 696 total with a 1:1 allocation schema across 3 listed arms; exact arm-specific counts are not explicitly stated in the current local source text. |
+| [NCT05677451](../trials/remibrutinib-nct05677451.md) | 2 | 1 | 100 | 100 total with a 2:1 allocation schema across 2 listed arms; exact arm-specific counts are not explicitly stated in the current local source text. |
+| [NCT05795153](../trials/remibrutinib-nct05795153.md) | 1 | 1 | 144 | LOU064 (remibrutinib) n=144 |
+| [NCT05976243](../trials/remibrutinib-nct05976243.md) | 6 | 1 | 362 | 362 total across 6 listed arms; exact arm-specific counts are not explicitly stated in the current local source text. |
+| [NCT06042478](../trials/remibrutinib-nct06042478.md) | 4 | 2 | 470 | 470 total across 4 listed arms; exact arm-specific counts are not explicitly stated in the current local source text. |
+| [NCT06865651](../trials/remibrutinib-nct06865651.md) | 4 | 2 | 44 | Novartis trial-page text plus CT.gov support approximately 44 total participants across 4 listed arms and notes the study will attempt to enroll approximately 4 to 5 participants for each included chronic urticaria subtype; exact arm-specific counts are not explicitly stated in the current saved source text. |
+| [NCT06868212](../trials/remibrutinib-nct06868212.md) | 2 | 2 | 400 | 400 total with a 1:1 allocation schema across 2 listed arms; exact arm-specific counts are not explicitly stated in the current local source text. |
+| [NCT07358364](../trials/remibrutinib-nct07358364.md) | 3 | NR | 3280 | 3280 total across 3 listed arms; exact arm-specific counts are not explicitly stated in the current local source text. |
+| [NCT07358780](../trials/remibrutinib-nct07358780.md) | 3 | NR | 505 | 505 total across 3 listed arms; exact arm-specific counts are not explicitly stated in the current local source text. |
+| [NCT07408219](../trials/remibrutinib-nct07408219.md) | 2 | NR | 350 | 350 total across 2 listed arms; exact arm-specific counts are not explicitly stated in the current local source text. |
 
 ## Program map
 

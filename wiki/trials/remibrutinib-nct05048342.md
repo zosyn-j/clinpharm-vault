@@ -37,14 +37,15 @@ tags:
 
 ## Operational design summary
 - Arms represented in current CT.gov export: 1
-- Active dose levels represented in current local source layer: 1
+- Active dose regimens represented in current local source layer: 1
 - Total study enrollment in CT.gov: 71 (ACTUAL)
-- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+- Per-arm sample size summary: LOU064 25 mg b.i.d. n=71
+- Arm-size evidence source: ClinicalTrials.gov arm descriptions and summary text.
 
 ## Arms
-| Arm | Type | Description | N | Evidence status |
-|---|---|---|---:|---|
-| LOU064 25 mg b.i.d. | EXPERIMENTAL | Patients were treated with remibrutinib 25 mg bis in die/twice a day (b.i.d.). LOU064 open-label treatment taken orally for 52 weeks. | 71 | Directly supported by linked local publication/source text |
+| Arm | Type | Dose | Frequency | Route | Description | N | Evidence status |
+|---|---|---|---|---|---|---:|---|
+| LOU064 25 mg b.i.d. | EXPERIMENTAL | 25 mg | BID | Oral | Patients were treated with remibrutinib 25 mg bis in die/twice a day (b.i.d.). LOU064 open-label treatment taken orally for 52 weeks. | 71 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
 
 ## Key source-backed points
 - CT.gov lists 71 actual participants in this adult Japanese CSU study.
@@ -70,7 +71,7 @@ tags:
 - Verified facts: this page reflects the current local registry and CT.gov inventory export without inferring unsupported arm sizes or endpoint results.
 - Interpretation: this trial is currently represented mainly by CT.gov and any linked sponsor-source artifacts; manual enrichment is still needed for a richer narrative page.
 - Open questions:
-  - Per-arm realized N values are not promoted unless directly stated in the current local source layer.
+  - Some studies still lack exact arm-specific N in the current promoted evidence layer even when allocation schema or total enrollment is visible.
   - No explicit trial-level primary manuscript is currently linked in the registry.
   - No sponsor artifact is explicitly linked to this trial by identifier in the current registry.
 

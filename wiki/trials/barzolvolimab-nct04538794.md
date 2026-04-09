@@ -35,17 +35,17 @@ tags:
 
 ## Operational design summary
 - Arms represented in current CT.gov export: 2
-- Active dose levels represented in current local source layer: 4
+- Active dose regimens represented in current local source layer: 4
 - Total study enrollment in CT.gov: 45 (ACTUAL)
 - Design interpretation: Sequential 4-cohort phase 1b IV multiple-ascending-dose study with pooled placebo control.
 - Per-arm sample size summary: 45 randomized total, with 35 barzolvolimab-treated and 10 placebo-treated overall; publication abstract also lists four dose cohorts (0.5 mg/kg Q4W, 1.5 mg/kg Q4W, 3 mg/kg Q8W, 4.5 mg/kg Q8W).
 - Arm-size evidence source: PMID 40415544 abstract plus PMCID PMC12368744 full text.
 
 ## Arms
-| Arm | Type | Description | N | Evidence status |
-|---|---|---|---:|---|
-| CDX-0159 | EXPERIMENTAL | CDX-0159 every 4-8 weeks | 35 | Directly supported by linked local publication/source text |
-| Normal Saline | PLACEBO_COMPARATOR | Normal saline every 4-8 weeks | 10 | Directly supported by linked local publication/source text |
+| Arm | Type | Dose | Frequency | Route | Description | N | Evidence status |
+|---|---|---|---|---|---|---:|---|
+| CDX-0159 | EXPERIMENTAL | NR | NR | NR | CDX-0159 every 4-8 weeks | 35 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
+| Normal Saline | PLACEBO_COMPARATOR | NR | NR | NR | Normal saline every 4-8 weeks | 10 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
 
 ## Endpoints
 - Primary outcomes:
@@ -69,7 +69,7 @@ tags:
 - Verified facts: this page reflects the current local registry and CT.gov inventory export without inferring unsupported arm sizes or endpoint results.
 - Interpretation: this trial already has direct manuscript support in the local source layer and should be a higher-priority candidate for manual enrichment.
 - Open questions:
-  - Per-arm realized N values are not promoted unless directly stated in the current local source layer.
+  - Some studies still lack exact arm-specific N in the current promoted evidence layer even when allocation schema or total enrollment is visible.
   - No sponsor artifact is explicitly linked to this trial by identifier in the current registry.
 
 ## Provenance

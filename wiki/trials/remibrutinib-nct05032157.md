@@ -37,17 +37,17 @@ tags:
 
 ## Operational design summary
 - Arms represented in current CT.gov export: 2
-- Active dose levels represented in current local source layer: 1
+- Active dose regimens represented in current local source layer: 1
 - Total study enrollment in CT.gov: 455 (ACTUAL)
 - Design interpretation: 2-arm placebo-controlled pivotal REMIX-2 study with remibrutinib 25 mg twice daily versus placebo.
 - Per-arm sample size summary: 300 remibrutinib, 155 placebo.
 - Arm-size evidence source: PMID 40043237 abstract.
 
 ## Arms
-| Arm | Type | Description | N | Evidence status |
-|---|---|---|---:|---|
-| LOU064 25mg b.i.d. | EXPERIMENTAL | LOU064A (blinded) taken orally b.i.d. for 24 weeks, followed by LOU064 (open- label) taken orally b.i.d. for 28 weeks. Randomised in 2:1 ratio (active vs placebo) | 300 | Directly supported by linked local publication/source text |
-| Placebo | PLACEBO_COMPARATOR | LOU064A placebo (blinded) taken orally for 24 weeks, followed by LOU064 (open-label) taken orally b.i.d. for 28 weeks. Randomised in 2:1 ratio (active vs placebo) | 155 | Directly supported by linked local publication/source text |
+| Arm | Type | Dose | Frequency | Route | Description | N | Evidence status |
+|---|---|---|---|---|---|---:|---|
+| LOU064 25mg b.i.d. | EXPERIMENTAL | 25mg | BID | Oral | LOU064A (blinded) taken orally b.i.d. for 24 weeks, followed by LOU064 (open- label) taken orally b.i.d. for 28 weeks. Randomised in 2:1 ratio (active vs placebo) | 300 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
+| Placebo | PLACEBO_COMPARATOR | NR | BID | Oral | LOU064A placebo (blinded) taken orally for 24 weeks, followed by LOU064 (open-label) taken orally b.i.d. for 28 weeks. Randomised in 2:1 ratio (active vs placebo) | 155 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
 
 ## Key source-backed points
 - PMID 40043237 explicitly identifies this as REMIX-2 and reports 455 randomized patients, with 300 assigned to remibrutinib and 155 to placebo.
@@ -79,7 +79,7 @@ tags:
 - Verified facts: this page reflects the current local registry and CT.gov inventory export without inferring unsupported arm sizes or endpoint results.
 - Interpretation: this trial already has direct manuscript support in the local source layer and should be a higher-priority candidate for manual enrichment.
 - Open questions:
-  - Per-arm realized N values are not promoted unless directly stated in the current local source layer.
+  - Some studies still lack exact arm-specific N in the current promoted evidence layer even when allocation schema or total enrollment is visible.
   - No sponsor artifact is explicitly linked to this trial by identifier in the current registry.
 
 ## Provenance

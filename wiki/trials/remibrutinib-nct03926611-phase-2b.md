@@ -37,22 +37,22 @@ tags:
 
 ## Operational design summary
 - Arms represented in current CT.gov export: 7
-- Active dose levels represented in current local source layer: 6
+- Active dose regimens represented in current local source layer: 6
 - Total study enrollment in CT.gov: 311 (ACTUAL)
 - Design interpretation: 7-arm dose-finding study with 6 active oral remibrutinib regimens plus placebo.
 - Per-arm sample size summary: Publication abstract directly supports 311 total randomized and a 1:1:1:1:1:1:1 design, but the exact realized per-arm N is not stated in the currently saved local excerpt.
 - Arm-size evidence source: ClinicalTrials.gov markdown plus PMID 36096203 abstract.
 
 ## Arms
-| Arm | Type | Description | N | Evidence status |
-|---|---|---|---:|---|
-| LOU064 Arm 1 | EXPERIMENTAL | 10 mg LOU064 qd capsule once daily | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| LOU064 Arm 2 | EXPERIMENTAL | 35 mg capsule qd LOU064 once daily | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| LOU064 Arm 3 | EXPERIMENTAL | 100 mg capsule qd LOU064 once daily | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| LOU064 Arm 4 | EXPERIMENTAL | 10 mg capsule LOU064 bid | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| LOU064 Arm 5 | EXPERIMENTAL | 25 mg capsule LOU064 bid | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| LOU064 Arm 6 | EXPERIMENTAL | 100 mg capsule LOU064 bid | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| Placebo Arm | PLACEBO_COMPARATOR | Participants took matching placebo twice daily | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Arm | Type | Dose | Frequency | Route | Description | N | Evidence status |
+|---|---|---|---|---|---|---:|---|
+| LOU064 Arm 1 | EXPERIMENTAL | 10 mg | QD | Oral | 10 mg LOU064 qd capsule once daily | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| LOU064 Arm 2 | EXPERIMENTAL | 35 mg | QD | Oral | 35 mg capsule qd LOU064 once daily | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| LOU064 Arm 3 | EXPERIMENTAL | 100 mg | QD | Oral | 100 mg capsule qd LOU064 once daily | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| LOU064 Arm 4 | EXPERIMENTAL | 10 mg | BID | Oral | 10 mg capsule LOU064 bid | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| LOU064 Arm 5 | EXPERIMENTAL | 25 mg | BID | Oral | 25 mg capsule LOU064 bid | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| LOU064 Arm 6 | EXPERIMENTAL | 100 mg | BID | Oral | 100 mg capsule LOU064 bid | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| Placebo Arm | PLACEBO_COMPARATOR | NR | BID | NR | Participants took matching placebo twice daily | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
 
 ## Key source-backed points
 - PMID 36096203 identifies this as the randomized phase 2b CSU dose-finding trial and reports 311 randomized patients across 6 remibrutinib regimens plus placebo.
@@ -82,7 +82,7 @@ tags:
 - Verified facts: this page reflects the current local registry and CT.gov inventory export without inferring unsupported arm sizes or endpoint results.
 - Interpretation: this trial already has direct manuscript support in the local source layer and should be a higher-priority candidate for manual enrichment.
 - Open questions:
-  - Per-arm realized N values are not promoted unless directly stated in the current local source layer.
+  - Some studies still lack exact arm-specific N in the current promoted evidence layer even when allocation schema or total enrollment is visible.
   - No sponsor artifact is explicitly linked to this trial by identifier in the current registry.
 
 ## Provenance

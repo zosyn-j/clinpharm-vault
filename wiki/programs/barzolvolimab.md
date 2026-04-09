@@ -40,16 +40,16 @@ indications:
 - Whether later derived pages can tie sponsor posters and press releases more tightly to explicit trial IDs.
 
 ## Operational study design view
-| Trial | Arms in registry | Active dose levels | Total enrollment | Per-arm sample size summary |
+| Trial | Arms in registry | Active dose regimens | Total enrollment | Per-arm sample size summary |
 |---|---:|---:|---:|---|
 | [NCT04538794](../trials/barzolvolimab-nct04538794.md) | 2 | 4 | 45 | 45 randomized total, with 35 barzolvolimab-treated and 10 placebo-treated overall; publication abstract also lists four dose cohorts (0.5 mg/kg Q4W, 1.5 mg/kg Q4W, 3 mg/kg Q8W, 4.5 mg/kg Q8W). |
 | [NCT04548869](../trials/barzolvolimab-nct04548869.md) | 1 | 1 | 41 | ClinicalTrials.gov arm description states planned enrollment of 20 Cold Contact Urticaria, 10 Symptomatic Dermographism, and 10 Cholinergic Urticaria patients; CT.gov lists 41 actual participants overall. |
 | [NCT05368285](../trials/barzolvolimab-nct05368285.md) | 6 | 3 | 208 | Publication abstract supports placebo-controlled core randomization of 75 mg Q4W (n=53), 150 mg Q4W (n=52), 300 mg Q8W (n=51), and placebo (n=51). |
-| [NCT05405660](../trials/barzolvolimab-nct05405660.md) | 6 | 4 | 196 | Direct per-arm N has not yet been promoted from the current local source layer. |
-| [NCT06445023](../trials/barzolvolimab-nct06445023.md) | 4 | 4 | 963 | Direct per-arm N has not yet been promoted from the current local source layer. |
-| [NCT06455202](../trials/barzolvolimab-nct06455202.md) | 4 | 4 | 976 | Direct per-arm N has not yet been promoted from the current local source layer. |
-| [NCT07256392](../trials/barzolvolimab-nct07256392.md) | 2 | 2 | 1370 | Direct per-arm N has not yet been promoted from the current local source layer. |
-| [NCT07266402](../trials/barzolvolimab-nct07266402.md) | 4 | 2 | 240 | Direct per-arm N has not yet been promoted from the current local source layer. |
+| [NCT05405660](../trials/barzolvolimab-nct05405660.md) | 6 | 2 | 196 | ACAAI poster text supports ColdU n=96 split as 150 mg Q4W n=32, 300 mg Q8W n=32, placebo n=32, and symptomatic dermographism n=97 split as 150 mg Q4W n=33, 300 mg Q8W n=33, placebo n=31. |
+| [NCT06445023](../trials/barzolvolimab-nct06445023.md) | 4 | 4 | 963 | 963 total across 4 listed arms; exact arm-specific counts are not explicitly stated in the current local source text. |
+| [NCT06455202](../trials/barzolvolimab-nct06455202.md) | 4 | 4 | 976 | 976 total across 4 listed arms; exact arm-specific counts are not explicitly stated in the current local source text. |
+| [NCT07256392](../trials/barzolvolimab-nct07256392.md) | 2 | 1 | 1370 | 1370 total across 2 listed arms; exact arm-specific counts are not explicitly stated in the current local source text. |
+| [NCT07266402](../trials/barzolvolimab-nct07266402.md) | 4 | 1 | 240 | 240 total across 4 listed arms; exact arm-specific counts are not explicitly stated in the current local source text. |
 
 ## Study Inventory
 

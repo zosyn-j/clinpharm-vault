@@ -39,17 +39,18 @@ The purpose of the open-label extension phase is to assess efficacy, safety and 
 
 ## Operational design summary
 - Arms represented in current CT.gov export: 4
-- Active dose levels represented in current local source layer: 2
+- Active dose regimens represented in current local source layer: 2
 - Total study enrollment in CT.gov: 470 (ACTUAL)
-- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+- Per-arm sample size summary: 470 total across 4 listed arms; exact arm-specific counts are not explicitly stated in the current local source text.
+- Arm-size evidence source: ClinicalTrials.gov arm descriptions and summary text.
 
 ## Arms
-| Arm | Type | Description | N | Evidence status |
-|---|---|---|---:|---|
-| Remibrutinib | EXPERIMENTAL | Participants will receive remibrutinib 25 mg b.i.d. and placebo for omalizumab q4w for 52 weeks. | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| Placebo to remibrutinib | PLACEBO_COMPARATOR | Participants will receive placebo for remibrutinib 25 mg b.i.d. and placebo for omalizumab q4w for 24 weeks. From Week 24 to Week 52 participants will receive remibrutinib 25 mg b.i.d. and placebo for omalizumab q4w. | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| Placebo to omalizumab | PLACEBO_COMPARATOR | Participants will receive placebo for remibrutinib 25 mg b.i.d. and placebo for omalizumab q4w for 24 weeks. From Week 24 to Week 52 participants will receive omalizumab 300 mg q4w and placebo for remibrutinib b.i.d. | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| Omalizumab | ACTIVE_COMPARATOR | participants will receive omalizumab 300 mg q4w and placebo for remibrutinib b.i.d. for 52 weeks. | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Arm | Type | Dose | Frequency | Route | Description | N | Evidence status |
+|---|---|---|---|---|---|---:|---|
+| Remibrutinib | EXPERIMENTAL | 25 mg | BID + Q4W | NR | Participants will receive remibrutinib 25 mg b.i.d. and placebo for omalizumab q4w for 52 weeks. | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| Placebo to remibrutinib | PLACEBO_COMPARATOR | 25 mg | BID + Q4W | NR | Participants will receive placebo for remibrutinib 25 mg b.i.d. and placebo for omalizumab q4w for 24 weeks. From Week 24 to Week 52 participants will receive remibrutinib 25 mg b.i.d. and placebo for omalizumab q4w. | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| Placebo to omalizumab | PLACEBO_COMPARATOR | 25 mg -> 300 mg | BID + Q4W | NR | Participants will receive placebo for remibrutinib 25 mg b.i.d. and placebo for omalizumab q4w for 24 weeks. From Week 24 to Week 52 participants will receive omalizumab 300 mg q4w and placebo for remibrutinib b.i.d. | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| Omalizumab | ACTIVE_COMPARATOR | 300 mg | BID + Q4W | NR | participants will receive omalizumab 300 mg q4w and placebo for remibrutinib b.i.d. for 52 weeks. | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
 
 ## Key source-backed points
 - CT.gov lists a four-arm double-dummy design including remibrutinib, omalizumab, and two placebo-to-active transition arms.
@@ -75,7 +76,7 @@ The purpose of the open-label extension phase is to assess efficacy, safety and 
 - Verified facts: this page reflects the current local registry and CT.gov inventory export without inferring unsupported arm sizes or endpoint results.
 - Interpretation: this trial is currently represented mainly by CT.gov and any linked sponsor-source artifacts; manual enrichment is still needed for a richer narrative page.
 - Open questions:
-  - Per-arm realized N values are not promoted unless directly stated in the current local source layer.
+  - Some studies still lack exact arm-specific N in the current promoted evidence layer even when allocation schema or total enrollment is visible.
   - No explicit trial-level primary manuscript is currently linked in the registry.
   - No sponsor artifact is explicitly linked to this trial by identifier in the current registry.
 

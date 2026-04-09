@@ -38,15 +38,16 @@ The trial is intended to determine the safety and tolerability and assess the pr
 
 ## Operational design summary
 - Arms represented in current CT.gov export: 2
-- Active dose levels represented in current local source layer: 1
+- Active dose regimens represented in current local source layer: NR
 - Total study enrollment in CT.gov: 88 (ACTUAL)
-- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+- Per-arm sample size summary: 88 total across 2 listed arms; exact arm-specific counts are not explicitly stated in the current local source text.
+- Arm-size evidence source: ClinicalTrials.gov arm descriptions and summary text.
 
 ## Arms
-| Arm | Type | Description | N | Evidence status |
-|---|---|---|---:|---|
-| Briquilimab | EXPERIMENTAL | This trial will be performed as a three-part dose escalating clinical trial where Parts 1 is open label and Parts 2 and 3 are randomized, double-blinded, and placebo-controlled. | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| Placebo | PLACEBO_COMPARATOR | Placebo Comparator | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Arm | Type | Dose | Frequency | Route | Description | N | Evidence status |
+|---|---|---|---|---|---|---:|---|
+| Briquilimab | EXPERIMENTAL | NR | NR | NR | This trial will be performed as a three-part dose escalating clinical trial where Parts 1 is open label and Parts 2 and 3 are randomized, double-blinded, and placebo-controlled. | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| Placebo | PLACEBO_COMPARATOR | NR | NR | NR | Placebo Comparator | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
 
 ## Endpoints
 - Primary outcomes:
@@ -68,7 +69,7 @@ The trial is intended to determine the safety and tolerability and assess the pr
 - Verified facts: this page reflects the current local registry and CT.gov inventory export without inferring unsupported arm sizes or endpoint results.
 - Interpretation: this trial is currently represented mainly by CT.gov and any linked sponsor-source artifacts; manual enrichment is still needed for a richer narrative page.
 - Open questions:
-  - Per-arm realized N values are not promoted unless directly stated in the current local source layer.
+  - Some studies still lack exact arm-specific N in the current promoted evidence layer even when allocation schema or total enrollment is visible.
   - No explicit trial-level primary manuscript is currently linked in the registry.
   - No sponsor artifact is explicitly linked to this trial by identifier in the current registry.
 

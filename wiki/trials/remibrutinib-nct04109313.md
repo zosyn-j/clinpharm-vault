@@ -37,14 +37,15 @@ tags:
 
 ## Operational design summary
 - Arms represented in current CT.gov export: 1
-- Active dose levels represented in current local source layer: 1
+- Active dose regimens represented in current local source layer: 1
 - Total study enrollment in CT.gov: 229 (ACTUAL)
-- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+- Per-arm sample size summary: All participants n=229
+- Arm-size evidence source: ClinicalTrials.gov arm descriptions and summary text.
 
 ## Arms
-| Arm | Type | Description | N | Evidence status |
-|---|---|---|---:|---|
-| All participants | EXPERIMENTAL | Participants with UAS7\<16 at Week 16 of CLOU064A2201 were followed up to 12 weeks without receiving treatment (observational period). If participants relapsed (UAS7≥16 at least once), they were transitioned to the treatment period. Otherwise, they were discontinued from the study.  Participants with a UAS7≥16 at Week 12 or Week 16 in the CLOU064A2201, as well as participants who experienced a relapse during the 12-week observational period, were administered 100 mg of LOU064 b.i.d. open-label for up to 52 weeks. | 229 | Directly supported by linked local publication/source text |
+| Arm | Type | Dose | Frequency | Route | Description | N | Evidence status |
+|---|---|---|---|---|---|---:|---|
+| All participants | EXPERIMENTAL | 100 mg | BID | NR | Participants with UAS7\<16 at Week 16 of CLOU064A2201 were followed up to 12 weeks without receiving treatment (observational period). If participants relapsed (UAS7≥16 at least once), they were transitioned to the treatment period. Otherwise, they were discontinued from the study.  Participants with a UAS7≥16 at Week 12 or Week 16 in the CLOU064A2201, as well as participants who experienced a relapse during the 12-week observational period, were administered 100 mg of LOU064 b.i.d. open-label for up to 52 weeks. | 229 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
 
 ## Key source-backed points
 - CT.gov describes this as an open-label multicenter extension for eligible participants from CLOU064A2201.
@@ -71,7 +72,7 @@ tags:
 - Verified facts: this page reflects the current local registry and CT.gov inventory export without inferring unsupported arm sizes or endpoint results.
 - Interpretation: this trial is currently represented mainly by CT.gov and any linked sponsor-source artifacts; manual enrichment is still needed for a richer narrative page.
 - Open questions:
-  - Per-arm realized N values are not promoted unless directly stated in the current local source layer.
+  - Some studies still lack exact arm-specific N in the current promoted evidence layer even when allocation schema or total enrollment is visible.
   - No explicit trial-level primary manuscript is currently linked in the registry.
   - No sponsor artifact is explicitly linked to this trial by identifier in the current registry.
 

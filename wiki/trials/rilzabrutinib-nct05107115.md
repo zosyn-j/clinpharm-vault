@@ -37,19 +37,19 @@ After completion of the double-blind phase of the study, participants will be gi
 
 ## Operational design summary
 - Arms represented in current CT.gov export: 4
-- Active dose levels represented in current local source layer: 3
+- Active dose regimens represented in current local source layer: 3
 - Total study enrollment in CT.gov: 161 (ACTUAL)
 - Design interpretation: 4-arm phase 2 dose-ranging study with three oral rilzabrutinib regimens plus placebo.
 - Per-arm sample size summary: PMCID full text directly supports randomized sizes of 400 mg/d n=38, 800 mg/d n=41, 1200 mg/d n=41, and placebo n=40 overall; it also reports primary-analysis sample sizes of placebo n=36, 400 mg/d n=37, 800 mg/d n=35, and 1200 mg/d n=35.
 - Arm-size evidence source: PMID 40266575 abstract plus PMCID PMC12019677 full text.
 
 ## Arms
-| Arm | Type | Description | N | Evidence status |
-|---|---|---|---:|---|
-| Rilzabrutinib dose A | EXPERIMENTAL | dose A | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| Rilzabrutinib dose B | EXPERIMENTAL | dose B | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| Rilzabrutinib dose C | EXPERIMENTAL | dose C | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| Placebo | PLACEBO_COMPARATOR | Matching placebo | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Arm | Type | Dose | Frequency | Route | Description | N | Evidence status |
+|---|---|---|---|---|---|---:|---|
+| Rilzabrutinib dose A | EXPERIMENTAL | Rilzabrutinib dose A | NR | NR | dose A | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| Rilzabrutinib dose B | EXPERIMENTAL | Rilzabrutinib dose B | NR | NR | dose B | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| Rilzabrutinib dose C | EXPERIMENTAL | Rilzabrutinib dose C | NR | NR | dose C | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| Placebo | PLACEBO_COMPARATOR | NR | NR | NR | Matching placebo | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
 
 ## Endpoints
 - Primary outcomes:
@@ -74,7 +74,7 @@ After completion of the double-blind phase of the study, participants will be gi
 - Verified facts: this page reflects the current local registry and CT.gov inventory export without inferring unsupported arm sizes or endpoint results.
 - Interpretation: this trial already has direct manuscript support in the local source layer and should be a higher-priority candidate for manual enrichment.
 - Open questions:
-  - Per-arm realized N values are not promoted unless directly stated in the current local source layer.
+  - Some studies still lack exact arm-specific N in the current promoted evidence layer even when allocation schema or total enrollment is visible.
   - No sponsor artifact is explicitly linked to this trial by identifier in the current registry.
 
 ## Provenance

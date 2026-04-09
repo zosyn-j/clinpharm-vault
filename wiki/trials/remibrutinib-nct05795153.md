@@ -37,14 +37,15 @@ tags:
 
 ## Operational design summary
 - Arms represented in current CT.gov export: 1
-- Active dose levels represented in current local source layer: 1
+- Active dose regimens represented in current local source layer: 1
 - Total study enrollment in CT.gov: 144 (ACTUAL)
-- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+- Per-arm sample size summary: LOU064 (remibrutinib) n=144
+- Arm-size evidence source: ClinicalTrials.gov arm descriptions and summary text.
 
 ## Arms
-| Arm | Type | Description | N | Evidence status |
-|---|---|---|---:|---|
-| LOU064 (remibrutinib) | EXPERIMENTAL | All participants were assigned to remibrutinib 25 mg b.i.d. for 12 weeks. | 144 | Directly supported by linked local publication/source text |
+| Arm | Type | Dose | Frequency | Route | Description | N | Evidence status |
+|---|---|---|---|---|---|---:|---|
+| LOU064 (remibrutinib) | EXPERIMENTAL | 25 mg | BID | NR | All participants were assigned to remibrutinib 25 mg b.i.d. for 12 weeks. | 144 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
 
 ## Key source-backed points
 - CT.gov lists 144 actual participants in this 12-week ABPM study.
@@ -70,7 +71,7 @@ tags:
 - Verified facts: this page reflects the current local registry and CT.gov inventory export without inferring unsupported arm sizes or endpoint results.
 - Interpretation: this trial is currently represented mainly by CT.gov and any linked sponsor-source artifacts; manual enrichment is still needed for a richer narrative page.
 - Open questions:
-  - Per-arm realized N values are not promoted unless directly stated in the current local source layer.
+  - Some studies still lack exact arm-specific N in the current promoted evidence layer even when allocation schema or total enrollment is visible.
   - No explicit trial-level primary manuscript is currently linked in the registry.
   - No sponsor artifact is explicitly linked to this trial by identifier in the current registry.
 

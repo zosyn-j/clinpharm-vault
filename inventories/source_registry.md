@@ -1,6 +1,6 @@
 # Program and trial source registry
 
-- Generated: 2026-04-09T16:00:17.732811+00:00
+- Generated: 2026-04-09T16:25:11.158269+00:00
 - Built from: `inventories/ctgov_priority_trials.json`, `inventories/sponsor_priority_sources.json`, `inventories/publication_priority_curation.json`
 - Purpose: join raw ClinicalTrials.gov caches, sponsor artifacts, and curated publication records into a single auditable registry by program and trial ID.
 - Linking rule: only attach sponsor artifacts or publications to a specific NCT when an explicit identifier is present in the cached metadata or curated manuscript record.

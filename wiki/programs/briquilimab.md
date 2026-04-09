@@ -33,11 +33,11 @@ indications:
 - Whether one phenotype becomes the clear lead path for registrational development.
 
 ## Operational study design view
-| Trial | Arms in registry | Active dose levels | Total enrollment | Per-arm sample size summary |
+| Trial | Arms in registry | Active dose regimens | Total enrollment | Per-arm sample size summary |
 |---|---:|---:|---:|---|
-| [NCT06162728](../trials/briquilimab-nct06162728.md) | 2 | 1 | 88 | Direct per-arm N has not yet been promoted from the current local source layer. |
-| [NCT06353971](../trials/briquilimab-nct06353971.md) | 1 | 1 | 27 | Direct per-arm N has not yet been promoted from the current local source layer. |
-| [NCT06736262](../trials/briquilimab-nct06736262.md) | 1 | 1 | 67 | Direct per-arm N has not yet been promoted from the current local source layer. |
+| [NCT06162728](../trials/briquilimab-nct06162728.md) | 2 | NR | 88 | 88 total across 2 listed arms; exact arm-specific counts are not explicitly stated in the current local source text. |
+| [NCT06353971](../trials/briquilimab-nct06353971.md) | 1 | 1 | 27 | Briquilimab n=27 |
+| [NCT06736262](../trials/briquilimab-nct06736262.md) | 1 | 1 | 67 | Briquilimab n=67 |
 
 ## Study Inventory
 

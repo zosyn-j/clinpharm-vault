@@ -39,16 +39,17 @@ This study will also fulfill the Novartis commitment to provide post-trial acces
 
 ## Operational design summary
 - Arms represented in current CT.gov export: 3
-- Active dose levels represented in current local source layer: 2
+- Active dose regimens represented in current local source layer: 1
 - Total study enrollment in CT.gov: 696 (ACTUAL)
-- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+- Per-arm sample size summary: 696 total with a 1:1 allocation schema across 3 listed arms; exact arm-specific counts are not explicitly stated in the current local source text.
+- Arm-size evidence source: ClinicalTrials.gov arm descriptions and summary text.
 
 ## Arms
-| Arm | Type | Description | N | Evidence status |
-|---|---|---|---:|---|
-| Arm 1: LOU064 (blinded) | EXPERIMENTAL | LOU064 (blinded) taken orally for 24 weeks, followed by cycles of either LOU064 (open-label) taken orally for a maximum of 5 cycles of 24 weeks each OR treatment-free observation cycles. Randomized in a 1:1 ratio (arm 1:arm 2) | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| Arm 2: LOU064 Placebo (blinded) | PLACEBO_COMPARATOR | LOU064 placebo (blinded) taken orally for 24 weeks, followed by cycles of either LOU064 (open-label) taken orally for a maximum of 5 cycles of 24 weeks each OR treatment-free observation cycles. Randomized in a 1:1 ratio (arm 1:arm 2) | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| Arm 3: LOU064 (Open Label) | EXPERIMENTAL | LOU064 (open-label) taken orally for 24 weeks per treatment cycle (Arm 3) | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Arm | Type | Dose | Frequency | Route | Description | N | Evidence status |
+|---|---|---|---|---|---|---:|---|
+| Arm 1: LOU064 (blinded) | EXPERIMENTAL | NR | NR | Oral | LOU064 (blinded) taken orally for 24 weeks, followed by cycles of either LOU064 (open-label) taken orally for a maximum of 5 cycles of 24 weeks each OR treatment-free observation cycles. Randomized in a 1:1 ratio (arm 1:arm 2) | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| Arm 2: LOU064 Placebo (blinded) | PLACEBO_COMPARATOR | NR | NR | Oral | LOU064 placebo (blinded) taken orally for 24 weeks, followed by cycles of either LOU064 (open-label) taken orally for a maximum of 5 cycles of 24 weeks each OR treatment-free observation cycles. Randomized in a 1:1 ratio (arm 1:arm 2) | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| Arm 3: LOU064 (Open Label) | EXPERIMENTAL | NR | NR | Oral | LOU064 (open-label) taken orally for 24 weeks per treatment cycle (Arm 3) | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
 
 ## Key source-backed points
 - CT.gov lists 696 actual participants and describes a randomized-withdrawal epoch followed by repeated open-label treatment cycles.
@@ -74,7 +75,7 @@ This study will also fulfill the Novartis commitment to provide post-trial acces
 - Verified facts: this page reflects the current local registry and CT.gov inventory export without inferring unsupported arm sizes or endpoint results.
 - Interpretation: this trial is currently represented mainly by CT.gov and any linked sponsor-source artifacts; manual enrichment is still needed for a richer narrative page.
 - Open questions:
-  - Per-arm realized N values are not promoted unless directly stated in the current local source layer.
+  - Some studies still lack exact arm-specific N in the current promoted evidence layer even when allocation schema or total enrollment is visible.
   - No explicit trial-level primary manuscript is currently linked in the registry.
   - No sponsor artifact is explicitly linked to this trial by identifier in the current registry.
 

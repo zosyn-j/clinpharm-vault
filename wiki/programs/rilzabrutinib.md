@@ -31,7 +31,7 @@ indications:
 - Whether additional sponsor materials reveal broader lifecycle or subtype expansion plans beyond the currently visible CSU focus.
 
 ## Operational study design view
-| Trial | Arms in registry | Active dose levels | Total enrollment | Per-arm sample size summary |
+| Trial | Arms in registry | Active dose regimens | Total enrollment | Per-arm sample size summary |
 |---|---:|---:|---:|---|
 | [NCT05107115](../trials/rilzabrutinib-nct05107115.md) | 4 | 3 | 161 | PMCID full text directly supports randomized sizes of 400 mg/d n=38, 800 mg/d n=41, 1200 mg/d n=41, and placebo n=40 overall; it also reports primary-analysis sample sizes of placebo n=36, 400 mg/d n=37, 800 mg/d n=35, and 1200 mg/d n=35. |
 

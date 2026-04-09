@@ -37,15 +37,16 @@ tags:
 
 ## Operational design summary
 - Arms represented in current CT.gov export: 2
-- Active dose levels represented in current local source layer: 2
+- Active dose regimens represented in current local source layer: 2
 - Total study enrollment in CT.gov: 400 (ESTIMATED)
-- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+- Per-arm sample size summary: 400 total with a 1:1 allocation schema across 2 listed arms; exact arm-specific counts are not explicitly stated in the current local source text.
+- Arm-size evidence source: ClinicalTrials.gov arm descriptions and summary text.
 
 ## Arms
-| Arm | Type | Description | N | Evidence status |
-|---|---|---|---:|---|
-| Treatment group 1: Remibrutinib + Placebo | EXPERIMENTAL | Remibrutinib tablet (25 mg b.i.d. p.o.) + placebo solution for injection in pre-filled syringe (2 s.c. injections at baseline and then 1 s.c. injection every other week \[Weeks 2-10\]) | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| Treatment group 2: Dupilumab + remibrutinib matching placebo | ACTIVE_COMPARATOR | Dupilumab pre-filled syringe (600 mg loading dose \[2 x 300 mg dupilumab s.c. injection\] at baseline visit followed by dupilumab 300 mg s.c. injection every other week \[Weeks 2-10\]) + remibrutinib matching placebo tablet (1 tablet b.i.d. p.o.) | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Arm | Type | Dose | Frequency | Route | Description | N | Evidence status |
+|---|---|---|---|---|---|---:|---|
+| Treatment group 1: Remibrutinib + Placebo | EXPERIMENTAL | 25 mg | BID + Q2W | Subcutaneous + Oral | Remibrutinib tablet (25 mg b.i.d. p.o.) + placebo solution for injection in pre-filled syringe (2 s.c. injections at baseline and then 1 s.c. injection every other week \[Weeks 2-10\]) | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| Treatment group 2: Dupilumab + remibrutinib matching placebo | ACTIVE_COMPARATOR | 600 mg -> 300 mg | BID + Q2W | Subcutaneous + Oral | Dupilumab pre-filled syringe (600 mg loading dose \[2 x 300 mg dupilumab s.c. injection\] at baseline visit followed by dupilumab 300 mg s.c. injection every other week \[Weeks 2-10\]) + remibrutinib matching placebo tablet (1 tablet b.i.d. p.o.) | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
 
 ## Key source-backed points
 - CT.gov describes a double-blind double-dummy study comparing remibrutinib against dupilumab in inadequately controlled adult CSU.
@@ -71,7 +72,7 @@ tags:
 - Verified facts: this page reflects the current local registry and CT.gov inventory export without inferring unsupported arm sizes or endpoint results.
 - Interpretation: this trial is currently represented mainly by CT.gov and any linked sponsor-source artifacts; manual enrichment is still needed for a richer narrative page.
 - Open questions:
-  - Per-arm realized N values are not promoted unless directly stated in the current local source layer.
+  - Some studies still lack exact arm-specific N in the current promoted evidence layer even when allocation schema or total enrollment is visible.
   - No explicit trial-level primary manuscript is currently linked in the registry.
   - No sponsor artifact is explicitly linked to this trial by identifier in the current registry.
 

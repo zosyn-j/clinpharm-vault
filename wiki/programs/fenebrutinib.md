@@ -31,10 +31,10 @@ indications:
 - Whether additional source work shows newer urticaria development activity not yet captured in the current local layer.
 
 ## Operational study design view
-| Trial | Arms in registry | Active dose levels | Total enrollment | Per-arm sample size summary |
+| Trial | Arms in registry | Active dose regimens | Total enrollment | Per-arm sample size summary |
 |---|---:|---:|---:|---|
 | [NCT03137069](../trials/fenebrutinib-nct03137069.md) | 6 | 3 | 134 | PMCID full text directly supports cohort 2 randomized sizes of placebo n=23, fenebrutinib 50 mg daily n=23, 150 mg daily n=24, and 200 mg twice daily n=23; CT.gov lists 134 actual participants overall across both cohorts. |
-| [NCT03693625](../trials/fenebrutinib-nct03693625.md) | 2 | 1 | 31 | Direct per-arm N has not yet been promoted from the current local source layer. |
+| [NCT03693625](../trials/fenebrutinib-nct03693625.md) | 2 | 1 | 31 | 31 total across 2 listed arms; exact arm-specific counts are not explicitly stated in the current local source text. |
 
 ## Study Inventory
 

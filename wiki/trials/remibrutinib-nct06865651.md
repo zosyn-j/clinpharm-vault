@@ -37,17 +37,19 @@ tags:
 
 ## Operational design summary
 - Arms represented in current CT.gov export: 4
-- Active dose levels represented in current local source layer: 2
+- Active dose regimens represented in current local source layer: 2
 - Total study enrollment in CT.gov: 44 (ESTIMATED)
-- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+- Design interpretation: Exploratory parallel-group mixed-CU study with separate remibrutinib/placebo comparisons in CIndU and CSU strata.
+- Per-arm sample size summary: Novartis trial-page text plus CT.gov support approximately 44 total participants across 4 listed arms and notes the study will attempt to enroll approximately 4 to 5 participants for each included chronic urticaria subtype; exact arm-specific counts are not explicitly stated in the current saved source text.
+- Arm-size evidence source: CT.gov plus cached Novartis trial page NCT06865651.
 
 ## Arms
-| Arm | Type | Description | N | Evidence status |
-|---|---|---|---:|---|
-| LOU064-CINDU | EXPERIMENTAL | Diagnosis of Chronic Inducible Urticaria (CINDU), symptoms of symptomatic dermographism urticaria, cold urticaria, cholinergic urticaria, heat urticaria, solar urticaria, urticaria as diagnosed by pressure, evidence of urticaria after exposure to water, evidence of urticaria following contact to identified material causing urticaria symptoms. | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| LOU064-CSU | EXPERIMENTAL | Diagnosis of Chronic Spontaneous Urticaria (CSU) not adequately controlled | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| Placebo-CINDU | PLACEBO_COMPARATOR | Diagnosis of Chronic Inducible Urticaria (CINDU), symptoms of symptomatic dermographism urticaria, cold urticaria, cholinergic urticaria, heat urticaria, solar urticaria, urticaria as diagnosed by pressure, evidence of urticaria after exposure to water, evidence of urticaria following contact to identified material causing urticaria symptoms. | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| Placebo-CSU | PLACEBO_COMPARATOR | Diagnosis of Chronic Spontaneous Urticaria (CSU) not adequately controlled | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Arm | Type | Dose | Frequency | Route | Description | N | Evidence status |
+|---|---|---|---|---|---|---:|---|
+| LOU064-CINDU | EXPERIMENTAL | NR | NR | NR | Diagnosis of Chronic Inducible Urticaria (CINDU), symptoms of symptomatic dermographism urticaria, cold urticaria, cholinergic urticaria, heat urticaria, solar urticaria, urticaria as diagnosed by pressure, evidence of urticaria after exposure to water, evidence of urticaria following contact to identified material causing urticaria symptoms. | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| LOU064-CSU | EXPERIMENTAL | NR | NR | NR | Diagnosis of Chronic Spontaneous Urticaria (CSU) not adequately controlled | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| Placebo-CINDU | PLACEBO_COMPARATOR | NR | NR | NR | Diagnosis of Chronic Inducible Urticaria (CINDU), symptoms of symptomatic dermographism urticaria, cold urticaria, cholinergic urticaria, heat urticaria, solar urticaria, urticaria as diagnosed by pressure, evidence of urticaria after exposure to water, evidence of urticaria following contact to identified material causing urticaria symptoms. | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| Placebo-CSU | PLACEBO_COMPARATOR | NR | NR | NR | Diagnosis of Chronic Spontaneous Urticaria (CSU) not adequately controlled | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
 
 ## Key source-backed points
 - CT.gov lists this as a 12-week randomized participant- and investigator-blinded placebo-controlled exploratory study in chronic urticaria.
@@ -79,7 +81,7 @@ tags:
 - Verified facts: this page reflects the current local registry and CT.gov inventory export without inferring unsupported arm sizes or endpoint results.
 - Interpretation: this trial is currently represented mainly by CT.gov and any linked sponsor-source artifacts; manual enrichment is still needed for a richer narrative page.
 - Open questions:
-  - Per-arm realized N values are not promoted unless directly stated in the current local source layer.
+  - Some studies still lack exact arm-specific N in the current promoted evidence layer even when allocation schema or total enrollment is visible.
   - No explicit trial-level primary manuscript is currently linked in the registry.
 
 ## Provenance

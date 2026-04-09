@@ -35,19 +35,21 @@ tags:
 
 ## Operational design summary
 - Arms represented in current CT.gov export: 6
-- Active dose levels represented in current local source layer: 4
+- Active dose regimens represented in current local source layer: 2
 - Total study enrollment in CT.gov: 196 (ACTUAL)
-- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+- Design interpretation: Phase 2 randomized dose-finding CIndU study run as two parallel 3-arm strata, one in ColdU and one in symptomatic dermographism.
+- Per-arm sample size summary: ACAAI poster text supports ColdU n=96 split as 150 mg Q4W n=32, 300 mg Q8W n=32, placebo n=32, and symptomatic dermographism n=97 split as 150 mg Q4W n=33, 300 mg Q8W n=33, placebo n=31.
+- Arm-size evidence source: Celldex Phase 2 CIndU ACAAI poster text cached locally.
 
 ## Arms
-| Arm | Type | Description | N | Evidence status |
-|---|---|---|---:|---|
-| barzolvolimab 150 mg in patients with Symptomatic Dermographism | EXPERIMENTAL | barzolvolimab 150 mg injection subcutaneous every 4 weeks for 20 weeks | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| barzolvolimab 300 mg in patients with Symptomatic Dermographism | EXPERIMENTAL | barzolvolimab 300 mg injection subcutaneous every 8 weeks for 20 weeks | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| Placebo Comparator in patients with Symptomatic Dermographism | PLACEBO_COMPARATOR | Placebo injection subcutaneous every 4 weeks for 20 weeks | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| barzolvolimab 150 mg in patients with Chronic Inducible Cold Urticaria | EXPERIMENTAL | barzolvolimab 150 mg injection subcutaneous every 4 weeks for 20 weeks | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| barzolvolimab 300 mg in patients with Chronic Inducible Cold Urticaria | EXPERIMENTAL | barzolvolimab 300 mg injection subcutaneous every 8 weeks for 20 weeks | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
-| Placebo Comparator in patients with Chronic Inducible Cold Urticaria | PLACEBO_COMPARATOR | Placebo injection subcutaneous every 4 weeks for 20 weeks | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Arm | Type | Dose | Frequency | Route | Description | N | Evidence status |
+|---|---|---|---|---|---|---:|---|
+| barzolvolimab 150 mg in patients with Symptomatic Dermographism | EXPERIMENTAL | 150 mg | Q4W | Subcutaneous | barzolvolimab 150 mg injection subcutaneous every 4 weeks for 20 weeks | 33 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
+| barzolvolimab 300 mg in patients with Symptomatic Dermographism | EXPERIMENTAL | 300 mg | Q8W | Subcutaneous | barzolvolimab 300 mg injection subcutaneous every 8 weeks for 20 weeks | 33 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
+| Placebo Comparator in patients with Symptomatic Dermographism | PLACEBO_COMPARATOR | NR | Q4W | Subcutaneous | Placebo injection subcutaneous every 4 weeks for 20 weeks | 31 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
+| barzolvolimab 150 mg in patients with Chronic Inducible Cold Urticaria | EXPERIMENTAL | 150 mg | Q4W | Subcutaneous | barzolvolimab 150 mg injection subcutaneous every 4 weeks for 20 weeks | 32 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
+| barzolvolimab 300 mg in patients with Chronic Inducible Cold Urticaria | EXPERIMENTAL | 300 mg | Q8W | Subcutaneous | barzolvolimab 300 mg injection subcutaneous every 8 weeks for 20 weeks | 32 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
+| Placebo Comparator in patients with Chronic Inducible Cold Urticaria | PLACEBO_COMPARATOR | NR | Q4W | Subcutaneous | Placebo injection subcutaneous every 4 weeks for 20 weeks | 32 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
 
 ## Endpoints
 - Primary outcomes:
@@ -69,7 +71,7 @@ tags:
 - Verified facts: this page reflects the current local registry and CT.gov inventory export without inferring unsupported arm sizes or endpoint results.
 - Interpretation: this trial is currently represented mainly by CT.gov and any linked sponsor-source artifacts; manual enrichment is still needed for a richer narrative page.
 - Open questions:
-  - Per-arm realized N values are not promoted unless directly stated in the current local source layer.
+  - Some studies still lack exact arm-specific N in the current promoted evidence layer even when allocation schema or total enrollment is visible.
   - No explicit trial-level primary manuscript is currently linked in the registry.
   - No sponsor artifact is explicitly linked to this trial by identifier in the current registry.
 
