@@ -1,0 +1,596 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT07256392",
+      "orgStudyIdInfo": {
+        "id": "CDX0159-17"
+      },
+      "organization": {
+        "fullName": "Celldex Therapeutics",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Long-term Efficacy and Safety Extension (LTE) Study of Barzolvolimab in Participants With Chronic Spontaneous Urticaria",
+      "officialTitle": "A Phase 3b Long-term Efficacy and Safety Extension Study of Barzolvolimab in Participants With Chronic Spontaneous Urticaria Who Have Completed CDX0159-12 or CDX0159-13"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-03",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2025-11-25",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2028-09",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2028-09",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2025-11-20",
+      "studyFirstSubmitQcDate": "2025-11-20",
+      "studyFirstPostDateStruct": {
+        "date": "2025-12-01",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-03-30",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-03-31",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Celldex Therapeutics",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this extension study is to collect long-term efficacy and safety data on barzolvolimab in adult participants with Chronic Spontaneous Urticaria (CSU) who completed the treatment and follow-up periods of the Phase 3 clinical trials.\n\nThis study will also fulfill the Celldex commitment to provide post-trial access to participants who have completed the phase 3 studies, where applicable.",
+      "detailedDescription": "This is a global, multicenter, long-term extension phase 3b study to determine the time to disease worsening or treatment failure in adult participants with Chronic Spontaneous Urticaria (CSU) who completed the treatment and follow-up periods the phase 3 clinical trials.\n\nThe study will consist of 2 Groups: Group 1 (Observation Group), comprising participants whose UAS7 score is less than 16 at entry and Group 2 (Barzolvolimab Retreatment Group) comprising participants whose UAS7 score is 16 or greater.\n\nParticipation in this trial will last for approximately 52 weeks for participants assigned to Group 1 (Observation Group) and who do not receive barzolvolimab during the trial. Participants assigned to Group 1 who require barzolvolimab rescue during the trial will be in the trial for up to 68 weeks. Participants assigned to Group 2 (Barzolvolimab Retreatment Group), trial participation will last for approximately 68 weeks from the start of treatment (Day 1)."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ],
+      "keywords": [
+        "CDX-0159",
+        "barzolvolimab",
+        "chronic spontaneous urticaria",
+        "CSU",
+        "urticaria activity score",
+        "itch severity score"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "designInfo": {
+        "allocation": "NON_RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 1370,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Group 1 Observation Group",
+          "type": "EXPERIMENTAL",
+          "description": "Standard of care treatment (at least 2nd generation Type 1 antihistamines \\[H1AH\\] with or without other permitted background medications) for 52 weeks.\n\nFor participants with worsening disease (UAS7 score of 16 or greater at any time between Weeks 0-24), barzolvolimab will be administered once as a 300 mg subcutaneous injection followed by 150 mg every 4 weeks for up to 52 weeks.",
+          "interventionNames": [
+            "Biological: barzolvolimab",
+            "Other: Standard of Care"
+          ]
+        },
+        {
+          "label": "Group 2 Barzolvolimab Retreatment Group",
+          "type": "EXPERIMENTAL",
+          "description": "Barzolvolimab given once as a 300 mg subcutaneous injection followed by 150 mg administered every 4 weeks for 52 weeks",
+          "interventionNames": [
+            "Biological: barzolvolimab"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "barzolvolimab",
+          "description": "Subcutaneous Administration",
+          "armGroupLabels": [
+            "Group 1 Observation Group",
+            "Group 2 Barzolvolimab Retreatment Group"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Standard of Care",
+          "description": "Observational/Standard of Care",
+          "armGroupLabels": [
+            "Group 1 Observation Group"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Time to disease worsening or treatment failure through Week 52 based on the occurrence of UAS7 (Urticaria Activity Score) of 16 or greater.",
+          "description": "The UAS7 is a simple scoring system to evaluate urticaria signs and symptoms. It is based on scoring wheals (hive severity score) and itch (itch severity score) separately on a scale of 0 (no signs/symptoms) to 3 (intense signs/symptoms) over 7 days. The final score is calculated by adding together the daily scores, which can range from 0 to 6, for 7 days. This results in a maximum total score of 42, and a minimum possible score of 0.",
+          "timeFrame": "From Day 1 (baseline) to Week 52."
+        },
+        {
+          "measure": "Time to disease worsening or treatment failure through Week 52 based on the occurrence of the discontinuation of barzolvolimab in Group 2 due to lack of efficacy or to a treatment related adverse event.",
+          "description": "Evaluate duration of efficacy of barzolvolimab on urticaria activity or to a treatment related adverse event.",
+          "timeFrame": "From Day 1 (baseline) to Week 52."
+        },
+        {
+          "measure": "Time to disease worsening or treatment failure through Week 52 based on the occurrence of first use of strongly confounding prohibited medication (Group 1 or 2) or use of barzolvolimab in Group 1.",
+          "description": "Evaluate duration of efficacy of barzolvolimab on urticaria activity leading to initiation of either a confounding prohibited medication (Group 1 or 2) or barzolvolimab in Group 1.",
+          "timeFrame": "From Day 1 (baseline) to Week 52."
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Group 1: Change from baseline in Urticaria Activity Score (UAS7) at Week 26.",
+          "description": "Evaluate efficacy of barzolvolimab on urticaria activity as measured by urticaria activity score (UAS7).\n\nThe UAS7 is a simple scoring system to evaluate urticaria signs and symptoms. It is based on scoring wheals (hive severity score) and itch (itch severity score) separately on a scale of 0 (no signs/symptoms) to 3 (intense signs/symptoms) over 7 days. The final score is calculated by adding together the daily scores, which can range from 0 to 6, for 7 days. This results in a maximum total score of 42, and a minimum possible score of 0.",
+          "timeFrame": "From Day 1 (baseline) in phase 3 trial to Week 26."
+        },
+        {
+          "measure": "Group 1: Change from baseline in UAS7 at Week 52/End of Study.",
+          "description": "Evaluate efficacy of barzolvolimab on urticaria activity as measured by urticaria activity score (UAS)\n\nThe UAS7 is a simple scoring system to evaluate urticaria signs and symptoms. It is based on scoring wheals (hive severity score) and itch (itch severity score) separately on a scale of 0 (no signs/symptoms) to 3 (intense signs/symptoms) over 7 days. The final score is calculated by adding together the daily scores, which can range from 0 to 6, for 7 days. This results in a maximum total score of 42, and a minimum possible score of 0.",
+          "timeFrame": "From Day 1 (baseline) in phase 3 trial to Week 52/End of Study."
+        },
+        {
+          "measure": "Percentage of Group 1 participants with UAS7 \u2264 6 at week 26.",
+          "description": "Group 1: Proportion of participants who maintained at least well-controlled disease (UAS7 \u2264 6) at Week 26.",
+          "timeFrame": "From Day 1 (baseline) to Week 26."
+        },
+        {
+          "measure": "Percentage of Group 1 participants with UAS7 \u2264 6 at week 52.",
+          "description": "Group 1: Proportion of participants who maintained at least well-controlled disease (UAS7 \u2264 6) at Week 52.",
+          "timeFrame": "From Day 1 (baseline) to Week 52/End of Study."
+        },
+        {
+          "measure": "Percentage of Group 1 participants with UAS7 = 0 at Day 1 who have UAS7 \u2264 6 at Week 26.",
+          "description": "Group 1: Proportion of participants with complete absence of hives and itch (UAS7 = 0) at Day 1 who have well controlled CSU (UAS7 \u2264 6) at Week 26.",
+          "timeFrame": "From Day 1 (baseline) to Week 26."
+        },
+        {
+          "measure": "Percentage of Group 1 participants with UAS7 = 0 at Day 1 who have UAS7 \u2264 6 at Week 52.",
+          "description": "Group 1: Proportion of participants with complete absence of hives and itch (UAS7 = 0) at Day 1 who have well-controlled disease (UAS7 \u2264 6) at Week 52.",
+          "timeFrame": "From Day 1 (baseline) to Week 52/End of Treatment."
+        },
+        {
+          "measure": "Group 1: Proportion of participants with complete absence of hives and itch (UAS7 = 0 AAS7 = 0) at Day 1 who maintained complete control at Week 26.",
+          "description": "Angioedema Activity Score over 7 days \\[AAS7\\] describes the effect of angioedema on five categories with 0 being none and 3 being most severe. The final score is calculated by adding together daily scores which can range from 0-15 for 7 days. The resulting maximum score is then 105.",
+          "timeFrame": "From Day 1 (baseline) to Week 26."
+        },
+        {
+          "measure": "Group 1: Proportion of participants with complete absence of hives and itch (UAS7 = 0 AAS7 = 0) at Day 1 who maintained complete control at Week 52.",
+          "description": "Angioedema Activity Score over 7 days \\[AAS7\\] describes the effect of angioedema on five categories with 0 being none and 3 being most severe. The final score is calculated by adding together daily scores which can range from 0-15 for 7 days. The resulting maximum score is then 105.",
+          "timeFrame": "From Day 1 (baseline) to Week 52/End of Study."
+        },
+        {
+          "measure": "Group 1: Participants with UAS7 \u2264 6 at Day 1, time to loss of well-controlled disease through Week 52.",
+          "description": "Group 1: Participants with at least well-controlled disease (UAS7 \u2264 6) at Day 1, time to loss of well-controlled disease through Week 52.",
+          "timeFrame": "From Day 1 (baseline) to Week 52/End of Study."
+        },
+        {
+          "measure": "Group 1: Participants with UAS7 = 0 at Day 1, time to loss of complete controlled disease through Week 52.",
+          "description": "Group 1: Participants with complete absence of hives and itch (UAS7 = 0) at Day 1, time to loss of complete controlled disease through Week 52.",
+          "timeFrame": "From Day 1 (baseline) to Week 52/End of Study."
+        },
+        {
+          "measure": "Group 1: Participants with UAS7 = 0 and AAS7 = 0 at Day 1, time to loss of CSU completely controlled through Week 52.",
+          "description": "Group 1: Participants with complete controlled CSU (UAS7 = 0 and AAS7 = 0) at Day 1, time to loss of CSU completely controlled through Week 52.",
+          "timeFrame": "From Day 1 (baseline) to Week 52/End of Study."
+        },
+        {
+          "measure": "Group 2: Change from baseline in UAS7 at Week 12.",
+          "description": "Evaluate efficacy of barzolvolimab on urticaria activity as measured by urticaria activity score (UAS7).",
+          "timeFrame": "From Day 1 (baseline) to Week 12."
+        },
+        {
+          "measure": "Group 2: Change from baseline in UAS7 at Week 24.",
+          "description": "Evaluate efficacy of barzolvolimab on urticaria activity as measured by urticaria activity score (UAS7).",
+          "timeFrame": "From Day 1 (baseline) to Week 24."
+        },
+        {
+          "measure": "Group 2: Change from baseline in UAS7 at Week 52.",
+          "description": "Evaluate efficacy of barzolvolimab on urticaria activity as measured by urticaria activity score (UAS7).",
+          "timeFrame": "From Day 1 (baseline) to Week 52."
+        },
+        {
+          "measure": "Group 2: Change from baseline in UAS7 at Week 68.",
+          "description": "Evaluate efficacy of barzolvolimab on urticaria activity as measured by urticaria activity score (UAS7).",
+          "timeFrame": "From Day 1 (baseline) to Week 68."
+        },
+        {
+          "measure": "Group 2: Percentage of participants with UAS7 \u2264 6 at Week 12.",
+          "description": "Group 2: Proportion of participants with at least well-controlled disease (UAS7 \u2264 6) at Week 12.",
+          "timeFrame": "From Day 1 (baseline) to Week 12."
+        },
+        {
+          "measure": "Group 2: Percentage of participants with UAS7 \u2264 6 at Week 24.",
+          "description": "Group 2: Proportion of participants with at least well-controlled disease (UAS7 \u2264 6) at Week 24.",
+          "timeFrame": "From Day 1 (baseline) to Week 24."
+        },
+        {
+          "measure": "Group 2: Percentage of participants with UAS7 \u2264 6 at Week 52.",
+          "description": "Group 2: Proportion of participants with at least well-controlled disease (UAS7 \u2264 6) at Week 52.",
+          "timeFrame": "From Day 1 (baseline) to Week 52."
+        },
+        {
+          "measure": "Group 2: Percentage of participants with UAS7 \u2264 6 at Week 68.",
+          "description": "Group 2: Proportion of participants with at least well-controlled disease (UAS7 \u2264 6) at Week 68.",
+          "timeFrame": "From Day 1 (baseline) to Week 68."
+        },
+        {
+          "measure": "From Day 1 (baseline) to Week 68.",
+          "description": "Group 2: Proportion of participants who achieve complete absence of hives and itch (UAS7 = 0) at Week 12.",
+          "timeFrame": "From Day 1 (baseline) to Week 12."
+        },
+        {
+          "measure": "Group 2: Percentage of participants with UAS7 = 0 at Week 24.",
+          "description": "Group 2: Proportion of participants who achieve complete absence of hives and itch (UAS7 = 0) at Week 24.",
+          "timeFrame": "From Day 1 (baseline) to Week 24."
+        },
+        {
+          "measure": "Group 2: Percentage of participants with UAS7 = 0 at Week 52.",
+          "description": "Group 2: Proportion of participants who achieve complete absence of hives and itch (UAS7 = 0) at Week 52.",
+          "timeFrame": "From Day 1 (baseline) to Week 52."
+        },
+        {
+          "measure": "Group 2: Percentage of participants with UAS7 = 0 at Week 68.",
+          "description": "Group 2: Proportion of participants who achieve complete absence of hives and itch (UAS7 = 0) at Week 68.",
+          "timeFrame": "From Day 1 (baseline) to Week 68."
+        },
+        {
+          "measure": "Group 1 Incidence of adverse events.",
+          "description": "Group 1: Proportion of participants experiencing adverse events during the study.",
+          "timeFrame": "From Day 1 to Week 52."
+        },
+        {
+          "measure": "Group 1 Incidence of non-treatment emergent adverse events.",
+          "description": "Group 1: Proportion of participants who never receive barzolvolimab retreatment experiencing non-treatment emergent adverse events.",
+          "timeFrame": "From Day 1 to Week 52."
+        },
+        {
+          "measure": "Group 1 Incidence of treatment emergent adverse events in participants receiving barzolvolimab retreatment.",
+          "description": "Group 1: Proportion of participants who receive barzolvolimab retreatment experiencing treatment emergent adverse events.",
+          "timeFrame": "From Day 1 to Week 68."
+        },
+        {
+          "measure": "Group 1 Incidence of treatment emergent adverse events leading to treatment discontinuation.",
+          "description": "Group 1: Proportion of participants who receive barzolvolimab retreatment experiencing treatment emergent adverse events leading to treatment discontinuation during the study.",
+          "timeFrame": "From Day 1 to Week 68."
+        },
+        {
+          "measure": "Group 2 Incidence of treatment emergent adverse events.",
+          "description": "Group 2: Proportion of participants experiencing treatment emergent adverse events during the study.",
+          "timeFrame": "Time Frame: From Day 1 to Week 68."
+        },
+        {
+          "measure": "Group 2 Incidence of treatment emergent adverse events leading to treatment discontinuation.",
+          "description": "Group 2: Proportion of participants experiencing treatment emergent adverse events leading to treatment discontinuation during the study.",
+          "timeFrame": "From Day 1 to Week 68."
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Key Inclusion Criteria:\n\n1. Written informed consent\n2. Must have successfully completed the preceding phase 3 clinical trials (CDX0159-12 or CDX0159-13).\n3. Both males and females of child-bearing potential must agree to use highly effective contraceptives when receiving barzolvolimab treatment and for 150 days after treatment.\n4. Willing and able to comply with all study requirements and procedures, including completion of a daily symptom electronic diary.\n\nKey Exclusion Criteria:\n\n1. Active pruritic skin condition in addition to CSU.\n2. Medical condition that would cause additional risk or interfere with study procedures.\n3. Participants without at least one documented UAS7 score from Weeks 64-68 of the CDX0159-12 or CDX0159-13 trials.\n\nThere are additional criteria that your study doctor will review with you to confirm you are eligible for the study.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Celldex Therapeutics",
+          "role": "CONTACT",
+          "phone": "844-723-9363",
+          "email": "clinicaltrials@celldex.com"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Cahaba Dermatology & Skin Health Center, LLC",
+          "status": "RECRUITING",
+          "city": "Birmingham",
+          "state": "Alabama",
+          "zip": "35244",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.52066,
+            "lon": -86.80249
+          }
+        },
+        {
+          "facility": "Center for Dermatology & Plastic Surgery - Avacare",
+          "status": "RECRUITING",
+          "city": "Scottsdale",
+          "state": "Arizona",
+          "zip": "85260",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.50921,
+            "lon": -111.89903
+          }
+        },
+        {
+          "facility": "Dermatology Research Associates",
+          "status": "RECRUITING",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90045",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.05223,
+            "lon": -118.24368
+          }
+        },
+        {
+          "facility": "Encore Medical Research of Boynton Beach LLC",
+          "status": "RECRUITING",
+          "city": "Boynton Beach",
+          "state": "Florida",
+          "zip": "33436",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.52535,
+            "lon": -80.06643
+          }
+        },
+        {
+          "facility": "Direct Helpers Research Center",
+          "status": "RECRUITING",
+          "city": "Hialeah",
+          "state": "Florida",
+          "zip": "33012",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.8576,
+            "lon": -80.27811
+          }
+        },
+        {
+          "facility": "Deluxe Health Center",
+          "status": "RECRUITING",
+          "city": "Miami Lakes",
+          "state": "Florida",
+          "zip": "33014",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.90871,
+            "lon": -80.30866
+          }
+        },
+        {
+          "facility": "Advanced Clinical Research Institute (ACRI) - Florida",
+          "status": "RECRUITING",
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33607",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.94752,
+            "lon": -82.45843
+          }
+        },
+        {
+          "facility": "Centricity Research Columbus Dermatology",
+          "status": "RECRUITING",
+          "city": "Columbus",
+          "state": "Georgia",
+          "zip": "31904",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.46098,
+            "lon": -84.98771
+          }
+        },
+        {
+          "facility": "The South Bend Clinic - Avacare",
+          "status": "RECRUITING",
+          "city": "South Bend",
+          "state": "Indiana",
+          "zip": "46617",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.68338,
+            "lon": -86.25001
+          }
+        },
+        {
+          "facility": "Institute for Asthma and Allergy",
+          "status": "RECRUITING",
+          "city": "Wheaton",
+          "state": "Maryland",
+          "zip": "20902",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.03983,
+            "lon": -77.05526
+          }
+        },
+        {
+          "facility": "Respiratory Medicine Research Institute of Michigan PLC",
+          "status": "RECRUITING",
+          "city": "Ypsilanti",
+          "state": "Michigan",
+          "zip": "48197",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.24115,
+            "lon": -83.61299
+          }
+        },
+        {
+          "facility": "Michigan Center for Research Co., LLC (or Profound Research LLC at Clarkson Medical Group as listed in Suvoda)",
+          "status": "RECRUITING",
+          "city": "Clarkson",
+          "state": "Missouri",
+          "zip": "48346",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.04895,
+            "lon": -94.00493
+          }
+        },
+        {
+          "facility": "Montana Medical Research, Inc.",
+          "status": "RECRUITING",
+          "city": "Missoula",
+          "state": "Montana",
+          "zip": "59808",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 46.87215,
+            "lon": -113.994
+          }
+        },
+        {
+          "facility": "Bexley Dermatology Research",
+          "status": "RECRUITING",
+          "city": "Bexley",
+          "state": "Ohio",
+          "zip": "43209",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.96895,
+            "lon": -82.93768
+          }
+        },
+        {
+          "facility": "Toledo Institute for Clinical Research",
+          "status": "RECRUITING",
+          "city": "Toledo",
+          "state": "Ohio",
+          "zip": "43617",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.66394,
+            "lon": -83.55521
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "UNDECIDED"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-04-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000080223",
+          "term": "Chronic Urticaria"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014581",
+          "term": "Urticaria"
+        },
+        {
+          "id": "D017445",
+          "term": "Skin Diseases, Vascular"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D006969",
+          "term": "Hypersensitivity, Immediate"
+        },
+        {
+          "id": "D006967",
+          "term": "Hypersensitivity"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D059039",
+          "term": "Standard of Care"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D019984",
+          "term": "Quality Indicators, Health Care"
+        },
+        {
+          "id": "D011787",
+          "term": "Quality of Health Care"
+        },
+        {
+          "id": "D006298",
+          "term": "Health Services Administration"
+        },
+        {
+          "id": "D017530",
+          "term": "Health Care Quality, Access, and Evaluation"
+        }
+      ]
+    }
+  },
+  "hasResults": false,
+  "_meta": {
+    "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT07256392",
+    "fetched_at": "2026-04-09T00:59:09.835590+00:00"
+  }
+}

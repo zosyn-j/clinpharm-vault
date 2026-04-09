@@ -1,0 +1,247 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04548869",
+      "orgStudyIdInfo": {
+        "id": "CDX0159-03"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2020-002792-35",
+          "type": "EUDRACT_NUMBER"
+        }
+      ],
+      "organization": {
+        "fullName": "Celldex Therapeutics",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Single Dose Study of the Safety, Pharmacokinetics and Pharmacodynamics of CDX-0159 in Patients With Cold Contact Urticaria, Symptomatic Dermographism, or Cholinergic Urticaria",
+      "officialTitle": "An Open Label, Phase 1 Single Dose Study to Assess the Safety, Pharmacokinetics, and Pharmacodynamics of CDX-0159 as Add on Therapy in Patients With Cold Contact Urticaria, Symptomatic Dermographism and Cholinergic Urticaria"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2023-05",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2020-11-24",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2022-12-16",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2023-05-12",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2020-09-08",
+      "studyFirstSubmitQcDate": "2020-09-08",
+      "studyFirstPostDateStruct": {
+        "date": "2020-09-16",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2023-05-16",
+      "lastUpdatePostDateStruct": {
+        "date": "2023-05-17",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Celldex Therapeutics",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This is a study to determine the safety of CDX-0159 in patients with Cold Contact Urticaria, Symptomatic Dermographism, or Cholinergic Urticaria.",
+      "detailedDescription": "This study is an open label Phase 1 study evaluating the safety, pharmacokinetics, and pharmacodynamics of a single dose of CDX-0159 in patients with Cold Contact Urticaria, Symptomatic Dermographism, or Cholinergic Urticaria who remain symptomatic despite treatment with antihistamines. Twenty patients with Cold Contact Urticaria, ten patients with Symptomatic Dermographism, and ten patients with Cholinergic Urticaria will be enrolled in four separate cohorts for a total of 40 patients.\n\nProspective patients will be screened with tests in clinic as well as daily at home diaries for 2 weeks prior to enrollment. CDX-0159 will be administered intravenously on Day 1. Post-treatment, patients will be followed for 12 weeks with an optional longer term follow up period."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Cold Urticaria",
+        "Cold Contact Urticaria",
+        "Symptomatic Dermographism",
+        "Symptomatic Dermatographism",
+        "Cholinergic Urticaria"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 41,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "CDX-0159",
+          "type": "EXPERIMENTAL",
+          "description": "20 patients with Cold Contact Urticaria, 10 patients with Symptomatic Dermographism, and 10 patients with Cholinergic Urticaria will be enrolled and treated with a single dose of CDX-0159",
+          "interventionNames": [
+            "Drug: CDX-0159"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "CDX-0159",
+          "description": "Administered intravenously",
+          "armGroupLabels": [
+            "CDX-0159"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Safety as assessed by the incidence and severity of adverse events",
+          "description": "Safety of a single dose of CDX-0159 as determined by adverse events",
+          "timeFrame": "From Day 1 through week 12"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "For patients with Cold Contact Urticaria, Change in Critical Temperature Thresholds (CTT)",
+          "description": "The change from baseline in critical temperature thresholds over time as determined by provocation testing using the TempTest\u00ae",
+          "timeFrame": "From Day 1 to Day 85"
+        },
+        {
+          "measure": "For patients with Symptomatic Dermographism, change in provocation thresholds",
+          "description": "The change from baseline in provocation thresholds over time as determined by provocation testing using the FricTest\u00ae",
+          "timeFrame": "From Day 1 to Day 85"
+        },
+        {
+          "measure": "For patients with Cholinergic Urticaria, changes in baseline Urticaria Activity Score Provocation (UASprovo)",
+          "description": "Changes from baseline and percentage of responders as measured by UASprovo",
+          "timeFrame": "From Day 1 to Day 85"
+        },
+        {
+          "measure": "Changes from baseline in Urticaria Control Test (UCT)",
+          "description": "Changes from baseline and percentage of responders for the UCT and modified UCT",
+          "timeFrame": "From Day 1 to Day 85"
+        },
+        {
+          "measure": "Blood Biomarkers",
+          "description": "Pre-treatment and post-treatment blood samples will be collected and analyzed for changes in Stem Cell Factor",
+          "timeFrame": "From Day 1 to Day 85"
+        },
+        {
+          "measure": "Blood Biomarkers",
+          "description": "Pre-treatment and post-treatment blood samples will be collected and analyzed for changes in tryptase",
+          "timeFrame": "From Day 1 to Day 85"
+        },
+        {
+          "measure": "Pharmacokinetic Evaluation",
+          "description": "CDX-0159 concentrations will be measured.",
+          "timeFrame": "From Day 1 to Day 85"
+        },
+        {
+          "measure": "Immunogenicity Evaluation",
+          "description": "Patients will be monitored for the development of anti-drug antibodies.",
+          "timeFrame": "From Day 1 to Day 85"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Key Inclusion Criteria:\n\n1. Diagnosis of Cold Contact Urticaria, Symptomatic Dermographism, or Cholinergic Urticaria which does not respond to antihistamines\n\n   * Diagnosis for \u2265 3 months; symptoms of both hive (wheal) and itch/burning/painful sensation despite concurrent use of anti-histamines\n   * During screening, in clinic, for Cold Contact Urticaria, patients must have a positive cold stimulation test, for Symptomatic Dermographism, patients must have a positive FricTest\u00ae, and for Cholinergic Urticaria, patients must have a positive pulse-controlled ergometry (PCE) provocation test\n   * On stable dose of antihistamines\n2. Other than a diagnosis of Cold Contact Urticaria, Symptomatic Dermographism, or Cholinergic Urticaria, no other conditions which would introduce additional risk factors or would interfere with the study procedures, as determined by the investigator, based on a medical evaluation\n3. Female and male patients must use highly effective contraception from the time of the screening visit and for at least 150 days after receipt of study treatment\n4. Willing and able to comply with all study requirements and procedures including completion of a daily medication diary and questionnaires\n\nKey Exclusion Criteria:\n\n1. A clearly defined diagnosis of hives or angioedema other than chronic urticaria.\n2. Receipt of prior biologic therapy (e.g.: omalizumab, dupilumab, ligelizumab) within past 3 months\n3. Treatment with immunosuppressives (e.g. systemic corticosteroids, cyclosporine, methotrexate, dapsone, cyclophosphamide, tacrolimus and mycophenolate mofetil, hydroxychloroquine or others) within 4 weeks or 5 half lives\n4. Active COVID-19 infection\n5. HIV, hepatitis B or hepatitis C infection\n\nThere are additional criteria that your study doctor will review with you to confirm you are eligible for the study.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "75 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Charite University",
+          "city": "Berlin",
+          "zip": "10117",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.52437,
+            "lon": 13.41053
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-04-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000096703",
+          "term": "Cold Urticaria"
+        },
+        {
+          "id": "C536612",
+          "term": "Familial dermographism"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014581",
+          "term": "Urticaria"
+        },
+        {
+          "id": "D017445",
+          "term": "Skin Diseases, Vascular"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D006969",
+          "term": "Hypersensitivity, Immediate"
+        },
+        {
+          "id": "D006967",
+          "term": "Hypersensitivity"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false,
+  "_meta": {
+    "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT04548869",
+    "fetched_at": "2026-04-09T00:59:09.835590+00:00"
+  }
+}

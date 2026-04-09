@@ -1,0 +1,368 @@
+# AAAAI 2024 BLU-808 WT KIT poster
+
+- Program: blu-808
+- Priority class: KIT
+- Sponsor: Blueprint Medicines
+- Source URL: https://www.blueprintmedicines.com/wp-content/uploads/2024/02/Blueprint-Medicines-AAAAI-2024-BLU-808-Wild-Type-KIT-Mast-Cell-Disorders-Poster.pdf
+- Fetched at: 2026-04-09T01:06:40.549706+00:00
+- Raw PDF: aaaai-2024-blu-808-wt-kit-poster.pdf
+- Extracted text: aaaai-2024-blu-808-wt-kit-poster.txt
+
+## Extracted PDF text
+
+```text
+Poster
+BLU-808, a Potent and Selective Small Molecule Inhibitor of Wild-Type KIT for Mast Cell Disorders Number
+ 189
+Alexandra Grassian, Andrew Haidle, Sophia AuDuong, James Baker, Guangyan Du, Megan Hatlen, Melissa Hiki, Karen Ho, Wei Hu, Kevin Keane, Thiwanka Samarakoon Mudiyanselage,
+ 1 1 1 1 1 1 1 1 1 1 1
+
+Emanuele Perola, Christine Pien, Priyanka Sawant, Doug Wilson, Rob Meissner, Jason Brubaker, Scott Ribich, Joseph Kim
+ 1 1 1 1 1 1 1 1
+
+1
+ Blueprint Medicines Corporation, Cambridge, MA, USA
+
+ Figure 4. BLU-808 inhibits activation of human-derived CD34+ mast cells Figure 6. In an exposure-dependent manner, BLU-808 can decrease mast cell number after 7 days Figure 7. A single dose of BLU-808 inhibits SCF-induced histamine release in mice
+ Background Results of dosing in rats
+ Inhibition of SCF-mediated histamine release in mice
+KIT is a transmembrane receptor tyrosine kinase, which plays important roles in mast cell differentiation, A
+ Table 1. BLU-808 is an investigational potent and selective inhibitor of WT KIT
+proliferation, survival, chemotaxis, and activation. The KIT ligand, more commonly termed Stem Cell Factor A Haired skin B Tongue KIT 120
+(SCF), binds to KIT and induces the formation of homodimers/oligomers, trans phosphorylation, and activation of BLU-808 Inhibitor Free unbound IC50:
+downstream intracellular signaling cascades.1 In murine models with inactivating mutations in either SCF or KIT, IgE 100
+a dramatic decrease in the number of mast cells is observed.2–7 Conversely, in patients with systemic mastocytosis, pKIT cellular IC50 (nM) 0.37 0.247 nM
+ 50 80
+activating KIT mutations lead to a pathological overabundance of mast cells.8–10 Other diseases, such as chronic
+
+ Histamine % of control
+ 80
+urticaria, are characterized by inappropriate mast cell activation but are wild-type (WT) for KIT11,12 and could benefit WT KIT-dependent proliferation IC50 (nM) 1.3
+ KIT ➜ CD63 surface SCF
+from a small molecule therapeutic agent targeting WT KIT. inhibitor expression or
+ 60
+ Human-derived CD34 mast cells: inhibition of CD63 extracellular expression IC50 (nM)
+ +
+ 2.7 40
+ ≥6 weeks histamine 60
+ 40
+
+ Mast cells/mm2 of tissue
+
+ Mast cells/mm2 of tissue
+ Human-derived CD34+ mast cells: inhibition of histamine degranulation IC50 (nM) 8.6 release
+ Bone marrow
+ Figure 1. Mast cells in allergic reactions and immune response; WT KIT is a key player in mast cells or mobilized PB Mast cell
+ Anti-IgE
+ 30
+ * 20
+ PDGFRA/B/FLT3 selectivitya >300x/>400x/>9600x
+ stem cell **
+ 40 0
+ S(10) @ 3 μM 0.042
+ 20 *
+ CSF1R Kd selectivity >800x –20 0.01 0.1 1 10 100 1000
+ Decreased CD63 expression and histamine release in treated human-derived CD34+ mast cells stimulated
+ Brain penetrance (Kpu,u) with IgE and anti-IgE 20 Mast cell –40 Free BLU-808 (nM)
+ 0.021
+ B C 10 degranulation
+ CSF1R, colony stimulating factor 1 receptor; FLT3, FMS-like tyrosine kinase 3; IC50, half-maximal inhibitory concentration; PDGFRA/B, platelet-derived growth factor
+ receptor alpha/beta; pKIT, phosphorylated KIT; S(10) @ 3 μM, selectivity score at a concentration of 3 μM; Kpu,u, unbound brain to plasma partition coefficient. ** ***
+ a
+ Determined in a cellular assay. Average IC50: Average IC50: • Mast cell degranulation was modeled in mice by SCF induction. Mice were treated with BLU-808, and 3 hours later
+ 2.7 nM 8.6 nM SCF was injected in the tail vein. Histamine release was measured in the plasma and BLU-808 was able to inhibit
+ 120 120 0 0
+ 176 176
+ histamine release at an IC50 of 0.247 nM, corrected for free concentration of BLU-808 (Figure 7)
+ 0 14 64 0 14 64
+ 100 100
+
+ Histamine release % inhibition
+ Figure 2. BLU-808 inhibits WT KIT in vitro and is selective over key off-targets PDGFRA/B and FLT3 AUC (ng*h/mL x 103) of BLU-808 AUC (ng*h/mL x 103) of BLU-808
+
+ CD63 expression % inhibition
+ Figure 8. A single dose of BLU-808 inhibits asthma-like phenotypes in a rodent OVA-induced
+ 80 80 asthma model
+ Total mast cell %
+ 120 reduction from control: -- 35% 49% 92% -- 40% 54% 95%
+ 60 60 Rat 2 hours after final OVA challenge
+ 10
+ 100 40 40 AUC, area under the curve. Horizontal lines represent mean and standard deviation. *, P<0.05; **, P<0.005; ***, P<0.0001; all per 2-way analysis of variance with Tukey’s
+ correction for multiple comparisons.
+
+ 20 20 Vehicle without OVA challenges
+ 80 OVA IP 8
+ C OVA IP Vehicle
+ 0 0 OVA IP 28 days 263
+
+ Penh (mean ± SEM)
+ OVA aerosol 58 Average free nM OVA antigen
+ 60
+
+ 0.01
+
+ 0.1
+
+ 1
+
+ 10
+
+ 100
+
+ 1000
+ % inhibition
+
+ 7 at 3 hours post challenge
+ –20 –20 6 dose
+ 0.05
+
+ 0.01
+
+ 0.1
+
+ 1
+
+ 10
+
+ 100
+
+ 1000
+ >300x BLU-808
+ 40 ***
+ –40 –40 oral dose ***
+ BLU-808 concentration (nM) BLU-808 concentration (nM) 4
+ 20 ***
+
+ 0 Mast cells
+ IgE, immunoglobulin E; PB, peripheral blood.
+ 2
+ ***
+ Mast cells OVA aerosol
+ –20 Plasma PK
+ 0.01
+
+ 0.1
+
+ 1
+
+ 10
+
+ 100
+
+ 1000
+
+ 10000
+ • BLU-808 is potent in two human-derived CD34+ mast cell assays (Figure 4A), CD63 extracellular staining (Figure 4B) Nerve 0
+ –40 BLU-808 Concentration (nM) and histamine release (Figure 4C) Blood Vehicle BLU-808
+ Penh Measurement
+ vessel of airway hyper-responsiveness Single oral dose
+ WT KIT phosphorylation (M-07e pKIT) PDGRFB phosphorylation (SW579) % inhibition BLU-808 >300-fold selective at WT KIT IP, intraperitoneal; OVA, ovalbumin; PK, pharmacokinetics; SEM, standard error of the mean ***, P<0.0001 per 2-way analysis of variance with Dunnett’s correction for
+ % inhibition PDGRFA phosphorylation (SW579) % inhibition vs PDGFRA, >400-fold vs PDGFRB, Figure 5. BLU-808 inhibits degranulation of human-derived CD34+ mast cells multiple comparisons.
+ WT KIT proliferation (UT-7) % inhibition FLT3-dependent proliferation (MV4-11) % inhibition and >9600-fold vs FLT3
+ • KIT inhibition by BLU-808 decreased OVA-induced airway hyper-responsiveness in mice in vivo (Figure 8)
+ Serves as first Releases diverse Mediates inflammation Vehicle 10 nM BLU-808 5 µM cetirizine
+ line of defense granule contents & tolerance
+ Control animal BLU-808 treated Conclusions
+ • BLU-808 shows potent inhibition of SCF-stimulated pKIT in M-07e cells and SCF-stimulated proliferation in
+ Supports anti- UT-7 cells (Figure 2). BLU-808 is selective over key off-target proteins, PDGFRA and B phosphorylation in Haired skin: Subcutis at high magnification, toluidine blue staining
+ A inflammatory • BLU-808 is a potent and selective investigational WT KIT inhibitor
+ • Histamine cell generation
+ PDGFBB-stimulated SW579 cells and FLT3-dependent proliferation in MV4-11 cells that is CNS sparing and orally bioavailable ast cell inhib
+ ll m itio
+ Mast cells reside
+ • Heparin D Fu
+
+ Reduced mast
+ 1 in healthy tissue • Proteases • BLU-808 demonstrates potent inhibition of human-derived CD34+
+
+ n
+ cell activity
+ Mast cell • Cytokines Degrades
+ mast cell activation and in vivo inhibition of SCF-induced histamine
+
+ depletion
+ Mast cell
+ • Antimicrobial B inflammatory
+ peptides cytokines Figure 3. Human mast cell assays correlate with inhibition of WT KIT release. BLU-808 can also decrease mast cell number in vivo
+ Other immune
+ 2 cells recruited later Neutrophil Recruits & • BLU-808 offers a potential best in class mast cell modulator that
+ Macrophage C activates
+ 1000.0 10000.0 10000.0 Mast provides dosing flexibility to either fully deplete mast cells, or fully
+ Mast cells have both pre-formed inflammatory
+ cells or partially inhibit their activity BLU-808 dose
+ WT KIT phosphorylation assay
+ 93
+
+ and de novo granules cells
+ WT KIT proliferation assay
+
+ .7
+
+ WT KIT proliferation assay
+ =0
+
+ 200.0 1000.0 1000.0
+ • In an allergic model of asthma, a single dose of BLU-808 was able
+ R2
+
+ (M-07e pKIT) IC50 (nM)
+
+ 100.0
+ 1
+ to improve lung function
+ (UT-7) IC50 (nM)
+
+ (UT-7) IC50 (nM)
+
+ 100.0 100.0 .81
+ Created with BioRender
+ 2 =0.
+ 734 2=0
+ 20.0 R R
+ 10.0 10.0 10.0 • BLU-808 may provide benefit to patients with WT KIT mast cell
+ Time-lapse video
+ SCF, stem cell factor; WT, wild-type.
+ of degranulation in diseases including chronic urticaria, asthma, and mast cell activation syndrome
+ 2.0 1.0 1.0 Mast cells
+ 1.0 mast cells treated with • BLU-808 Investigational New Drug application will be filed mid-2024
+ 0.1 0.1 vehicle, 10 nM BLU-808,
+ 0.2
+ and 5 µM cetirizine can
+ Methods 0.1 0.0 0.0
+ be accessed via this
+ References
+ 0
+
+ 1
+
+ 0
+
+ .0
+
+ 1. Lennartsson J et al. Physiol Rev. 2012;92:1619–1649; 2. Chervenick PA et al. J Cell Physiol. 1969;73:25–30; 3. Kitamura Y et al. Blood. 1979;53:492–497;
+ 0
+
+ 0
+
+ 0
+
+ 0
+
+ 0
+ 0
+
+ 0
+
+ 0
+
+ 0
+ .0
+
+ 0
+
+ 00
+
+ 00
+ 0
+
+ 0
+ 0.
+
+ 0.
+
+ 1.
+
+ 0.
+
+ 10
+
+ 00
+
+ 10
+
+ 00
+ 0
+
+ 00
+
+ 0
+
+ 00
+ 0.
+ 10
+
+ 00
+
+ 00
+ 00
+
+ QR code:
+ .0
+
+ .0
+ .0
+
+ .0
+
+ Poster available for
+ 10
+
+ 4. Kitamura Y et al. Blood. 1978;52:447–452; 5. Nakayama H et al. Development. 1988;102:107–116; 6. Nocka K et al. EMBO J. 1990;9:3287–3294;
+ 00
+
+ 0.
+
+ 1.
+
+ 0.
+
+ 1.
+ 0.
+
+ 0.
+ 0.
+
+ 0.
+ 10
+
+ 10
+ 10
+
+ 00
+
+ 00
+
+ Control animal BLU-808 treated
+ 10
+
+ 10
+ 10
+
+• Cell assays to measure KIT-dependent proliferation and SCF-mediated KIT phosphorylation were used to
+ 00
+
+ 00
+
+ 7. Tsai M et al. Chem Immunol Allergy. 2005;87:179–197; 8. Arber DA et al. Blood. 2022;140:1200–1228; 9. Cohen SS et al. Br J Haematol. 2014;166:521–528; download at:
+ 10
+
+ 10
+ 10
+
+ 10
+
+ 10. Kristensen T et al. J Mol Diagn. 2011;13:180–188; 11. Church MK et al. Immunol Rev. 2018;282:232–247; 12. Elieh-Ali-Komi D et al. Allergol Int. 2023;72:359–368;
+ assess potency WT KIT phosphorylation assay Human-derived CD34+ mast cell Human-derived CD34+ mast cell 13. Church DS et al. WAO Journal. 2011;4:S22–S27; 14. Fujimura R et al. Drug Discov Ther. 2022;16:245–250.
+ (M-07e pKIT) IC50 (nM) activation assay (CD63 extracellular activation assay (CD63 extracellular Tongue: Muscular center at high magnification, toluidine blue staining Acknowledgements
+• Selectivity against the structurally related kinases platelet-derived growth factor receptor alpha/beta (PDGFRA/B), expression) IC50 (nM) expression) IC50 (nM) • Cetirizine is an antihistamine that competes with histamine for binding to cells but does not affect degranulation Medical writing support was provided by Hannah Boyd, PhD, and editorial support was provided by Sarah Christopher, PhD, all of Paragon (a division of Prime,
+ FMS-like tyrosine kinase 3 (FLT3), and colony stimulating factor 1 receptor (CSF1R), as well as the broader in mast cells at lower concentrations13,14 Knutsford, UK) supported by Blueprint Medicines Corporation, Cambridge, MA, according to Good Publication Practice guidelines. The authors would like to
+ acknowledge the contributions of employees of Blueprint Medicines Corporation who contributed to the work on this project.
+ kinome was assessed by Kinomescan
+ • Mast cells were labeled with Avidin.488 to visualize degranulation. Following stimulation with immunoglobulin E • BLU-808 was administered for 7 days at different specific doses in rats. Mast cells were quantified by toluidine blue Disclosures
+• Inhibition of degranulation was evaluated in human-derived mast cells and in an in vivo rodent histamine release model • Human-derived CD34+ mast cell activation (CD63 expression assay) correlated with cellular WT KIT assays (IgE) and anti-IgE, the green fluorescence indicates that degranulation occurred in mast cells treated with vehicle staining and showed a dose-dependent reduction in the haired skin (Figure 6A) and tongue (Figure 6B). Representative This research was funded by Blueprint Medicines Corporation. Blueprint Medicines Corporation reviewed and provided feedback on the poster.
+ Alexandra Grassian is an employee of and equity holder in Blueprint Medicines Corporation. The authors had full editorial control of the poster and provided their
+• Inhibition of asthma-like symptom was assessed in a rodent ovalbumin-induced asthma model (Figure 3) and 5 µM cetirizine. BLU-808 inhibited degranulation and reduced fluorescence intensity (Figure 5) images are shown in Figures 6C & 6D final approval of all content. Full disclosures for all authors are available upon request at medinfo@blueprintmedicines.com
+
+ Presented at the American Academy of Allergy Asthma & Immunology (AAAAI) 2024, February 23–26, in Washington, DC, USA. Please contact medinfo@blueprintmedicines.com for permission to reprint and/or distribute.
+
+```

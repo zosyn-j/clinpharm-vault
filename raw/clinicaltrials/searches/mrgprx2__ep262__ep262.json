@@ -1,0 +1,26 @@
+{
+  "priority_class": "MRGPRX2",
+  "program": "EP262",
+  "term": "EP262",
+  "url": "https://clinicaltrials.gov/api/v2/studies?query.cond=urticaria&query.term=EP262&pageSize=100",
+  "fetched_at": "2026-04-09T00:59:09.835590+00:00",
+  "study_count": 2,
+  "studies": [
+    {
+      "nct_id": "NCT06050928",
+      "brief_title": "Phase 1b, Open-Label Study to Evaluate the Safety, Tolerability, and Pharmacodynamics of EP262 in Subjects With Chronic Inducible Urticaria",
+      "official_title": "Phase 1b, Open-Label Study to Evaluate the Safety, Tolerability, and Pharmacodynamics of EP262 in Subjects With Chronic Inducible Urticaria (CALM-CIndU)",
+      "conditions": [
+        "Chronic Inducible Urticaria"
+      ]
+    },
+    {
+      "nct_id": "NCT06077773",
+      "brief_title": "Phase 2, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Effects of EP262 in Subjects With Chronic Spontaneous Urticaria",
+      "official_title": "Phase 2, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Effects of EP262 in Subjects With Chronic Spontaneous Urticaria (CALM-CSU)",
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "program": "remibrutinib",
+  "priority_class": "BTK",
+  "term": "(remibrutinib OR LOU064) AND urticaria",
+  "fetched_at": "2026-04-09T01:12:43.467179+00:00",
+  "count": 20,
+  "ids": [
+    "40043237",
+    "37866460",
+    "35667749",
+    "36096203",
+    "32083858",
+    "33834628",
+    "41186128",
+    "38141832",
+    "35175630",
+    "40074986",
+    "40663028",
+    "39598410",
+    "40911497",
+    "40455080",
+    "40747638",
+    "41115533",
+    "31446134",
+    "41105846",
+    "40682317",
+    "40435483"
+  ],
+  "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28remibrutinib+OR+LOU064%29+AND+urticaria",
+  "raw": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "47",
+      "retmax": "20",
+      "retstart": "0",
+      "idlist": [
+        "40043237",
+        "37866460",
+        "35667749",
+        "36096203",
+        "32083858",
+        "33834628",
+        "41186128",
+        "38141832",
+        "35175630",
+        "40074986",
+        "40663028",
+        "39598410",
+        "40911497",
+        "40455080",
+        "40747638",
+        "41115533",
+        "31446134",
+        "41105846",
+        "40682317",
+        "40435483"
+      ],
+      "translationset": [
+        {
+          "from": "remibrutinib",
+          "to": "\"remibrutinib\"[Supplementary Concept] OR \"remibrutinib\"[All Fields]"
+        },
+        {
+          "from": "LOU064",
+          "to": "\"remibrutinib\"[Supplementary Concept] OR \"remibrutinib\"[All Fields] OR \"lou064\"[All Fields]"
+        },
+        {
+          "from": "urticaria",
+          "to": "\"urticaria\"[MeSH Terms] OR \"urticaria\"[All Fields] OR \"urticarias\"[All Fields]"
+        }
+      ],
+      "querytranslation": "(\"remibrutinib\"[Supplementary Concept] OR \"remibrutinib\"[All Fields] OR (\"remibrutinib\"[Supplementary Concept] OR \"remibrutinib\"[All Fields] OR \"lou064\"[All Fields])) AND (\"urticaria\"[MeSH Terms] OR \"urticaria\"[All Fields] OR \"urticarias\"[All Fields])"
+    }
+  }
+}

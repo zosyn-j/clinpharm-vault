@@ -1,0 +1,62 @@
+{
+  "program": "barzolvolimab",
+  "priority_class": "KIT",
+  "term": "(barzolvolimab OR CDX-0159) AND urticaria",
+  "fetched_at": "2026-04-09T01:12:43.467179+00:00",
+  "count": 16,
+  "ids": [
+    "36385701",
+    "40074986",
+    "39598410",
+    "40747638",
+    "40415544",
+    "38937013",
+    "35166638",
+    "37897679",
+    "36719690",
+    "40702781",
+    "41654334",
+    "41270830",
+    "33685605",
+    "41535531",
+    "41747871",
+    "41877821"
+  ],
+  "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28barzolvolimab+OR+CDX-0159%29+AND+urticaria",
+  "raw": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "16",
+      "retmax": "16",
+      "retstart": "0",
+      "idlist": [
+        "36385701",
+        "40074986",
+        "39598410",
+        "40747638",
+        "40415544",
+        "38937013",
+        "35166638",
+        "37897679",
+        "36719690",
+        "40702781",
+        "41654334",
+        "41270830",
+        "33685605",
+        "41535531",
+        "41747871",
+        "41877821"
+      ],
+      "translationset": [
+        {
+          "from": "urticaria",
+          "to": "\"urticaria\"[MeSH Terms] OR \"urticaria\"[All Fields] OR \"urticarias\"[All Fields]"
+        }
+      ],
+      "querytranslation": "(\"barzolvolimab\"[All Fields] OR \"CDX-0159\"[All Fields]) AND (\"urticaria\"[MeSH Terms] OR \"urticaria\"[All Fields] OR \"urticarias\"[All Fields])"
+    }
+  }
+}

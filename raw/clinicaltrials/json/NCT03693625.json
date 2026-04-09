@@ -1,0 +1,1344 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03693625",
+      "orgStudyIdInfo": {
+        "id": "GS40868"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2018-002296-17",
+          "type": "EUDRACT_NUMBER"
+        }
+      ],
+      "organization": {
+        "fullName": "Genentech, Inc.",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study to Evaluate the Long-term Safety and Efficacy of Fenebrutinib in Participants Previously Enrolled in a Fenebrutinib Chronic Spontaneous Urticaria (CSU) Study",
+      "officialTitle": "A Phase II Open-Label Extension Study To Evaluate The Long-Term Safety And Efficacy Of Fenebrutinib In Patients Previously Enrolled In A Fenebrutinib Chronic Spontaneous Urticaria Study"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2020-08",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "Recruitment was stopped after an interim analysis of the parent GS39684 study.",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2018-09-27",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2019-10-23",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2019-10-23",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2018-10-01",
+      "studyFirstSubmitQcDate": "2018-10-01",
+      "studyFirstPostDateStruct": {
+        "date": "2018-10-03",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2020-09-02",
+      "resultsFirstSubmitQcDate": "2020-09-02",
+      "resultsFirstPostDateStruct": {
+        "date": "2020-09-25",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2020-09-02",
+      "lastUpdatePostDateStruct": {
+        "date": "2020-09-25",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Genentech, Inc.",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This is a Phase II, multicenter, open-label extension (OLE) study to evaluate the long-term safety and efficacy of fenebrutinib in participants with Chronic Spontaneous Urticaria (CSU) who have completed the treatment period in a fenebrutinib CSU parent study. Participants may enroll in this OLE study at any time after completing the treatment period of the parent study. Participants will receive open-label fenebrutinib at a dose of 200 milligram (mg) orally twice a day. Treatment may continue until the end of the study."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Urticaria"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 31,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Parent Study: GDC-0853",
+          "type": "EXPERIMENTAL",
+          "description": "Participants (who had received 50, 150 and 200mg GDC-0853 in Cohort 2 of the Parent GS39684 Study) received open-label fenebrutinib/GDC-0853 at a dose of 200mg orally twice a day.",
+          "interventionNames": [
+            "Drug: GDC-0853"
+          ]
+        },
+        {
+          "label": "Parent Study: Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Participants (who had received Placebo in Cohort 2 of the Parent GS39684 Study) received open-label fenebrutinib/GDC-0853 at a dose of 200mg orally twice a day.",
+          "interventionNames": [
+            "Drug: GDC-0853"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "GDC-0853",
+          "description": "Participants were administered GDC-0853 200mg orally, as per the dosing schedules described above.",
+          "armGroupLabels": [
+            "Parent Study: GDC-0853",
+            "Parent Study: Placebo"
+          ],
+          "otherNames": [
+            "fenebrutinib, RO7010939"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Percentage of Participants With Adverse Events (AEs)",
+          "description": "An Adverse Event (AE) is any untoward medical occurrence in a participant administered a pharmaceutical product and which does not necessarily have to have a causal relationship with the treatment. An Adverse Event can therefore be any unfavorable and unintended sign (including abnormal laboratory values or abnormal clinical test results), symptom, or disease temporally associated with the use of a pharmaceutical product, whether or not considered related to the pharmaceutical product. Preexisting conditions which worsen during a study are also considered as Adverse Events.",
+          "timeFrame": "Baseline up until 4 weeks after the last dose of study drug (up to 10 months)."
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Plasma Concentrations of Fenebrutinib (GDC-0853) at Specified Timepoints",
+          "description": "Plasma Concentration Data for fenebrutinib (GDC-0853) will be tabulated and summarised by visits. Descriptive summary statistics for Arithmetic Mean and Standard Deviation will be presented.",
+          "timeFrame": "Week 1 Day 1; Weeks 12 and 24; Study Completion/Early Discontinuation"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Ability to comply with the study protocol, in the investigator's judgment\n* Completion of the treatment period as specified in the parent study\n* Acceptable demonstration of tolerance to study drug during the parent study as determined by the investigator or Medical Monitor\n* For participants receiving treatment with proton-pump inhibitors (PPIs) or H2-receptor antagonists (H2RAs), agreement to maintain treatment at a stable dose for the first 12 weeks of the study\n* For women of childbearing potential: agreement to remain abstinent (refrain from heterosexual intercourse) or use contraceptive measures, and agreement to refrain from donating eggs\n* For men: agreement to remain abstinent (refrain from heterosexual intercourse) or use a condom, and agreement to refrain from donating sperm\n\nExclusion Criteria\n\n* Pregnant or breastfeeding, or intending to become pregnant during the study or within 4 weeks after the final dose of fenebrutinib\n* Treatment with any investigational agent or live/attenuated vaccine in the preceding 6 weeks\n* Any signs or symptoms of infection judged by the investigator to be clinically significant since completing the treatment period of the parent study\n* Any significant changes (e.g., events, changes in medication) occurring after completion of participation in the parent study that, in the investigator's judgment, would increase the risk of adverse events in this OLE study",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "75 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Clinical Trials",
+          "affiliation": "Hoffmann-La Roche",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Clinical Research Center of Alabama, LLC",
+          "city": "Birmingham",
+          "state": "Alabama",
+          "zip": "35209",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.52066,
+            "lon": -86.80249
+          }
+        },
+        {
+          "facility": "Allergy & Asthma Immunology Associates",
+          "city": "Scottsdale",
+          "state": "Arizona",
+          "zip": "85251",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.50921,
+            "lon": -111.89903
+          }
+        },
+        {
+          "facility": "Kern Allergy Med Clinic, Inc.",
+          "city": "Bakersfield",
+          "state": "California",
+          "zip": "93301",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.37329,
+            "lon": -119.01871
+          }
+        },
+        {
+          "facility": "Southern California Research Center",
+          "city": "Mission Viejo",
+          "state": "California",
+          "zip": "92691",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.60002,
+            "lon": -117.672
+          }
+        },
+        {
+          "facility": "Allergy & Asthma Consultants",
+          "city": "Redwood City",
+          "state": "California",
+          "zip": "94063",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.48522,
+            "lon": -122.23635
+          }
+        },
+        {
+          "facility": "Integrated Research Group Inc",
+          "city": "Riverside",
+          "state": "California",
+          "zip": "92506",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.95335,
+            "lon": -117.39616
+          }
+        },
+        {
+          "facility": "Renstar Medical Research",
+          "city": "Ocala",
+          "state": "Florida",
+          "zip": "34470",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.1872,
+            "lon": -82.14009
+          }
+        },
+        {
+          "facility": "Vital Prospects Clinical Research Institute PC - CRN",
+          "city": "Tulsa",
+          "state": "Oklahoma",
+          "zip": "74136",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.15398,
+            "lon": -95.99277
+          }
+        },
+        {
+          "facility": "Asthma, Nasal Disease, and Allergy Research Center of New England",
+          "city": "East Providence",
+          "state": "Rhode Island",
+          "zip": "02914",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.81371,
+            "lon": -71.37005
+          }
+        },
+        {
+          "facility": "Timber Lane Allergy and Asthma Research, LLC",
+          "city": "Burlington",
+          "state": "Vermont",
+          "zip": "05403",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 44.47588,
+            "lon": -73.21207
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Qualified researchers may request access to individual patient level data through the clinical study data request platform (www.vivli.org). Further details on Roche's criteria for eligible studies are available here (https://vivli.org/ourmember/roche/). For further details on Roche's Global Policy on the Sharing of Clinical Information and how to request access to related clinical study documents, see here (https://www.roche.com/research\\_and\\_development/who\\_we\\_are\\_how\\_we\\_work/clinical\\_trials/our\\_commitment\\_to\\_data\\_sharing.htm)."
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "A total of 31 participants were enrolled at 9 centers.",
+      "recruitmentDetails": "The study was conducted at 9 centers in 1 country.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Parent Study: GDC-0853",
+          "description": "Participants (who had received 50, 150 and 200mg GDC-0853 in Cohort 2 of the Parent GS39684 Study) received open-label fenebrutinib/GDC-0853 at a dose of 200mg orally twice a day."
+        },
+        {
+          "id": "FG001",
+          "title": "Parent Study: Placebo",
+          "description": "Participants (who had received Placebo in Cohort 2 of the Parent GS39684 Study) received open-label fenebrutinib/GDC-0853 at a dose of 200mg orally twice a day."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "23"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "8"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "23"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "8"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Study Terminated By Sponsor",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "20"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "7"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Parent Study: GDC-0853",
+          "description": "Participants (who had received 50, 150 and 200mg GDC-0853 in Cohort 2 of the Parent GS39684 Study) received open-label fenebrutinib/GDC-0853 at a dose of 200mg orally twice a day."
+        },
+        {
+          "id": "BG001",
+          "title": "Parent Study: Placebo",
+          "description": "Participants (who had received Placebo in Cohort 2 of the Parent GS39684 Study) received open-label fenebrutinib/GDC-0853 at a dose of 200mg orally twice a day."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "23"
+            },
+            {
+              "groupId": "BG001",
+              "value": "8"
+            },
+            {
+              "groupId": "BG002",
+              "value": "31"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "Years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45.7",
+                      "spread": "16.5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "40.8",
+                      "spread": "11.0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "44.5",
+                      "spread": "15.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "25"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Hispanic or Latino",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Not Hispanic or Latino",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "22"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Unknown",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Asian",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Black or African American",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "White",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "26"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Percentage of Participants With Adverse Events (AEs)",
+          "description": "An Adverse Event (AE) is any untoward medical occurrence in a participant administered a pharmaceutical product and which does not necessarily have to have a causal relationship with the treatment. An Adverse Event can therefore be any unfavorable and unintended sign (including abnormal laboratory values or abnormal clinical test results), symptom, or disease temporally associated with the use of a pharmaceutical product, whether or not considered related to the pharmaceutical product. Preexisting conditions which worsen during a study are also considered as Adverse Events.",
+          "populationDescription": "The Safety-evaluable population was defined as all participants who received at least one dose of study drug.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Percentage of Participants",
+          "timeFrame": "Baseline up until 4 weeks after the last dose of study drug (up to 10 months).",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Parent Study: GDC-0853",
+              "description": "Participants (who had received 50, 150 and 200mg GDC-0853 in Cohort 2 of the Parent GS39684 Study) received open-label fenebrutinib/GDC-0853 at a dose of 200mg orally twice a day."
+            },
+            {
+              "id": "OG001",
+              "title": "Parent Study: Placebo",
+              "description": "Participants (who had received Placebo in Cohort 2 of the Parent GS39684 Study) received open-label fenebrutinib/GDC-0853 at a dose of 200mg orally twice a day."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "23"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "8"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "60.9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "62.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Plasma Concentrations of Fenebrutinib (GDC-0853) at Specified Timepoints",
+          "description": "Plasma Concentration Data for fenebrutinib (GDC-0853) will be tabulated and summarised by visits. Descriptive summary statistics for Arithmetic Mean and Standard Deviation will be presented.",
+          "populationDescription": "The PK population was defined as all participants who received at least one dose of study drug and had at least 1 evaluable PK sample.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "ng/mL",
+          "timeFrame": "Week 1 Day 1; Weeks 12 and 24; Study Completion/Early Discontinuation",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Parent Study: GDC-0853",
+              "description": "Participants (who had received 50, 150 and 200mg GDC-0853 in Cohort 2 of the Parent GS39684 Study) received open-label fenebrutinib/GDC-0853 at a dose of 200mg orally twice a day."
+            },
+            {
+              "id": "OG001",
+              "title": "Parent Study: Placebo",
+              "description": "Participants (who had received Placebo in Cohort 2 of the Parent GS39684 Study) received open-label fenebrutinib/GDC-0853 at a dose of 200mg orally twice a day."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "23"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "8"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Week 1 Day 1",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "NA",
+                      "spread": "NA",
+                      "comment": "No Drug administered at this timepoint."
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "NA",
+                      "spread": "NA",
+                      "comment": "No Drug administered at this timepoint."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 12",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "192",
+                      "spread": "181"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "190",
+                      "spread": "278"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 24",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "130",
+                      "spread": "63.8"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "467",
+                      "spread": "480"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Study Completion/Early Discontinuation",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "NA",
+                      "spread": "NA",
+                      "comment": "No Drug administered at this timepoint."
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "NA",
+                      "spread": "NA",
+                      "comment": "No Drug administered at this timepoint."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "Baseline up until 4 weeks after the last dose of study drug (up to 10 months).",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Parent Study: GDC-0853",
+          "description": "Participants (who had received 50, 150 and 200mg GDC-0853 in Cohort 2 of the Parent GS39684 Study) received open-label fenebrutinib/GDC-0853 at a dose of 200mg orally twice a day.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 23,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 23,
+          "otherNumAffected": 4,
+          "otherNumAtRisk": 23
+        },
+        {
+          "id": "EG001",
+          "title": "Parent Study: Placebo",
+          "description": "Participants (who had received Placebo in Cohort 2 of the Parent GS39684 Study) received open-label fenebrutinib/GDC-0853 at a dose of 200mg orally twice a day.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 8,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 8,
+          "otherNumAffected": 5,
+          "otherNumAtRisk": 8
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "INCREASED TENDENCY TO BRUISE",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 8
+            }
+          ]
+        },
+        {
+          "term": "DIARRHOEA",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 8
+            }
+          ]
+        },
+        {
+          "term": "DYSPEPSIA",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 8
+            }
+          ]
+        },
+        {
+          "term": "GASTROOESOPHAGEAL REFLUX DISEASE",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 8
+            }
+          ]
+        },
+        {
+          "term": "ABSCESS LIMB",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 8
+            }
+          ]
+        },
+        {
+          "term": "ORAL HERPES",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 8
+            }
+          ]
+        },
+        {
+          "term": "SKIN INFECTION",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 8
+            }
+          ]
+        },
+        {
+          "term": "ALANINE AMINOTRANSFERASE INCREASED",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 8
+            }
+          ]
+        },
+        {
+          "term": "ASPARTATE AMINOTRANSFERASE INCREASED",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 8
+            }
+          ]
+        },
+        {
+          "term": "BLOOD CREATINE PHOSPHOKINASE INCREASED",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 8
+            }
+          ]
+        },
+        {
+          "term": "BACK PAIN",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 8
+            }
+          ]
+        },
+        {
+          "term": "MUSCULOSKELETAL CHEST PAIN",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 8
+            }
+          ]
+        },
+        {
+          "term": "MYALGIA",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 8
+            }
+          ]
+        },
+        {
+          "term": "HEADACHE",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 8
+            }
+          ]
+        },
+        {
+          "term": "MIGRAINE",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 8
+            }
+          ]
+        },
+        {
+          "term": "HAEMATURIA",
+          "organSystem": "Renal and urinary disorders",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 8
+            }
+          ]
+        },
+        {
+          "term": "COUGH",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 8
+            }
+          ]
+        },
+        {
+          "term": "PRURITUS",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 8
+            }
+          ]
+        },
+        {
+          "term": "RASH",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 8
+            }
+          ]
+        },
+        {
+          "term": "URTICARIA",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 8
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "limitationsAndCaveats": {
+        "description": "Recruitment was stopped after an interim analysis of the parent GS39684 study."
+      },
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "The Study being conducted under this Agreement is part of the Overall Study. Investigator is free to publish in reputable journals or to present at professional conferences the results of the Study, but only after the first publication or presentation that involves the Overall Study. The Sponsor may request that Confidential Information be deleted and/or the publication be postponed in order to protect the Sponsor's intellectual property rights."
+      },
+      "pointOfContact": {
+        "title": "Medical Communications",
+        "organization": "Hoffmann-La Roche",
+        "email": "genentech@druginfo.com",
+        "phone": "800 821-8590"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2018-08-09",
+          "uploadDate": "2020-09-02T07:43",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 1574613
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-04-08",
+      "removedCountries": [
+        "Canada",
+        "Germany"
+      ]
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D014581",
+          "term": "Urticaria"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D017445",
+          "term": "Skin Diseases, Vascular"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D006969",
+          "term": "Hypersensitivity, Immediate"
+        },
+        {
+          "id": "D006967",
+          "term": "Hypersensitivity"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C000619415",
+          "term": "fenebrutinib"
+        }
+      ]
+    }
+  },
+  "hasResults": true,
+  "_meta": {
+    "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT03693625",
+    "fetched_at": "2026-04-09T00:59:09.835590+00:00"
+  }
+}

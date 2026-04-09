@@ -1,0 +1,105 @@
+# GA2LEN 2024 trial results presentation PDF
+
+- Program: evo756
+- Priority class: MRGPRX2
+- Sponsor: Evommune
+- Source URL: https://www.evommune.com/wp-content/uploads/2024/12/23_Evommune_EVO756_Trial_Results_Preso.pdf
+- Fetched at: 2026-04-09T01:06:40.549706+00:00
+- Raw PDF: ga2len-2024-trial-results-presentation-pdf.pdf
+- Extracted text: ga2len-2024-trial-results-presentation-pdf.txt
+
+## Extracted PDF text
+
+```text
+Evommune Presents Positive Clinical Results of its MRGPRX2 Antagonist
+ (EVO756) at the 7th GA²LEN Global Urticaria Forum
+ • Proof-of-concept trial of EVO756 in 132 subjects, demonstrated an excellent safety profile, robust
+ efficacy, and a pharmacokinetic profile supporting once-daily oral dosing
+
+ • The data suggest the potential of EVO756 as a first and best-in-class opportunity for patients
+ suffering from broad range of chronic inflammatory diseases
+
+ • Evommune has initiated the first of multiple Phase 2 trials based on these encouraging results
+Berlin, Germany, December 4, 2024 – Evommune, Inc., a clinical stage biotechnology company
+discovering and developing new ways to treat immune-mediated inflammatory diseases, today
+presented the complete data set from its first-in-human proof-of-concept (POC) trial with EVO756 at the
+7th GA²LEN Global Urticaria Forum in Berlin, Germany.
+
+The podium clinical presentation entitled EVO756, an oral MRGPRX2 antagonist, is well-tolerated and
+demonstrates target engagement: Results from a Phase 1 Study”, was presented by world-leading expert
+Sarbjit Saini, M.D., Professor of Medicine at Johns Hopkins University in Baltimore, Maryland. The
+presentation summarized the comprehensive positive results from the POC trial, which included 132
+subjects.
+
+“We are delighted to share these results at a scientific meeting, where worldwide experts present the
+most important and new clinical data in the field of urticaria. These robust data provide good
+translatability to its potential efficacy in patients with various mast cell mediated diseases, including
+urticarias,” commented Dr. Sarbjit Saini.
+
+The POC trial was a randomized, double-blind, placebo-controlled single and multiple ascending dose
+(SAD and MAD) study in normal healthy adults and assessed the safety, tolerability, pharmacokinetics
+and pharmacodynamics of orally administered EVO756. Doses from 1 mg to 500 mg were administered
+in ascending order across seven cohorts, targeting eight subjects each. In the MAD cohorts, ascending
+doses of 10 mg, 30 mg, 100 mg and 240 mg twice daily, followed by 500 mg once daily, were
+administered across five cohorts, targeting 16 subjects each. Subjects in the MAD cohorts received 14
+days of experimental treatment.
+
+The efficacy potential of EVO756 on mast cell degranulation was assessed in a skin challenge test, in
+which icatibant, a known ligand of the MRGPRX2 receptor, was administered intradermally. Icatibant
+induced measurable skin responses in all subjects. Multiple experimental methods have determined
+that mast cell degranulation caused by icatibant is representative to changes associated with MRGPRX2
+disease-relevant endogenous ligands. This portion of the study allowed for an evaluation of activity in a
+highly controlled setting and had the benefit of mimicking the potential impact of EVO756 versus
+placebo in inducible urticarias.
+
+The data from this trial show that EVO756 was well tolerated with the proportion of subjects reporting
+adverse events in all EVO756 dosing cohorts comparable to that observed with placebo treated subjects.
+There were no severe or serious adverse events. In those subjects treated for 14 days, the most common
+adverse events reported were headache and IV catheter site pain (used for pharmacokinetic blood
+draws). Serum concentrations of EVO756 support a once daily dosing regimen. EVO756, at different
+doses, demonstrated the ability to significantly inhibit wheal formation induced by icatibant in the skin
+challenge test conducted prior to and following 14 days of treatment with EVO756. This inhibition
+occurred even at doses believed to be significantly above ligand concentrations in diseased tissue.
+
+“These data serve as the foundation for our current and future Phase 2 trials of EVO756, including a
+Phase 2b study in chronic spontaneous urticaria to be initiated during the first half of 2025,” said Eugene
+Bauer, M.D., Chief Medical Officer at Evommune. “We are also currently enrolling patients with chronic
+inducible urticaria (CIndU) in a Phase 2 trial designed to evaluate EVO756 in patients with either
+symptomatic dermographism or cold urticaria, the two most common forms of CIndU. Data from this
+trial are expected in the first half of 2025.”
+
+Evommune Scientists Presentation of Preclinical Poster on Translational Study of EVO756
+
+Entitled “EVO756 inhibits activation of MRGPRX2 in several in vitro models and correlates to human in
+vivo data”, this study highlights new preclinical data on MRGPRX2 biology and EVO756 and,
+demonstrates that icatibant (as referenced above) is a reliable proxy for MRGPRX2 disease relevant
+endogenous ligands. Evommune’s in vitro primary human skin mast cell data compared with the in vivo
+icatibant skin challenge data from the proof-of-concept clinical trial, demonstrate an excellent
+correlation between the company’s preclinical and clinical results.
+
+Slides and poster presentations can be accessed on Evommune’s website,
+https://www.evommune.com/publications-posters/.
+
+About EVO756
+
+EVO756 is a potent, highly selective small molecule antagonist of mas-related G-protein coupled
+receptor X2 (MRGPRX2). MRGPRX2 is most abundantly found on mast cells and peripheral sensory
+neurons. MRGPRX2 can trigger IgE-independent activation (degranulation) via multiple ligands, which
+can lead to a variety of symptoms depending on the tissue that is affected. Evommune’s pre-clinical data
+demonstrates that by blocking activation of MRGPRX2 and degranulation of mast cells, EVO756 has the
+potential to be a first-in-class oral treatment for a variety of mast cell mediated diseases. In addition, due
+to its unique function on peripheral sensory neurons, EVO756 could provide fast relief of itch associated
+with inflammatory diseases, such as atopic dermatitis.
+
+About Evommune
+Evommune, Inc., a Palo Alto based biotech company, is creating game-changing science to treat immune-
+mediated inflammatory diseases by discovering, developing, and delivering therapies that address
+symptoms and halt progressive disease. For more information, please visit www.evommune.com or
+Evommune’s LinkedIn page.
+
+Contact:
+Media: Paul Laland -- Paul.laland@evommune.com
+
+Investors: Sarah McCabe -- Sarah.mccabe@altasum.com
+
+```

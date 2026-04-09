@@ -1,0 +1,1413 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05795153",
+      "orgStudyIdInfo": {
+        "id": "CLOU064A2305"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2022-002838-13",
+          "type": "EUDRACT_NUMBER"
+        }
+      ],
+      "organization": {
+        "fullName": "Novartis",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Multicenter, Open-label Phase 3 Study: Ambulatory Blood Pressure Monitoring in Adult Patients With Chronic Spontaneous Urticaria Inadequately Controlled by H1-antihistamines Treated With Remibrutinib up to 12 Weeks.",
+      "officialTitle": "A Multicenter, Open-label Phase 3 Study: Ambulatory Blood Pressure Monitoring in Adult Patients With Chronic Spontaneous Urticaria Inadequately Controlled by H1-antihistamines Treated With Remibrutinib up to 12 Weeks."
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-10",
+      "overallStatus": "COMPLETED",
+      "startDateStruct": {
+        "date": "2023-04-05",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-04-25",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-04-25",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-03-21",
+      "studyFirstSubmitQcDate": "2023-03-21",
+      "studyFirstPostDateStruct": {
+        "date": "2023-04-03",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-04-10",
+      "resultsFirstSubmitQcDate": "2025-04-10",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-04-30",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-10-08",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-10-16",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Novartis Pharmaceuticals",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study was to assess the effect of remibrutinib 25 mg twice a day (b.i.d.) open-label on Systolic Blood Pressure (SBP) measured as a change in 24-hour weighted average SBP from baseline to Week 4 assessed by Ambulator Blood Pressure Monitoring (ABPM); and to assess overall safety and efficacy over 12 weeks in adult participants with Chronic Spontaneous Urticaria (CSU) inadequately controlled with second generation H1 antihistamines (H1-AH) treatment. ABPM was chosen for the blood pressure assessment in this trial as recommended by the FDA for drugs intended for chronic use (Assessment of Pressor Effects of Drugs Guidance for Industry (FDA 2022)).",
+      "detailedDescription": "This study consisted of a screening period of up to 4 weeks, a 12-week open-label treatment period and a treatment-free follow-up period of 4 weeks, with a total study duration of up to 20 weeks.\n\nAt the end of the treatment phase, participants had the option to continue in an extension study (CLOU064A2303B (NCT05513001)) if approved in the country and at the site."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ],
+      "keywords": [
+        "Chronic Spontaneous Urticaria (CSU)",
+        "remibrutinib",
+        "Systolic Blood Pressure (SBP)",
+        "Diastolic Blood Pressure (DBP)",
+        "Ambulator Blood Pressure Monitoring (ABPM)",
+        "H1 antihistamines (H1-AH) treatment"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 144,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "LOU064 (remibrutinib)",
+          "type": "EXPERIMENTAL",
+          "description": "All participants were assigned to remibrutinib 25 mg b.i.d. for 12 weeks.",
+          "interventionNames": [
+            "Drug: LOU064"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "LOU064",
+          "description": "One film-coated tablet (25 mg) was to be taken in the morning and evening, respectively, with a 12-hour interval at approximately the same time everyday.",
+          "armGroupLabels": [
+            "LOU064 (remibrutinib)"
+          ],
+          "otherNames": [
+            "remibrutinib"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Estimated Mean Change From Baseline at Week 4 in 24-hour Systolic Blood Pressure (SBP) Measured by Ambulatory Blood Pressure Monitoring (ABPM)",
+          "description": "A linear regression with SBP as a covariate was employed. The change in SBP from baseline to Week 4 was predicted at the median baseline level. The change from baseline in the 24-hour weighted average SBP was calculated using the time weighted average of the area under the curve (AUC) of SBP obtained over a 24-hour period as measured by ABPM. That is, the time weighted average of AUC of 24-hour SBP obtained at baseline was subtracted from corresponding time weighted average of AUC of SBP at Week 4.\n\nIn the analysis, if participants took prohibited antihypertensive treatment before Week 4, their subsequent measurements were excluded. In such cases, the excluded measurements were imputed by increasing the 24-hour SBP by 3 mmHg from the baseline value at Week 4. Moreover, participants who discontinued of study treatment due to any reason prior to the Week 4 were excluded from the analysis. The Mixed Models for Repeated Measures (MMRM) approach was used.",
+          "timeFrame": "Baseline, Week 4"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Observed Mean Change From Baseline to Week 4 in 24-hour Weighted Average Systolic Blood Pressure (SBP) Measured by ABPM",
+          "description": "The change from baseline in the 24-hour weighted average systolic blood pressure (SBP) was calculated using the time weighted average of the area under the curve (AUC) of SBP obtained over a 24-hour period as measured by ABPM. This analysis was conducted using the observed data.\n\nData was computed taking weighted averages over time and discarding time intervals of more than 1 hour without measurements.",
+          "timeFrame": "Baseline, Week 4"
+        },
+        {
+          "measure": "Estimated Mean Change From Baseline at Week 4 in 24-hour Diastolic Blood Pressure (DBP) Measured by ABPM",
+          "description": "A linear regression with DBP as a covariate was employed. The change in DBP from baseline to Week 4 was predicted at the median baseline level. The change from baseline in the 24-hour weighted average DBP was calculated using the time weighted average of the area under the curve (AUC) of DBP obtained over a 24-hour period as measured by ABPM. That is, the time weighted average of AUC of 24-hour DBP obtained at baseline was subtracted from corresponding time weighted average of AUC of DBP at Week 4.\n\nIn the analysis, if participants took prohibited antihypertensive treatment before Week 4, their subsequent measurements were excluded. In such cases, the excluded measurements were imputed by increasing the 24-hour DBP by 3 mmHg from the baseline value at Week 4. Moreover, participants who discontinued of study treatment due to any reason prior to the Week 4 were excluded from the analysis. The Mixed Models for Repeated Measures (MMRM) approach was used.",
+          "timeFrame": "Baseline, Week 4"
+        },
+        {
+          "measure": "Estimated Mean Change From Baseline at Week 4 in Daytime and Nighttime Average SBP Measured by ABPM",
+          "description": "The change in daytime (respectively nighttime) weighted average SBP was analyzed using linear regression model with baseline weighted average daytime SBP (respectively nighttime) as a covariate. The change in daytime (respectively nighttime) SBP from baseline to Week 4 was predicted at the median baseline level. The change from baseline of daytime (respectively nighttime) SBP was calculated using the time weighted average of the AUC of DBP obtained over daytime (respectively nighttime) In the analysis, if participants took prohibited antihypertensive treatment before Week 4, their subsequent measurements were excluded. In such cases, the excluded measurements were imputed by increasing the 24-hour SBP by 3 mmHg from the baseline value at Week 4. Moreover, participants who discontinued of study treatment due to any reason prior to the Week 4 were excluded from the analysis. The multiple imputation approach was used. Daytime: from 7am until 10 pm. Nighttime: from 10pm until 7 am.",
+          "timeFrame": "Baseline, Week 4"
+        },
+        {
+          "measure": "Estimated Mean Change From Baseline at Week 4 in Daytime and Nighttime Average DBP Measured by ABPM",
+          "description": "The change in daytime (respectively nighttime) weighted average DBP was analyzed using linear regression model with baseline weighted average daytime DBP (respectively nighttime) as a covariate. The change in daytime (respectively nighttime) DBP from baseline to Week 4 was predicted at the median baseline level. The change from baseline of daytime (respectively nighttime) DBP was calculated using the time weighted average of the AUC of DBP obtained over daytime (respectively nighttime) In the analysis, if participants took prohibited antihypertensive treatment before Week 4, their subsequent measurements were excluded. In such cases, the excluded measurements were imputed by increasing the 24-hour DBP by 3 mmHg from the baseline value at Week 4. Moreover, participants who discontinued of study treatment due to any reason prior to the Week 4 were excluded from the analysis. The multiple imputation approach was used. Daytime: from 7am until 10 pm. Nighttime: from 10pm until 7 am.",
+          "timeFrame": "Baseline, Week 4"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Signed informed consent obtained prior to participation in the study\n* Male and female adult participants \\>= 18 years of age\n* CSU duration for \\>= 6 months prior to screening (defined as the onset of CSU determined by the Investigator based on all available supporting documentation).\n* Diagnosis of CSU inadequately controlled by second generation H1-AH at the time of baseline (Day 1)\n* Documentation of hives within three months before baseline (either at screening and/or at baseline (Day 1); or documented in the participants' medical history).\n* Willing and able to complete an Urticaria Patient Daily Diary (UPDD) for the duration of the study and adhere to the protocol\n* Participants had no more than 2 missing UPDD entries (either morning or evening) in the 7 days prior to baseline (Day 1).\n\nKey Exclusion Criteria:\n\n* Participants unable to tolerate 24-hour ambulatory blood pressure measurement using automatic ABPM device\n* Ongoing or past history of hypertension and/or SBP \\>= 140 or =\\< 90 OR DBP \\>= 90 or =\\< 60 mmHg at screening\n* Participants working night shifts\n* Participants taking/requiring medications prohibited by the protocol (including those known to interfere with blood pressure assessments in the study)\n* Evidence of clinically significant cardiovascular, neurological, psychiatric, pulmonary, renal, hepatic, endocrine, metabolic, hematological disorders, gastrointestinal disease or immunodeficiency that, in the Investigator's opinion, would compromise the safety of the participant, interfere with the interpretation of the study results or otherwise preclude participation or protocol adherence of the participant.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "99 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Novartis Pharmaceuticals",
+          "affiliation": "Novartis Pharmaceuticals",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Acuro Research Inc",
+          "city": "Little Rock",
+          "state": "Arkansas",
+          "zip": "72205",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.74648,
+            "lon": -92.28959
+          }
+        },
+        {
+          "facility": "Florida Ctr Allergy Asthma Research",
+          "city": "Aventura",
+          "state": "Florida",
+          "zip": "33180",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.95648,
+            "lon": -80.13921
+          }
+        },
+        {
+          "facility": "Finlay Medical Research",
+          "city": "Greenacres City",
+          "state": "Florida",
+          "zip": "33467",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.62368,
+            "lon": -80.12532
+          }
+        },
+        {
+          "facility": "Treasure Valley Medical Research",
+          "city": "Boise",
+          "state": "Idaho",
+          "zip": "83706",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.6135,
+            "lon": -116.20345
+          }
+        },
+        {
+          "facility": "Endeavor Health",
+          "city": "Glenview",
+          "state": "Illinois",
+          "zip": "60077",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.06975,
+            "lon": -87.78784
+          }
+        },
+        {
+          "facility": "Allergy and Asthma Specialist P S C",
+          "city": "Owensboro",
+          "state": "Kentucky",
+          "zip": "42301",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.77422,
+            "lon": -87.11333
+          }
+        },
+        {
+          "facility": "Allergy Asthma and Clinical Research",
+          "city": "Oklahoma City",
+          "state": "Oklahoma",
+          "zip": "73120",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.46756,
+            "lon": -97.51643
+          }
+        },
+        {
+          "facility": "Allergy and Clinical Immunology Associates",
+          "city": "Pittsburgh",
+          "state": "Pennsylvania",
+          "zip": "15241",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.44062,
+            "lon": -79.99589
+          }
+        },
+        {
+          "facility": "Western Sky Medical Research",
+          "city": "El Paso",
+          "state": "Texas",
+          "zip": "79924",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 31.75872,
+            "lon": -106.48693
+          }
+        },
+        {
+          "facility": "Allergy Asthma and amp Sinus Ctr S C",
+          "city": "Greenfield",
+          "state": "Wisconsin",
+          "zip": "53228",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.9614,
+            "lon": -88.01259
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Nueve de Julio",
+          "state": "Buenos Aires",
+          "zip": "B6500BWQ",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -35.44394,
+            "lon": -60.88463
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Sourigues",
+          "state": "Buenos Aires",
+          "zip": "B1837",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Santa Fe",
+          "state": "Rosario",
+          "zip": "S2000DBS",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -31.64881,
+            "lon": -60.70868
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Rosario",
+          "state": "Santa Fe Province",
+          "zip": "S2000JKR",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -32.94682,
+            "lon": -60.63932
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Calgary",
+          "state": "Alberta",
+          "zip": "T2M 1A6",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 51.05011,
+            "lon": -114.08529
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Montreal",
+          "state": "Quebec",
+          "zip": "H2V 2K1",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 45.50884,
+            "lon": -73.58781
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Angers",
+          "zip": "49933",
+          "country": "France",
+          "geoPoint": {
+            "lat": 47.47156,
+            "lon": -0.55202
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Antony",
+          "zip": "92160",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.75329,
+            "lon": 2.29668
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Brest",
+          "zip": "29609",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.39029,
+            "lon": -4.48628
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Montpellier",
+          "zip": "34295",
+          "country": "France",
+          "geoPoint": {
+            "lat": 43.61093,
+            "lon": 3.87635
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Paris",
+          "zip": "75970",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.85341,
+            "lon": 2.3488
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Reims",
+          "zip": "51100",
+          "country": "France",
+          "geoPoint": {
+            "lat": 49.26526,
+            "lon": 4.02853
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Saint-Mand\u00e9",
+          "zip": "94160",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.83864,
+            "lon": 2.41579
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Toulouse",
+          "zip": "31400",
+          "country": "France",
+          "geoPoint": {
+            "lat": 43.60426,
+            "lon": 1.44367
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Bramsche",
+          "state": "Lower Saxony",
+          "zip": "49565",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.40881,
+            "lon": 7.97288
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "G\u00f6ttingen",
+          "state": "Lower Saxony",
+          "zip": "37075",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.53443,
+            "lon": 9.93228
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Halle",
+          "state": "Saxony-Anhalt",
+          "zip": "06108",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.48158,
+            "lon": 11.97947
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Erlangen",
+          "zip": "91054",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 49.59099,
+            "lon": 11.00783
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Hanover",
+          "zip": "30625",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.37052,
+            "lon": 9.73322
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Marburg",
+          "zip": "35039",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 50.80904,
+            "lon": 8.77069
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Singapore",
+          "zip": "308205",
+          "country": "Singapore",
+          "geoPoint": {
+            "lat": 1.28967,
+            "lon": 103.85007
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Kom\u00e1rno",
+          "zip": "945 01",
+          "country": "Slovakia",
+          "geoPoint": {
+            "lat": 48.11667,
+            "lon": 18.31667
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Levice",
+          "zip": "934 01",
+          "country": "Slovakia",
+          "geoPoint": {
+            "lat": 48.21563,
+            "lon": 18.60705
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Nov\u00e9 Z\u00e1mky",
+          "zip": "940 34",
+          "country": "Slovakia",
+          "geoPoint": {
+            "lat": 47.98544,
+            "lon": 18.16195
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Daegu",
+          "state": "Dalseo Gu",
+          "zip": "41931",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 35.87028,
+            "lon": 128.59111
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Suwon",
+          "state": "Gyeonggi-do",
+          "zip": "16499",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.29111,
+            "lon": 127.00889
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Seoul",
+          "zip": "03080",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Alicante",
+          "state": "Valencia",
+          "zip": "03010",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 38.34517,
+            "lon": -0.48149
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Valencia",
+          "state": "Valencia",
+          "zip": "46014",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 39.47391,
+            "lon": -0.37966
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Madrid",
+          "zip": "28006",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Madrid",
+          "zip": "28041",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Izmir",
+          "zip": "35140",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 38.41273,
+            "lon": 27.13838
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Kayseri",
+          "zip": "38070",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 38.73222,
+            "lon": 35.48528
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Samsun",
+          "zip": "55139",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 41.27976,
+            "lon": 36.3361
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "seeAlsoLinks": [
+        {
+          "label": "A Plain Language Trial Summary is available on www.novctrd.com",
+          "url": "https://www.novctrd.com/ctrdweb/patientsummary/patientsummaries?patientSummaryId=2573"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Novartis is committed to sharing access to patient-level data and supporting clinical documents from eligible studies with qualified external researchers. Requests are reviewed and approved by an independent review panel on the basis of scientific merit. All data provided is anonymized to protect the privacy of patients who have participated in the trial in line with applicable laws and regulations.\n\nThis trial data availability is according to the criteria and process described on www.clinicalstudydatarequest.com"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "Participants underwent a screening period of up to 4 weeks.",
+      "recruitmentDetails": "This study was conducted globally across 10 countries: Argentina (4 centers), Canada (2 centers), France (8 centers), Germany (6 centers), Republic of Korea (3 centers), Singapore (1 center), Slovakia (3 centers), Spain (4 centers), Turkey (3 centers), and USA (11 centers).",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "LOU064 (Remibrutinib)",
+          "description": "All participants were assigned to remibrutinib 25 mg b.i.d. for 12 weeks."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "144"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "137"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "7"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "Unsatisfactory therapeutic effect",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Subject decision",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "LOU064 (Remibrutinib)",
+          "description": "All participants were assigned to remibrutinib 25 mg b.i.d. for 12 weeks."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "144"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "Years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "42.2",
+                      "spread": "14.52"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "105"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "39"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "19"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "89"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "32"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Baseline Systolic Blood Pressure (SBP)",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "millimeter of mercury (mmHg)",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "117.1",
+                      "spread": "13.11"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Baseline Diastolic Blood Pressure (DBP)",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "millimeter of mercury (mmHg)",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "75.0",
+                      "spread": "8.98"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Estimated Mean Change From Baseline at Week 4 in 24-hour Systolic Blood Pressure (SBP) Measured by Ambulatory Blood Pressure Monitoring (ABPM)",
+          "description": "A linear regression with SBP as a covariate was employed. The change in SBP from baseline to Week 4 was predicted at the median baseline level. The change from baseline in the 24-hour weighted average SBP was calculated using the time weighted average of the area under the curve (AUC) of SBP obtained over a 24-hour period as measured by ABPM. That is, the time weighted average of AUC of 24-hour SBP obtained at baseline was subtracted from corresponding time weighted average of AUC of SBP at Week 4.\n\nIn the analysis, if participants took prohibited antihypertensive treatment before Week 4, their subsequent measurements were excluded. In such cases, the excluded measurements were imputed by increasing the 24-hour SBP by 3 mmHg from the baseline value at Week 4. Moreover, participants who discontinued of study treatment due to any reason prior to the Week 4 were excluded from the analysis. The Mixed Models for Repeated Measures (MMRM) approach was used.",
+          "populationDescription": "Full Analysis Set (FAS): all participants to whom study treatment was assigned and received at least one dose of treatment. Participants who discontinued treatment prior to Week 4 were excluded from the analysis.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "millimeter of mercury (mmHg)",
+          "timeFrame": "Baseline, Week 4",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "LOU064 (Remibrutinib)",
+              "description": "All participants were assigned to remibrutinib 25 mg b.i.d. for 12 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "143"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-1.3",
+                      "lowerLimit": "-2.3",
+                      "upperLimit": "-0.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Observed Mean Change From Baseline to Week 4 in 24-hour Weighted Average Systolic Blood Pressure (SBP) Measured by ABPM",
+          "description": "The change from baseline in the 24-hour weighted average systolic blood pressure (SBP) was calculated using the time weighted average of the area under the curve (AUC) of SBP obtained over a 24-hour period as measured by ABPM. This analysis was conducted using the observed data.\n\nData was computed taking weighted averages over time and discarding time intervals of more than 1 hour without measurements.",
+          "populationDescription": "Full Analysis Set (FAS): all participants to whom study treatment was assigned and received at least one dose of treatment. Only participants with a value at both baseline and Week 4 were included.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "millimeter of mercury (mmHg)",
+          "timeFrame": "Baseline, Week 4",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "LOU064 (Remibrutinib)",
+              "description": "All participants were assigned to remibrutinib 25 mg b.i.d. for 12 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "142"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-1.65",
+                      "spread": "6.905"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Estimated Mean Change From Baseline at Week 4 in 24-hour Diastolic Blood Pressure (DBP) Measured by ABPM",
+          "description": "A linear regression with DBP as a covariate was employed. The change in DBP from baseline to Week 4 was predicted at the median baseline level. The change from baseline in the 24-hour weighted average DBP was calculated using the time weighted average of the area under the curve (AUC) of DBP obtained over a 24-hour period as measured by ABPM. That is, the time weighted average of AUC of 24-hour DBP obtained at baseline was subtracted from corresponding time weighted average of AUC of DBP at Week 4.\n\nIn the analysis, if participants took prohibited antihypertensive treatment before Week 4, their subsequent measurements were excluded. In such cases, the excluded measurements were imputed by increasing the 24-hour DBP by 3 mmHg from the baseline value at Week 4. Moreover, participants who discontinued of study treatment due to any reason prior to the Week 4 were excluded from the analysis. The Mixed Models for Repeated Measures (MMRM) approach was used.",
+          "populationDescription": "FAS: all participants to whom study treatment was assigned and received at least one dose of treatment. Participants who discontinued treatment prior to Week 4 were excluded from the analysis.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "millimeter of mercury (mmHg)",
+          "timeFrame": "Baseline, Week 4",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "LOU064 (Remibrutinib)",
+              "description": "All participants were assigned to remibrutinib 25 mg b.i.d. for 12 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "143"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.1",
+                      "lowerLimit": "-0.8",
+                      "upperLimit": "0.6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Estimated Mean Change From Baseline at Week 4 in Daytime and Nighttime Average SBP Measured by ABPM",
+          "description": "The change in daytime (respectively nighttime) weighted average SBP was analyzed using linear regression model with baseline weighted average daytime SBP (respectively nighttime) as a covariate. The change in daytime (respectively nighttime) SBP from baseline to Week 4 was predicted at the median baseline level. The change from baseline of daytime (respectively nighttime) SBP was calculated using the time weighted average of the AUC of DBP obtained over daytime (respectively nighttime) In the analysis, if participants took prohibited antihypertensive treatment before Week 4, their subsequent measurements were excluded. In such cases, the excluded measurements were imputed by increasing the 24-hour SBP by 3 mmHg from the baseline value at Week 4. Moreover, participants who discontinued of study treatment due to any reason prior to the Week 4 were excluded from the analysis. The multiple imputation approach was used. Daytime: from 7am until 10 pm. Nighttime: from 10pm until 7 am.",
+          "populationDescription": "FAS: all participants to whom study treatment was assigned and received at least one dose of treatment. Participants who discontinued treatment prior to Week 4 were excluded from the analysis.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "millimeter of mercury (mmHg)",
+          "timeFrame": "Baseline, Week 4",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "LOU064 (Remibrutinib)",
+              "description": "All participants were assigned to remibrutinib 25 mg b.i.d. for 12 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "143"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "daytime average SBP",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-1.2",
+                      "lowerLimit": "-2.3",
+                      "upperLimit": "-0.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "nighttime average SBP",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.9",
+                      "lowerLimit": "-2.2",
+                      "upperLimit": "0.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Estimated Mean Change From Baseline at Week 4 in Daytime and Nighttime Average DBP Measured by ABPM",
+          "description": "The change in daytime (respectively nighttime) weighted average DBP was analyzed using linear regression model with baseline weighted average daytime DBP (respectively nighttime) as a covariate. The change in daytime (respectively nighttime) DBP from baseline to Week 4 was predicted at the median baseline level. The change from baseline of daytime (respectively nighttime) DBP was calculated using the time weighted average of the AUC of DBP obtained over daytime (respectively nighttime) In the analysis, if participants took prohibited antihypertensive treatment before Week 4, their subsequent measurements were excluded. In such cases, the excluded measurements were imputed by increasing the 24-hour DBP by 3 mmHg from the baseline value at Week 4. Moreover, participants who discontinued of study treatment due to any reason prior to the Week 4 were excluded from the analysis. The multiple imputation approach was used. Daytime: from 7am until 10 pm. Nighttime: from 10pm until 7 am.",
+          "populationDescription": "FAS: all participants to whom study treatment was assigned and received at least one dose of treatment. Participants who discontinued treatment prior to Week 4 were excluded from the analysis.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "millimeter of mercury (mmHg)",
+          "timeFrame": "Baseline, Week 4",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "LOU064 (Remibrutinib)",
+              "description": "All participants were assigned to remibrutinib 25 mg b.i.d. for 12 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "143"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "daytime average DBP",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-0.6",
+                      "lowerLimit": "-1.3",
+                      "upperLimit": "0.2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "nighttime average DBP",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.2",
+                      "lowerLimit": "-0.8",
+                      "upperLimit": "1.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "On-treatment adverse events and deaths were reported from first dose of study medication up to 28 days after last dose of study medication, assessed up to approximately 18 weeks.",
+      "description": "Any sign or symptom that occurred during the conduct of the trial and safety follow-up. The safety analysis were done on the safety population, which included all enrolled subjects who received at least one dose of study medication.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "LOU064 (Remibrutinib)",
+          "description": "All participants were assigned to remibrutinib 25 mg b.i.d. for 12 weeks",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 144,
+          "seriousNumAffected": 4,
+          "seriousNumAtRisk": 144,
+          "otherNumAffected": 32,
+          "otherNumAtRisk": 144
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Cholecystitis acute",
+          "organSystem": "Hepatobiliary disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 144
+            }
+          ]
+        },
+        {
+          "term": "Dizziness",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 144
+            }
+          ]
+        },
+        {
+          "term": "Chronic spontaneous urticaria",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 144
+            }
+          ]
+        },
+        {
+          "term": "Aortic dissection",
+          "organSystem": "Vascular disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 144
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Nasopharyngitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 12,
+              "numAtRisk": 144
+            }
+          ]
+        },
+        {
+          "term": "Headache",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 13,
+              "numAtRisk": 144
+            }
+          ]
+        },
+        {
+          "term": "Chronic spontaneous urticaria",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA (27.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 8,
+              "numAtRisk": 144
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "The terms and conditions of Novartis' agreements with its investigators may vary. However, Novartis does not prohibit any investigator from publishing. Any publications from a single-site are postponed until the publication of the pooled data (i.e., data from all sites) in the clinical trial."
+      },
+      "pointOfContact": {
+        "title": "Study Director",
+        "organization": "Novartis Pharmaceuticals",
+        "email": "Novartis.email@Novartis.com",
+        "phone": "+1 862 778 8300"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2022-10-07",
+          "uploadDate": "2025-04-10T09:18",
+          "filename": "Prot_000.pdf",
+          "size": 2066933
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2024-09-18",
+          "uploadDate": "2025-04-10T09:19",
+          "filename": "SAP_001.pdf",
+          "size": 566500
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-04-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000080223",
+          "term": "Chronic Urticaria"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014581",
+          "term": "Urticaria"
+        },
+        {
+          "id": "D017445",
+          "term": "Skin Diseases, Vascular"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D006969",
+          "term": "Hypersensitivity, Immediate"
+        },
+        {
+          "id": "D006967",
+          "term": "Hypersensitivity"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C000722911",
+          "term": "remibrutinib"
+        }
+      ]
+    }
+  },
+  "hasResults": true,
+  "_meta": {
+    "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT05795153",
+    "fetched_at": "2026-04-09T00:59:09.835590+00:00"
+  }
+}

@@ -1,0 +1,1496 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06042478",
+      "orgStudyIdInfo": {
+        "id": "CLOU064A2304"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2022-502161-19-00",
+          "type": "REGISTRY",
+          "domain": "EU CT NUMBER"
+        }
+      ],
+      "organization": {
+        "fullName": "Novartis",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Phase 3b Study to Assess the Efficacy, Safety, and Tolerability of Remibrutinib in Comparison to Placebo, With Omalizumab as Active Control, in Adult CSU Patients, Followed by an Open-label 52-week Optional Extension.",
+      "officialTitle": "A Global, Multicenter, Randomized, Double-blind, Double-dummy, Parallel-group, Phase 3b Study to Assess the Efficacy, Safety, and Tolerability of Remibrutinib 25 mg b.i.d. in Comparison to Placebo With Omalizumab 300 mg Every 4 Weeks as Active Control Over 52 Weeks in Adult Patients With Chronic Spontaneous Urticaria Inadequately Controlled by Second Generation H1-antihistamines and an Open-label 52-week Optional Extension to Assess Long-term Efficacy, Safety and Tolerability of Remibrutinib 25 mg b.i.d."
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-03",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-11-15",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2025-09-17",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2027-07-20",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2023-09-07",
+      "studyFirstSubmitQcDate": "2023-09-14",
+      "studyFirstPostDateStruct": {
+        "date": "2023-09-18",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-03-10",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-03-11",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Novartis Pharmaceuticals",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of the core phase of the trial is to assess the efficacy, safety and tolerability of remibrutinib (LOU064) 25 milligrams (mg) twice a day (b.i.d.) over placebo for 24 weeks and in comparison to omalizumab 300 mg every 4 weeks (q4w) for 52 weeks in participants with chronic spontaneous urticaria (CSU) inadequately controlled by H1-antihistamines (H1-AH).\n\nThe purpose of the open-label extension phase is to assess efficacy, safety and tolerability up to two years for patients treated with remibrutinib and patients transitioned from omalizumab to remibrutinib at Week 52. In the extension phase, treatment will be with remibrutinib only (i.e., no background therapy). The extension phase will also fulfill the Novartis commitment to provide post-trial access to participants of the previous core phase.",
+      "detailedDescription": "The study consists of 4 periods, and the total study duration is up to 112 weeks. Approximately 468 adult participants with CSU are expected to be randomized in the study.\n\nScreening period: A screening period of up to 4 weeks will allow for the assessment of eligibility, determination of baseline disease activity and wash-out of prohibited medications.\n\nCore Phase Treatment Period (52 weeks):\n\nThe treatment period will be double-dummy and double-blind, with placebo injections matching omalizumab 300 mg s.c. given to participants in the remibrutinib arm and placebo tablets matching remibrutinib 25 mg given to participants in the omalizumab arm (double-dummy). At the randomization visit, eligible participants will be randomized to one of four treatment arms.\n\nExtension Phase Treatment Period (52 weeks): Optional open-label extension where patients receive treatment with open-label remibrutinib 25 mg, for 52 weeks.\n\nFollow-up period:\n\nFor patients that do not enter the extension phase, there will be a 16-week, treatment-free, safety follow-up period.\n\nPatients that enter extension phase will have a 4-week treatment-free safety follow-up period at the end of the extension phase.\n\nAll participants will be on a stable, local label-approved standard dose of a second-generation H1-AH (\"background therapy\") throughout the entire core phase (starting a minimum of 7 days prior to randomization until the end of the core phase).\n\nIn addition, to treat unbearable symptoms of CSU flare-ups, participants will be allowed to use a different second-generation H1-AH on an as-needed basis (\"rescue therapy\")."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ],
+      "keywords": [
+        "CSU",
+        "urticaria",
+        "LOU064",
+        "omalizumab",
+        "remibrutinib"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "Eligible participants will be randomized to 1 of 4 treatment arms in a 2:1:1:2 ratio:\n\n* Remibrutinib 25 mg b.i.d. arm: participants receive remibrutinib 25 mg b.i.d. and placebo for omalizumab q4w for 52 weeks\n* Placebo to remibrutinib arm: participants receive placebo for remibrutinib 25 mg b.i.d. and placebo for omalizumab q4w for 24 weeks. From Week 24 to Week 52 participants receive remibrutinib 25 mg b.i.d. and placebo for omalizumab q4w.\n* Placebo to omalizumab arm: participants receive placebo for remibrutinib 25 mg b.i.d. and placebo for omalizumab q4w for 24 weeks. From Week 24 to Week 52 participants receive omalizumab 300 mg q4w and placebo for remibrutinib b.i.d.\n* Omalizumab 300 mg every 4 weeks arm: participants receive omalizumab 300 mg q4w and placebo for remibrutinib b.i.d. for 52 weeks.\n\nAll of the above arms are followed by an optional 52-week extension period where participants receive treatment with remibrutinib 25 mg b.i.d. for 52 weeks.",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "TRIPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 470,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Remibrutinib",
+          "type": "EXPERIMENTAL",
+          "description": "Participants will receive remibrutinib 25 mg b.i.d. and placebo for omalizumab q4w for 52 weeks.",
+          "interventionNames": [
+            "Drug: Remibrutinib"
+          ]
+        },
+        {
+          "label": "Placebo to remibrutinib",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Participants will receive placebo for remibrutinib 25 mg b.i.d. and placebo for omalizumab q4w for 24 weeks. From Week 24 to Week 52 participants will receive remibrutinib 25 mg b.i.d. and placebo for omalizumab q4w.",
+          "interventionNames": [
+            "Drug: Placebo to remibrutinib"
+          ]
+        },
+        {
+          "label": "Placebo to omalizumab",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Participants will receive placebo for remibrutinib 25 mg b.i.d. and placebo for omalizumab q4w for 24 weeks. From Week 24 to Week 52 participants will receive omalizumab 300 mg q4w and placebo for remibrutinib b.i.d.",
+          "interventionNames": [
+            "Drug: Placebo to omalizumab"
+          ]
+        },
+        {
+          "label": "Omalizumab",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "participants will receive omalizumab 300 mg q4w and placebo for remibrutinib b.i.d. for 52 weeks.",
+          "interventionNames": [
+            "Drug: Omalizumab"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Remibrutinib",
+          "description": "Active treatment",
+          "armGroupLabels": [
+            "Remibrutinib"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo to remibrutinib",
+          "description": "Placebo followed by active treatment",
+          "armGroupLabels": [
+            "Placebo to remibrutinib"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo to omalizumab",
+          "description": "Placebo followed by active comparator",
+          "armGroupLabels": [
+            "Placebo to omalizumab"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Omalizumab",
+          "description": "Active comparator",
+          "armGroupLabels": [
+            "Omalizumab"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Absolute change from baseline in Weekly Urticaria Activity Score (UAS7)",
+          "description": "The UAS7 is the sum of the Weekly Hives Severity Score (HSS7 score) and the Weekly Itch Severity Score (ISS7 score). The possible range of the weekly UAS7 score is 0 - 42 (highest activity).",
+          "timeFrame": "Week 12"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Achievement of UAS7=0 (yes/no)",
+          "description": "Complete UAS7 response is UAS7 = 0",
+          "timeFrame": "Week 12"
+        },
+        {
+          "measure": "Improvement of severity of itch, assessed as absolute change from baseline in ISS7 score",
+          "description": "The severity of the itch will be recorded by the participant twice daily in their eDiary, on a scale of 0 (none) to 3 (severe). A weekly score (ISS7) is derived by adding up the average daily scores of the 7 days preceding the visit. The possible range of the weekly score is therefore 0 - 21.",
+          "timeFrame": "Week 12"
+        },
+        {
+          "measure": "Improvement of severity of hives, assessed as absolute change from baseline in HSS7 score",
+          "description": "The hives (wheals) severity score, defined by number of hives, will be recorded by the participant twice daily in their eDiary, on a scale of 0 (none) to 3 (\\> 12 hives/12 hours). A weekly score (HSS7) is derived by adding up the average daily scores of the 7 days preceding the visit. The possible range of the weekly score is therefore 0 - 21.",
+          "timeFrame": "Week 12"
+        },
+        {
+          "measure": "Occurrence of treatment-emergent adverse events and serious adverse events (SAEs)",
+          "description": "To demonstrate the safety and tolerability of remibrutinib (25 mg b.i.d.)",
+          "timeFrame": "up to 68 weeks"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Male and female adult participants \u226518 years of age at the time of signing the informed consent.\n* CSU duration for \u2265 6 months prior to screening.\n* Diagnosis of CSU inadequately controlled by second generation H1-AH at the time of randomization, defined as:\n* The presence of itch and hives for \u22656 consecutive weeks prior to screening, despite the use of second-generation H1-AH during this time period.\n* UAS7 score (range 0-42) \u226516, ISS7 score (range 0-21) \u2265 6 and HSS7 score (range 0- 21) \u2265 6 during the 7 days prior to randomization (Day 1).\n* Documentation of hives within three months before randomization.\n* Willing and able to complete an Urticaria Patient Daily Diary (UPDD) for the duration of the study and adhere to the study protocol.\n* Participants must not have had more than one missing UPDD entry (either morning or evening) in the 7 days prior to randomization (Day 1).\n\nExclusion Criteria:\n\n* Prior exposure to ligelizumab, omalizumab and other biologics with any effect in CSU, including anti-IgE therapies.\n* Significant bleeding risk or coagulation disorders.\n* History of gastrointestinal bleeding.\n* Requirement for anti-platelet or anti-coagulant medication.\n* History or current hepatic disease.\n* Evidence of clinically significant cardiovascular, neurological, psychiatric, pulmonary, renal, hepatic, endocrine, metabolic, hematological disorders, gastrointestinal disease or immunodeficiency that, in the investigator's opinion, would compromise the safety of the participant, interfere with the interpretation of the study results or otherwise preclude participation or protocol adherence of the participant.\n* Evidence of helminthic parasitic infection as evidenced by stools being positive for a pathogenic organism according to local guidelines.\n* Documented history of anaphylaxis.\n* Pregnant or nursing (lactating) women.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "100 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Novartis Pharmaceuticals",
+          "affiliation": "Novartis Pharmaceuticals",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "CABA",
+          "state": "Buenos Aires",
+          "zip": "C1414AIF",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Rosario",
+          "state": "Santa Fe Province",
+          "zip": "2000",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -32.94682,
+            "lon": -60.63932
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Bah\u00eda Blanca",
+          "zip": "B8000JRB",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -38.7176,
+            "lon": -62.26545
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "CABA",
+          "zip": "C1012AAY",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Capital Federal",
+          "zip": "C1023AAB",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Mendoza",
+          "zip": "5500",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -32.88946,
+            "lon": -68.84582
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Porto Alegre",
+          "state": "Rio Grande do Sul",
+          "zip": "90560-032",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -30.03283,
+            "lon": -51.23019
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Alphaville Barueri",
+          "state": "S\u00e3o Paulo",
+          "zip": "06454-010",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Santo Andr\u00e9",
+          "state": "S\u00e3o Paulo",
+          "zip": "09060-870",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -23.66389,
+            "lon": -46.53833
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Sorocaba",
+          "state": "S\u00e3o Paulo",
+          "zip": "18040-425",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -23.50167,
+            "lon": -47.45806
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Sofia",
+          "zip": "1421",
+          "country": "Bulgaria",
+          "geoPoint": {
+            "lat": 42.69751,
+            "lon": 23.32415
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Sofia",
+          "zip": "1431",
+          "country": "Bulgaria",
+          "geoPoint": {
+            "lat": 42.69751,
+            "lon": 23.32415
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Varna",
+          "zip": "9009",
+          "country": "Bulgaria",
+          "geoPoint": {
+            "lat": 43.21912,
+            "lon": 27.91024
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Edmonton",
+          "state": "Alberta",
+          "zip": "T6G 1C3",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 53.55014,
+            "lon": -113.46871
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Hamilton",
+          "state": "Ontario",
+          "zip": "L8L 3C3",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.25011,
+            "lon": -79.84963
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Hamilton",
+          "state": "Ontario",
+          "zip": "L8S 1G5",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.25011,
+            "lon": -79.84963
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "London",
+          "state": "Ontario",
+          "zip": "N6H 5L5",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 42.98339,
+            "lon": -81.23304
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Niagara Falls",
+          "state": "Ontario",
+          "zip": "L2H 1H5",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.10012,
+            "lon": -79.06627
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Qu\u00e9bec",
+          "state": "Quebec",
+          "zip": "G1V 4W2",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 46.81228,
+            "lon": -71.21454
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Verdun",
+          "state": "Quebec",
+          "zip": "H4G 3E7",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 45.46005,
+            "lon": -73.57058
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Brno",
+          "zip": "602 00",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 49.19522,
+            "lon": 16.60796
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Plzen Bolevec",
+          "zip": "32300",
+          "country": "Czechia"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Prague",
+          "zip": "100 34",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 50.08804,
+            "lon": 14.42076
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Grenoble",
+          "zip": "38043",
+          "country": "France",
+          "geoPoint": {
+            "lat": 45.17869,
+            "lon": 5.71479
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "La Rochelle",
+          "zip": "17019",
+          "country": "France",
+          "geoPoint": {
+            "lat": 46.16308,
+            "lon": -1.15222
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Nice",
+          "zip": "06000",
+          "country": "France",
+          "geoPoint": {
+            "lat": 43.70313,
+            "lon": 7.26608
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Pierre-B\u00e9nite",
+          "zip": "69495",
+          "country": "France",
+          "geoPoint": {
+            "lat": 45.70359,
+            "lon": 4.82424
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Rouen",
+          "zip": "76031",
+          "country": "France",
+          "geoPoint": {
+            "lat": 49.44313,
+            "lon": 1.09932
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Freiburg im Breisgau",
+          "state": "Baden-Wurttemberg",
+          "zip": "79106",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 47.9959,
+            "lon": 7.85222
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Munich",
+          "state": "Bavaria",
+          "zip": "81377",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 48.13743,
+            "lon": 11.57549
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "G\u00f6ttingen",
+          "state": "Lower Saxony",
+          "zip": "37075",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.53443,
+            "lon": 9.93228
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Stade",
+          "state": "Lower Saxony",
+          "zip": "21682",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 53.59407,
+            "lon": 9.47302
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Dresden",
+          "state": "Saxony",
+          "zip": "01307",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.05089,
+            "lon": 13.73832
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Leipzig",
+          "state": "Saxony",
+          "zip": "04103",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.33962,
+            "lon": 12.37129
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Halle",
+          "state": "Saxony-Anhalt",
+          "zip": "06120",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.48158,
+            "lon": 11.97947
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Bad Bentheim",
+          "zip": "48455",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.30066,
+            "lon": 7.15763
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Berlin",
+          "zip": "13353",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.52437,
+            "lon": 13.41053
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Bochum",
+          "zip": "44791",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.48165,
+            "lon": 7.21648
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Bochum",
+          "zip": "44793",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.48165,
+            "lon": 7.21648
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Hamburg",
+          "zip": "22391",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 53.55073,
+            "lon": 9.99302
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Heidelberg",
+          "zip": "69120",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 49.40768,
+            "lon": 8.69079
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "L\u00fcbeck",
+          "zip": "23538",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 53.86893,
+            "lon": 10.68729
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Mainz",
+          "zip": "55131",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 49.98185,
+            "lon": 8.28008
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "M\u00fcnchen",
+          "zip": "80377",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.60698,
+            "lon": 13.31243
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "M\u00fcnster",
+          "zip": "48149",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.96236,
+            "lon": 7.62571
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Osnabr\u00fcck",
+          "zip": "49074",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.27264,
+            "lon": 8.0498
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "T\u00fcbingen",
+          "zip": "72076",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 48.52266,
+            "lon": 9.05222
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Kaposv\u00e1r",
+          "zip": "7400",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 46.36667,
+            "lon": 17.8
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Ahmedabad",
+          "state": "Gujarat",
+          "zip": "380016",
+          "country": "India",
+          "geoPoint": {
+            "lat": 23.02579,
+            "lon": 72.58727
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "zip": "560004",
+          "country": "India",
+          "geoPoint": {
+            "lat": 12.97194,
+            "lon": 77.59369
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Belagavi",
+          "state": "Karnataka",
+          "zip": "590010",
+          "country": "India",
+          "geoPoint": {
+            "lat": 15.85212,
+            "lon": 74.50447
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Mysore",
+          "state": "Karnataka",
+          "zip": "570001",
+          "country": "India",
+          "geoPoint": {
+            "lat": 12.29791,
+            "lon": 76.63925
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Nagpur",
+          "state": "Maharashtra",
+          "zip": "440012",
+          "country": "India",
+          "geoPoint": {
+            "lat": 21.14631,
+            "lon": 79.08491
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Nagpur",
+          "state": "Maharashtra",
+          "zip": "440015",
+          "country": "India",
+          "geoPoint": {
+            "lat": 21.14631,
+            "lon": 79.08491
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Nashik",
+          "state": "Maharashtra",
+          "zip": "422101",
+          "country": "India",
+          "geoPoint": {
+            "lat": 19.99727,
+            "lon": 73.79096
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "New Delhi",
+          "state": "National Capital Territory of Delhi",
+          "zip": "110029",
+          "country": "India",
+          "geoPoint": {
+            "lat": 28.62137,
+            "lon": 77.2148
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Bikaner",
+          "state": "Rajasthan",
+          "zip": "334003",
+          "country": "India",
+          "geoPoint": {
+            "lat": 28.01762,
+            "lon": 73.31495
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Hyderabad",
+          "state": "Telangana",
+          "zip": "500004",
+          "country": "India",
+          "geoPoint": {
+            "lat": 17.38405,
+            "lon": 78.45636
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Dehradun",
+          "state": "Uttarakhand",
+          "zip": "248001",
+          "country": "India",
+          "geoPoint": {
+            "lat": 30.32443,
+            "lon": 78.03392
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Milan",
+          "state": "MI",
+          "zip": "20122",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 42.78235,
+            "lon": 12.59836
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Rozzano",
+          "state": "MI",
+          "zip": "20089",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 45.38193,
+            "lon": 9.1559
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Modena",
+          "state": "MO",
+          "zip": "41124",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 44.64783,
+            "lon": 10.92539
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Roma",
+          "state": "RM",
+          "zip": "00186",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 44.99364,
+            "lon": 11.10642
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Siena",
+          "state": "SI",
+          "zip": "53100",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 43.31822,
+            "lon": 11.33064
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Muar town",
+          "state": "Johor",
+          "zip": "84000",
+          "country": "Malaysia",
+          "geoPoint": {
+            "lat": 2.0442,
+            "lon": 102.5689
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Kuala Lumpur",
+          "state": "Kuala Lumpur",
+          "zip": "50586",
+          "country": "Malaysia",
+          "geoPoint": {
+            "lat": 3.1412,
+            "lon": 101.68653
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Ipoh",
+          "state": "Perak",
+          "zip": "30450",
+          "country": "Malaysia",
+          "geoPoint": {
+            "lat": 4.5841,
+            "lon": 101.0829
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "George Town",
+          "state": "Pulau Pinang",
+          "zip": "10450",
+          "country": "Malaysia",
+          "geoPoint": {
+            "lat": 5.41123,
+            "lon": 100.33543
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Petaling Jaya",
+          "state": "Selangor",
+          "zip": "46150",
+          "country": "Malaysia",
+          "geoPoint": {
+            "lat": 3.10726,
+            "lon": 101.60671
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Kuala Lumpur",
+          "zip": "59100",
+          "country": "Malaysia",
+          "geoPoint": {
+            "lat": 3.1412,
+            "lon": 101.68653
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Wilayah Persekutuan",
+          "zip": "62502",
+          "country": "Malaysia"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "zip": "44638",
+          "country": "Mexico",
+          "geoPoint": {
+            "lat": 20.67738,
+            "lon": -103.34749
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Cuauht\u00e9moc",
+          "state": "Mexico City",
+          "zip": "06100",
+          "country": "Mexico",
+          "geoPoint": {
+            "lat": 19.44506,
+            "lon": -99.14612
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Villahermosa",
+          "state": "Tabasco",
+          "zip": "86035",
+          "country": "Mexico",
+          "geoPoint": {
+            "lat": 17.98625,
+            "lon": -92.93928
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "M\u00e9rida",
+          "state": "Yucat\u00e1n",
+          "zip": "97070",
+          "country": "Mexico",
+          "geoPoint": {
+            "lat": 20.967,
+            "lon": -89.62318
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Utrecht",
+          "zip": "3584 CX",
+          "country": "Netherlands",
+          "geoPoint": {
+            "lat": 52.09083,
+            "lon": 5.12222
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Gdansk",
+          "zip": "80-214",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 54.35227,
+            "lon": 18.64912
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Gdansk",
+          "zip": "80-546",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 54.35227,
+            "lon": 18.64912
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Krosno",
+          "zip": "38-400",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 49.68866,
+            "lon": 21.77058
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Poznan",
+          "zip": "60-823",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 52.40692,
+            "lon": 16.92993
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Bardejov",
+          "zip": "085 01",
+          "country": "Slovakia",
+          "geoPoint": {
+            "lat": 49.29175,
+            "lon": 21.27271
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Ke\u017emarok",
+          "zip": "060 01",
+          "country": "Slovakia",
+          "geoPoint": {
+            "lat": 49.13571,
+            "lon": 20.43352
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Svidn\u00edk",
+          "zip": "089 01",
+          "country": "Slovakia",
+          "geoPoint": {
+            "lat": 49.30819,
+            "lon": 21.5703
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Trnava",
+          "zip": "917 02",
+          "country": "Slovakia",
+          "geoPoint": {
+            "lat": 48.37773,
+            "lon": 17.58603
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Ansan",
+          "state": "Gyeonggi-do",
+          "zip": "425-801",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.21795,
+            "lon": 127.55845
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Busan",
+          "zip": "49241",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 35.10168,
+            "lon": 129.03004
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Seoul",
+          "zip": "03722",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Granada",
+          "state": "Andalusia",
+          "zip": "18014",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 37.18817,
+            "lon": -3.60667
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Barcelona",
+          "state": "Catalonia",
+          "zip": "08003",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Barcelona",
+          "zip": "08035",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Barcelona",
+          "zip": "08036",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "C\u00f3rdoba",
+          "zip": "14004",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 37.89155,
+            "lon": -4.77275
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Las Palmas GC",
+          "zip": "35010",
+          "country": "Spain"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Valencia",
+          "zip": "46015",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 39.47391,
+            "lon": -0.37966
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Valencia",
+          "zip": "46026",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 39.47391,
+            "lon": -0.37966
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Zurich",
+          "zip": "8091",
+          "country": "Switzerland",
+          "geoPoint": {
+            "lat": 47.36667,
+            "lon": 8.55
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Taipei",
+          "zip": "10002",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 25.05306,
+            "lon": 121.52639
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Taoyuan District",
+          "zip": "33305",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 24.9896,
+            "lon": 121.3187
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Songkhla",
+          "state": "Hat Yai",
+          "zip": "90110",
+          "country": "Thailand",
+          "geoPoint": {
+            "lat": 7.19882,
+            "lon": 100.5951
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Khon Kaen",
+          "state": "THA",
+          "zip": "40002",
+          "country": "Thailand",
+          "geoPoint": {
+            "lat": 16.44671,
+            "lon": 102.833
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Bangkok",
+          "zip": "10400",
+          "country": "Thailand",
+          "geoPoint": {
+            "lat": 13.75398,
+            "lon": 100.50144
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Bangkok",
+          "zip": "10700",
+          "country": "Thailand",
+          "geoPoint": {
+            "lat": 13.75398,
+            "lon": 100.50144
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Chiang Mai",
+          "zip": "50200",
+          "country": "Thailand",
+          "geoPoint": {
+            "lat": 18.79038,
+            "lon": 98.98468
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Sakarya",
+          "state": "Adapazari",
+          "zip": "54290",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 39.50333,
+            "lon": 32.07583
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Aydin",
+          "state": "Efeler",
+          "zip": "09100",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 37.84501,
+            "lon": 27.83963
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Istanbul",
+          "state": "Fatih",
+          "zip": "34093",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 41.01384,
+            "lon": 28.94966
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Istanbul",
+          "state": "Fatih",
+          "zip": "34098",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 41.01384,
+            "lon": 28.94966
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Denizli",
+          "state": "Kinikli",
+          "zip": "20070",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 37.77417,
+            "lon": 29.0875
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Birmingham",
+          "zip": "B9 5SS",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 52.48142,
+            "lon": -1.89983
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Hanoi",
+          "zip": "100000",
+          "country": "Vietnam",
+          "geoPoint": {
+            "lat": 21.0245,
+            "lon": 105.84117
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Ho Chi Minh City",
+          "zip": "700000",
+          "country": "Vietnam",
+          "geoPoint": {
+            "lat": 10.82302,
+            "lon": 106.62965
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Novartis is committed to sharing with qualified external researchers, access to patient-level data and supporting clinical documents from eligible studies. These requests are reviewed and approved by an independent review panel on the basis of scientific merit. All data provided is anonymized to respect the privacy of patients who have participated in the trial in line with applicable laws and regulations.\n\nThis trial data availability is according to the criteria and process described on www.clinicalstudydatarequest.com"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-04-08",
+      "removedCountries": [
+        "Australia"
+      ]
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000080223",
+          "term": "Chronic Urticaria"
+        },
+        {
+          "id": "D014581",
+          "term": "Urticaria"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D017445",
+          "term": "Skin Diseases, Vascular"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D006969",
+          "term": "Hypersensitivity, Immediate"
+        },
+        {
+          "id": "D006967",
+          "term": "Hypersensitivity"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C000722911",
+          "term": "remibrutinib"
+        },
+        {
+          "id": "D000069444",
+          "term": "Omalizumab"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000888",
+          "term": "Antibodies, Anti-Idiotypic"
+        },
+        {
+          "id": "D000906",
+          "term": "Antibodies"
+        },
+        {
+          "id": "D007136",
+          "term": "Immunoglobulins"
+        },
+        {
+          "id": "D007162",
+          "term": "Immunoproteins"
+        },
+        {
+          "id": "D001798",
+          "term": "Blood Proteins"
+        },
+        {
+          "id": "D011506",
+          "term": "Proteins"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        },
+        {
+          "id": "D061067",
+          "term": "Antibodies, Monoclonal, Humanized"
+        },
+        {
+          "id": "D000911",
+          "term": "Antibodies, Monoclonal"
+        },
+        {
+          "id": "D012712",
+          "term": "Serum Globulins"
+        },
+        {
+          "id": "D005916",
+          "term": "Globulins"
+        }
+      ]
+    }
+  },
+  "hasResults": false,
+  "_meta": {
+    "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT06042478",
+    "fetched_at": "2026-04-09T00:59:09.835590+00:00"
+  }
+}

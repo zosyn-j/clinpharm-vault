@@ -1,0 +1,130 @@
+{
+  "priority_class": "BTK",
+  "program": "Remibrutinib",
+  "term": "remibrutinib",
+  "url": "https://clinicaltrials.gov/api/v2/studies?query.cond=urticaria&query.term=remibrutinib&pageSize=100",
+  "fetched_at": "2026-04-09T00:59:09.835590+00:00",
+  "study_count": 15,
+  "studies": [
+    {
+      "nct_id": "NCT05795153",
+      "brief_title": "A Multicenter, Open-label Phase 3 Study: Ambulatory Blood Pressure Monitoring in Adult Patients With Chronic Spontaneous Urticaria Inadequately Controlled by H1-antihistamines Treated With Remibrutinib up to 12 Weeks.",
+      "official_title": "A Multicenter, Open-label Phase 3 Study: Ambulatory Blood Pressure Monitoring in Adult Patients With Chronic Spontaneous Urticaria Inadequately Controlled by H1-antihistamines Treated With Remibrutinib up to 12 Weeks.",
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ]
+    },
+    {
+      "nct_id": "NCT06865651",
+      "brief_title": "Study of Remibrutinib (LOU064) Efficacy and Safety and Exploration of Its Mechanism of Action in Participants With Chronic Urticaria",
+      "official_title": "A 12-week Randomized, Participant and Investigator-blinded, Placebo-controlled, Exploratory Study in Adult Participants With Chronic Urticaria to Assess the Efficacy and Safety and Explore the Mechanism of Action of Remibrutinib (LOU064)",
+      "conditions": [
+        "Chronic Urticaria (CU): Chronic Inducible Urticaria (CINDU) and Chronic Spontaneous Urticaria (CSU)"
+      ]
+    },
+    {
+      "nct_id": "NCT07408219",
+      "brief_title": "A Real-world Study of Remibrutinib in Chronic Spontaneous Urticaria Patients",
+      "official_title": "RELIEF: Remibrutinib in Chronic Spontaneous Urticaria: Early Real World Effectiveness and Satisfaction Survey",
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ]
+    },
+    {
+      "nct_id": "NCT05976243",
+      "brief_title": "A Study to Investigate Efficacy, Safety, and Tolerability of Remibrutinib Compared With Placebo in Adults With CINDU Inadequately Controlled by H1-antihistamines",
+      "official_title": "A 52-week Multi-center, Randomized, Double-blind, Placebo Controlled, Basket Study With an Open-label Extension to Investigate the Efficacy, Safety, and Tolerability of Remibrutinib (LOU064) in Chronic Inducible Urticaria (CINDU) in Adults Inadequately Controlled by H1-antihistamines",
+      "conditions": [
+        "Chronic Inducible Urticaria"
+      ]
+    },
+    {
+      "nct_id": "NCT05170724",
+      "brief_title": "Global Managed Access Program Cohort for Remibrutinib in Adult Patients With Chronic Spontaneous Urticaria",
+      "official_title": "Managed Access Program (MAP) Cohort Treatment Plan CLOU064A2002M to Provide Access to Remibrutinib for Adult Patients With Chronic Spontaneous Urticaria (CSU)",
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ]
+    },
+    {
+      "nct_id": "NCT07358780",
+      "brief_title": "Remibrutinib in Real-world Clinical Practice - a US Sub-study",
+      "official_title": "Remibrutinib in Real-world Clinical Practice: a Prospective, Multi-country, Non-interventional, Effectiveness and Safety Study - a US Sub-study",
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ]
+    },
+    {
+      "nct_id": "NCT06042478",
+      "brief_title": "Phase 3b Study to Assess the Efficacy, Safety, and Tolerability of Remibrutinib in Comparison to Placebo, With Omalizumab as Active Control, in Adult CSU Patients, Followed by an Open-label 52-week Optional Extension.",
+      "official_title": "A Global, Multicenter, Randomized, Double-blind, Double-dummy, Parallel-group, Phase 3b Study to Assess the Efficacy, Safety, and Tolerability of Remibrutinib 25 mg b.i.d. in Comparison to Placebo With Omalizumab 300 mg Every 4 Weeks as Active Control Over 52 Weeks in Adult Patients With Chronic Spontaneous Urticaria Inadequately Controlled by Second Generation H1-antihistamines and an Open-label 52-week Optional Extension to Assess Long-term Efficacy, Safety and Tolerability of Remibrutinib 25 mg b.i.d.",
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ]
+    },
+    {
+      "nct_id": "NCT05030311",
+      "brief_title": "A Phase 3 Study of Efficacy and Safety of Remibrutinib in the Treatment of CSU in Adults Inadequately Controlled by H1 Antihistamines",
+      "official_title": "A Multicenter, Randomized, Double-blind, Placebo-controlled Phase 3 Study of Remibrutinib (LOU064) to Investigate the Efficacy, Safety and Tolerability for 52 Weeks in Adult Chronic Spontaneous Urticaria (CSU) Patients Inadequately Controlled by H1-antihistamines",
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ]
+    },
+    {
+      "nct_id": "NCT05677451",
+      "brief_title": "24 Weeks Double-blind Randomized Placebo-controlled Trial to Evaluate Efficacy, PK, Safety of LOU064 in Adolescents (12 - <18) With CSU and Inadequate Response to H1-antihistamine Followed by Optional 3 Years Open-label Extension and an Optional 3 Years Safety Long-term Treatment-free Follow-up",
+      "official_title": "A Double-blind, Randomized, Placebo-controlled Trial to Evaluate the Efficacy, Pharmacokinetics and Safety of Remibrutinib (LOU064) for 24 Weeks in Adolescents From 12 to Less Than 18 Years of Age With Chronic Spontaneous Urticaria Inadequately Controlled by H1-antihistamines Followed by an Optional Open-label Extension for up to Another 3 Years and an Optional Safety Long-term Treatment-free Follow-up Period for up to an Additional 3 Years",
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ]
+    },
+    {
+      "nct_id": "NCT05032157",
+      "brief_title": "A Phase 3 Study of Efficacy and Safety of Remibrutinib in the Treatment of CSU in Adults Inadequately Controlled by H1-antihistamines",
+      "official_title": "A Multicenter, Randomized, Double-blind, Placebo-controlled Phase 3 Study of Remibrutinib (LOU064) to Investigate the Efficacy, Safety and Tolerability for 52 Weeks in Adult Chronic Spontaneous Urticaria (CSU) Patients Inadequately Controlled by H1-antihistamines",
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ]
+    },
+    {
+      "nct_id": "NCT06868212",
+      "brief_title": "A Study to Evaluate Efficacy of Remibrutinib Compared to Dupilumab at Early Timepoints in Adults With Chronic Spontaneous Urticaria Inadequately Controlled by Second Generation H1-antihistamines",
+      "official_title": "A US Phase 3b, Multi-center, Randomized, Double-blind, Double-Dummy Study to Evaluate Efficacy of Remibrutinib Compared to Dupilumab at Early Timepoints in Adults With Chronic Spontaneous Urticaria Inadequately Controlled by Second Generation H1-Antihistamines",
+      "conditions": [
+        "Chronic Spontaneous Urticaria (CSU)"
+      ]
+    },
+    {
+      "nct_id": "NCT05513001",
+      "brief_title": "An Extension Study of Long-term Efficacy, Safety and Tolerability of Remibrutinib in Chronic Spontaneous Urticaria Patients Who Completed Preceding Studies With Remibrutinib",
+      "official_title": "A Multicenter, Double-blind, Placebo-controlled, Randomized Withdrawal and Open-label Extension Study Followed by Long-term Open-label Treatment Cycles to Assess the Efficacy, Safety and Tolerability of Remibrutinib (LOU064) in Adult Chronic Spontaneous Urticaria Patients Who Completed the Preceding Remibrutinib Phase 3 Studies",
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ]
+    },
+    {
+      "nct_id": "NCT07358364",
+      "brief_title": "Remibrutinib in Real-world Clinical Practice",
+      "official_title": "Remibrutinib in Real-world Clinical Practice: a Prospective, Multi-country, Non-interventional, Effectiveness and Safety Study",
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ]
+    },
+    {
+      "nct_id": "NCT04109313",
+      "brief_title": "An Open-label Extension Study to Evaluate the Long-term Safety and Tolerability of LOU064 in Subjects With CSU",
+      "official_title": "An Open-label, Multicenter, Extension Study to Evaluate the Long-term Safety and Tolerability of LOU064 in Eligible Subjects With CSU Who Have Participated in CLOU064A2201",
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ]
+    },
+    {
+      "nct_id": "NCT05048342",
+      "brief_title": "A Safety and Efficacy Study of Remibrutinib in the Treatment of CSU in Japanese Adults Inadequately Controlled by H1-antihistamines",
+      "official_title": "A Multicenter, Open-label Phase 3 Study of Remibrutinib (LOU064) to Investigate the Safety, Tolerability and Efficacy for 52 Weeks in Adult Japanese Chronic Spontaneous Urticaria Patients Inadequately Controlled by H1-antihistamines",
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ]
+    }
+  ]
+}

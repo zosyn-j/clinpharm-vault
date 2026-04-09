@@ -1,0 +1,251 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT07408219",
+      "orgStudyIdInfo": {
+        "id": "CLOU064AUS05"
+      },
+      "organization": {
+        "fullName": "Novartis",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Real-world Study of Remibrutinib in Chronic Spontaneous Urticaria Patients",
+      "officialTitle": "RELIEF: Remibrutinib in Chronic Spontaneous Urticaria: Early Real World Effectiveness and Satisfaction Survey",
+      "acronym": "RELIEF"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-03",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2026-01-17",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2026-03-31",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2026-03-31",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2026-02-06",
+      "studyFirstSubmitQcDate": "2026-02-06",
+      "studyFirstPostDateStruct": {
+        "date": "2026-02-13",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-03-03",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-03-05",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Novartis Pharmaceuticals",
+        "class": "INDUSTRY"
+      }
+    },
+    "descriptionModule": {
+      "briefSummary": "This is a United States (US) based, prospective, non-interventional, provider-referral study to evaluate the real-world effectiveness and patient-centered outcomes of remibrutinib in chronic spontaneous urticaria (CSU) patients using validated patient reported outcome (PRO) tools."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ],
+      "keywords": [
+        "Chronic spontaneous urticaria",
+        "Remibrutinib",
+        "Dupilumab",
+        "Urticaria control test",
+        "Urticaria control test 7 day recall"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "enrollmentInfo": {
+        "count": 350,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Remibrutinib Cohort",
+          "description": "Adult patients with CSU who are prescribed and initiating treatment with remibrutinib."
+        },
+        {
+          "label": "Dupilumab Cohort",
+          "description": "Adult patients with CSU who are prescribed and initiating treatment with dupilumab."
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change From Baseline in Urticaria Control Test - 7 Day Recall (UCT-7) Score at Week 4 in Patients Initiating Remibrutinib",
+          "description": "UCT-7 is a validated PRO tool designed to assess disease control over a 7-day recall period. It evaluates symptom burden, quality of life impact, treatment adequacy, and overall disease control. It consists of 4 questions, each of which is scored 0-4, with a total score range of 0-16. A score of \\<12 indicates poor disease control, 12-15 = partial control, and 16 indicates complete control.",
+          "timeFrame": "Baseline and Week 4"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change From Baseline in UCT-7 Score at Week 1 in Patients Initiating Remibrutinib",
+          "description": "UCT-7 is a validated PRO tool designed to assess disease control over a 7-day recall period. It evaluates symptom burden, quality of life impact, treatment adequacy, and overall disease control. It consists of 4 questions, each of which is scored 0-4, with a total score range of 0-16. A score of \\<12 indicates poor disease control, 12-15 = partial control, and 16 indicates complete control.",
+          "timeFrame": "Baseline and Week 1"
+        },
+        {
+          "measure": "Proportion of Patients With a UCT-7 Score \u226512 at Week 1 and Week 4 in Patients Initiating Remibrutinib",
+          "description": "UCT-7 is a validated PRO tool designed to assess disease control over a 7-day recall period. It evaluates symptom burden, quality of life impact, treatment adequacy, and overall disease control. It consists of 4 questions, each of which is scored 0-4, with a total score range of 0-16. A score of \\<12 indicates poor disease control, 12-15 = partial control, and 16 indicates complete control.",
+          "timeFrame": "Week 1 and Week 4"
+        },
+        {
+          "measure": "Treatment Satisfaction Questionnaire for Medication - Version 9 (TSQM-9) Domain Scores at Week 4 in Patients Initiating Remibrutinib",
+          "description": "The TSQM-9 is a validated PRO tool used to determine patient perceptions of the benefits, convenience, and overall satisfaction with their CSU treatment. It asks about 3 domains: effectiveness, convenience, and global satisfaction. TSQM-9 domain scores range from 0 to 100, with higher scores indicating greater satisfaction for that domain.",
+          "timeFrame": "Week 4"
+        },
+        {
+          "measure": "Change From Baseline in TSQM-9 Domain Scores at Week 4 in Patients Initiating Remibrutinib",
+          "description": "The TSQM-9 is a validated PRO tool used to determine patient perceptions of the benefits, convenience, and overall satisfaction with their CSU treatment. It asks about 3 domains: effectiveness, convenience, and global satisfaction. TSQM-9 domain scores range from 0 to 100, with higher scores indicating greater satisfaction for that domain. A positive change from baseline indicates improvement.",
+          "timeFrame": "Baseline and Week 4"
+        },
+        {
+          "measure": "Treatment Satisfaction Assessed by TSQM-9 Overall Score at Week 4 in Patients Initiating Remibrutinib",
+          "description": "The TSQM-9 is a validated PRO tool used to determine patient perceptions of the benefits, convenience, and overall satisfaction with their CSU treatment. It asks about 3 domains: effectiveness, convenience, and global satisfaction. TSQM-9 domain scores range from 0 to 100, with higher scores indicating greater satisfaction for that domain. Scores are produced for each domain, and total scores are calculated and used to assess overall medication satisfaction.",
+          "timeFrame": "Week 4"
+        },
+        {
+          "measure": "Change From Baseline in TSQM-9 Overall Score at Week 4 in Patients Initiating Remibrutinib",
+          "description": "The TSQM-9 is a validated PRO tool used to determine patient perceptions of the benefits, convenience, and overall satisfaction with their CSU treatment. It asks about 3 domains: effectiveness, convenience, and global satisfaction. TSQM-9 domain scores range from 0 to 100, with higher scores indicating greater satisfaction for that domain. Scores are produced for each domain, and total scores are calculated and used to assess overall medication satisfaction. A positive change from baseline indicates improvement.",
+          "timeFrame": "Baseline and Week 4"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion criteria:\n\nHealthcare provider (HCP) participants eligible to refer patients for inclusion in this study must meet all the following criteria:\n\n1. Have an active medical license and be board certified/board eligible allergist or dermatologist in the US. Nurse practitioners and physician assistant practicing in allergy and dermatology are eligible.\n2. Manage CSU patients within their practice.\n3. Enrolled in the research network or are referred HCPs who agree to participate.\n4. Have the requisite patient population based on study inclusion/exclusion criteria.\n\n   Patients eligible for inclusion in this study must meet all of the following criteria:\n5. \u2265 18 years of age.\n6. Diagnosed with CSU by an HCP.\n7. Have received a prescription for remibrutinib or dupilumab and are expected to initiate treatment.\n8. Have access to an electronic device with internet capabilities.\n9. Able to read and understand English.\n10. Willing and able to provide consent for study participation.\n\nExclusion criteria:\n\nPatients will be excluded if they meet any of the following criteria:\n\n1. Unable to procure remibrutinib or dupilumab (through samples, commercially or patient assistance program).\n2. Exposure to oral corticosteroid treatment in 14 days prior to consent.\n3. Exposure to oral corticosteroid treatment in 14 days prior to initiating treatment with remibrutinib or dupilumab.\n4. Prior participation in a remibrutinib or dupilumab clinical trial.\n5. Cognitive impairment that impacts the patient's ability to participate.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "100 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "CSU patients who are prescribed and initiating treatment with remibrutinib or dupilumab, and who are invited to participate following a referral from their HCP.",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Novartis Pharmaceuticals",
+          "role": "CONTACT",
+          "phone": "+41613241111",
+          "email": "novartis.email@novartis.com"
+        },
+        {
+          "name": "Novartis Pharmaceuticals",
+          "role": "CONTACT"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Novartis Pharmaceuticals",
+          "affiliation": "Novartis Pharmaceuticals",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Novartis",
+          "status": "RECRUITING",
+          "city": "East Hanover",
+          "state": "New Jersey",
+          "zip": "07936",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.8201,
+            "lon": -74.36487
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-04-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000080223",
+          "term": "Chronic Urticaria"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014581",
+          "term": "Urticaria"
+        },
+        {
+          "id": "D017445",
+          "term": "Skin Diseases, Vascular"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D006969",
+          "term": "Hypersensitivity, Immediate"
+        },
+        {
+          "id": "D006967",
+          "term": "Hypersensitivity"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": false,
+  "_meta": {
+    "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT07408219",
+    "fetched_at": "2026-04-09T00:59:09.835590+00:00"
+  }
+}

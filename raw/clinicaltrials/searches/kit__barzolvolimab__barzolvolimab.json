@@ -1,0 +1,61 @@
+{
+  "priority_class": "KIT",
+  "program": "Barzolvolimab",
+  "term": "barzolvolimab",
+  "url": "https://clinicaltrials.gov/api/v2/studies?query.cond=urticaria&query.term=barzolvolimab&pageSize=100",
+  "fetched_at": "2026-04-09T00:59:09.835590+00:00",
+  "study_count": 6,
+  "studies": [
+    {
+      "nct_id": "NCT07266402",
+      "brief_title": "A Study to Investigate Efficacy, Safety and Tolerability of Barzolvolimab Versus Placebo in Adults With Cold Induced Urticaria and Symptomatic Dermographism Inadequately Controlled by H1-antihistamines (EMBARQ - ColdU and SD)",
+      "official_title": "A Phase 3 Randomized, Double-Blind, Placebo-Controlled, Multi-Center, Parallel-Group Study of Barzolvolimab in Participants With Cold Induced Urticaria and Symptomatic Dermographism (EMBARQ-COLDU and SD)",
+      "conditions": [
+        "Chronic Inducible Urticaria",
+        "Cold Urticaria",
+        "Cold-Induced Urticaria",
+        "Symptomatic Dermographism"
+      ]
+    },
+    {
+      "nct_id": "NCT06455202",
+      "brief_title": "A Phase 3 Study of Barzolvolimab in Participants With Chronic Spontaneous Urticaria (CSU)",
+      "official_title": "A Phase 3 Randomized, Double-Blind, Placebo-Controlled Study to Assess the Efficacy and Safety of Barzolvolimab in Patients With Chronic Spontaneous Urticaria Who Remain Symptomatic Despite H1 Antihistamine Treatment (EMBARQ-CSU2)",
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ]
+    },
+    {
+      "nct_id": "NCT05368285",
+      "brief_title": "A Phase 2 Study of CDX-0159 in Patients With Chronic Spontaneous Urticaria",
+      "official_title": "A Phase 2 Randomized, Double-Blind, Placebo-Controlled, Dose-finding Study to Assess the Efficacy and Safety of CDX-0159 in Patients With Chronic Spontaneous Urticaria",
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ]
+    },
+    {
+      "nct_id": "NCT05405660",
+      "brief_title": "A Study of CDX-0159 in Patients With Chronic Inducible Urticaria",
+      "official_title": ": A Phase 2 Randomized, Double-Blind, Placebo-Controlled, Dose-ranging Study to Assess the Efficacy and Safety of CDX-0159 in Patients With Chronic Inducible Urticaria",
+      "conditions": [
+        "Chronic Inducible Urticaria"
+      ]
+    },
+    {
+      "nct_id": "NCT07256392",
+      "brief_title": "Long-term Efficacy and Safety Extension (LTE) Study of Barzolvolimab in Participants With Chronic Spontaneous Urticaria",
+      "official_title": "A Phase 3b Long-term Efficacy and Safety Extension Study of Barzolvolimab in Participants With Chronic Spontaneous Urticaria Who Have Completed CDX0159-12 or CDX0159-13",
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ]
+    },
+    {
+      "nct_id": "NCT06445023",
+      "brief_title": "A Phase 3 Study of Barzolvolimab in Participants With Chronic Spontaneous Urticaria",
+      "official_title": "A Phase 3 Randomized, Double-Blind, Placebo-Controlled Study to Assess the Efficacy and Safety of Barzolvolimab in Patients With Chronic Spontaneous Urticaria Who Remain Symptomatic Despite H1 Antihistamine Treatment (EMBARQ-CSU1)",
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ]
+    }
+  ]
+}

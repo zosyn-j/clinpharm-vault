@@ -1,0 +1,366 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06050928",
+      "orgStudyIdInfo": {
+        "id": "EP-262-102"
+      },
+      "organization": {
+        "fullName": "Escient Pharmaceuticals, Inc",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Phase 1b, Open-Label Study to Evaluate the Safety, Tolerability, and Pharmacodynamics of EP262 in Subjects With Chronic Inducible Urticaria",
+      "officialTitle": "Phase 1b, Open-Label Study to Evaluate the Safety, Tolerability, and Pharmacodynamics of EP262 in Subjects With Chronic Inducible Urticaria (CALM-CIndU)",
+      "acronym": "CALM-CIndU"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-12",
+      "overallStatus": "COMPLETED",
+      "startDateStruct": {
+        "date": "2023-08-30",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-10-22",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-10-22",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-09-07",
+      "studyFirstSubmitQcDate": "2023-09-18",
+      "studyFirstPostDateStruct": {
+        "date": "2023-09-22",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-12-05",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-12-09",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Escient Pharmaceuticals, Inc",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This phase 1b trial will evaluate the effects of EP262 in subjects with Chronic Inducible Urticaria (CIndU), including symptomatic dermographism and cold urticaria."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Chronic Inducible Urticaria"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 33,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "EP262 150 mg",
+          "type": "EXPERIMENTAL",
+          "description": "Once daily",
+          "interventionNames": [
+            "Drug: Oral EP262"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Oral EP262",
+          "description": "Once daily",
+          "armGroupLabels": [
+            "EP262 150 mg"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Safety and tolerability of EP262",
+          "description": "Assessed by the incidence of treatment-emergent adverse events",
+          "timeFrame": "Measured from Day 1 to End of Study or Early Termination (up to 12 weeks)"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change in Critical Friction Threshold (CFT)",
+          "description": "Assessed by the number of prongs that elicit a wheal response using a FricTest (in subjects with symptomatic dermographism)",
+          "timeFrame": "Measured from Baseline to Week 4"
+        },
+        {
+          "measure": "Change in Critical Temperature Threshold (CTT)",
+          "description": "Assessed as the highest temperature that elicits a wheal response using a TempTest (in subjects with cold urticaria)",
+          "timeFrame": "Measured from Baseline to Week 4"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of CIndU (symptomatic dermographism or cold urticaria) for greater than 3 months and positive response to applicable skin provocation testing\n* Willing to discontinue chronic treatment with antihistamines during the study\n\nExclusion Criteria:\n\n* Urticaria with a clear underlying etiology other than symptomatic dermographism or cold urticaria\n* Other active skin diseases that might confound the study evaluations (eg, atopic dermatitis, bullous pemphigoid, prurigo nodularis, dermatitis herpetiformis)\n* Regularly experience wheals covering the area of the body where skin testing will be conducted (eg, more than one third of the volar surface of the forearms)",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "80 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Advanced Clinical Research Institute",
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33607",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.94752,
+            "lon": -82.45843
+          }
+        },
+        {
+          "facility": "Treasure Valley Medical Research",
+          "city": "Boise",
+          "state": "Idaho",
+          "zip": "83706",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.6135,
+            "lon": -116.20345
+          }
+        },
+        {
+          "facility": "Allergy & Asthma Specialists, P.S.C.",
+          "city": "Owensboro",
+          "state": "Kentucky",
+          "zip": "42301",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.77422,
+            "lon": -87.11333
+          }
+        },
+        {
+          "facility": "Johns Hopkins University",
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21224",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.29038,
+            "lon": -76.61219
+          }
+        },
+        {
+          "facility": "Bernstein Clinical Research Center, LLC",
+          "city": "Cincinnati",
+          "state": "Ohio",
+          "zip": "45236",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.12711,
+            "lon": -84.51439
+          }
+        },
+        {
+          "facility": "Allergy and Clinical Immunology Associates",
+          "city": "Pittsburgh",
+          "state": "Pennsylvania",
+          "zip": "15241",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.44062,
+            "lon": -79.99589
+          }
+        },
+        {
+          "facility": "National Allergy and Asthma Research, LLC.",
+          "city": "North Charleston",
+          "state": "South Carolina",
+          "zip": "29420",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.85462,
+            "lon": -79.97481
+          }
+        },
+        {
+          "facility": "Innovaderm Research Inc.",
+          "city": "Montreal",
+          "zip": "H2X 2V1",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 45.50884,
+            "lon": -73.58781
+          }
+        },
+        {
+          "facility": "Gordon Sussman Clinical Research Inc.",
+          "city": "North York",
+          "zip": "M3B 3S6",
+          "country": "Canada"
+        },
+        {
+          "facility": "Medizinische Hochschule Hannover",
+          "city": "Hanover",
+          "state": "Lower Saxony",
+          "zip": "30625",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.37052,
+            "lon": 9.73322
+          }
+        },
+        {
+          "facility": "Universit\u00e4tsklinikum Carl Gustav Carus an der Technischen Universit\u00e4t Dresden",
+          "city": "Dresden",
+          "state": "Saxony",
+          "zip": "01307",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.05089,
+            "lon": 13.73832
+          }
+        },
+        {
+          "facility": "Institut fur Allergieforschung Charite - Universitatsmedizin Berlin",
+          "city": "Berlin",
+          "zip": "12203",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.52437,
+            "lon": 13.41053
+          }
+        },
+        {
+          "facility": "Centre for Human Drug Research (CHDR)",
+          "city": "Leiden",
+          "state": "South Holland",
+          "zip": "2333 CL",
+          "country": "Netherlands",
+          "geoPoint": {
+            "lat": 52.15833,
+            "lon": 4.49306
+          }
+        },
+        {
+          "facility": "Hospital del Mar",
+          "city": "Barcelona",
+          "zip": "08003",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Hospital Arnau de Vilanova",
+          "city": "Valencia",
+          "zip": "46015",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 39.47391,
+            "lon": -0.37966
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-04-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000094482",
+          "term": "Chronic Inducible Urticaria"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000080223",
+          "term": "Chronic Urticaria"
+        },
+        {
+          "id": "D014581",
+          "term": "Urticaria"
+        },
+        {
+          "id": "D017445",
+          "term": "Skin Diseases, Vascular"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D006969",
+          "term": "Hypersensitivity, Immediate"
+        },
+        {
+          "id": "D006967",
+          "term": "Hypersensitivity"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": false,
+  "_meta": {
+    "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT06050928",
+    "fetched_at": "2026-04-09T00:59:09.835590+00:00"
+  }
+}

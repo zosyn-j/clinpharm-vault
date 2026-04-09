@@ -1,0 +1,1290 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="clt270052" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Clin Transl Allergy</journal-id><journal-id journal-id-type="iso-abbrev">Clin Transl Allergy</journal-id><journal-id journal-id-type="pmc-domain-id">1751</journal-id><journal-id journal-id-type="pmc-domain">clintranall</journal-id><journal-id journal-id-type="publisher-id">CLT2</journal-id><journal-title-group><journal-title>Clinical and Translational Allergy</journal-title></journal-title-group><issn pub-type="epub">2045-7022</issn><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12053928</article-id><article-id pub-id-type="pmcid-ver">PMC12053928.1</article-id><article-id pub-id-type="pmcaid">12053928</article-id><article-id pub-id-type="pmcaiid">12053928</article-id><article-id pub-id-type="pmid">40326848</article-id><article-id pub-id-type="doi">10.1002/clt2.70052</article-id><article-id pub-id-type="publisher-id">CLT270052</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Biological and target synthetic treatments for chronic spontaneous urticaria: A systematic review and network meta‐analysis</article-title></title-group><contrib-group><contrib id="clt270052-cr-0001" contrib-type="author"><name name-style="western"><surname>Zhao</surname><given-names initials="Z">Zuotao</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-9595-6050</contrib-id><xref rid="clt270052-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="clt270052-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="clt270052-cr-0002" contrib-type="author"><name name-style="western"><surname>Zheng</surname><given-names initials="Y">Yaqi</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0008-5924-4129</contrib-id><xref rid="clt270052-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="clt270052-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="clt270052-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="clt270052-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="clt270052-cr-0003" contrib-type="author"><name name-style="western"><surname>Song</surname><given-names initials="X">Xiaoting</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2268-4402</contrib-id><xref rid="clt270052-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="clt270052-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="clt270052-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="clt270052-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="clt270052-cr-0004" contrib-type="author"><name name-style="western"><surname>Peng</surname><given-names initials="C">Chengyue</given-names></name><xref rid="clt270052-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="clt270052-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="clt270052-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="clt270052-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="clt270052-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="clt270052-cr-0005" contrib-type="author"><name name-style="western"><surname>Liao</surname><given-names initials="S">Shuanglu</given-names></name><xref rid="clt270052-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="clt270052-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="clt270052-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="clt270052-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="clt270052-cr-0006" contrib-type="author"><name name-style="western"><surname>Zhang</surname><given-names initials="P">Peixin</given-names></name><xref rid="clt270052-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="clt270052-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="clt270052-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="clt270052-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="clt270052-cr-0007" contrib-type="author"><name name-style="western"><surname>Tan</surname><given-names initials="Y">Yen</given-names></name><xref rid="clt270052-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><xref rid="clt270052-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="clt270052-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="clt270052-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="clt270052-cr-0008" contrib-type="author" corresp="yes"><name name-style="western"><surname>Huang</surname><given-names initials="X">Xiaojie</given-names></name><xref rid="clt270052-aff-0008" ref-type="aff">
+<sup>8</sup>
+</xref><xref rid="clt270052-aff-0009" ref-type="aff">
+<sup>9</sup>
+</xref><address><email>huangxiaojie78@ccmu.edu.cn</email></address></contrib><contrib id="clt270052-cr-0009" contrib-type="author" corresp="yes"><name name-style="western"><surname>Zhang</surname><given-names initials="L">Litao</given-names></name><xref rid="clt270052-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="clt270052-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><address><email>zhanglitao@medmail.com.cn</email></address></contrib></contrib-group><aff id="clt270052-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Dermatology</named-content>
+<institution>Tianjin Academy of Traditional Chinese Medicine Affiliated Hospital</institution>
+<city>Tianjin</city>
+<country country="CN">China</country>
+</aff><aff content-type="private-address" id="clt270052-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Tianjin Institute of Integrative Dermatology</institution>
+<city>Tianjin</city>
+<country country="CN">China</country>
+</aff><aff id="clt270052-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Dermatology and Venerology</named-content>
+<institution>Peking University First Hospital</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff content-type="private-address" id="clt270052-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<institution>Beijing Key Laboratory of Molecular Diagnosis on Dermatoses</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff content-type="private-address" id="clt270052-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>National Clinical Research Center for Skin and Immune Diseases</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff content-type="private-address" id="clt270052-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<institution>NMPA Key Laboratory for Quality Control and Evaluation of Cosmetics</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff content-type="private-address" id="clt270052-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<institution>Peking University School of Nursing</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff content-type="private-address" id="clt270052-aff-0008">
+<label>
+<sup>8</sup>
+</label>
+<institution>Clinical and Research Center for Infectious Diseases</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><aff content-type="private-address" id="clt270052-aff-0009">
+<label>
+<sup>9</sup>
+</label>
+<institution>Beijing Youan Hospital</institution>
+<institution>Capital Medical University</institution>
+<city>Beijing</city>
+<country country="CN">China</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Xiaojie Huang, Clinical and Research Center for Infectious Diseases, Beijing Youan Hospital, Capital Medical University, No.8 Xitoutiao, Youanmenwai, Feng Tai District, Beijing 100069, China.<break/>
+Email: <email>huangxiaojie78@ccmu.edu.cn</email>
+<break/>
+Litao Zhang, Department of Dermatology, Tianjin Institute of Integrative Dermatology, Tianjin Academy of Traditional Chinese Medicine Affiliated Hospital, No. 354, Beima Road, Hongqiao District, Tianjin 300120, China.<break/>
+Email: <email>zhanglitao@medmail.com.cn</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>06</day><month>5</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>5</month><year>2025</year></pub-date><volume>15</volume><issue seq="20">5</issue><issue-id pub-id-type="pmc-issue-id">488028</issue-id><issue-id pub-id-type="doi">10.1002/clt2.v15.5</issue-id><elocation-id>e70052</elocation-id><history><date date-type="rev-recd"><day>12</day><month>12</month><year>2024</year></date><date date-type="received"><day>07</day><month>10</month><year>2024</year></date><date date-type="accepted"><day>16</day><month>3</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>06</day><month>05</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>07</day><month>05</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-05-07 11:25:43.920"><day>07</day><month>05</month><year>2025</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). Clinical and Translational Allergy published by John Wiley &amp; Sons Ltd on behalf of European Academy of Allergy and Clinical Immunology.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="CLT2-15-e70052.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:CLT2-15-e70052.pdf"/><abstract><title>Abstract</title><sec id="clt270052-sec-0001"><title>Background</title><p>Most biological and synthetic target‐specific drugs for antihistamine‐refractory chronic spontaneous urticaria (CSU) have not been compared head‐to‐head. This systematic review and network meta‐analysis evaluated their relative efficacy and safety.</p></sec><sec id="clt270052-sec-0002"><title>Methods</title><p>Searches were conducted on PubMed, Embase, Web of Science and Cochrane library databases to March 25, 2024 for randomized trials. A random‐effects model was used to calculate the network estimates reported as mean differences (MD) and odds ratios (OR) with corresponding 95% CIs. Main outcomes included the weekly urticaria activity score (UAS7), adverse events (AEs) and serious adverse events (SAEs).</p></sec><sec id="clt270052-sec-0003"><title>Results</title><p>23 randomized clinical trials with 6933 participants that compared 26 different interventions or dosages and placebos were included. Omalizumab 300 mg [MD −10.07, 95% CI (−11.35; −8.82)] continues to demonstrate superior efficacy compared with placebo. Remibrutinib, at doses of 35 mg once daily [MD −7.80, 95% CI (−12.76; −2.51)], 25 mg twice daily [MD −7.69, 95% CI (−9.85; −5.76)], and 10 mg twice daily [MD −7.61, 95% CI (−12.59; −2.47)], had the best overall performance for efficacy and safety. Dupilumab, fenebrutinib, and rilzabrutinib also showed greater efficacy than placebo. The results were similar for the proportion of patients who achieved UAS7 ≤ 6 or UAS7 = 0. No significant differences were found among all treatment comparisons for AEs and SAEs.</p></sec><sec id="clt270052-sec-0004"><title>Conclusion</title><p>The findings of this study indicate that the biological agent omalizumab 300 mg and the oral small molecule remibrutinib at doses of 35 mg, 25 mg, or 10 mg are recommended for patients with antihistamine‐refractory CSU.</p></sec><sec id="clt270052-sec-0005"><title>Trial Registration</title><p>PROSPERO: CRD42024516289</p></sec></abstract><kwd-group><kwd id="clt270052-kwd-0001">biologics</kwd><kwd id="clt270052-kwd-0002">BTK inhibitor</kwd><kwd id="clt270052-kwd-0003">chronic spontaneous urticaria</kwd><kwd id="clt270052-kwd-0004">network meta analysis</kwd><kwd id="clt270052-kwd-0005">synthetic target‐specific drugs</kwd><kwd id="clt270052-kwd-0006">treatment comparison</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>National Natural Science Foundation of China</funding-source><award-id>82473512</award-id></award-group><award-group id="funding-0002"><funding-source>Public Health Talent Grant by Beijing Municipal Health Commission‐Global Health Governance‐02‐12</funding-source></award-group></funding-group><counts><fig-count count="3"/><table-count count="1"/><page-count count="14"/><word-count count="7101"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.5.5 mode:remove_FC converted:06.05.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="self-citation" id="clt270052-cit-0058">
+<string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Song</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Biological and target synthetic treatments for chronic spontaneous urticaria: A systematic review and network meta‐analysis</article-title>. <source>Clin Transl Allergy</source>. <year>2025</year>;<elocation-id>e70052</elocation-id>. <pub-id pub-id-type="doi">10.1002/clt2.70052</pub-id>
+</mixed-citation>
+</p><fn-group><fn fn-type="equal" id="clt270052-note-0001"><p>Zuotao Zhao, Yaqi Zheng, and Xiaoting Song contributed equally to this work.</p></fn></fn-group></notes></front><body id="clt270052-body-0001"><sec id="clt270052-sec-0010"><label>1</label><title>INTRODUCTION</title><p>Chronic spontaneous urticaria (CSU) is a mast cell‐driven disease, featured by the recurrence of hives (wheals), angioedema, or both for at least 6 weeks, with or without known causes.<xref rid="clt270052-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> The point prevalence of CSU has been reported to range from 0.1% to 3.4% across different studies, with a higher incidence observed in females and individuals over the age of 20.<xref rid="clt270052-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="clt270052-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref>, <xref rid="clt270052-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref> This condition significantly impairs patients' physical, emotional, and social well‐being.<xref rid="clt270052-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>
+</p><p>A stepwise treatment algorithm is the cornerstone of CSU management, including second‐generation H1‐antihistamines (H1‐AH), omalizumab and cyclosporine.<xref rid="clt270052-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> However, many patients remain refractory to these therapies.<xref rid="clt270052-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref> Standard and even up‐dosing of H1‐AH often fail to provide adequate relief for many CSU patients,<xref rid="clt270052-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref> leading to a considerable socio‐economic burden of H1‐AH refractory CSU.<xref rid="clt270052-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref> Many randomized clinical trials (RCTs) and real‐world studies have evaluated the efficacy of omalizumab in patients with CSU, demonstrating favorable outcomes.<xref rid="clt270052-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="clt270052-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="clt270052-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="clt270052-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="clt270052-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="clt270052-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="clt270052-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="clt270052-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="clt270052-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="clt270052-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="clt270052-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="clt270052-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> A previous meta‐analysis including seven trials reported that patients treated with omalizumab had significantly reduced itch and wheal scores compared to placebo, with the greatest improvement in weekly itch scores observed with a 300 mg dose administered every 4 weeks.<xref rid="clt270052-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref> The response to omalizumab therapy depends on the patient's disease endotype, and up‐dosing or shortening the interval may benefit in refractory cases.<xref rid="clt270052-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> Nevertheless, despite omalizumab's favorable efficacy and widespread use, with studies showing that up to 66% of patients achieve well‐controlled disease, 34%–48% still demonstrate a partial or no response,<xref rid="clt270052-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="clt270052-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="clt270052-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="clt270052-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> highlighting the need for novel therapeutic options to improve CSU management. In some cases, other available treatments such as phototherapy, methotrexate, mycophenolate mofetil, dapsone, dupilumab, and tumor necrosis factor alpha (TNF‐a) inhibitors have been employed with varying degrees of efficacy.<xref rid="clt270052-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> Furthermore, the emergence of more biologics and small molecule drugs is promising, of which is currently being studied in randomized clinical trials.<xref rid="clt270052-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="clt270052-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="clt270052-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="clt270052-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="clt270052-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="clt270052-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="clt270052-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="clt270052-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> To date, approved or investigational biological and targeted synthetic therapies for CSU include anti‐IgE monoclonal antibodies (omalizumab, ligelizumab, UB221), Bruton tyrosine kinase (BTK) inhibitors (fenebrutinib, remibrutinib, rilzabrutinib), anti‐IL‐5 monoclonal antibodies (mepolizumab, reslizumab, benralizumab), anti‐thymic stromal lymphopoietin (TSLP) monoclonal antibody (tezepelumab), anti‐Siglec‐8 monoclonal antibody (lirentelimab), CRTH2 antagonist (AZD1981), and anti‐KIT monoclonal antibody (barzolvolimab). The increasing availability of mechanistic treatment options holds significant promise for both healthcare providers and patients, potentially improving individualized care and treatment outcomes in CSU.</p><p>Significant knowledge gaps remain regarding the efficacy and safety of various biologics and synthetic target‐specific drugs for the treatment of CSU. Previous network meta‐analyses (NMA) revealed that the biological agents ligelizumab 72 or 240 mg and omalizumab 300 or 600 mg are effective treatment options for CSU<xref rid="clt270052-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="clt270052-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>; however, ligelizumab did not demonstrate superiority over omalizumab in Phase III trials and was subsequently discontinued by Novartis.<xref rid="clt270052-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> In addition, with the development of novel therapeutic agents and additional randomized controlled trials (RCTs), an updated NMA is needed Therefore, we performed a comprehensive systematic review and NMA of randomized clinical trials that investigated pharmacologic treatments for H1‐AH refractory CSU, aiming to provide evidence‐based insights for clinical decision‐making.</p></sec><sec id="clt270052-sec-0020"><label>2</label><title>METHODS</title><p>This systematic review and NMA was performed using a prespecified protocol for literature search and synthesis as recommended by the statement “Preferred Reporting Items for Systematic Reviews and Meta‐Analyses” (PRISMA).<xref rid="clt270052-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> The prespecified protocol was registered on PROSPERO (CRD42024516289).</p><sec id="clt270052-sec-0030"><label>2.1</label><title>Search strategy and selection criteria</title><p>We searched PubMed, Embase, Web of Science and Cochrane library databases to March 25, 2024, for randomized trials addressing biologics and small‐molecule drugs for CSU, with no language restrictions. The <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://ClinicalTrials.gov" ext-link-type="uri">ClinicalTrials.gov</ext-link> search functions enable us to search for new and updated entries. The full search strategy can be found in Supporting Information <xref rid="clt270052-sup-0001" ref-type="supplementary-material">S1</xref>: eTable 1. For published trials, we will conduct a comprehensive search of trial registries to obtain additional results. Furthermore, we will thoroughly review the reference lists of eligible studies and actively contact pharmaceutical companies in the field to acquire potentially relevant studies and data.</p></sec><sec id="clt270052-sec-0040"><label>2.2</label><title>Eligibility criteria</title><p>We included randomized clinical trials involving populations of all ages with H1‐AH refractory CSU. Interventions of interest include biologics (omalizumab, ligelizumab, quilizumab, dupilumab, benralizumab, barzolvolimab, lirentelimab, tezepelumab, mepolizumab, tezepelumab, AZD 1981) and small‐molecule drugs (remibrutinib, fenebrutinib, rilzabrutinib). Comparators may be an active comparator, as mentioned above, an antihistamine agent or placebo. In alignment with the 2021 joint guidelines from the European Academy of Allergology and Clinical Immunology (EAACI), the Global Allergy and Asthma European Network (GA<xref rid="clt270052-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref> LEN), the European Dermatology Forum, and the World Allergy Organization, we adopted the weekly urticaria activity score (UAS7) as the main metric for assessing urticaria symptom.<xref rid="clt270052-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref> The primary outcomes included change from baseline in UAS7, the proportion of patients achieving complete response (UAS7 = 0), and those with well‐controlled disease (UAS7 ≤ 6), occurrence of adverse events (AEs) and serious adverse events (SAEs). The secondary outcome included change from baseline in weekly itch severity score (ISS7), weekly hive severity score (HSS7), and dermatology life quality index (DLQI). Studies with inaccessible full‐text or insufficient data for data pooling and analysis, meeting abstracts, trials with trial registration entry but early termination, and comments will be excluded.</p></sec><sec id="clt270052-sec-0050"><label>2.3</label><title>Screening and abstraction process</title><p>Two reviewers (Y.Z and P.Z) independently screened all related articles to determine which studies should be included or excluded according to the prespecified eligibility criteria. The reasons for the exclusion of any study will be listed.</p><p>Two reviewers (Y.Z and C.P) independently extracted data from the included studies using a predefined data extraction form. The extracted information included the first author, year of publication, region where the study was conducted, study design, sample size, intervention, treatment duration, age and sex of participants, baseline symptom or severity score reported by patients, and duration of CSU.<xref rid="clt270052-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> For continuous outcomes, the difference in mean change from baseline and the standard deviation were extracted for different treatments and placebo. If the median of the baseline change was available but not the mean of the baseline change, the median was used instead of the mean because we assumed the distribution to be symmetric.<xref rid="clt270052-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref>, <xref rid="clt270052-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> If no baseline change value was provided, the difference was calculated using the baseline and follow‐up values. For dichotomous results, the sample size and number of affected patients were extracted. If results were only available in figures without the exact values provided, we used WebPlotDigitizer to estimate the values.<xref rid="clt270052-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> Two reviewers independently derived these estimates, and we used the mean of their estimates. Any discrepancies were resolved through consultation with a third reviewer.</p></sec><sec id="clt270052-sec-0060"><label>2.4</label><title>Data analysis</title><p>We performed random‐effects NMA for each outcome within a Bayesian framework using R statistical software (gemtc package).<xref rid="clt270052-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>, <xref rid="clt270052-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> A network graph was generated to visualize the overall structure of the network. A forest plot was created to display the effect size of each treatment relative to the placebo. The summary results will be presented as odds ratio (OR) or mean difference (MD) with 95% confidence interval (95% CI). To rank the treatment hierarchy in the NMA, the surface under the cumulative ranking curve (SUCRA) was calculated for each treatment comparison.<xref rid="clt270052-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref>, <xref rid="clt270052-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>
+</p></sec><sec id="clt270052-sec-0070"><label>2.5</label><title>Subgroup and sensitivity analyzes</title><p>Subgroup analyses were planned for patients of different ages and for patients receiving short‐term treatment (≤16 weeks) and long‐term treatment (&gt;16 weeks). Treatment of more than 16 weeks was defined as long‐term treatment according to the NMA by Drucker et al.<xref rid="clt270052-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> and Kendziora et al.<xref rid="clt270052-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> Further sensitivity analyses may be conducted for trials with a high risk of bias.</p></sec><sec id="clt270052-sec-0080"><label>2.6</label><title>Risk of bias and certainty of evidence</title><p>The methodological quality of each randomized controlled trial included in this study was evaluated by the Cochrane Risk of Bias Tool 2.<xref rid="clt270052-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> The tools assessed the domain‐specific quality in 7 aspects as follows: random sequence generation, allocation concealment, blinding of participants and personnel, blinded outcome assessment, incomplete outcome data and selective reporting. Two reviewers (Y.Z and P.Z) independently evaluated the risk of bias in seven domains and overall as “high”, “low”, or “some concerns.” Disagreements will be resolved by discussion. If an agreement may not be reached, a third reviewer will be consulted. Heterogeneity was assessed by the <italic toggle="yes">I</italic>
+<sup>
+<italic toggle="yes">2</italic>
+</sup> statistic for each comparison as well as for the overall network.<xref rid="clt270052-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> For all outcomes, the consistency of the network meta‐analysis models will be evaluated by the node‐splitting approach.<xref rid="clt270052-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref>, <xref rid="clt270052-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> Based on the GRADE framework,<xref rid="clt270052-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> the quality of evidence was independently graded by Confidence In Network Meta‐Analysis (CINeMA), considering six domains including within‐study bias, cross‐study bias, indirectness, imprecision, heterogeneity, and inconsistency. Certainty of evidence was categorized as very low, low, medium, and high quality.<xref rid="clt270052-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="clt270052-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref>
+</p></sec></sec><sec id="clt270052-sec-0090"><label>3</label><title>RESULTS</title><p>After title, abstract, and full text review, 23 trials were included in the NMA.<xref rid="clt270052-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="clt270052-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="clt270052-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="clt270052-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="clt270052-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="clt270052-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="clt270052-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="clt270052-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="clt270052-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="clt270052-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="clt270052-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="clt270052-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="clt270052-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="clt270052-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="clt270052-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="clt270052-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="clt270052-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="clt270052-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="clt270052-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="clt270052-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>, <xref rid="clt270052-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>, <xref rid="clt270052-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref>, <xref rid="clt270052-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref> The detailed process of study selection is demonstrated in Supporting Information <xref rid="clt270052-sup-0001" ref-type="supplementary-material">S1</xref>: eFigure 1. Based on the overall risk‐of‐bias assessment, 15 trials had a low risk of bias,<xref rid="clt270052-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="clt270052-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="clt270052-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="clt270052-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="clt270052-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="clt270052-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="clt270052-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="clt270052-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="clt270052-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="clt270052-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="clt270052-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="clt270052-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="clt270052-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>, <xref rid="clt270052-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>, <xref rid="clt270052-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref> 8 trials had some concerns,<xref rid="clt270052-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="clt270052-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="clt270052-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="clt270052-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="clt270052-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="clt270052-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="clt270052-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="clt270052-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref> and no trial had a high risk of bias (Supporting Information <xref rid="clt270052-sup-0001" ref-type="supplementary-material">S1</xref>: eFigure 2). These trials investigated 25 different interventions or dosages and 1 placebo. The included studies differed regarding clinical study stage, primary and secondary endpoints, and inclusion of only adult,<xref rid="clt270052-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="clt270052-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="clt270052-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="clt270052-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="clt270052-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="clt270052-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="clt270052-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="clt270052-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="clt270052-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="clt270052-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="clt270052-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="clt270052-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="clt270052-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="clt270052-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="clt270052-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>, <xref rid="clt270052-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>, <xref rid="clt270052-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref> only adolescents<xref rid="clt270052-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref> or both adults and adolescents.<xref rid="clt270052-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="clt270052-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="clt270052-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="clt270052-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="clt270052-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref> In total, 6933 participants with CSU were identified, with mean age ranging from 15.0 to 47.1 years, proportion of females ranging from 40% to 90%, baseline UAS7 ranging from 11 to 32.2, and disease duration ranging from 1.6 to 5.2 years. The main characteristics of all 23 included studies and participants are listed in Table <xref rid="clt270052-tbl-0001" ref-type="table">1</xref>.</p><table-wrap position="float" id="clt270052-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Design and characteristics of the population included in the NMA.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr><th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" colspan="1">Author, year</th><th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" colspan="1">Phase</th><th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" colspan="1">Study design (sample size)</th><th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" colspan="1">Treatment duration (wks)</th><th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" colspan="1">Intervention</th><th style="border-bottom:solid 1px #000000" align="center" colspan="2" valign="bottom" rowspan="1">Age, mean ± SD, y</th><th style="border-bottom:solid 1px #000000" align="center" colspan="2" valign="bottom" rowspan="1">Females, No. (%)</th><th style="border-bottom:solid 1px #000000" align="center" colspan="2" valign="bottom" rowspan="1">Baseline UAS7, mean ± SD</th><th style="border-bottom:solid 1px #000000" align="center" colspan="2" valign="bottom" rowspan="1">Duration of CSU, mean ± SD, y</th><th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" colspan="1">Outcome</th><th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" colspan="1">Overall risk of bias</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Intervention</th><th align="left" valign="bottom" rowspan="1" colspan="1">Control</th><th align="left" valign="bottom" rowspan="1" colspan="1">Intervention</th><th align="left" valign="bottom" rowspan="1" colspan="1">Control</th><th align="left" valign="bottom" rowspan="1" colspan="1">Intervention</th><th align="left" valign="bottom" rowspan="1" colspan="1">Control</th><th align="left" valign="bottom" rowspan="1" colspan="1">Intervention</th><th align="left" valign="bottom" rowspan="1" colspan="1">Control</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Altrichter et al., 2024</td><td align="left" valign="top" rowspan="1" colspan="1">2b</td><td align="left" valign="top" rowspan="1" colspan="1">RCT, DB (<italic toggle="yes">N</italic> = 155)</td><td align="left" valign="top" rowspan="1" colspan="1">24</td><td align="left" valign="top" rowspan="1" colspan="1">Benralizumab 30 or 60 mg q4w</td><td align="left" valign="top" rowspan="1" colspan="1">46.2 ± 14.7</td><td align="left" valign="top" rowspan="1" colspan="1">47.1 ± 14.3</td><td align="left" valign="top" rowspan="1" colspan="1">89 (77.4)</td><td align="left" valign="top" rowspan="1" colspan="1">25 (62.5)</td><td align="left" valign="top" rowspan="1" colspan="1">32.0 ± 7.5</td><td align="left" valign="top" rowspan="1" colspan="1">31.6 ± 7.2</td><td align="left" valign="top" rowspan="1" colspan="1">5.2 ± 7.0</td><td align="left" valign="top" rowspan="1" colspan="1">4.4 ± 7.8</td><td align="left" valign="top" rowspan="1" colspan="1">ISS7, UAS7, HSS7, UCT, DLQI, CU‐Q2oL, AEs</td><td align="left" valign="top" rowspan="1" colspan="1">Some concerns</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Saini S et al., 2023</td><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="left" valign="top" rowspan="1" colspan="1">RCT, DB (<italic toggle="yes">N</italic> = 925)</td><td align="left" valign="top" rowspan="1" colspan="1">24</td><td align="left" valign="top" rowspan="1" colspan="1">Remibrutinib 25 mg bid</td><td align="left" valign="top" rowspan="1" colspan="1">43.3 ± 14.4</td><td align="left" valign="top" rowspan="1" colspan="1">43.6 ± 11.1</td><td align="left" valign="top" rowspan="1" colspan="1">409 (66.7)</td><td align="left" valign="top" rowspan="1" colspan="1">209(70.0)</td><td align="left" valign="top" rowspan="1" colspan="1">30.5 ± 7.9</td><td align="left" valign="top" rowspan="1" colspan="1">29.6 ± 7.6</td><td align="left" valign="top" rowspan="1" colspan="1">6.2 ± 8.5</td><td align="left" valign="top" rowspan="1" colspan="1">5.4 ± 6.8</td><td align="left" valign="top" rowspan="1" colspan="1">UAS7, ISS7, HSS7, AEs</td><td align="left" valign="top" rowspan="1" colspan="1">Low</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Maurer et al., 2022</td><td align="left" valign="top" rowspan="1" colspan="1">2b</td><td align="left" valign="top" rowspan="1" colspan="1">RCT, DB (<italic toggle="yes">N</italic> = 311)</td><td align="left" valign="top" rowspan="1" colspan="1">12</td><td align="left" valign="top" rowspan="1" colspan="1">Remibrutinib 10, 35 or 100 mg qd; remibrutinib10, 25 or 100 mg bid</td><td align="left" valign="top" rowspan="1" colspan="1">45.0 ± 14.9</td><td align="left" valign="top" rowspan="1" colspan="1">45.1 ± 15.2</td><td align="left" valign="top" rowspan="1" colspan="1">197 (73.5)</td><td align="left" valign="top" rowspan="1" colspan="1">25 (58.1)</td><td align="left" valign="top" rowspan="1" colspan="1">30.4 ± 7.1</td><td align="left" valign="top" rowspan="1" colspan="1">27.6 ± 7.6</td><td align="left" valign="top" rowspan="1" colspan="1">5.1 ± 6.4</td><td align="left" valign="top" rowspan="1" colspan="1">3.6 ± 4.8</td><td align="left" valign="top" rowspan="1" colspan="1">UAS7, DLQI</td><td align="left" valign="top" rowspan="1" colspan="1">Low</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Staubach et al., 2022</td><td align="left" valign="top" rowspan="1" colspan="1">2b</td><td align="left" valign="top" rowspan="1" colspan="1">RCT, DB (<italic toggle="yes">N</italic> = 49)</td><td align="left" valign="top" rowspan="1" colspan="1">24</td><td align="left" valign="top" rowspan="1" colspan="1">Ligelizumab 24 or 120 mg q4w</td><td align="left" valign="top" rowspan="1" colspan="1">15.0 ± 1.7</td><td align="left" valign="top" rowspan="1" colspan="1">14.4 ± 1.5</td><td align="left" valign="top" rowspan="1" colspan="1">19 (51.3)</td><td align="left" valign="top" rowspan="1" colspan="1">9 (75.0)</td><td align="left" valign="top" rowspan="1" colspan="1">30 ± 7.4</td><td align="left" valign="top" rowspan="1" colspan="1">32.5 ± 9.0</td><td align="left" valign="top" rowspan="1" colspan="1">2.6 ± 2.4</td><td align="left" valign="top" rowspan="1" colspan="1">4.1 ± 4.1</td><td align="left" valign="top" rowspan="1" colspan="1">UAS7, ISS7, HSS7, DLQI, AEs</td><td align="left" valign="top" rowspan="1" colspan="1">Low</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Maurer et al., 2019</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">RCT, DB (<italic toggle="yes">N</italic> = 340)</td><td align="left" valign="top" rowspan="1" colspan="1">20</td><td align="left" valign="top" rowspan="1" colspan="1">Ligelizumab 24, 72 or 240 mg q4w; omalizumab 300 mg q4w</td><td align="left" valign="top" rowspan="1" colspan="1">Ligelizumab, 43.8 ± 12.1; omalizumab, 41.8 ± 13.1</td><td align="left" valign="top" rowspan="1" colspan="1">45.4 ± 11.2</td><td align="left" valign="top" rowspan="1" colspan="1">Ligelizumab, 159 (75.0); omalizumab, 66 (77.6)</td><td align="left" valign="top" rowspan="1" colspan="1">31 (72.1)</td><td align="left" valign="top" rowspan="1" colspan="1">Ligelizumab, 30.5±7.3; omalizumab, 29.3 ± 7.9</td><td align="left" valign="top" rowspan="1" colspan="1">31.1 ± 6.8</td><td align="left" valign="top" rowspan="1" colspan="1">Ligelizumab, 3.8 ± 5.2; omalizumab, 5.1 ± 7.5</td><td align="left" valign="top" rowspan="1" colspan="1">3.6 ± 3.5</td><td align="left" valign="top" rowspan="1" colspan="1">HSS7, ISS7, UAS7, AEs</td><td align="left" valign="top" rowspan="1" colspan="1">Low</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Maurer et al., 2023</td><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="left" valign="top" rowspan="1" colspan="1">RCT, DB (<italic toggle="yes">N</italic> = 2057)</td><td align="left" valign="top" rowspan="1" colspan="1">52</td><td align="left" valign="top" rowspan="1" colspan="1">Ligelizumab, 72 or 120 mg q4w; omalizumab 300 mg q4w</td><td align="left" valign="top" rowspan="1" colspan="1">Ligelizumab, 42.6 ± 13.5; omalizumab, 43.2 ± 13.7</td><td align="left" valign="top" rowspan="1" colspan="1">43.1 ± 13.5</td><td align="left" valign="top" rowspan="1" colspan="1">Ligelizumab, 891 (72.4); omalizumab, 443 (71.7)</td><td align="left" valign="top" rowspan="1" colspan="1">156 (74.6)</td><td align="left" valign="top" rowspan="1" colspan="1">Ligelizumab, 29.7 ± 7.6; omalizumab, 29.8 ± 7.7</td><td align="left" valign="top" rowspan="1" colspan="1">31.0 ± 7.0</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">ISS7, UAS7, AEs</td><td align="left" valign="top" rowspan="1" colspan="1">Low</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Giminez et al., 2022</td><td align="left" valign="top" rowspan="1" colspan="1">2b</td><td align="left" valign="top" rowspan="1" colspan="1">RCT, DB (<italic toggle="yes">N</italic> = 382)</td><td align="left" valign="top" rowspan="1" colspan="1">20</td><td align="left" valign="top" rowspan="1" colspan="1">Ligelizumab 72 or 240 mg q4w; omalizumab 300 mg q4w</td><td align="left" valign="top" rowspan="1" colspan="1">Ligelizumab, 43.8 ± 12.1; omalizumab, 41.8 ± 13.1</td><td align="left" valign="top" rowspan="1" colspan="1">45.4 ± 11.2</td><td align="left" valign="top" rowspan="1" colspan="1">Ligelizumab, ; omalizumab, 66 (77.6)</td><td align="left" valign="top" rowspan="1" colspan="1">31 (72)</td><td align="left" valign="top" rowspan="1" colspan="1">Ligelizumab, 30.5 ± 7.3; omalizumab, 29.3 ± 7.9</td><td align="left" valign="top" rowspan="1" colspan="1">31.1 ± 6.8</td><td align="left" valign="top" rowspan="1" colspan="1">Ligelizumab, 3.8 ± 5.2; omalizumab, 5.1 ± 7.5</td><td align="left" valign="top" rowspan="1" colspan="1">3.6 ± 3.5</td><td align="left" valign="top" rowspan="1" colspan="1">DLQI</td><td align="left" valign="top" rowspan="1" colspan="1">Low</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Maurer et al., 2024</td><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="left" valign="top" rowspan="1" colspan="1">RCT, DB (<italic toggle="yes">N</italic> = 108)</td><td align="left" valign="top" rowspan="1" colspan="1">24</td><td align="left" valign="top" rowspan="1" colspan="1">Dupilumab 300NR200 mg q2w</td><td align="left" valign="top" rowspan="1" colspan="1">44.1 ± 16.4</td><td align="left" valign="top" rowspan="1" colspan="1">44.1 ± 15.6</td><td align="left" valign="top" rowspan="1" colspan="1">78 (62.9)</td><td align="left" valign="top" rowspan="1" colspan="1">91 (74.6)</td><td align="left" valign="top" rowspan="1" colspan="1">31.5 ± 7.5</td><td align="left" valign="top" rowspan="1" colspan="1">31.3 ± 8.1</td><td align="left" valign="top" rowspan="1" colspan="1">6.9 ± 8.7</td><td align="left" valign="top" rowspan="1" colspan="1">7.6 ± 9.0</td><td align="left" valign="top" rowspan="1" colspan="1">HSS7, ISS7, UAS7, AEs</td><td align="left" valign="top" rowspan="1" colspan="1">Low</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Harris et al., 2016</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">RCT, DB (<italic toggle="yes">N</italic> = 32)</td><td align="left" valign="top" rowspan="1" colspan="1">20</td><td align="left" valign="top" rowspan="1" colspan="1">Quilizumab 450 mg q4w</td><td align="left" valign="top" rowspan="1" colspan="1">44.7 ± 13.2</td><td align="left" valign="top" rowspan="1" colspan="1">41.8 ± 12.3</td><td align="left" valign="top" rowspan="1" colspan="1">10 (67)</td><td align="left" valign="top" rowspan="1" colspan="1">13 (77)</td><td align="left" valign="top" rowspan="1" colspan="1">28.7 ± 7.1</td><td align="left" valign="top" rowspan="1" colspan="1">29.3 ± 7.2</td><td align="left" valign="top" rowspan="1" colspan="1">8.3 (13.0)</td><td align="left" valign="top" rowspan="1" colspan="1">14.2 ± 19.0</td><td align="left" valign="top" rowspan="1" colspan="1">ISS7, UAS7, HSS7</td><td align="left" valign="top" rowspan="1" colspan="1">Some concerns</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Oliver et al., 2019</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">RCT, DB (<italic toggle="yes">N</italic> = 28)</td><td align="left" valign="top" rowspan="1" colspan="1">4</td><td align="left" valign="top" rowspan="1" colspan="1">AZD1981 40 mg tid</td><td align="left" valign="top" rowspan="1" colspan="1">41.8 ± 12.3</td><td align="left" valign="top" rowspan="1" colspan="1">45.2 ± 12.5</td><td align="left" valign="top" rowspan="1" colspan="1">10 (71.4)</td><td align="left" valign="top" rowspan="1" colspan="1">10 (83.3)</td><td align="left" valign="top" rowspan="1" colspan="1">20.6 ± NR</td><td align="left" valign="top" rowspan="1" colspan="1">22.8 ± NR</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">UAS7, ISS7, DLQI, AEs</td><td align="left" valign="top" rowspan="1" colspan="1">Some concerns</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Metz et al., 2021</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">RCT, DB (<italic toggle="yes">N</italic> = 93)</td><td align="left" valign="top" rowspan="1" colspan="1">8</td><td align="left" valign="top" rowspan="1" colspan="1">Fenebrutinib 50 or 150 mg qd; fenebrutinib 200 mg bid</td><td align="left" valign="top" rowspan="1" colspan="1">44.2 ± 14.2</td><td align="left" valign="top" rowspan="1" colspan="1">40.2 ± 14.7</td><td align="left" valign="top" rowspan="1" colspan="1">54 (77.1)</td><td align="left" valign="top" rowspan="1" colspan="1">17 (74)</td><td align="left" valign="top" rowspan="1" colspan="1">28.1 ± 7.9</td><td align="left" valign="top" rowspan="1" colspan="1">25.5 ± 4.7</td><td align="left" valign="top" rowspan="1" colspan="1">FEN50mg: 2.1 (range, 0–40.0); FEN150mg: 2.6 (range, 0.5–36.6); FEN200mg: 3.9 (range, 0.6–45.3)</td><td align="left" valign="top" rowspan="1" colspan="1">1.2 (range, 0–14.4)</td><td align="left" valign="top" rowspan="1" colspan="1">ISS7, UAS7, HSS7, AEs</td><td align="left" valign="top" rowspan="1" colspan="1">Some concerns</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hide et al., 2017</td><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="left" valign="top" rowspan="1" colspan="1">RCT, DB (<italic toggle="yes">N</italic> = 218)</td><td align="left" valign="top" rowspan="1" colspan="1">12</td><td align="left" valign="top" rowspan="1" colspan="1">Omalizumab 150 or 300 mg q4w</td><td align="left" valign="top" rowspan="1" colspan="1">43.6 ± 12.2</td><td align="left" valign="top" rowspan="1" colspan="1">42.5 ± 14.3</td><td align="left" valign="top" rowspan="1" colspan="1">83 (57.6)</td><td align="left" valign="top" rowspan="1" colspan="1">48 (64.9)</td><td align="left" valign="top" rowspan="1" colspan="1">30.7 ± 7.3</td><td align="left" valign="top" rowspan="1" colspan="1">30.1 ± 6.5</td><td align="left" valign="top" rowspan="1" colspan="1">4.0 ± 4.7</td><td align="left" valign="top" rowspan="1" colspan="1">4.7 ± 6.2</td><td align="left" valign="top" rowspan="1" colspan="1">ISS7, UAS7, HSS7, DLQI, AEs</td><td align="left" valign="top" rowspan="1" colspan="1">Low</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Saini et al., 2011</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">RCT, DB (<italic toggle="yes">N</italic> = 90)</td><td align="left" valign="top" rowspan="1" colspan="1">4</td><td align="left" valign="top" rowspan="1" colspan="1">Omalizumab 75, 300 or 600 mg q4w</td><td align="left" valign="top" rowspan="1" colspan="1">40.6 ± 14.2</td><td align="left" valign="top" rowspan="1" colspan="1">41.2 ± 16.2</td><td align="left" valign="top" rowspan="1" colspan="1">44 (63.8)</td><td align="left" valign="top" rowspan="1" colspan="1">17(81.0)</td><td align="left" valign="top" rowspan="1" colspan="1">27.3 ± 7.4</td><td align="left" valign="top" rowspan="1" colspan="1">31.0 ± 7.3</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">ISS7, UAS7, HSS7, AEs</td><td align="left" valign="top" rowspan="1" colspan="1">Low</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Saini et al., 2015</td><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="left" valign="top" rowspan="1" colspan="1">RCT, DB (<italic toggle="yes">N</italic> = 319)</td><td align="left" valign="top" rowspan="1" colspan="1">24</td><td align="left" valign="top" rowspan="1" colspan="1">Omalizumab 75, 150 or 300 mg q4w</td><td align="left" valign="top" rowspan="1" colspan="1">41.4 ± 14.1</td><td align="left" valign="top" rowspan="1" colspan="1">40.4 ± 15.6</td><td align="left" valign="top" rowspan="1" colspan="1">179 (75.2)</td><td align="left" valign="top" rowspan="1" colspan="1">52 (65.0)</td><td align="left" valign="top" rowspan="1" colspan="1">31.1 ± 6.6</td><td align="left" valign="top" rowspan="1" colspan="1">31.1 ± 6.7</td><td align="left" valign="top" rowspan="1" colspan="1">6.9 ± 9.0</td><td align="left" valign="top" rowspan="1" colspan="1">7.0 ± 9.7</td><td align="left" valign="top" rowspan="1" colspan="1">ISS7, UAS7, HSS7, DLQI, CU‐Q2oL, AEs</td><td align="left" valign="top" rowspan="1" colspan="1">Low</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Kaplan et al., 2013</td><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="left" valign="top" rowspan="1" colspan="1">RCT, DB (<italic toggle="yes">N</italic> = 335)</td><td align="left" valign="top" rowspan="1" colspan="1">24</td><td align="left" valign="top" rowspan="1" colspan="1">Omalizumab 300 mg q4w</td><td align="left" valign="top" rowspan="1" colspan="1">42.7 ± 13.9</td><td align="left" valign="top" rowspan="1" colspan="1">44.3 ± 14.7</td><td align="left" valign="top" rowspan="1" colspan="1">186 (73.8)</td><td align="left" valign="top" rowspan="1" colspan="1">55 (66.3)</td><td align="left" valign="top" rowspan="1" colspan="1">31.2 ± 6.6</td><td align="left" valign="top" rowspan="1" colspan="1">30.2 ± 6.7</td><td align="left" valign="top" rowspan="1" colspan="1">7.0 ± 8.8</td><td align="left" valign="top" rowspan="1" colspan="1">8.8 ± 11.2</td><td align="left" valign="top" rowspan="1" colspan="1">ISS7, UAS7, HSS7, DLQI, CU‐Q2oL, AEs</td><td align="left" valign="top" rowspan="1" colspan="1">Low</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Staubach et al., 2016</td><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="left" valign="top" rowspan="1" colspan="1">RCT, DB (<italic toggle="yes">N</italic> = 91)</td><td align="left" valign="top" rowspan="1" colspan="1">28</td><td align="left" valign="top" rowspan="1" colspan="1">Omalizumab 300 mg q4w</td><td align="left" valign="top" rowspan="1" colspan="1">44.9 (range, 20–73)</td><td align="left" valign="top" rowspan="1" colspan="1">41.4 (range, 20–61)</td><td align="left" valign="top" rowspan="1" colspan="1">30 (68.2)</td><td align="left" valign="top" rowspan="1" colspan="1">33 (70.2)</td><td align="left" valign="top" rowspan="1" colspan="1">26.5 ± 8.2</td><td align="left" valign="top" rowspan="1" colspan="1">27.9 ± 8.7</td><td align="left" valign="top" rowspan="1" colspan="1">8.4 ± 9.3</td><td align="left" valign="top" rowspan="1" colspan="1">7.4 ± 8.8</td><td align="left" valign="top" rowspan="1" colspan="1">CU‐Q2oL, DLQI, UAS7, AEs</td><td align="left" valign="top" rowspan="1" colspan="1">Low</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Jörg et al., 2018</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">RCT, DB (<italic toggle="yes">N</italic> = 30)</td><td align="left" valign="top" rowspan="1" colspan="1">16</td><td align="left" valign="top" rowspan="1" colspan="1">Omalizumab 300 mg q4w</td><td align="left" valign="top" rowspan="1" colspan="1">41.8 ± 15.2</td><td align="left" valign="top" rowspan="1" colspan="1">42.4 ± 13.3</td><td align="left" valign="top" rowspan="1" colspan="1">8 (40.0)</td><td align="left" valign="top" rowspan="1" colspan="1">8 (80.0)</td><td align="left" valign="top" rowspan="1" colspan="1">11.0 (IQR, 2.5; 21.5)</td><td align="left" valign="top" rowspan="1" colspan="1">18.5 (IQR, 11.3; 23.5)</td><td align="left" valign="top" rowspan="1" colspan="1">1.6 (IQR, 1.0; 2.8)</td><td align="left" valign="top" rowspan="1" colspan="1">2.25 (IQR, 1.7; 5.4)</td><td align="left" valign="top" rowspan="1" colspan="1">UAS7</td><td align="left" valign="top" rowspan="1" colspan="1">Some concerns</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Maurer et al., 2013</td><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="left" valign="top" rowspan="1" colspan="1">RCT, DB (<italic toggle="yes">N</italic> = 323)</td><td align="left" valign="top" rowspan="1" colspan="1">12</td><td align="left" valign="top" rowspan="1" colspan="1">Omalizumab 75, 150 or 300 mg q4w</td><td align="left" valign="top" rowspan="1" colspan="1">42.3 ± 14.0</td><td align="left" valign="top" rowspan="1" colspan="1">43.1 ± 12.5</td><td align="left" valign="top" rowspan="1" colspan="1">189 (77.8)</td><td align="left" valign="top" rowspan="1" colspan="1">55 (69.6)</td><td align="left" valign="top" rowspan="1" colspan="1">30.6 ± 6.9</td><td align="left" valign="top" rowspan="1" colspan="1">31.0 ± 6.6</td><td align="left" valign="top" rowspan="1" colspan="1">6.2 ± 7.8</td><td align="left" valign="top" rowspan="1" colspan="1">7.2 ± 10.7</td><td align="left" valign="top" rowspan="1" colspan="1">ISS7, UAS7, HSS7, DLQI, AEs</td><td align="left" valign="top" rowspan="1" colspan="1">Low</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Metz et al., 2017</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">RCT, DB (<italic toggle="yes">N</italic> = 30)</td><td align="left" valign="top" rowspan="1" colspan="1">12</td><td align="left" valign="top" rowspan="1" colspan="1">Omalizumab 300 mg q4w</td><td align="left" valign="top" rowspan="1" colspan="1">37.5 ± 11.0</td><td align="left" valign="top" rowspan="1" colspan="1">41.1 ± 8.0</td><td align="left" valign="top" rowspan="1" colspan="1">18 (90.0)</td><td align="left" valign="top" rowspan="1" colspan="1">8 (80.0)</td><td align="left" valign="top" rowspan="1" colspan="1">32.2 ± 8.0</td><td align="left" valign="top" rowspan="1" colspan="1">31.6 ± 7.7</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">UAS7; ISS7, DLQI</td><td align="left" valign="top" rowspan="1" colspan="1">Low</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Yuan et al., 2022</td><td align="left" valign="top" rowspan="1" colspan="1">3</td><td align="left" valign="top" rowspan="1" colspan="1">RCT, DB (<italic toggle="yes">N</italic> = 418)</td><td align="left" valign="top" rowspan="1" colspan="1">20</td><td align="left" valign="top" rowspan="1" colspan="1">Omalizumab 300 or 150 mg q4w</td><td align="left" valign="top" rowspan="1" colspan="1">OMA300: 38.0 (range, 20–67); OMA150: 36.0 (range, 18–67)</td><td align="left" valign="top" rowspan="1" colspan="1">42.0 (range, 22–72)</td><td align="left" valign="top" rowspan="1" colspan="1">223 (66.6)</td><td align="left" valign="top" rowspan="1" colspan="1">53 (63.9)</td><td align="left" valign="top" rowspan="1" colspan="1">31.2 ± 7.3</td><td align="left" valign="top" rowspan="1" colspan="1">33.96 ± 6.81</td><td align="left" valign="top" rowspan="1" colspan="1">4.1 ± 5.7</td><td align="left" valign="top" rowspan="1" colspan="1">4.79 ± 6.46</td><td align="left" valign="top" rowspan="1" colspan="1">ISS7, UAS7, DLQI, AEs</td><td align="left" valign="top" rowspan="1" colspan="1">Low</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Sussman et al., 2020</td><td align="left" valign="top" rowspan="1" colspan="1">3b</td><td align="left" valign="top" rowspan="1" colspan="1">Randomized, OL (<italic toggle="yes">N</italic> = 314)</td><td align="left" valign="top" rowspan="1" colspan="1">24</td><td align="left" valign="top" rowspan="1" colspan="1">Omalizumab 300 mg q4w</td><td align="left" valign="top" rowspan="1" colspan="1">45.8 ± 13.6</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">99 (72.8)</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">30.0 ± 7.5</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">UAS7, AEs</td><td align="left" valign="top" rowspan="1" colspan="1">Some concerns</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Maurer et al., 2024</td><td align="left" valign="top" rowspan="1" colspan="1">2b</td><td align="left" valign="top" rowspan="1" colspan="1">RCT; TB (<italic toggle="yes">N</italic> = 125)</td><td align="left" valign="top" rowspan="1" colspan="1">16</td><td align="left" valign="top" rowspan="1" colspan="1">Tezepelumab 210 mg q4w; tezepelumab 420 mg q2w; omalizumab 300 mg q4w</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">UAS7</td><td align="left" valign="top" rowspan="1" colspan="1">Some concerns</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Maurer et al., 2024</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">RCT; DB (<italic toggle="yes">N</italic> = 160)</td><td align="left" valign="top" rowspan="1" colspan="1">12</td><td align="left" valign="top" rowspan="1" colspan="1">Rilzabrutinib 400 mg qd, bid or tid</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">NR</td><td align="left" valign="top" rowspan="1" colspan="1">ISS7, UAS7</td><td align="left" valign="top" rowspan="1" colspan="1">Some concerns</td></tr></tbody></table><table-wrap-foot id="clt270052-ntgp-0001"><fn id="clt270052-note-0002"><p>Abbreviations: AEs, advent events; bid, twice daily; CU‐Q2oL, chronic urticaria quality of life question‐naire; DB, double‐blind; DLQI, dermatology life quality index; HSS7, weekly hive severity score; ISS7, weekly itch severity score; NR, not reported; OL, open label; q2w, every 2 weeks; q4w, every 4 weeks; qd, once daily; RCT, randomized controll trial; SAEs, serious advent events; SD: standard deviation; TB, triple‐blind; tid, three times daily; UAS7, the weekly urticaria activity score; UCT, urticaria control test.</p></fn></table-wrap-foot></table-wrap><sec id="clt270052-sec-0100"><label>3.1</label><title>Outcomes</title><sec id="clt270052-sec-0110"><label>3.1.1</label><title>Weekly UAS7</title><p>In the network analysis, 20 studies involving 6313 patients<xref rid="clt270052-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="clt270052-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="clt270052-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="clt270052-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="clt270052-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="clt270052-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="clt270052-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="clt270052-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="clt270052-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="clt270052-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="clt270052-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="clt270052-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="clt270052-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="clt270052-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="clt270052-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="clt270052-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="clt270052-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="clt270052-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>, <xref rid="clt270052-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref>, <xref rid="clt270052-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref> randomized to 26 different treatments or dosages assessed change from baseline in the weekly UAS7, while 12 studies with 3281 patients<xref rid="clt270052-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="clt270052-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="clt270052-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="clt270052-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="clt270052-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="clt270052-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="clt270052-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="clt270052-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="clt270052-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="clt270052-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="clt270052-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="clt270052-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref> evaluated the proportions of patients who achieved well‐controlled disease (UAS7 ≤ 6) and 13 studies with 5430 patients<xref rid="clt270052-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="clt270052-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="clt270052-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="clt270052-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="clt270052-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="clt270052-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="clt270052-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="clt270052-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="clt270052-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="clt270052-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref>, <xref rid="clt270052-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>, <xref rid="clt270052-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref>, <xref rid="clt270052-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref> evaluated the proportion achieving complete response (UAS7 = 0). Figure <xref rid="clt270052-fig-0001" ref-type="fig">1A</xref>, Supporting Information <xref rid="clt270052-sup-0001" ref-type="supplementary-material">S1</xref>: eFigures 3 and 5 show the structure of the network and how these treatments were compared with each other in the original studies. Placebo was used by most studies as a comparator, several studies compared different dosages of the same agent, and only 3 studies directly compared different systemic medications. Figure <xref rid="clt270052-fig-0002" ref-type="fig">2A</xref>, Supporting Information <xref rid="clt270052-sup-0001" ref-type="supplementary-material">S1</xref>: eFigures 4 and 6 show the efficacy of the different drugs in reducing UAS7 and the proportion of patients who achieved UAS7 ≤ 6 or UAS7 = 0 compared to placebo. Estimates for all possible treatment comparisons are presented in Supporting Information <xref rid="clt270052-sup-0001" ref-type="supplementary-material">S1</xref>: eTables 2, 4, and 6.</p><fig position="float" fig-type="FIGURE" id="clt270052-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Network graph of studies included in the network. (A) Change from baseline in the weekly urticaria activity score, and (B) the occurrence of advent events. The width of each line connecting 2 treatments (nodes) is proportional to the number of head‐to‐head trials for that comparison. Qd indicates once daily; bid, twice daily; tid, three times daily; q4w, every 4 weeks.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="CLT2-15-e70052-g001.jpg"/></fig><fig position="float" fig-type="FIGURE" id="clt270052-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Forest plot for the network analysis. a: Within‐study bias; b: Reporting bias; c: Indirectness; d: Imprecision; e: Heterogeneity; f: Incoherence. Forest plots showing (A) change from baseline in the weekly urticaria activity score, and (B) the occurrence of advent events. Results are presented for medications versus placebo. Results are presented as mean difference and odds ratios with 95% credible intervals (95% CI).</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="CLT2-15-e70052-g002.jpg"/></fig><sec id="clt270052-sec-0120"><label>3.1.1.1</label><title>Change from baseline in UAS7</title><p>For the change from baseline in UAS7 compared with placebo, the NMA estimates illustrated that the most efficacious treatments were achieved with ligelizumab 120 mg [MD −10.01, 95% CI (−11.89; −8.18)], omalizumab 300 mg [MD −9.99, 95% CI (−11.31; −8.80)] and ligelizumab 72 mg [MD −9.37, 95% CI (−11.25; −7.54)]. Additionally, fenebrutinib 200 mg [MD −8.23, 95% CI (−12.99; −3.15)], along with remibrutinib administered at various dosages of 35 mg once daily [MD −7.80, 95% CI (−12.76; −2.51)], 25 mg twice daily [MD −7.69, 95% CI (−9.85; −5.76)], and 10 mg twice daily [MD −7.61, 95% CI (−12.59; −2.47)], demonstrated significant efficacy in reducing UAS7 compared to placebo. Other treatments, such as rilzabrutinib 400 mg [MD −6.68, 95% CI (−12.08; −1.12)], dupilumab 300 mg [MD −5.22, 95% CI (−9.13; −1.22)], and tezepelumab 210 mg [MD −4.98, 95% CI (−9.79; −0.02)], were also more effective than placebo. However, no statistical difference in efficacy was observed for AZD1981 and benralizumab compared with placebo.</p></sec><sec id="clt270052-sec-0130"><label>3.1.1.2</label><title>Proportion of patients achieved UAS7 ≤ 6</title><p>In terms of the proportions of patients achieving UAS7 ≤ 6, omalizumab 300 mg administered every 4 weeks was ranked as the most effective available treatment, demonstrating a ratio of 7.41 (95% CI: 5.15; 10.90) compared to placebo. Omalizumab 150 mg given every 4 weeks also showed significant efficacy, with a ratio of 4.72 (95% CI: 3.13; 7.12). Additionally, fenebrutinib 200 mg taken twice daily exhibited a ratio of 4.09 (95% CI: 1.43; 11.40), while remibrutinib 25 mg dosed twice daily revealed a ratio of 3.32 (95% CI: 2.25; 4.95) relative to placebo. Data for this metric of the AZD were lacking. Similar to the change from baseline in UAS7, there was also no significant difference in the efficacy of benralizumab compared with placebo.</p></sec><sec id="clt270052-sec-0140"><label>3.1.1.3</label><title>Proportion of patients achieved UAS7 = 0</title><p>Among all included interventions, the proportion of patients achieving UAS7 = 0 demonstrated a strong advantage with omalizumab 300 mg [OR 7.11, 95% CI (4.28; 19.40)], and oral remibrutinib 25 mg twice daily [OR 4.46, 95% CI (2.10; 9.99)]. Omalizumab 150 mg [OR 3.25, 95% CI (1.53; 7.11)] achieved a relatively smaller proportion of patients with UAS7 = 0 compared to the above drugs. Additionally, no statistically significant differences in efficacy were observed for the other drugs compared with placebo in this metric. Fenebrutinib and omalizumab 75 mg are not shown in the forest plot due to large confidence intervals, with specific values provided in Supporting Information <xref rid="clt270052-sup-0001" ref-type="supplementary-material">S1</xref>: eTable 6. SUCRA values for the change in UAS7 from baseline and the proportion of patients achieving UAS7 = 0 are presented in Supporting Information <xref rid="clt270052-sup-0001" ref-type="supplementary-material">S1</xref>: eFigure 15.</p></sec></sec><sec id="clt270052-sec-0150"><label>3.1.2</label><title>Adverse events and serious adverse events</title><p>In total, 22 studies were included in the assessment of AEs and SAEs. Figure <xref rid="clt270052-fig-0001" ref-type="fig">1B</xref> and Supporting Information <xref rid="clt270052-sup-0001" ref-type="supplementary-material">S1</xref>: eFigure 7 illustrate the network structure. Figure <xref rid="clt270052-fig-0002" ref-type="fig">2B</xref> and Supporting Information <xref rid="clt270052-sup-0001" ref-type="supplementary-material">S1</xref>: eFigure 8 lists the estimated odds ratios for the occurrence of AEs for all medications using placebo as the comparator. Fenebrutinib 150 mg daily, with an odds ratio of 2.00 (95% CI: 0.54; 7.08), was ranked as the least safe in terms of AE frequency. Compared to placebo, benralizumab 60 mg given subcutaneously every 4 weeks had an odds ratio of 0.86 (95% CI: 0.31; 2.26), whereas remibrutinib at doses of 10 and 25 mg administered orally twice daily had odds ratios of 0.91 (95% CI: 0.37; 2.23) and 1.10 (95% CI: 0.72; 1.75), respectively. We noted that individuals receiving ligelizumab 120 mg [OR 1.73, 95% CI (1.13; 2.67)], ligelizumab 72 mg [OR 1.58, 95% CI (1.04; 2.33)], and omalizumab 300 mg [OR 1.50, 95% CI (1.12; 1.93)] experienced a significantly higher risk of AEs compared to placebo. Estimates for all possible treatment comparisons are presented in Supporting Information <xref rid="clt270052-sup-0001" ref-type="supplementary-material">S1</xref>: eTables 8 and 10. Further subgroup analyses based on treatment duration and adult age revealed no significant differences in AE occurrence among the treatment comparisons (Supporting Information <xref rid="clt270052-sup-0001" ref-type="supplementary-material">S1</xref>: eFigure 18D). Similarly, no significant differences were found in SAEs across all treatment comparisons (Supporting Information <xref rid="clt270052-sup-0001" ref-type="supplementary-material">S1</xref>: eFigure 8). The combined SUCRA values for AEs and SAEs showed that ligelizumab 120 mg was ranked as the least desirable treatment, showing a higher risk of both AEs and SAEs (Supporting Information <xref rid="clt270052-sup-0001" ref-type="supplementary-material">S1</xref>: eFigure 17).</p><p>Taken together, based on the SUCRA values for efficacy and incidence of AEs shown in Figure <xref rid="clt270052-fig-0003" ref-type="fig">3</xref>, no drug was found to be optimal for both efficacy and safety. Omalizumab 300 mg every 4 weeks still exhibited notable efficacy. However, when considering both benefits and harms together, the network estimates illustrated that remibrutinib, at doses of 35 mg daily, 25 mg twice daily, and 10 mg twice daily, showed the best overall performance.</p><fig position="float" fig-type="FIGURE" id="clt270052-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Cluster ranking plot for the efficacy and safety of treatments for chronic spontaneous urticaria in network meta‐analyses. Both in efficacy and safety, a higher score on the lower surface under the cumulative ranking curve indicates better efficacy and higher safety.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="CLT2-15-e70052-g003.jpg"/></fig></sec><sec id="clt270052-sec-0160"><label>3.1.3</label><title>Other outcomes</title><p>The complete network analysis also includes ISS7, HSS7, and DLQI, which showed similar results to the above, as detailed in Supporting Information <xref rid="clt270052-sup-0001" ref-type="supplementary-material">S1</xref>: eFigures 9–14 and eTables 11–13. The combined SUCRA values for ISS7 and HSS7 are shown in Supporting Information <xref rid="clt270052-sup-0001" ref-type="supplementary-material">S1</xref>: eFigure 16.</p></sec></sec><sec id="clt270052-sec-0170"><label>3.2</label><title>Quality of evidence</title><p>The global <italic toggle="yes">I</italic>
+<sup>
+<italic toggle="yes">2</italic>
+</sup> statistic indicated no significant heterogeneity within the network (<italic toggle="yes">I</italic>
+<sup>
+<italic toggle="yes">2</italic>
+</sup> &lt; 50%), detailed in Supporting Information <xref rid="clt270052-sup-0001" ref-type="supplementary-material">S1</xref>: eTable 14. Net splitting showed inconsistency in the network for the comparisons between ligelizumab in different dosages and placebo (Supporting Information <xref rid="clt270052-sup-0001" ref-type="supplementary-material">S1</xref>: eFigure 19). Egger's regression test did not show publication bias across studies (<italic toggle="yes">p</italic> &gt; 0.05). However, the comparison‐adjusted funnel plot symmetry indicated small‐study effects for most outcomes, except for the change in the weekly HSS7 (Supporting Information <xref rid="clt270052-sup-0001" ref-type="supplementary-material">S1</xref>: eFigure 20). The evidence certainty grading according to the GRADE approach, along with the reasons for downgrading each treatment, is detailed in Supporting Information <xref rid="clt270052-sup-0001" ref-type="supplementary-material">S1</xref>: eTables 3, 5, 7 and 9 in the Supplement. Most treatment comparisons had limited evidence certainty due to within‐study bias, imprecision, heterogeneity, and incoherence.</p></sec><sec id="clt270052-sec-0180"><label>3.3</label><title>Subgroup and sensitivity analysis</title><p>Sixteen studies included only adults,<xref rid="clt270052-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="clt270052-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="clt270052-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="clt270052-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="clt270052-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="clt270052-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="clt270052-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="clt270052-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="clt270052-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="clt270052-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="clt270052-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="clt270052-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref>, <xref rid="clt270052-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref>, <xref rid="clt270052-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref>, <xref rid="clt270052-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref>, <xref rid="clt270052-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref>, <xref rid="clt270052-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref> one included adolescents,<xref rid="clt270052-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref> and six included both adults and adolescents.<xref rid="clt270052-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="clt270052-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="clt270052-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="clt270052-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="clt270052-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="clt270052-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> Subgroup analysis restricted to studies with only adults showed no significant differences compared to the overall dataset except for AEs.</p><p>Regarding treatment duration, limited efficacy data were available on long‐term treatment (&gt;16 weeks),<xref rid="clt270052-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref>, <xref rid="clt270052-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> and subgroup analyses focusing on studies with ≤16 weeks showed no statistically significant differences from the overall results. In terms of AEs, 10 studies were performed with treatment durations ≤16 weeks<xref rid="clt270052-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="clt270052-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="clt270052-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>, <xref rid="clt270052-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref>, <xref rid="clt270052-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="clt270052-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref>, <xref rid="clt270052-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref>, <xref rid="clt270052-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref>, <xref rid="clt270052-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="clt270052-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref> and subgroup analyses of these treatments showed no statistically significant differences in safety compared to placebo, whereas for studies with treatment durations &gt;16 weeks, the subgroup analysis indicated a slightly increased risk of AEs for omalizumab 300 mg every 4 weeks [OR 1.59, 95% CI (1.07; 2.22)] and ligelizumab 120 mg every 4 weeks [OR 1.75, 95% CI (1.02; 2.96)] compared to placebo.</p><p>Post hoc analysis excluding studies with a high overall risk of bias could not be included as none of the included studies were assessed to have a high risk of bias. Findings from other sensitivity analyses were robust and did not substantially change from the main findings. Specific details of the subgroup analyses and sensitivity analyses are provided in Supporting Information <xref rid="clt270052-sup-0001" ref-type="supplementary-material">S1</xref>: eFigure 18.</p></sec></sec><sec id="clt270052-sec-0190"><label>4</label><title>DISCUSSION</title><p>In this systematic review and NMA, we combined direct and indirect evidence from 23 randomized clinical trials of 6933 participants with CSU. The systemic drugs for CSU mainly include biological agents and small molecule drugs. Previous meta‐analysis studies<xref rid="clt270052-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref> investigating conventional systemic drugs indicated that cyclosporine A combined with antihistamine resulted in greater improvements regarding the UAS7 among CSU patients. However, conventional systemic drugs have a wide range of pharmacological effects and can induce immunosuppression, raising safety concerns that may limit their clinical application. As biologics and small molecule drugs are more targeted in their mechanisms of action, their efficacy can provide valuable insights into the role of specific targets in the pathogenesis of CSU. Regarding biologics, previous NMA revealed that the biological agents ligelizumab 72 or 240 mg and omalizumab 300 or 600 mg are effective treatments for CSU.<xref rid="clt270052-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="clt270052-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> Given the extensive ongoing clinical trials in CSU, an updated analysis of the findings is necessary. Our study provides updated evidence of established biological agents and novel small molecule drugs, with the strength of comprehensive systematic review, robust design, and a focus on clinically relevant symptoms of urticaria.</p><p>In terms of efficacy, our findings are in line with previous pairwise meta‐analyse,<xref rid="clt270052-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref>, <xref rid="clt270052-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>, <xref rid="clt270052-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref> demonstrating the benefits of omalizumab, ligelizumab and remibrutinib, which highlights the critical role of free immunoglobulin E in the pathogenesis of CSU. In a previous NMA, the most efficacious treatments were achieved with ligelizumab, 72 or 240 mg and omalizumab, 300 or 600 mg<sup>32</sup>; in our updated NMA, omalizumab 300 mg and ligelizumab 120 mg administered every 4 weeks showed the best efficacy. However, the safety profile analysis in our study indicated that individuals receiving ligelizumab 120 mg or 72 mg, and omalizumab 300 mg experienced a significantly higher risk of AEs compared to placebo, which is different from the previous results, in which omalizumab 150 mg [OR 1.44, 95% CI (1.02–2.03)], experienced a statistically significantly higher risk of AEs compared with placebo, but ligelizumab 24 mg [OR 0.44, 95% CI (0.21; 0.93)], showed a protective effect.<xref rid="clt270052-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref> Most AEs reported were mild to moderate. Based on the results from subgroup analyses, this discrepancy may be related to longer treatment durations and the inclusion of adolescent populations. Our findings suggest that additional data are needed to evaluate the safety of omalizumab in specific populations and with long‐term treatment durations. Notably, the Phase III trial (PEARL) of ligelizumab confirmed that it can achieve clinically meaningful improvements in disease activity, but it did not demonstrate superiority over omalizumab.<xref rid="clt270052-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> Although the Phase IIb trial showed a higher percentage of patients achieving complete control of CSU symptoms,<xref rid="clt270052-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> this led to its discontinuation. Since it will not be available to the public in the future, it is not recommended in this article.</p><p>Furthermore, the results of this NMA showed that remibrutinib strikes a good balance between efficacy and safety, highlighting the potential of this novel BTK inhibitor, in which phase 3 studies (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT05032157">NCT05032157</ext-link> and <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT05030311">NCT05030311</ext-link>) have been completed and showed promising efficacy in H1‐AH refractory CSU. We know that two endotypes of CSU have been identified: type I autoimmune CSU (autoallergic) driven by IgE against autoallergens and type IIb autoimmune CSU associated with IgG against autoantibodies lgE or FcεRI.<xref rid="clt270052-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref> The two CSU endotypes exhibit distinct clinical responses to anti‐IgE therapy.<xref rid="clt270052-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref> In both types, FcεRI cross‐linking‐mediated mast cell and basophil activation and degranulation is a hallmark of pathogenesis.<xref rid="clt270052-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>, <xref rid="clt270052-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref> This cross‐linking promptly activates Bruton's tyrosine kinase (BTK), a cytoplasmic kinase downstream of the IgE receptor, which is expressed in mast cells, basophils, and B cells. Therefore, BTK may be particularly effective in type IIb CSU patients who have higher disease activity, severity, and a poorer response to conventional therapy.<xref rid="clt270052-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> Remibrutinib provides rapid and effective disease control with a favorable safety profile, and therefore has the potential to be an attractive alternative therapy for patients as well as the preferred oral treatment option for patients with moderate‐to‐severe CSU.<xref rid="clt270052-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="clt270052-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref>
+</p><p>There are several limitations in this NMA. Firstly, this analysis was constrained by differences in the design of the included trials, such as variations in patient populations and dosing schedules, which can affect the comparability of the results across studies. Secondly, some treatment comparisons were based on a single trial or trials with small sample sizes, potentially limiting the robustness of the findings. Thirdly, there is limited evidence for comparisons involving active comparators, reducing the ability to draw definitive conclusions about the relative efficacy of different treatments. Additionally, the underrepresentation of certain populations in clinical trials, including adolescents, older patients and patients with comorbidities, may limit the generalizability to populations. This underrepresentation means that the results may not be fully applicable to these groups, who may respond differently to the treatments. Given these limitations, our results should be interpreted with caution. Further research is warranted, particularly head‐to‐head trials comparing active comparators to provide more direct evidence of relative efficacy. Long‐term safety trials are also needed to assess the prolonged use of these treatments. Moreover, considering the high costs associated with novel therapies, research on cost‐effectiveness is crucial to inform healthcare decision‐making and ensure that treatments are accessible and affordable.</p></sec><sec id="clt270052-sec-0200"><label>5</label><title>CONCLUSION</title><p>Overall, the results of this systematic review and network meta‐analysis suggest that the biological agent omalizumab 300 mg and the oral small molecule remibrutinib, administered at doses of 35 mg once daily, 25 mg twice daily, and 10 mg twice daily, are effective pharmacologic treatments with respect to the benefits and harms of H1‐AH refractory CSU.</p></sec><sec id="clt270052-sec-0210"><title>AUTHOR CONTRIBUTIONS</title><p>
+<bold>Zuotao Zhao:</bold> Writing—review and editing; conceptualization; supervision; funding acquisition. <bold>Yaqi Zheng:</bold> Writing—original draft; writing—review and editing; software; formal analysis; investigation; methodology; data curation; validation; visualization; project administration; resources. <bold>Xiaoting Song:</bold> Writing—review and editing; writing—original draft. <bold>Chengyue Peng:</bold> Investigation. <bold>Shuanglu Liao:</bold> Investigation. <bold>Peixin Zhang:</bold> Investigation. <bold>Yen Tan:</bold> Investigation. <bold>Xiaojie Huang:</bold> Writing—review and editing. <bold>Litao Zhang:</bold> Writing—review and editing.</p></sec><sec sec-type="COI-statement" id="clt270052-sec-0230"><title>CONFLICT OF INTEREST STATEMENT</title><p>Dr. Zhao is the speaker/advisor for and/or has received research funding from Novartis, Pfizer, Astellas, Galderma, Janssen, GSK, BAYER, LEO, MEDA Pharma and ALK Pharma outside the submitted work. The rest of the authors declare that they have no conflicts of interest.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="clt270052-sup-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>Supporting Information S1</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="CLT2-15-e70052-s001.docx" position="float" orientation="portrait"/></supplementary-material></sec></body><back><ack id="clt270052-sec-0220"><title>ACKNOWLEDGMENTS</title><p>This project was supported by the National Natural Science Foundation of China (grant number 82473512) and Public Health Talent Grant by Beijing Municipal Health Commission‐(Global Health Governance‐02‐12), which we gratefully acknowledge.</p></ack><sec sec-type="data-availability" id="clt270052-sec-1440"><title>DATA AVAILABILITY STATEMENT</title><p>All data generated or analyzed during this study are included in this article. Further inquiries can be directed to the corresponding authors.</p></sec><ref-list content-type="cited-references" id="clt270052-bibl-0001"><title>REFERENCES</title><ref id="clt270052-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="clt270052-cit-0001">
+<string-name name-style="western">
+<surname>Lang</surname>
+<given-names>DM</given-names>
+</string-name>. <article-title>Chronic urticaria</article-title>. <source>N Engl J Med</source>. <year>2022</year>;<volume>387</volume>(<issue>9</issue>):<fpage>824</fpage>‐<lpage>831</lpage>. <pub-id pub-id-type="doi">10.1056/nejmra2120166</pub-id>
+<pub-id pub-id-type="pmid">36053507</pub-id>
+</mixed-citation></ref><ref id="clt270052-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="clt270052-cit-0002">
+<string-name name-style="western">
+<surname>Fricke</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ávila</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Keller</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Prevalence of chronic urticaria in children and adults across the globe: systematic review with meta‐analysis</article-title>. <source>Allergy</source>. <year>2020</year>;<volume>75</volume>(<issue>2</issue>):<fpage>423</fpage>‐<lpage>432</lpage>. <pub-id pub-id-type="doi">10.1111/all.14037</pub-id>
+<pub-id pub-id-type="pmid">31494963</pub-id>
+</mixed-citation></ref><ref id="clt270052-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="clt270052-cit-0003">
+<string-name name-style="western">
+<surname>Wertenteil</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Strunk</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Garg</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Prevalence estimates for chronic urticaria in the United States: a sex‐ and age‐adjusted population analysis</article-title>. <source>J Am Acad Dermatol</source>. <year>2019</year>;<volume>81</volume>(<issue>1</issue>):<fpage>152</fpage>‐<lpage>156</lpage>. <pub-id pub-id-type="doi">10.1016/j.jaad.2019.02.064</pub-id>
+<pub-id pub-id-type="pmid">30872154</pub-id>
+</mixed-citation></ref><ref id="clt270052-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="clt270052-cit-0004">
+<string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Song</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhang</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Prevalence and risk factors of chronic urticaria in China: a nationwide cross‐sectional study</article-title>. <source>Allergy</source>. <year>2022</year>;<volume>77</volume>(<issue>7</issue>):<fpage>2233</fpage>‐<lpage>2236</lpage>. <pub-id pub-id-type="doi">10.1111/all.15287</pub-id>
+<pub-id pub-id-type="pmid">35332543</pub-id>
+</mixed-citation></ref><ref id="clt270052-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="clt270052-cit-0005">
+<string-name name-style="western">
+<surname>Gonçalo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gimenéz‐Arnau</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Al‐Ahmad</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>The global burden of chronic urticaria for the patient and society</article-title>. <source>Br J Dermatol</source>. <year>2021</year>;<volume>184</volume>(<issue>2</issue>):<fpage>226</fpage>‐<lpage>236</lpage>. <pub-id pub-id-type="doi">10.1111/bjd.19561</pub-id>
+<pub-id pub-id-type="pmid">32956489</pub-id>
+</mixed-citation></ref><ref id="clt270052-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="clt270052-cit-0006">
+<string-name name-style="western">
+<surname>Zuberbier</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abdul Latiff</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abuzakouk</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>The international EAACI/GA<sup>2</sup>LEN/EuroGuiDerm/APAAACI guideline for the definition, classification, diagnosis, and management of urticaria</article-title>. <source>Allergy</source>. <year>2021</year>;<volume>77</volume>(<issue>3</issue>):<fpage>734</fpage>‐<lpage>766</lpage>. <pub-id pub-id-type="doi">10.1111/all.15090</pub-id>
+<pub-id pub-id-type="pmid">34536239</pub-id>
+</mixed-citation></ref><ref id="clt270052-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="clt270052-cit-0007">
+<string-name name-style="western">
+<surname>Sussman</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hébert</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gulliver</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Omalizumab Re‐treatment and step‐up in patients with chronic spontaneous urticaria: OPTIMA trial</article-title>. <source>J Allergy Clin Immunol Pract</source>. <year>2020</year>;<volume>8</volume>(<issue>7</issue>):<fpage>2372</fpage>‐<lpage>2378.e2375</lpage>.<pub-id pub-id-type="pmid">32272284</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jaip.2020.03.022</pub-id></mixed-citation></ref><ref id="clt270052-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="clt270052-cit-0008">
+<string-name name-style="western">
+<surname>Guillén‐Aguinaga</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jáuregui Presa</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aguinaga‐Ontoso</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guillén‐Grima</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferrer</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Updosing nonsedating antihistamines in patients with chronic spontaneous urticaria: a systematic review and meta‐analysis</article-title>. <source>Br J Dermatol</source>. <year>2016</year>;<volume>175</volume>(<issue>6</issue>):<fpage>1153</fpage>‐<lpage>1165</lpage>. <pub-id pub-id-type="doi">10.1111/bjd.14768</pub-id>
+<pub-id pub-id-type="pmid">27237730</pub-id>
+</mixed-citation></ref><ref id="clt270052-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="clt270052-cit-0009">
+<string-name name-style="western">
+<surname>Augustin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beier</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Branner</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>The socio‐economic burden of H1‐antihistamine‐refractory chronic spontaneous urticaria in Germany</article-title>. <source>J Eur Acad Dermatol Venereol</source>. <year>2024</year>;<volume>38</volume>(<issue>11</issue>):<fpage>2102</fpage>‐<lpage>2109</lpage>. <pub-id pub-id-type="doi">10.1111/jdv.20071</pub-id>
+<pub-id pub-id-type="pmid">38733261</pub-id>
+</mixed-citation></ref><ref id="clt270052-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="clt270052-cit-0010">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ou</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zou</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhu</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Omalizumab in chronic spontaneous urticaria: a real‐world study on effectiveness, safety and predictors of treatment outcome</article-title>. <source>Clin Cosmet Invest Dermatol</source>. <year>2024</year>;<volume>17</volume>:<fpage>1799</fpage>‐<lpage>1808</lpage>. <pub-id pub-id-type="doi">10.2147/ccid.s470160</pub-id>
+<pub-id pub-id-type="pmcid">PMC11317055</pub-id><pub-id pub-id-type="pmid">39132026</pub-id></mixed-citation></ref><ref id="clt270052-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="clt270052-cit-0011">
+<string-name name-style="western">
+<surname>Chen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>X</given-names>
+</string-name>, et al. <article-title>Omalizumab treatment and outcomes in Chinese patients with chronic spontaneous urticaria, chronic inducible urticaria, or both</article-title>. <source>World Allergy Organ J</source>. <year>2021</year>;<volume>14</volume>(<issue>1</issue>):<elocation-id>100501</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.waojou.2020.100501</pub-id>
+<pub-id pub-id-type="pmid">33510832</pub-id>
+<pub-id pub-id-type="pmcid">PMC7804987</pub-id></mixed-citation></ref><ref id="clt270052-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="clt270052-cit-0012">
+<string-name name-style="western">
+<surname>Yuan</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hu</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Efficacy and safety of omalizumab in Chinese patients with anti‐histamine refractory chronic spontaneous urticaria</article-title>. <source>Dermatol Ther</source>. <year>2022</year>;<volume>35</volume>(<issue>4</issue>):<elocation-id>e15303</elocation-id>. <pub-id pub-id-type="doi">10.1111/dth.15303</pub-id>
+<pub-id pub-id-type="pmid">34984792</pub-id>
+<pub-id pub-id-type="pmcid">PMC9286033</pub-id></mixed-citation></ref><ref id="clt270052-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="clt270052-cit-0013">
+<string-name name-style="western">
+<surname>Staubach</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Metz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chapman‐Rothe</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>Effect of omalizumab on angioedema in H1‐antihistamine‐resistant chronic spontaneous urticaria patients: results from X‐ACT, a randomized controlled trial</article-title>. <source>Allergy</source>. <year>2016</year>;<volume>71</volume>(<issue>8</issue>):<fpage>1135</fpage>‐<lpage>1144</lpage>. <pub-id pub-id-type="doi">10.1111/all.12870</pub-id>
+<pub-id pub-id-type="pmid">27010957</pub-id>
+</mixed-citation></ref><ref id="clt270052-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="clt270052-cit-0014">
+<string-name name-style="western">
+<surname>Saini</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bindslev‐Jensen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maurer</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Efficacy and safety of omalizumab in patients with chronic idiopathic/spontaneous urticaria who remain symptomatic on H<sub>1</sub> antihistamines: a randomized, placebo‐controlled study</article-title>. <source>J Invest Dermatol</source>. <year>2015</year>;<volume>135</volume>(<issue>1</issue>):<fpage>67</fpage>‐<lpage>75</lpage>. <pub-id pub-id-type="doi">10.1038/jid.2014.512</pub-id>
+<pub-id pub-id-type="pmid">25046337</pub-id>
+<pub-id pub-id-type="pmcid">PMC4269803</pub-id></mixed-citation></ref><ref id="clt270052-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="clt270052-cit-0015">
+<string-name name-style="western">
+<surname>Saini</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosen</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hsieh</surname>
+<given-names>H.‐J</given-names>
+</string-name>, et al. <article-title>A randomized, placebo‐controlled, dose‐ranging study of single‐dose omalizumab in patients with H<sub>1</sub>‐antihistamine‐refractory chronic idiopathic urticaria</article-title>. <source>J Allergy Clin Immunol</source>. <year>2011</year>;<volume>128</volume>(<issue>3</issue>):567‐U195. <pub-id pub-id-type="doi">10.1016/j.jaci.2011.06.010</pub-id>
+<pub-id pub-id-type="pmid">21762974</pub-id></mixed-citation></ref><ref id="clt270052-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="clt270052-cit-0016">
+<string-name name-style="western">
+<surname>Metz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Staubach</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bauer</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Clinical efficacy of omalizumab in chronic spontaneous urticaria is associated with a reduction of FcεRI‐positive cells in the skin</article-title>. <source>Theranostics</source>. <year>2017</year>;<volume>7</volume>(<issue>5</issue>):<fpage>1266</fpage>‐<lpage>1276</lpage>. <pub-id pub-id-type="doi">10.7150/thno.18304</pub-id>
+<pub-id pub-id-type="pmid">28435464</pub-id>
+<pub-id pub-id-type="pmcid">PMC5399592</pub-id></mixed-citation></ref><ref id="clt270052-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="clt270052-cit-0017">
+<string-name name-style="western">
+<surname>Maurer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rosén</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hsieh</surname>
+<given-names>HJ</given-names>
+</string-name>, et al. <article-title>Omalizumab for the treatment of chronic idiopathic or spontaneous urticaria</article-title>. <source>N Engl J Med</source>. <year>2013</year>;<volume>368</volume>(<issue>10</issue>):<fpage>924</fpage>‐<lpage>935</lpage>. <pub-id pub-id-type="doi">10.1056/nejmoa1215372</pub-id>
+<pub-id pub-id-type="pmid">23432142</pub-id>
+</mixed-citation></ref><ref id="clt270052-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="clt270052-cit-0018">
+<string-name name-style="western">
+<surname>Kaplan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ledford</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ashby</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Omalizumab in patients with symptomatic chronic idiopathic/spontaneous urticaria despite standard combination therapy</article-title>. <source>J Allergy Clin Immunol</source>. <year>2013</year>;<volume>132</volume>(<issue>1</issue>):<fpage>101</fpage>‐<lpage>109</lpage>. <pub-id pub-id-type="doi">10.1016/j.jaci.2013.05.013</pub-id>
+<pub-id pub-id-type="pmid">23810097</pub-id>
+</mixed-citation></ref><ref id="clt270052-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="clt270052-cit-0019">
+<string-name name-style="western">
+<surname>Jörg</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pecaric‐Petkovic</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reichenbach</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Double‐blind placebo‐controlled trial of the effect of omalizumab on basophils in chronic urticaria patients</article-title>. <source>Clin Exp Allergy</source>. <year>2018</year>;<volume>48</volume>(<issue>2</issue>):<fpage>196</fpage>‐<lpage>204</lpage>. <pub-id pub-id-type="doi">10.1111/cea.13066</pub-id>
+<pub-id pub-id-type="pmid">29164723</pub-id>
+</mixed-citation></ref><ref id="clt270052-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="clt270052-cit-0020">
+<string-name name-style="western">
+<surname>Hide</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Igarashi</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Efficacy and safety of omalizumab in Japanese and Korean patients with refractory chronic spontaneous urticaria</article-title>. <source>J Dermatol Sci</source>. <year>2017</year>;<volume>87</volume>(<issue>1</issue>):<fpage>70</fpage>‐<lpage>78</lpage>. <pub-id pub-id-type="doi">10.1016/j.jdermsci.2017.03.009</pub-id>
+<pub-id pub-id-type="pmid">28366435</pub-id>
+</mixed-citation></ref><ref id="clt270052-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="clt270052-cit-0021">
+<string-name name-style="western">
+<surname>Zhao</surname>
+<given-names>ZT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ji</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yu</surname>
+<given-names>WJ</given-names>
+</string-name>, et al. <article-title>Omalizumab for the treatment of chronic spontaneous urticaria: a meta‐analysis of randomized clinical trials</article-title>. <source>J Allergy Clin Immunol</source>. <year>2016</year>;<volume>137</volume>(<issue>6</issue>):<fpage>1742</fpage>‐<lpage>1750.e1744</lpage>. <pub-id pub-id-type="doi">10.1016/j.jaci.2015.12.1342</pub-id>
+<pub-id pub-id-type="pmid">27040372</pub-id>
+</mixed-citation></ref><ref id="clt270052-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="clt270052-cit-0022">
+<string-name name-style="western">
+<surname>Kolkhir</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muñoz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Asero</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Autoimmune chronic spontaneous urticaria</article-title>. <source>J Allergy Clin Immunol</source>. <year>2022</year>;<volume>149</volume>(<issue>6</issue>):<fpage>1819</fpage>‐<lpage>1831</lpage>.<pub-id pub-id-type="pmid">35667749</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jaci.2022.04.010</pub-id></mixed-citation></ref><ref id="clt270052-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="clt270052-cit-0023">
+<string-name name-style="western">
+<surname>Yosipovitch</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Biazus Soares</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mahmoud</surname>
+<given-names>O</given-names>
+</string-name>. <article-title>Current and emerging therapies for chronic spontaneous urticaria: a narrative review</article-title>. <source>Dermatol Ther</source>. <year>2023</year>;<volume>13</volume>(<issue>8</issue>):<fpage>1647</fpage>‐<lpage>1660</lpage>. <pub-id pub-id-type="doi">10.1007/s13555-023-00972-6</pub-id>
+<pub-id pub-id-type="pmcid">PMC10366054</pub-id><pub-id pub-id-type="pmid">37386330</pub-id></mixed-citation></ref><ref id="clt270052-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="clt270052-cit-0024">
+<string-name name-style="western">
+<surname>Saini</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Giménez‐Arnau</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hide</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Fast symptom improvement and favorable safety profile with remibrutinib in chronic spontaneous urticaria: remix‐1/‐2 studies</article-title>. <source>Ann Allergy Asthma Immunol</source>. <year>2023</year>;<volume>131</volume>(<issue>5, (Suppl 2)</issue>):<elocation-id>S230</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.anai.2023.10.019</pub-id>
+</mixed-citation></ref><ref id="clt270052-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="clt270052-cit-0025">
+<string-name name-style="western">
+<surname>Oliver</surname>
+<given-names>ET</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chichester</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Devine</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>Effects of an oral CRTh2 antagonist (AZD1981) on eosinophil activity and symptoms in chronic spontaneous urticaria</article-title>. <source>Int Arch Allergy Immunol</source>. <year>2019</year>;<volume>179</volume>(<issue>1</issue>):<fpage>21</fpage>‐<lpage>30</lpage>. <pub-id pub-id-type="doi">10.1159/000496162</pub-id>
+<pub-id pub-id-type="pmid">30879003</pub-id>
+<pub-id pub-id-type="pmcid">PMC6500753</pub-id></mixed-citation></ref><ref id="clt270052-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="clt270052-cit-0026">
+<string-name name-style="western">
+<surname>Maurer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McLaren</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chon</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Sustained improvement in UAS7 after 16‐week treatment with tezepelumab in biologic‐Na€ıve adults with CSU: results of the phase 2b INCEPTION study</article-title>. <source>J Allergy Clin Immunol</source>. <year>2024</year>;<volume>153</volume>(<issue>2</issue>):<fpage>AB373</fpage>. <pub-id pub-id-type="doi">10.1016/j.jaci.2023.11.894</pub-id>
+</mixed-citation></ref><ref id="clt270052-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="clt270052-cit-0027">
+<string-name name-style="western">
+<surname>Maurer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gimenez‐Arnau</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferrucci</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Efficacy and safety of rilzabrutinib in patients with chronic spontaneous urticaria: 12‐week results from the RILECSU phase 2 dose‐ranging study</article-title>. <source>J Allergy Clin Immunol</source>. <year>2024</year>;<volume>153</volume>(<issue>2</issue>):<fpage>AB373</fpage>. <pub-id pub-id-type="doi">10.1016/j.jaci.2023.11.893</pub-id>
+</mixed-citation></ref><ref id="clt270052-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="clt270052-cit-0028">
+<string-name name-style="western">
+<surname>Maurer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Casale</surname>
+<given-names>TB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saini</surname>
+<given-names>SS</given-names>
+</string-name>, et al. <article-title>Dupilumab in patients with chronic spontaneous urticaria (LIBERTY‐CSU CUPID): two randomized, double‐blind, placebo‐controlled, phase 3 trials</article-title>. <source>J Allergy Clin Immunol</source>. <year>2024</year>;<volume>154</volume>(<issue>1</issue>):<fpage>184</fpage>‐<lpage>194</lpage>. <pub-id pub-id-type="doi">10.1016/j.jaci.2024.01.028</pub-id>
+<pub-id pub-id-type="pmid">38431226</pub-id>
+</mixed-citation></ref><ref id="clt270052-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="clt270052-cit-0029">
+<string-name name-style="western">
+<surname>Maurer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Berger</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Giménez‐Arnau</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Remibrutinib, a novel BTK inhibitor, demonstrates promising efficacy and safety in chronic spontaneous urticaria</article-title>. <source>J Allergy Clin Immunol</source>. <year>2022</year>;<volume>150</volume>(<issue>6</issue>):<fpage>1498</fpage>‐<lpage>1506.e1492</lpage>.<pub-id pub-id-type="pmid">36096203</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jaci.2022.08.027</pub-id></mixed-citation></ref><ref id="clt270052-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="clt270052-cit-0030">
+<string-name name-style="western">
+<surname>Harris</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cabanski</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scheerens</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>A randomized trial of quilizumab in adults with refractory chronic spontaneous urticaria</article-title>. <source>J Allergy Clin Immunol</source>. <year>2016</year>;<volume>138</volume>(<issue>6</issue>):<fpage>1730</fpage>‐<lpage>1732</lpage>. <pub-id pub-id-type="doi">10.1016/j.jaci.2016.06.023</pub-id>
+<pub-id pub-id-type="pmid">27567329</pub-id>
+</mixed-citation></ref><ref id="clt270052-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="clt270052-cit-0031">
+<string-name name-style="western">
+<surname>Altrichter</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gimenez‐Arnau</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bernstein</surname>
+<given-names>JA</given-names>
+</string-name>, et al. <article-title>Benralizumab does not elicit therapeutic effect in patients with chronic spontaneous urticaria: results from the phase 2b multinational, randomised, double‐blind, placebo‐controlled ARROYO trial</article-title>. <source>Br J Dermatol</source>. <year>2024</year>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bjd/ljae067</pub-id><pub-id pub-id-type="pmid">38367194</pub-id></mixed-citation></ref><ref id="clt270052-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="clt270052-cit-0032">
+<string-name name-style="western">
+<surname>Nochaiwong</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chuamanochan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ruengorn</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Awiphan</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tovanabutra</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chiewchanvit</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Evaluation of pharmacologic treatments for H1 antihistamine‐refractory chronic spontaneous urticaria: a systematic review and network meta‐analysis</article-title>. <source>JAMA Dermatol</source>. <year>2021</year>;<volume>157</volume>(<issue>11</issue>):<fpage>1316</fpage>‐<lpage>1327</lpage>. <pub-id pub-id-type="doi">10.1001/jamadermatol.2021.3237</pub-id>
+<pub-id pub-id-type="pmid">34431983</pub-id>
+<pub-id pub-id-type="pmcid">PMC8387945</pub-id></mixed-citation></ref><ref id="clt270052-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="clt270052-cit-0033">
+<string-name name-style="western">
+<surname>Kendziora</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frey</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Reinholz</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Efficacy and safety of medications for antihistamine‐refractory chronic spontaneous urticaria: a systematic review and network meta‐analysis</article-title>. <source>Allergo Journal International</source>. <year>2022</year>;<volume>32</volume>(<issue>3</issue>):<fpage>83</fpage>‐<lpage>92</lpage>. <pub-id pub-id-type="doi">10.1007/s40629-022-00235-4</pub-id>
+</mixed-citation></ref><ref id="clt270052-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="clt270052-cit-0034">
+<string-name name-style="western">
+<surname>Maurer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ensina</surname>
+<given-names>LF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gimenez‐Arnau</surname>
+<given-names>AM</given-names>
+</string-name>, et al. <article-title>Efficacy and safety of ligelizumab in adults and adolescents with chronic spontaneous urticaria: results of two phase 3 randomised controlled trials</article-title>. <source>Lancet (London, England)</source>. <year>2023</year>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(23)01684-7</pub-id><pub-id pub-id-type="pmid">38008109</pub-id></mixed-citation></ref><ref id="clt270052-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="clt270052-cit-0035">
+<string-name name-style="western">
+<surname>Page</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>McKenzie</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bossuyt</surname>
+<given-names>PM</given-names>
+</string-name>, et al. <article-title>The PRISMA 2020 statement: an updated guideline for reporting systematic reviews</article-title>. <source>Bmj</source>. <year>2021</year>;<volume>372</volume>:<elocation-id>n71</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmj.n71</pub-id>
+<pub-id pub-id-type="pmid">33782057</pub-id>
+<pub-id pub-id-type="pmcid">PMC8005924</pub-id></mixed-citation></ref><ref id="clt270052-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="clt270052-cit-0036">
+<string-name name-style="western">
+<surname>Higgins</surname>
+<given-names>JPT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Deeks</surname>
+<given-names>JJ</given-names>
+</string-name>. <article-title>Choosing effect measures and computing estimates of effect</article-title>. <source>Cochrane handbook for systematic reviews of interventions</source>. <year>2019</year>:<fpage>143</fpage>‐<lpage>176</lpage>. <pub-id pub-id-type="doi">10.1002/9781119536604.ch6</pub-id>
+</mixed-citation></ref><ref id="clt270052-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="clt270052-cit-0037">
+<string-name name-style="western">
+<surname>Hozo</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Djulbegovic</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hozo</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Estimating the mean and variance from the median, range, and the size of a sample</article-title>. <source>BMC Med Res Methodol</source>. <year>2005</year>;<volume>5</volume>(<issue>1</issue>):<elocation-id>13</elocation-id>. <pub-id pub-id-type="doi">10.1186/1471-2288-5-13</pub-id>
+<pub-id pub-id-type="pmid">15840177</pub-id>
+<pub-id pub-id-type="pmcid">PMC1097734</pub-id></mixed-citation></ref><ref id="clt270052-bib-0038"><label>38</label><mixed-citation publication-type="miscellaneous" id="clt270052-cit-0038">[computer program]. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://apps.automeris.io/wpd/" ext-link-type="uri">https://apps.automeris.io/wpd/</ext-link>.</mixed-citation></ref><ref id="clt270052-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="clt270052-cit-0039">
+<string-name name-style="western">
+<surname>Drucker</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morra</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prieto‐Merino</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Systemic immunomodulatory treatments for atopic dermatitis: update of a living systematic review and network meta‐analysis</article-title>. <source>JAMA Dermatol</source>. <year>2022</year>;<volume>158</volume>(<issue>5</issue>):<fpage>523</fpage>‐<lpage>532</lpage>. <pub-id pub-id-type="doi">10.1001/jamadermatol.2022.0455</pub-id>
+<pub-id pub-id-type="pmid">35293977</pub-id>
+<pub-id pub-id-type="pmcid">PMC8928094</pub-id></mixed-citation></ref><ref id="clt270052-bib-0040"><label>40</label><mixed-citation publication-type="miscellaneous" id="clt270052-cit-0040">
+<article-title>Network Meta‐Analysis Using Bayesian. Methods. R Package [computer Program]. Version0.8‐22016</article-title>. [computer program].</mixed-citation></ref><ref id="clt270052-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="clt270052-cit-0041">
+<string-name name-style="western">
+<surname>Salanti</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ades</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ioannidis</surname>
+<given-names>JP</given-names>
+</string-name>. <article-title>Graphical methods and numerical summaries for presenting results from multiple‐treatment meta‐analysis: an overview and tutorial</article-title>. <source>J Clin Epidemiol</source>. <year>2011</year>;<volume>64</volume>(<issue>2</issue>):<fpage>163</fpage>‐<lpage>171</lpage>. <pub-id pub-id-type="doi">10.1016/j.jclinepi.2010.03.016</pub-id>
+<pub-id pub-id-type="pmid">20688472</pub-id>
+</mixed-citation></ref><ref id="clt270052-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="clt270052-cit-0042">
+<article-title>A GRADE Working Group approach for rating the quality of treatment effect estimates from network meta‐analysis</article-title>. <source>Bmj</source>. <year>2015</year>;<volume>350</volume>:<elocation-id>h3326</elocation-id>.<pub-id pub-id-type="pmid">26085374</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/bmj.h3326</pub-id></mixed-citation></ref><ref id="clt270052-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="clt270052-cit-0043">
+<string-name name-style="western">
+<surname>Higgins</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Altman</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gøtzsche</surname>
+<given-names>PC</given-names>
+</string-name>, et al. <article-title>The Cochrane Collaboration's tool for assessing risk of bias in randomised trials</article-title>. <source>Bmj</source>. <year>2011</year>;<volume>343</volume>(<issue>oct18 2</issue>):<elocation-id>d5928</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmj.d5928</pub-id>
+<pub-id pub-id-type="pmid">22008217</pub-id>
+<pub-id pub-id-type="pmcid">PMC3196245</pub-id></mixed-citation></ref><ref id="clt270052-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="clt270052-cit-0044">
+<string-name name-style="western">
+<surname>Huedo‐Medina</surname>
+<given-names>TB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sánchez‐Meca</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marín‐Martínez</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Botella</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Assessing heterogeneity in meta‐analysis: Q statistic or I2 index?</article-title>
+<source>Psychol Methods</source>. <year>2006</year>;<volume>11</volume>(<issue>2</issue>):<fpage>193</fpage>‐<lpage>206</lpage>.<pub-id pub-id-type="pmid">16784338</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1037/1082-989X.11.2.193</pub-id></mixed-citation></ref><ref id="clt270052-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="clt270052-cit-0045">
+<string-name name-style="western">
+<surname>Higgins</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jackson</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barrett</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ades</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>White</surname>
+<given-names>IR</given-names>
+</string-name>. <article-title>Consistency and inconsistency in network meta‐analysis: concepts and models for multi‐arm studies</article-title>. <source>Res Synth Methods</source>. <year>2012</year>;<volume>3</volume>(<issue>2</issue>):<fpage>98</fpage>‐<lpage>110</lpage>. <pub-id pub-id-type="doi">10.1002/jrsm.1044</pub-id>
+<pub-id pub-id-type="pmid">26062084</pub-id>
+<pub-id pub-id-type="pmcid">PMC4433772</pub-id></mixed-citation></ref><ref id="clt270052-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="clt270052-cit-0046">
+<string-name name-style="western">
+<surname>Veroniki</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vasiliadis</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Higgins</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Salanti</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Evaluation of inconsistency in networks of interventions</article-title>. <source>Int J Epidemiol</source>. <year>2013</year>;<volume>42</volume>(<issue>1</issue>):<fpage>332</fpage>‐<lpage>345</lpage>. <pub-id pub-id-type="doi">10.1093/ije/dys222</pub-id>
+<pub-id pub-id-type="pmid">23508418</pub-id>
+<pub-id pub-id-type="pmcid">PMC5411010</pub-id></mixed-citation></ref><ref id="clt270052-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="clt270052-cit-0047">
+<string-name name-style="western">
+<surname>Puhan</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schünemann</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Murad</surname>
+<given-names>MH</given-names>
+</string-name>, et al. <article-title>A GRADE Working Group approach for rating the quality of treatment effect estimates from network meta‐analysis</article-title>. <source>Bmj</source>. <year>2014</year>;<volume>349</volume>(<issue>sep24 5</issue>):<elocation-id>g5630</elocation-id>. <pub-id pub-id-type="doi">10.1136/bmj.g5630</pub-id>
+<pub-id pub-id-type="pmid">25252733</pub-id>
+</mixed-citation></ref><ref id="clt270052-bib-0048"><label>48</label><mixed-citation publication-type="book" id="clt270052-cit-0048">
+<collab collab-type="authors">Institute of Social and Preventive Medicine</collab>
+. <data-title>CINeMA: Confidence in Network Meta‐Analysis [Software]</data-title>. <publisher-name>University of Bern</publisher-name>; <year>2017</year>. [computer program]. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.cinema.ispm.unibe.ch" ext-link-type="uri">www.cinema.ispm.unibe.ch</ext-link>
+</mixed-citation></ref><ref id="clt270052-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="clt270052-cit-0049">
+<string-name name-style="western">
+<surname>Gimenez‐Arnau</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maurer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bernstein</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Ligelizumab improves sleep interference and disease burden in patients with chronic spontaneous urticaria</article-title>. <source>Clin Transl Allergy</source>. <year>2022</year>;<volume>12</volume>(<issue>2</issue>). <pub-id pub-id-type="doi">10.1002/clt2.12121</pub-id>
+<pub-id pub-id-type="pmcid">PMC8848195</pub-id><pub-id pub-id-type="pmid">35218324</pub-id></mixed-citation></ref><ref id="clt270052-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="clt270052-cit-0050">
+<string-name name-style="western">
+<surname>Maurer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Giménez‐Arnau</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sussman</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Ligelizumab for chronic spontaneous urticaria</article-title>. <source>N Engl J Med</source>. <year>2019</year>;<volume>381</volume>(<issue>14</issue>):<fpage>1321</fpage>‐<lpage>1332</lpage>. <pub-id pub-id-type="doi">10.1056/nejmoa1900408</pub-id>
+<pub-id pub-id-type="pmid">31577874</pub-id>
+</mixed-citation></ref><ref id="clt270052-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="clt270052-cit-0051">
+<string-name name-style="western">
+<surname>Metz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sussman</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gagnon</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Fenebrutinib in H1 antihistamine‐refractory chronic spontaneous urticaria: a randomized phase 2 trial</article-title>. <source>Nat Med</source>. <year>2021</year>;<volume>27</volume>(<issue>11</issue>):<fpage>1961</fpage>‐<lpage>1969</lpage>. <pub-id pub-id-type="doi">10.1038/s41591-021-01537-w</pub-id>
+<pub-id pub-id-type="pmid">34750553</pub-id>
+<pub-id pub-id-type="pmcid">PMC8604722</pub-id></mixed-citation></ref><ref id="clt270052-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="clt270052-cit-0052">
+<string-name name-style="western">
+<surname>Staubach</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Alvaro‐Lozano</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sekerel</surname>
+<given-names>BE</given-names>
+</string-name>, et al. <article-title>Ligelizumab in adolescents with chronic spontaneous urticaria: results of a dedicated phase 2b randomized clinical trial supported with pharmacometric analysis</article-title>. <source>Pediatr Allergy Immunol</source>. <year>2023</year>;<volume>34</volume>(<issue>7</issue>):<elocation-id>e13982</elocation-id>. <pub-id pub-id-type="doi">10.1111/pai.13982</pub-id>
+<pub-id pub-id-type="pmid">37492920</pub-id>
+</mixed-citation></ref><ref id="clt270052-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="clt270052-cit-0053">
+<string-name name-style="western">
+<surname>Bei</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qian</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zilu</surname>
+<given-names>Q</given-names>
+</string-name>, et al. <article-title>Comparing four immunosuppressive agents for chronic spontaneous urticaria‐A network meta‐analysis</article-title>. <source>Int Immunopharmacol</source>. <year>2023</year>;<volume>123</volume>:<elocation-id>110577</elocation-id>. <pub-id pub-id-type="doi">10.1016/j.intimp.2023.110577</pub-id>
+<pub-id pub-id-type="pmid">37567010</pub-id>
+</mixed-citation></ref><ref id="clt270052-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="clt270052-cit-0054">
+<string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Luo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maurer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Su</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Evaluating the efficacy and safety of biologic and oral drugs for refractory chronic spontaneous urticaria: systematic review and network meta‐analysis</article-title>. <source>J Am Acad Dermatol</source>. <year>2024</year>;<volume>91</volume>(<issue>6</issue>):<fpage>1230</fpage>‐<lpage>1233</lpage>. <pub-id pub-id-type="doi">10.1016/j.jaad.2024.07.1500</pub-id>
+<pub-id pub-id-type="pmid">39168305</pub-id>
+</mixed-citation></ref><ref id="clt270052-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="clt270052-cit-0055">
+<string-name name-style="western">
+<surname>Maurer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eyerich</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eyerich</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Urticaria: collegium internationale allergologicum (CIA) update 2020</article-title>. <source>Int Arch Allergy Immunol</source>. <year>2020</year>;<volume>181</volume>(<issue>5</issue>):<fpage>321</fpage>‐<lpage>333</lpage>. <pub-id pub-id-type="doi">10.1159/000507218</pub-id>
+<pub-id pub-id-type="pmid">32224621</pub-id>
+<pub-id pub-id-type="pmcid">PMC7265766</pub-id></mixed-citation></ref><ref id="clt270052-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="clt270052-cit-0056">
+<string-name name-style="western">
+<surname>Asero</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Marzano</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferrucci</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lorini</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Carbonelli</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cugno</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Co‐occurrence of IgE and IgG autoantibodies in patients with chronic spontaneous urticaria</article-title>. <source>Clin Exp Immunol</source>. <year>2020</year>;<volume>200</volume>(<issue>3</issue>):<fpage>242</fpage>‐<lpage>249</lpage>. <pub-id pub-id-type="doi">10.1111/cei.13428</pub-id>
+<pub-id pub-id-type="pmid">32115683</pub-id>
+<pub-id pub-id-type="pmcid">PMC7231996</pub-id></mixed-citation></ref><ref id="clt270052-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="clt270052-cit-0057">
+<string-name name-style="western">
+<surname>Mendes‐Bastos</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brasileiro</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kolkhir</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Bruton's tyrosine kinase inhibition‐An emerging therapeutic strategy in immune‐mediated dermatological conditions</article-title>. <source>Allergy</source>. <year>2022</year>;<volume>77</volume>(<issue>8</issue>):<fpage>2355</fpage>‐<lpage>2366</lpage>. <pub-id pub-id-type="doi">10.1111/all.15261</pub-id>
+<pub-id pub-id-type="pmid">35175630</pub-id>
+<pub-id pub-id-type="pmcid">PMC9545595</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

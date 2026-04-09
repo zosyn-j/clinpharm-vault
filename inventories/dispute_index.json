@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-04-09T01:55:17.930563+00:00",
+  "base_dir": "/home/jordon/.openclaw/workspace/research-db/csu-cindu-db-v2",
+  "count": 5,
+  "findings": [
+    {
+      "path": "wiki/trials/remibrutinib-nct03926611-phase-2b.md",
+      "line": 39,
+      "tags": [
+        "SOURCE NEEDED"
+      ],
+      "text": "- PK: [SOURCE NEEDED] Study-specific PK results are not captured in the currently reviewed CT.gov or abstract text."
+    },
+    {
+      "path": "wiki/trials/remibrutinib-nct03926611-phase-2b.md",
+      "line": 40,
+      "tags": [
+        "SOURCE NEEDED"
+      ],
+      "text": "- PD: [SOURCE NEEDED] Study-specific PD findings are not captured in the currently reviewed CT.gov or abstract text."
+    },
+    {
+      "path": "wiki/trials/remibrutinib-nct03926611-phase-2b.md",
+      "line": 58,
+      "tags": [
+        "NEEDS REVIEW"
+      ],
+      "text": "- [NEEDS REVIEW] Manuscript wording says double-blind, while the CT.gov cache lists triple masking; the exact operational masking definition should be reconciled from a fuller source."
+    },
+    {
+      "path": "wiki/trials/remibrutinib-nct03926611-phase-2b.md",
+      "line": 59,
+      "tags": [
+        "SOURCE NEEDED"
+      ],
+      "text": "- [SOURCE NEEDED] Per-arm realized N values are not yet captured in the local source snippets reviewed for this page."
+    },
+    {
+      "path": "wiki/trials/remibrutinib-nct03926611-phase-2b.md",
+      "line": 60,
+      "tags": [
+        "SOURCE NEEDED"
+      ],
+      "text": "- [SOURCE NEEDED] Study-level PK/PD detail needs a fuller manuscript or protocol review."
+    }
+  ]
+}

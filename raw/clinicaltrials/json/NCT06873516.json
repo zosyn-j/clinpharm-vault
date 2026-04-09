@@ -1,0 +1,1249 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06873516",
+      "orgStudyIdInfo": {
+        "id": "EVO756-CSU001"
+      },
+      "organization": {
+        "fullName": "Evommune, Inc.",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Phase 2b Study of EVO756 in Adults With Moderate to Severe Chronic Spontaneous Urticaria (CSU)",
+      "officialTitle": "A Randomized, Double-Blind, Placebo Controlled, Dose-Ranging Study Evaluating the Efficacy and Safety of EVO756 in Adults With Moderate to Severe Chronic Spontaneous Urticaria"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-09",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2025-03-20",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2026-05",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2026-05",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2025-03-07",
+      "studyFirstSubmitQcDate": "2025-03-11",
+      "studyFirstPostDateStruct": {
+        "date": "2025-03-12",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-01-19",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-01-21",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Evommune, Inc.",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This study will evaluate the efficacy and safety of different doses of EVO756 in adults with moderate to severe chronic spontaneous urticaria (CSU)."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ],
+      "keywords": [
+        "chronic spontaneous urticaria",
+        "CSU",
+        "chronic hives",
+        "hives",
+        "idiopathic urticaria",
+        "urticaria"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 160,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Dose 1",
+          "type": "EXPERIMENTAL",
+          "description": "Orally administered EVO756, dose 1",
+          "interventionNames": [
+            "Drug: EVO756"
+          ]
+        },
+        {
+          "label": "Dose 2",
+          "type": "EXPERIMENTAL",
+          "description": "Orally administered EVO756, dose 2",
+          "interventionNames": [
+            "Drug: EVO756"
+          ]
+        },
+        {
+          "label": "Dose 3",
+          "type": "EXPERIMENTAL",
+          "description": "Orally administered EVO756, dose 3",
+          "interventionNames": [
+            "Drug: EVO756"
+          ]
+        },
+        {
+          "label": "Placebo control",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Orally administered placebo control",
+          "interventionNames": [
+            "Drug: Placebo control"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "EVO756",
+          "description": "Dose 1",
+          "armGroupLabels": [
+            "Dose 1"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "EVO756",
+          "description": "Dose 2",
+          "armGroupLabels": [
+            "Dose 2"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "EVO756",
+          "description": "Dose 3",
+          "armGroupLabels": [
+            "Dose 3"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo control",
+          "description": "Placebo control",
+          "armGroupLabels": [
+            "Placebo control"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Mean change from baseline in UAS7",
+          "timeFrame": "Week 12"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Percent change from baseline in UAS7",
+          "timeFrame": "Week 12"
+        },
+        {
+          "measure": "Mean and percent change from baseline in UAS7",
+          "timeFrame": "Weeks 1, 2, 4, 8"
+        },
+        {
+          "measure": "Mean and percent change from baseline in ISS7",
+          "timeFrame": "Weeks 1, 2, 4, 8, 12"
+        },
+        {
+          "measure": "Mean and percent change from baseline in HSS7",
+          "timeFrame": "Weeks 1, 2, 4, 8, 12"
+        },
+        {
+          "measure": "Mean and percent change from baseline in AAS7",
+          "timeFrame": "Weeks 1, 2, 4, 8, 12"
+        },
+        {
+          "measure": "Proportion of subjects achieving UAS7 \u2264 6",
+          "timeFrame": "Weeks 1, 2, 4, 8, 12"
+        },
+        {
+          "measure": "Proportion of subjects achieving UAS7 = 0",
+          "timeFrame": "Weeks 1, 2, 4, 8, 12"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Confirmed CSU diagnosis for at least 3 months with an inadequate response to H1-antihistamines.\n* Subjects who are taking H1-antihistamines must be on a stable regimen 4 weeks prior to Day 1 and while on study.\n* Urticaria Activity Score (UAS7) equal to or greater than 16 at Day 1. UAS entries must be completed for a minimum of 4 out of the 7 days prior to Day 1.\n\nExclusion Criteria:\n\n* Any clinically significant abnormality in laboratory evaluations, physical examinations, vital signs, or ECG at Screening, according to the Investigator's discretion.\n* Use of certain medications.\n* History of diseases with urticaria or angioedema symptoms, other than CSU and symptomatic dermographism.\n* Significant medical history other than CSU, or any other condition which might interfere with the evaluation of CSU.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Polina Bukshpun",
+          "role": "CONTACT",
+          "phone": "+1-818-536-2358",
+          "email": "polina.bukshpun@evommune.com"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Cahaba Dermatology Skin Health Center",
+          "status": "RECRUITING",
+          "city": "Birmingham",
+          "state": "Alabama",
+          "zip": "35244",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Vlada Groysman",
+              "role": "CONTACT",
+              "phone": "205-214-7546",
+              "email": "vlada.groysman@cahabaderm.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 33.52066,
+            "lon": -86.80249
+          }
+        },
+        {
+          "facility": "Velocity Clinical Research, Mobile",
+          "status": "RECRUITING",
+          "city": "Mobile",
+          "state": "Alabama",
+          "zip": "36608",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Lawrence Sindel",
+              "role": "CONTACT",
+              "phone": "251-263-5669",
+              "email": "lsindel@velocityclinical.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 30.69436,
+            "lon": -88.04305
+          }
+        },
+        {
+          "facility": "Center for Dermatology Clinical Research",
+          "status": "RECRUITING",
+          "city": "Fremont",
+          "state": "California",
+          "zip": "94538",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Sunil Dhawan",
+              "role": "CONTACT",
+              "phone": "5107974111",
+              "email": "sdhaw@yahoo.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 37.54827,
+            "lon": -121.98857
+          }
+        },
+        {
+          "facility": "Antelope Valley Clinical Trials",
+          "status": "RECRUITING",
+          "city": "Lancaster",
+          "state": "California",
+          "zip": "93534",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Ricardo Tan",
+              "role": "CONTACT",
+              "phone": "661-266-8944",
+              "email": "ricardoatan@aol.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 34.69804,
+            "lon": -118.13674
+          }
+        },
+        {
+          "facility": "Northridge Clinical Trials",
+          "status": "RECRUITING",
+          "city": "Northridge",
+          "state": "California",
+          "zip": "91325",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Navid Ezra",
+              "role": "CONTACT",
+              "phone": "(818) 350-7483",
+              "email": "nezra@northridgetrials.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 34.22834,
+            "lon": -118.53675
+          }
+        },
+        {
+          "facility": "NorthBay Clinical Research",
+          "status": "RECRUITING",
+          "city": "Santa Rosa",
+          "state": "California",
+          "zip": "95405",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Julie Plante",
+              "role": "CONTACT",
+              "phone": "707-542-2783",
+              "email": "jplante@northbayclinicalresearch.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 38.44047,
+            "lon": -122.71443
+          }
+        },
+        {
+          "facility": "Integrated Research of Inland",
+          "status": "RECRUITING",
+          "city": "Upland",
+          "state": "California",
+          "zip": "91786",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Heena Shah-Patel",
+              "role": "CONTACT",
+              "phone": "951-781-7199",
+              "email": "h.shah-patel@irgriverside.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 34.09751,
+            "lon": -117.64839
+          }
+        },
+        {
+          "facility": "FOMAT Medical Research",
+          "status": "RECRUITING",
+          "city": "Ventura",
+          "state": "California",
+          "zip": "93003",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Preeti Chopra",
+              "role": "CONTACT",
+              "phone": "805-483-1185",
+              "email": "pchopra@fomatmedical.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 34.27834,
+            "lon": -119.29317
+          }
+        },
+        {
+          "facility": "AMR Fort Myers",
+          "status": "COMPLETED",
+          "city": "Fort Myers",
+          "state": "Florida",
+          "zip": "33912",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.62168,
+            "lon": -81.84059
+          }
+        },
+        {
+          "facility": "Advanced Clinical Research Institute",
+          "status": "RECRUITING",
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33607",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Francis Caban",
+              "role": "CONTACT",
+              "phone": "813-879-7546",
+              "email": "drcaban@acrinstitute.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 27.94752,
+            "lon": -82.45843
+          }
+        },
+        {
+          "facility": "Sneeze, Wheeze & Itch Associates LLC",
+          "status": "RECRUITING",
+          "city": "Normal",
+          "state": "Illinois",
+          "zip": "61761",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Dareen Siri",
+              "role": "CONTACT",
+              "phone": "309-452-0995",
+              "email": "drsiri@asthma2.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 40.5142,
+            "lon": -88.99063
+          }
+        },
+        {
+          "facility": "The Indiana Clinical Trials Center",
+          "status": "RECRUITING",
+          "city": "Plainfield",
+          "state": "Indiana",
+          "zip": "46168",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Mitchell Smith",
+              "role": "CONTACT",
+              "phone": "3178376082",
+              "email": "mwsmith@allergypartners.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 39.70421,
+            "lon": -86.39944
+          }
+        },
+        {
+          "facility": "The Iowa Clinic",
+          "status": "RECRUITING",
+          "city": "West Des Moines",
+          "state": "Iowa",
+          "zip": "50266",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Jennifer Petts",
+              "role": "CONTACT",
+              "phone": "(515) 875-9260",
+              "email": "jpetts@iowaclinic.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 41.57721,
+            "lon": -93.71133
+          }
+        },
+        {
+          "facility": "Hutchinson Clinic",
+          "status": "RECRUITING",
+          "city": "Hutchinson",
+          "state": "Kansas",
+          "zip": "67502",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "James Ruhlmann",
+              "role": "CONTACT",
+              "phone": "620-669-2500",
+              "email": "ruhlmannj@hutchclinic.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 38.06084,
+            "lon": -97.92977
+          }
+        },
+        {
+          "facility": "Bluegrass Allergy Care",
+          "status": "RECRUITING",
+          "city": "Lexington",
+          "state": "Kentucky",
+          "zip": "40509",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "William Greisner",
+              "role": "CONTACT",
+              "phone": "859-303-7191",
+              "email": "wagiii@windstream.net"
+            }
+          ],
+          "geoPoint": {
+            "lat": 37.98869,
+            "lon": -84.47772
+          }
+        },
+        {
+          "facility": "Delricht Research Louisville",
+          "status": "COMPLETED",
+          "city": "Louisville",
+          "state": "Kentucky",
+          "zip": "40205",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.25424,
+            "lon": -85.75941
+          }
+        },
+        {
+          "facility": "Delricht Research Louisiana",
+          "status": "COMPLETED",
+          "city": "Baton Rouge",
+          "state": "Louisiana",
+          "zip": "70809",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 30.44332,
+            "lon": -91.18747
+          }
+        },
+        {
+          "facility": "Velocity Clinical Research, Lafayette",
+          "status": "COMPLETED",
+          "city": "Lafayette",
+          "state": "Louisiana",
+          "zip": "70508",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 30.22409,
+            "lon": -92.01984
+          }
+        },
+        {
+          "facility": "Delricht Research",
+          "status": "RECRUITING",
+          "city": "New Orleans",
+          "state": "Louisiana",
+          "zip": "70115",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Deirdre Hooper",
+              "role": "CONTACT",
+              "phone": "(504) 336-2667",
+              "email": "dhooper@delricht.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 29.95465,
+            "lon": -90.07507
+          }
+        },
+        {
+          "facility": "Johns Hopkins Bayview Medical Center",
+          "status": "RECRUITING",
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21224",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Sarbjit Saini",
+              "role": "CONTACT",
+              "phone": "410-550-2129",
+              "email": "ssaini1@jhmi.edu"
+            }
+          ],
+          "geoPoint": {
+            "lat": 39.29038,
+            "lon": -76.61219
+          }
+        },
+        {
+          "facility": "Boston Specialists",
+          "status": "RECRUITING",
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02111",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "John Leung",
+              "role": "CONTACT",
+              "phone": "617-804-6767",
+              "email": "drjohnleung@bfac.org"
+            }
+          ],
+          "geoPoint": {
+            "lat": 42.35843,
+            "lon": -71.05977
+          }
+        },
+        {
+          "facility": "MI Skin Innovations",
+          "status": "COMPLETED",
+          "city": "Northville",
+          "state": "Michigan",
+          "zip": "48167",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.43115,
+            "lon": -83.48327
+          }
+        },
+        {
+          "facility": "DelRicht Research - Town Center Dermatology",
+          "status": "RECRUITING",
+          "city": "Wildwood",
+          "state": "Missouri",
+          "zip": "63040",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Christopher Kling",
+              "role": "CONTACT",
+              "phone": "314-788-3360",
+              "email": "ckling@delricht.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 38.58283,
+            "lon": -90.6629
+          }
+        },
+        {
+          "facility": "Vitality Clinical Trials",
+          "status": "RECRUITING",
+          "city": "Woodbury",
+          "state": "New York",
+          "zip": "11797",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Jeffrey Sklar",
+              "role": "CONTACT",
+              "phone": "917-647-3830",
+              "email": "jeffrey.sklar@vitalityclinicaltrials.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 41.36454,
+            "lon": -74.10598
+          }
+        },
+        {
+          "facility": "Allergy Partners Clinical Research",
+          "status": "RECRUITING",
+          "city": "Asheville",
+          "state": "North Carolina",
+          "zip": "28803",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "David Cypcar",
+              "role": "CONTACT",
+              "phone": "828-348-7047",
+              "email": "dmcypcar@allergypartners.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 35.60095,
+            "lon": -82.55402
+          }
+        },
+        {
+          "facility": "Delricht Research - Priority Care",
+          "status": "COMPLETED",
+          "city": "Charlotte",
+          "state": "North Carolina",
+          "zip": "28205",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.22709,
+            "lon": -80.84313
+          }
+        },
+        {
+          "facility": "Piedmont Healthcare",
+          "status": "RECRUITING",
+          "city": "Statesville",
+          "state": "North Carolina",
+          "zip": "28625",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Dwight Bellingham",
+              "role": "CONTACT",
+              "phone": "704-660-1231",
+              "email": "dwight.bellingham@piedmonthealthcare.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 35.78264,
+            "lon": -80.8873
+          }
+        },
+        {
+          "facility": "Optima Research Boardman",
+          "status": "RECRUITING",
+          "city": "Boardman",
+          "state": "Ohio",
+          "zip": "44512",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Patrick Shannon",
+              "role": "CONTACT",
+              "phone": "317-837-6082",
+              "email": "pshannon@optimatrials.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 41.02423,
+            "lon": -80.66285
+          }
+        },
+        {
+          "facility": "DOCS Dermatology Research",
+          "status": "RECRUITING",
+          "city": "Canal Winchester",
+          "state": "Ohio",
+          "zip": "43110",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Shannon Trotter",
+              "role": "CONTACT",
+              "phone": "614-524-4146",
+              "email": "STrotter@docsdermgroup.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 39.84284,
+            "lon": -82.80462
+          }
+        },
+        {
+          "facility": "Bernstein Clinical Research Center",
+          "status": "RECRUITING",
+          "city": "Cincinnati",
+          "state": "Ohio",
+          "zip": "45236",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Jonathan Bernstein",
+              "role": "CONTACT",
+              "phone": "513-931-0775",
+              "email": "bernstja@ucmail.uc.edu"
+            }
+          ],
+          "geoPoint": {
+            "lat": 39.12711,
+            "lon": -84.51439
+          }
+        },
+        {
+          "facility": "Toledo Institute of Clinical Research",
+          "status": "RECRUITING",
+          "city": "Toledo",
+          "state": "Ohio",
+          "zip": "43617",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Syed Rehman",
+              "role": "CONTACT",
+              "phone": "6316017155",
+              "email": "smrallergy@yahoo.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 41.66394,
+            "lon": -83.55521
+          }
+        },
+        {
+          "facility": "AMR Myrtle Beach",
+          "status": "COMPLETED",
+          "city": "Myrtle Beach",
+          "state": "South Carolina",
+          "zip": "29572",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.68906,
+            "lon": -78.88669
+          }
+        },
+        {
+          "facility": "National Allergy and Asthma Research",
+          "status": "RECRUITING",
+          "city": "North Charleston",
+          "state": "South Carolina",
+          "zip": "29420",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "John Ramey",
+              "role": "CONTACT",
+              "phone": "8435763382",
+              "email": "jramey@nationalallergyandent.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 32.85462,
+            "lon": -79.97481
+          }
+        },
+        {
+          "facility": "Delricht Research Smyrna",
+          "status": "RECRUITING",
+          "city": "Smyrna",
+          "state": "Tennessee",
+          "zip": "37167",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Pezhman Shoureshi",
+              "role": "CONTACT",
+              "phone": "5043362667",
+              "email": "pshoureshi@delricht.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 35.98284,
+            "lon": -86.5186
+          }
+        },
+        {
+          "facility": "Austin Regional Clinic ARC Clinical Research",
+          "status": "RECRUITING",
+          "city": "Austin",
+          "state": "Texas",
+          "zip": "78726",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Hetu Parekh",
+              "role": "CONTACT",
+              "phone": "(512) 250-5571",
+              "email": "hyparekh@austinregionalclinic.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 30.26715,
+            "lon": -97.74306
+          }
+        },
+        {
+          "facility": "Studies in Dermatology",
+          "status": "RECRUITING",
+          "city": "Cypress",
+          "state": "Texas",
+          "zip": "77429",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Lauren Campbell",
+              "role": "CONTACT",
+              "phone": "(281) 377-6665",
+              "email": "lcampbell@studiesindermatology.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 29.96911,
+            "lon": -95.69717
+          }
+        },
+        {
+          "facility": "Western Sky Medical Research",
+          "status": "RECRUITING",
+          "city": "El Paso",
+          "state": "Texas",
+          "zip": "79912",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Todd Funkhouser",
+              "role": "CONTACT",
+              "phone": "915-544-2557",
+              "email": "Drfunkhouser@westernskymed.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 31.75872,
+            "lon": -106.48693
+          }
+        },
+        {
+          "facility": "Delricht Research - Lockhard Matter Dermatology",
+          "status": "COMPLETED",
+          "city": "Prosper",
+          "state": "Texas",
+          "zip": "75078",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.23623,
+            "lon": -96.80111
+          }
+        },
+        {
+          "facility": "AMR Utah",
+          "status": "COMPLETED",
+          "city": "Layton",
+          "state": "Utah",
+          "zip": "84041",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.06022,
+            "lon": -111.97105
+          }
+        },
+        {
+          "facility": "Seattle Clinical Research Center",
+          "status": "RECRUITING",
+          "city": "Seattle",
+          "state": "Washington",
+          "zip": "98104",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Sonja Krejci",
+              "role": "CONTACT",
+              "phone": "(206) 522-3330",
+              "email": "skrejci@seattlecrc.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 47.60621,
+            "lon": -122.33207
+          }
+        },
+        {
+          "facility": "Allergy, Asthma, and Sinus Center",
+          "status": "RECRUITING",
+          "city": "Greenfield",
+          "state": "Wisconsin",
+          "zip": "53228",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Gary Steven",
+              "role": "CONTACT",
+              "phone": "414-529-8519",
+              "email": "gsteven@myaasc.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 42.9614,
+            "lon": -88.01259
+          }
+        },
+        {
+          "facility": "Dandelion Allergy Centre",
+          "status": "RECRUITING",
+          "city": "Mississauga",
+          "state": "Ontario",
+          "zip": "L4W 5K3",
+          "country": "Canada",
+          "contacts": [
+            {
+              "name": "Mondeesh Sidhu",
+              "role": "CONTACT",
+              "phone": "647-456-2808",
+              "email": "mondeesh@gmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 43.5789,
+            "lon": -79.6583
+          }
+        },
+        {
+          "facility": "Allergy Research Canada",
+          "status": "RECRUITING",
+          "city": "Niagara Falls",
+          "state": "Ontario",
+          "zip": "L2H 1H5",
+          "country": "Canada",
+          "contacts": [
+            {
+              "name": "Vipul Jain",
+              "role": "CONTACT",
+              "phone": "289-241-0577",
+              "email": "dr.vipuljain7@gmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 43.10012,
+            "lon": -79.06627
+          }
+        },
+        {
+          "facility": "Red Maple Trials",
+          "status": "RECRUITING",
+          "city": "Ottawa",
+          "state": "Ontario",
+          "zip": "K1H 1E4",
+          "country": "Canada",
+          "contacts": [
+            {
+              "name": "William Yang",
+              "role": "CONTACT",
+              "phone": "613-368-4320",
+              "email": "wyang@redmapletrials.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 45.41117,
+            "lon": -75.69812
+          }
+        },
+        {
+          "facility": "Centre de Recherche Saint-Louis - Montr\u00e9al",
+          "status": "RECRUITING",
+          "city": "Montreal",
+          "state": "Quebec",
+          "zip": "H1Y 3L1",
+          "country": "Canada",
+          "contacts": [
+            {
+              "name": "Catherine Tremblay",
+              "role": "CONTACT",
+              "phone": "418 780-3501",
+              "email": "ctremblay@recherchestlouis.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 45.50884,
+            "lon": -73.58781
+          }
+        },
+        {
+          "facility": "Centre de Recherche Saint-Louis",
+          "status": "RECRUITING",
+          "city": "Qu\u00e9bec",
+          "state": "Quebec",
+          "zip": "G1W 4R4",
+          "country": "Canada",
+          "contacts": [
+            {
+              "name": "Virginie Kelly",
+              "role": "CONTACT",
+              "phone": "418-780-3501",
+              "email": "vkelly@recherchestlouis.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 46.81228,
+            "lon": -71.21454
+          }
+        },
+        {
+          "facility": "Dermatology and Ophthalmology Kume Clinic",
+          "status": "RECRUITING",
+          "city": "Sakai",
+          "state": "Osaka",
+          "zip": "5938324",
+          "country": "Japan",
+          "contacts": [
+            {
+              "name": "Akihiro Kume",
+              "role": "CONTACT",
+              "phone": "+81-72-260-1241",
+              "email": "kume.chiken@gmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 34.58216,
+            "lon": 135.46653
+          }
+        },
+        {
+          "facility": "Yoshikawa Skin Clinic",
+          "status": "RECRUITING",
+          "city": "Takatsuki",
+          "state": "Osaka",
+          "zip": "5690824",
+          "country": "Japan",
+          "contacts": [
+            {
+              "name": "Takeshi Yoshikawa",
+              "role": "CONTACT",
+              "phone": "+81-72-694-2636",
+              "email": "gangsijichuan@gmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 34.84833,
+            "lon": 135.61678
+          }
+        },
+        {
+          "facility": "Osaka Medical and Pharmaceutical University Hospital",
+          "status": "COMPLETED",
+          "city": "Takatsuki",
+          "state": "Osaka",
+          "zip": "5698686",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 34.84833,
+            "lon": 135.61678
+          }
+        },
+        {
+          "facility": "Mita Dermatology",
+          "status": "COMPLETED",
+          "city": "Minato-Ku",
+          "state": "Tokyo",
+          "zip": "1080014",
+          "country": "Japan"
+        },
+        {
+          "facility": "ThinkPark Dermatology Clinic",
+          "status": "COMPLETED",
+          "city": "Shinagawa-Ku",
+          "state": "Tokyo",
+          "zip": "1416003",
+          "country": "Japan"
+        },
+        {
+          "facility": "Medical Corporation Jitai-kai Tachikawa Dermatology Clinic",
+          "status": "RECRUITING",
+          "city": "Tachikawa",
+          "state": "Tokyo",
+          "zip": "1900023",
+          "country": "Japan",
+          "contacts": [
+            {
+              "name": "Hideki Ito",
+              "role": "CONTACT",
+              "phone": "+81-42-843-1377",
+              "email": "hideki4794@gmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 35.7091,
+            "lon": 139.41891
+          }
+        },
+        {
+          "facility": "Ikebukuro Nishiguchi Fukurou Dermatology",
+          "status": "RECRUITING",
+          "city": "Toshima-ku",
+          "state": "Tokyo",
+          "zip": "1710021",
+          "country": "Japan",
+          "contacts": [
+            {
+              "name": "Tomoko Fujimoto",
+              "role": "CONTACT",
+              "phone": "+81-3-3590-2960",
+              "email": "fujimoto@fukurou-hifuka.com"
+            }
+          ]
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-04-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000080223",
+          "term": "Chronic Urticaria"
+        },
+        {
+          "id": "D014581",
+          "term": "Urticaria"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D017445",
+          "term": "Skin Diseases, Vascular"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D006969",
+          "term": "Hypersensitivity, Immediate"
+        },
+        {
+          "id": "D006967",
+          "term": "Hypersensitivity"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": false,
+  "_meta": {
+    "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT06873516",
+    "fetched_at": "2026-04-09T00:59:09.835590+00:00"
+  }
+}

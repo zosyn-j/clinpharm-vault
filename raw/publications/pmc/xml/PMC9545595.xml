@@ -1,0 +1,1682 @@
+<?xml version="1.0"  ?><!DOCTYPE pmc-articleset PUBLIC "-//NLM//DTD ARTICLE SET 2.0//EN" "https://dtd.nlm.nih.gov/ncbi/pmc/articleset/nlm-articleset-2.0.dtd"><pmc-articleset><article id="all15261" xml:lang="en" article-type="review-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Allergy</journal-id><journal-id journal-id-type="iso-abbrev">Allergy</journal-id><journal-id journal-id-type="pmc-domain-id">379</journal-id><journal-id journal-id-type="pmc-domain">blackwellopen</journal-id><journal-id journal-id-type="publisher-id">ALL</journal-id><journal-title-group><journal-title>Allergy</journal-title></journal-title-group><issn pub-type="ppub">0105-4538</issn><issn pub-type="epub">1398-9995</issn><custom-meta-group><custom-meta><meta-name>pmc-is-collection-domain</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-collection-title</meta-name><meta-value>Wiley Open Access Collection</meta-value></custom-meta></custom-meta-group></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC9545595</article-id><article-id pub-id-type="pmcid-ver">PMC9545595.1</article-id><article-id pub-id-type="pmcaid">9545595</article-id><article-id pub-id-type="pmcaiid">9545595</article-id><article-id pub-id-type="pmid">35175630</article-id><article-id pub-id-type="doi">10.1111/all.15261</article-id><article-id pub-id-type="publisher-id">ALL15261</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Review Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Review Articles</subject></subj-group></article-categories><title-group><article-title>Bruton's tyrosine kinase inhibition—An emerging therapeutic strategy in immune‐mediated dermatological conditions</article-title><alt-title alt-title-type="left-running-head">MENDES‐BASTOS et al.</alt-title></title-group><contrib-group><contrib id="all15261-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Mendes‐Bastos</surname><given-names initials="P">Pedro</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2439-920X</contrib-id><xref rid="all15261-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>pmendesbastos@gmail.com</email></address></contrib><contrib id="all15261-cr-0002" contrib-type="author"><name name-style="western"><surname>Brasileiro</surname><given-names initials="A">Ana</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8359-6561</contrib-id><xref rid="all15261-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="all15261-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="all15261-cr-0003" contrib-type="author"><name name-style="western"><surname>Kolkhir</surname><given-names initials="P">Pavel</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5380-8132</contrib-id><xref rid="all15261-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="all15261-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="all15261-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="all15261-cr-0004" contrib-type="author"><name name-style="western"><surname>Frischbutter</surname><given-names initials="S">Stefan</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3971-7343</contrib-id><xref rid="all15261-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="all15261-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="all15261-cr-0005" contrib-type="author"><name name-style="western"><surname>Scheffel</surname><given-names initials="J">Jörg</given-names></name><xref rid="all15261-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="all15261-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="all15261-cr-0006" contrib-type="author"><name name-style="western"><surname>Moñino‐Romero</surname><given-names initials="S">Sherezade</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3775-2989</contrib-id><xref rid="all15261-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="all15261-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib><contrib id="all15261-cr-0007" contrib-type="author"><name name-style="western"><surname>Maurer</surname><given-names initials="M">Marcus</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4121-481X</contrib-id><xref rid="all15261-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref><xref rid="all15261-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref></contrib></contrib-group><aff id="all15261-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<institution-wrap><institution-id institution-id-type="ringgold">162265</institution-id></institution-wrap>
+<named-content content-type="organisation-division">Dermatology Center</named-content>
+<institution>Hospital CUF Descobertas</institution>
+<city>Lisbon</city>
+<country country="PT">Portugal</country>
+</aff><aff id="all15261-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Dermatology</named-content>
+<institution>Hospital Santo António dos Capuchos</institution>
+<institution>Centro Hospitalar Universitário Lisboa Central</institution>
+<city>Lisbon</city>
+<country country="PT">Portugal</country>
+</aff><aff id="all15261-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">NOVA Medical School</named-content>
+<institution>Universidade NOVA de Lisboa</institution>
+<city>Lisbon</city>
+<country country="PT">Portugal</country>
+</aff><aff id="all15261-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Dermatological Allergology, Allergie‐Centrum‐Charité, Department of Dermatology and Allergy, Charité‐Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin</named-content>
+<institution>Humboldt‐Universität zu Berlin, and Berlin Institute of Health</institution>
+<city>Berlin</city>
+<country country="DE">Germany</country>
+</aff><aff id="all15261-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Division of Immune‐Mediated Skin Diseases</named-content>
+<institution>I.M. Sechenov First Moscow State Medical University (Sechenov University)</institution>
+<city>Moscow</city>
+<country country="RU">Russia</country>
+</aff><aff id="all15261-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<institution>Fraunhofer Institute for Translational Medicine and Pharmacology ITMP, Allergology and Immunology</institution>
+<city>Berlin</city>
+<country country="DE">Germany</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence</bold>
+<break/>
+Pedro Mendes‐Bastos, Dermatology Center, Hospital CUF Descobertas, Rua Mário Botas, 1998‐018 Lisboa, Portugal.<break/>
+Email: <email>pmendesbastos@gmail.com</email>
+<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>28</day><month>2</month><year>2022</year></pub-date><pub-date pub-type="ppub"><month>8</month><year>2022</year></pub-date><volume>77</volume><issue seq="100">8</issue><issue-id pub-id-type="pmc-issue-id">418734</issue-id><issue-id pub-id-type="doi">10.1111/all.v77.8</issue-id><fpage>2355</fpage><lpage>2366</lpage><history><date date-type="rev-recd"><day>08</day><month>2</month><year>2022</year></date><date date-type="received"><day>16</day><month>11</month><year>2021</year></date><date date-type="accepted"><day>14</day><month>2</month><year>2022</year></date></history><pub-history><event event-type="pmc-release"><date><day>07</day><month>10</month><year>2022</year></date></event><event event-type="pmc-live"><date><day>14</day><month>10</month><year>2022</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2022-10-15 00:17:55.123"><day>15</day><month>10</month><year>2022</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2022 The Authors. <italic toggle="yes">Allergy</italic> published by European Academy of Allergy and Clinical Immunology and John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="ALL-77-2355.pdf"/><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:ALL-77-2355.pdf"/><abstract id="all15261-abs-0001"><title>Abstract</title><p>Bruton's tyrosine kinase (BTK), a member of the Tec kinase family, is critically involved in a range of immunological pathways. The clinical application of BTK inhibitors for B‐cell malignancies has proven successful, and there is strong rationale for the potential benefits of BTK inhibitors in some autoimmune and allergic conditions, including immune‐mediated dermatological diseases. However, the established risk‐to‐benefit profile of “first‐generation” BTK inhibitors cannot be extrapolated to these emerging, non‐oncological, indications. “Next‐generation” BTK inhibitors such as remibrutinib and fenebrutinib entered clinical development for chronic spontaneous urticaria (CSU); rilzabrutinib and tirabrutinib are being studied as potential treatments for pemphigus. Promising data from early‐phase clinical trials in CSU suggest potential for these agents to achieve strong pathway inhibition, which may translate into measurable clinical benefits, as well as other effects such as the disruption of autoantibody production. BTK inhibitors may help to overcome some of the shortcomings of monoclonal antibody treatments for immune‐mediated dermatological conditions such as CSU, pemphigus, and systemic lupus erythematosus. In addition, the use of BTK inhibitors may improve understanding of the pathophysiological roles of mast cells, basophils, and B cells in such conditions.</p></abstract><abstract abstract-type="graphical" id="all15261-abs-0002"><p>
+<boxed-text position="anchor" content-type="graphic" id="all15261-blkfxd-2001" orientation="portrait"><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="ALL-77-2355-g003.jpg"/></boxed-text>
+</p></abstract><kwd-group><kwd id="all15261-kwd-0001">Bruton's tyrosine kinase inhibitor</kwd><kwd id="all15261-kwd-0002">chronic spontaneous urticaria</kwd><kwd id="all15261-kwd-0003">fenebrutinib</kwd><kwd id="all15261-kwd-0004">pemphigus</kwd><kwd id="all15261-kwd-0005">remibrutinib</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source><institution-wrap><institution>Novartis
+</institution><institution-id institution-id-type="doi">10.13039/100004336</institution-id></institution-wrap></funding-source></award-group></funding-group><counts><fig-count count="3"/><table-count count="1"/><page-count count="12"/><word-count count="8754"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY-NC</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 2022</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.2.0 mode:remove_FC converted:07.10.2022</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="all15261-cit-1001">
+<string-name name-style="western">
+<surname>Mendes‐Bastos</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Brasileiro</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kolkhir</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Bruton's tyrosine kinase inhibition—An emerging therapeutic strategy in immune‐mediated dermatological conditions</article-title>. <source>Allergy</source>. <year>2022</year>;<volume>77</volume>:<fpage>2355</fpage>–<lpage>2366</lpage>. doi:<pub-id pub-id-type="doi">10.1111/all.15261</pub-id>
+<pub-id pub-id-type="pmid">35175630</pub-id><pub-id pub-id-type="pmcid">PMC9545595</pub-id></mixed-citation>
+</p><fn-group id="all15261-ntgp-0001"><fn fn-type="funding" id="all15261-note-0001"><p>
+<bold>Funding information</bold>
+</p><p>Novartis Pharma AG (Basel, Switzerland) funded the medical writing support for this independent article. The authors had full autonomy with respect to the development of this manuscript. Novartis reviewed the final draft for accuracy.</p></fn></fn-group></notes></front><body id="all15261-body-0001"><def-list list-content="abbreviations" id="all15261-lp-0001"><title>Abbreviations</title><def-item><term>AE</term><def><p>adverse event</p></def></def-item><def-item><term>BCR</term><def><p>B‐cell receptor</p></def></def-item><def-item><term>BLNK</term><def><p>B‐cell linker protein</p></def></def-item><def-item><term>BLyS</term><def><p>B‐lymphocyte stimulator</p></def></def-item><def-item><term>BTK</term><def><p>Bruton's tyrosine kinase</p></def></def-item><def-item><term>CLL</term><def><p>chronic lymphocytic leukemia</p></def></def-item><def-item><term>CSU</term><def><p>chronic spontaneous urticaria</p></def></def-item><def-item><term>CU‐BAT</term><def><p>chronic urticaria–basophil activation Test</p></def></def-item><def-item><term>DSG</term><def><p>desmoglein</p></def></def-item><def-item><term>GM‐CSF</term><def><p>granulocyte‐macrophage colony‐stimulating factor</p></def></def-item><def-item><term>HS</term><def><p>hidradenitis suppurativa</p></def></def-item><def-item><term>IgE</term><def><p>immunoglobulin E</p></def></def-item><def-item><term>IgG</term><def><p>immunoglobulin G</p></def></def-item><def-item><term>IP3</term><def><p>inositol‐3,4,5‐phosphate</p></def></def-item><def-item><term>LYN</term><def><p>Lck/Yes novel tyrosine kinase</p></def></def-item><def-item><term>MC</term><def><p>mast cell</p></def></def-item><def-item><term>NK</term><def><p>natural killer</p></def></def-item><def-item><term>PLCγ2</term><def><p>phospholipase C gamma 2</p></def></def-item><def-item><term>SLE</term><def><p>systemic lupus erythematosus</p></def></def-item><def-item><term>SLP‐76</term><def><p>SH2‐domain‐containing leukocyte protein of 76 kDa</p></def></def-item><def-item><term>SYK</term><def><p>spleen tyrosine kinase</p></def></def-item><def-item><term>TLR</term><def><p>toll‐like receptors</p></def></def-item></def-list><sec id="all15261-sec-0001"><label>1</label><title>INTRODUCTION</title><p>Almost 70 years ago, Ogden C. Bruton described the first case of agammaglobulinemia in an 8‐year‐old boy suffering from severe recurrent sepsis.<xref rid="all15261-bib-0001" ref-type="bibr">
+<sup>1</sup>
+</xref> The underlying cause of this immunodeficiency remained unclear until the discovery, in the early 1990s, of a cytoplasmic protein tyrosine kinase involved in B‐cell development.<xref rid="all15261-bib-0002" ref-type="bibr">
+<sup>2</sup>
+</xref>, <xref rid="all15261-bib-0003" ref-type="bibr">
+<sup>3</sup>
+</xref> The X‐chromosome‐restricted mutations in this kinase, later named Bruton's tyrosine kinase (BTK), were established to be directly associated with X‐linked agammaglobulinemia.<xref rid="all15261-bib-0004" ref-type="bibr">
+<sup>4</sup>
+</xref>, <xref rid="all15261-bib-0005" ref-type="bibr">
+<sup>5</sup>
+</xref>
+</p><p>Owing to its crucial role in B‐cell development, migration, and activation, BTK became—and remains—the subject of intensive study. It has been demonstrated that BTK plays a key role in the signaling cascade of receptors such as the B‐cell receptor (BCR), Fc receptors, chemokine receptors, toll‐like receptors (TLR), and CD40.<xref rid="all15261-bib-0006" ref-type="bibr">
+<sup>6</sup>
+</xref>, <xref rid="all15261-bib-0007" ref-type="bibr">
+<sup>7</sup>
+</xref>, <xref rid="all15261-bib-0008" ref-type="bibr">
+<sup>8</sup>
+</xref>, <xref rid="all15261-bib-0009" ref-type="bibr">
+<sup>9</sup>
+</xref>, <xref rid="all15261-bib-0010" ref-type="bibr">
+<sup>10</sup>
+</xref>, <xref rid="all15261-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="all15261-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> Further studies revealed the expression of BTK also in non‐B cells such as mast cells (MCs), natural killer (NK) cells, T cells, macrophages, neutrophils, monocytes, and basophils.<xref rid="all15261-bib-0011" ref-type="bibr">
+<sup>11</sup>
+</xref>, <xref rid="all15261-bib-0013" ref-type="bibr">
+<sup>13</sup>
+</xref>, <xref rid="all15261-bib-0014" ref-type="bibr">
+<sup>14</sup>
+</xref>, <xref rid="all15261-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>, <xref rid="all15261-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="all15261-bib-0017" ref-type="bibr">
+<sup>17</sup>
+</xref>
+</p><p>Based on these observations, the potential of BTK as a therapeutic target became apparent, and a series of inhibitors were developed. Ibrutinib (PCI‐32765) became the first BTK inhibitor available for clinical use, approved in 2014 for the treatment of B‐cell malignancies.<xref rid="all15261-bib-0018" ref-type="bibr">
+<sup>18</sup>
+</xref>, <xref rid="all15261-bib-0019" ref-type="bibr">
+<sup>19</sup>
+</xref> Subsequently, BTK has emerged as a promising therapeutic target for a number of malignant and non‐malignant disorders,<xref rid="all15261-bib-0020" ref-type="bibr">
+<sup>20</sup>
+</xref>, <xref rid="all15261-bib-0021" ref-type="bibr">
+<sup>21</sup>
+</xref>, <xref rid="all15261-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> including various immunoglobulin E (IgE)‐mediated diseases driven by MCs and basophils.<xref rid="all15261-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>
+</p><p>Here, we review the current understanding of the role of the BTK pathway and consider the potential value of pharmacological inhibition of BTK as a therapeutic strategy in immune‐mediated dermatological conditions such as chronic spontaneous urticaria (CSU), pemphigus, and systemic lupus erythematosus.</p></sec><sec id="all15261-sec-0002"><label>2</label><title>ROLE AND RELEVANCE OF BTK IN HEALTH AND DISEASE</title><sec id="all15261-sec-0003"><label>2.1</label><title>Role in signaling cascades in B cells and MCs</title><p>BTK is a member of the Tec family of tyrosine kinases.<xref rid="all15261-bib-0023" ref-type="bibr">
+<sup>23</sup>
+</xref> It forms part of signaling cascades triggered by surface receptors such as the BCR in B cells and the high‐affinity IgE receptor FcεRI in MCs.<xref rid="all15261-bib-0024" ref-type="bibr">
+<sup>24</sup>
+</xref>, <xref rid="all15261-bib-0025" ref-type="bibr">
+<sup>25</sup>
+</xref> Activation of BTK correlates with increased phosphorylation of two regulatory tyrosine residues.<xref rid="all15261-bib-0026" ref-type="bibr">
+<sup>26</sup>
+</xref> BTK is phosphorylated at Y551 (site 1) by kinases activated upstream of BTK, such as spleen tyrosine kinase (SYK) or members of the SRC family kinase (e.g., LCK/YES novel tyrosine kinase; LYN).<xref rid="all15261-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="all15261-bib-0027" ref-type="bibr">
+<sup>27</sup>
+</xref> BTK then autophosphorylates at Y223 (site 2) in the SH3 domain,<xref rid="all15261-bib-0028" ref-type="bibr">
+<sup>28</sup>
+</xref> enabling association with adapter proteins such as SH2‐domain‐containing leukocyte protein of 76 kDa (SLP‐76)<xref rid="all15261-bib-0029" ref-type="bibr">
+<sup>29</sup>
+</xref> or B‐cell linker proteins (BLNKs).<xref rid="all15261-bib-0030" ref-type="bibr">
+<sup>30</sup>
+</xref> This leads to phosphorylation of phospholipase C gamma 2 (PLCγ2).<xref rid="all15261-bib-0031" ref-type="bibr">
+<sup>31</sup>
+</xref> Activated PLCγ2 generates inositol‐3,4,5‐phosphate (IP3) and also activates protein kinase C via diacylglycerol, resulting in calcium release and activation of transcription factors such as NF‐κB and NFAT.<xref rid="all15261-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> Aside from integrating BCR‐ or FcεRI‐derived signals, BTK is also involved in other pathways such as chemokine‐mediated homing of pre‐B cells into lymphoid organs or TLR‐mediated signaling, as well as inhibition of FcγR signaling and inflammation driven by IgG immune complexes.<xref rid="all15261-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref>, <xref rid="all15261-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>, <xref rid="all15261-bib-0033" ref-type="bibr">
+<sup>33</sup>
+</xref> The role of BTK in signaling cascades in various cell types and its influence over multiple physiological processes is summarized in Figure <xref rid="all15261-fig-0001" ref-type="fig">1</xref>.</p><fig position="float" fig-type="FIGURE" id="all15261-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>Role of BTK in immune cell signaling. The Tec‐family kinase BTK is expressed in various cells including not only MCs and B cells but also NK cells, monocytes/macrophages, neutrophils, and platelets, where it functions as a major signaling element in diverse receptor signaling pathways. Upon receptor activation, BTK is recruited to the plasma membrane via interaction of its pleckstrin homology (PH) domain with phosphatidylinositol trisphosphate (PIP3). Phosphorylation at tyrosine Y551 by Src‐family kinases triggers autophosphorylation at Y223 and the switch into the active conformation. This enables interaction with various downstream signaling and adapter molecules, leading subsequently to calcium release and activation of transcription factors such as NF‐κB, NFAT, FOXO, AP‐1, and MYC. In MCs and B cells, BTK signaling has been primarily—but not exclusively—connected to FcεRI and BCR signaling, respectively. BTK controls IgE‐dependent MC activation and degranulation responses as well as B‐cell survival and differentiation, thereby linking its activity to allergy and autoimmunity. BTK inhibitors are designed to specifically either covalently or reversibly target the active site of BTK, preventing ATP binding and stabilizing the inactive conformation. ANKRD54, ankyrin repeat domain 54; AP‐1, activator protein‐1; ATP, adenosine triphosphate; BCR, B‐cell receptor; BLNK, B‐cell linker protein; BTK, Bruton's tyrosine kinase; GPCR, G protein‐coupled receptor; IBTK, inhibitor of Bruton's tyrosine kinase; IgE, immunoglobulin E; NFAT, nuclear factor of activated T cells; NF‐κB, nuclear factor kappa‐light‐chain‐enhancer of activated B cells; NK, natural killer; PH, pleckstrin homology; PIP5K, phosphatidylinositol 4‐phosphate 5‐kinase; PKC, protein kinase C; PLC, phospholipase C; SYK, spleen tyrosine kinase; TLR, toll‐like receptor; WASP, Wiskott–Aldrich syndrome protein</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="ALL-77-2355-g002.jpg"/></fig></sec><sec id="all15261-sec-0004"><label>2.2</label><title>Role in B‐cell malignancies and other pathologies</title><p>Bruton's tyrosine kinase activity is crucial to maintain B‐cell survival, proliferation, and differentiation. It acts as a central node in the BCR signaling that drives B‐cell malignancies such as chronic lymphocytic leukemia (CLL), mantle cell lymphoma (MCL), Waldenström's macroglobulinemia (WM), follicular lymphoma, multiple myeloma, and marginal zone lymphoma.<xref rid="all15261-bib-0012" ref-type="bibr">
+<sup>12</sup>
+</xref> The involvement of BTK in a range of other immunological pathways implicates it in the pathophysiology of inflammatory and systemic autoimmune disorders, as well as in allergic responses.</p><sec id="all15261-sec-0005"><label>2.2.1</label><title>BTK signaling in autoimmune responses</title><p>B‐cell‐mediated systemic autoimmune diseases are associated with activation of autoreactive B cells and their differentiation into autoantibody‐producing cells.<xref rid="all15261-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref> Consistent with this, treatment with rituximab, an anti‐CD20 monoclonal antibody, which results in the depletion of mature B cells, has demonstrated clinical benefits in certain autoimmune conditions.<xref rid="all15261-bib-0034" ref-type="bibr">
+<sup>34</sup>
+</xref> Studies have since revealed increased BTK expression in B cells of patients with systemic autoimmune diseases; indeed, there is some evidence for a correlation of BTK protein levels with autoantibody production.<xref rid="all15261-bib-0022" ref-type="bibr">
+<sup>22</sup>
+</xref>, <xref rid="all15261-bib-0035" ref-type="bibr">
+<sup>35</sup>
+</xref> It appears that BTK can modulate signaling, such that overexpression leads to autoimmunity while decreased levels improve autoimmune disease outcomes.<xref rid="all15261-bib-0032" ref-type="bibr">
+<sup>32</sup>
+</xref>
+</p></sec><sec id="all15261-sec-0006"><label>2.2.2</label><title>BTK signaling in allergic responses</title><p>The binding of an allergen to its specific IgE triggers crosslinking and activation of high‐affinity FcεRI on the surface of MCs and basophils.<xref rid="all15261-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> The subsequent signaling cascade involves the phosphorylation of SYK and then BTK, and results in the release of mediators including cytokines.<xref rid="all15261-bib-0016" ref-type="bibr">
+<sup>16</sup>
+</xref>, <xref rid="all15261-bib-0036" ref-type="bibr">
+<sup>36</sup>
+</xref> Consistent with this, <italic toggle="yes">in vitro</italic> analyses have demonstrated that BTK inhibition is associated with reduced mediator release in human basophils<xref rid="all15261-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> and reduced IgE‐mediated degranulation and cytokine production in human MCs. Furthermore, a study of two patients with food allergy receiving ibrutinib for CLL suggested that, through inhibition of IgE‐dependent basophil and MC activation, BTK antagonists may be able to block IgE‐mediated allergic reactions to food and other allergens.<xref rid="all15261-bib-0038" ref-type="bibr">
+<sup>38</sup>
+</xref> BTK inhibition has been shown to reduce a skin‐prick test reaction to allergen in healthy adults with asymptomatic atopic diathesis in a Phase I trial.<xref rid="all15261-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>
+</p><p>During IgE‐mediated hypersensitivity reactions, activated MCs secrete preformed mediators such as histamine within minutes during the early‐phase reaction, as well as rapidly synthesized lipid mediators such as leukotrienes and prostaglandins. Various cytokines and chemokines are subsequently generated a number of hours later during the late‐phase response.<xref rid="all15261-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> Passive cutaneous anaphylaxis experiments in mice have demonstrated that BTK regulates both early‐ and late‐phase MC effector functions driven by FcεRI‐mediated activation.<xref rid="all15261-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> Indeed, BTK positively regulates almost any aspect of FcεRI‐mediated MC function (with the exception of interleukin‐4 production, which is enhanced in the absence of BTK).<xref rid="all15261-bib-0040" ref-type="bibr">
+<sup>40</sup>
+</xref> That BTK may also have negative regulatory roles is an important consideration; the use of BTK inhibitors for treatment of malignancies has not suggested a tendency for allergen sensitization, but the potential for this should be considered moving into treatment of immune‐mediated conditions. A study in which MC activation was inhibited by the short‐chain fatty acid, butyrate, suggested that MC activation relies on a strong transcriptional silencing of critical molecules for IgE receptor‐induced signal transduction, including BTK.<xref rid="all15261-bib-0041" ref-type="bibr">
+<sup>41</sup>
+</xref> Recent data have shown that—in contrast to FcεRI‐mediated MC activation—stem cell factor‐induced KIT signaling in bone‐marrow‐derived MC is largely independent of the phosphorylation and activation of BTK.<xref rid="all15261-bib-0042" ref-type="bibr">
+<sup>42</sup>
+</xref>
+</p></sec><sec id="all15261-sec-0007"><label>2.2.3</label><title>BTK signaling in other inflammatory responses</title><p>There is some evidence that BTK contributes to other inflammatory mechanisms, such as immunoglobulin G (IgG; FcγR)‐mediated activation of monocytes and neutrophil migration.<xref rid="all15261-bib-0043" ref-type="bibr">
+<sup>43</sup>
+</xref> For example, a study found that ibrutinib did not affect monocyte FcγR‐mediated phagocytosis, even at supraphysiological concentrations, but suppressed FcγR‐mediated cytokine production.<xref rid="all15261-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> However, although ibrutinib blocked BTK in isolated cultures, pro‐inflammatory intercellular communication was sufficient to overcome its inhibitory effects on monocytes and NK cells.<xref rid="all15261-bib-0044" ref-type="bibr">
+<sup>44</sup>
+</xref> BTK‐deficient neutrophils have shown defects in granulocyte‐macrophage colony‐stimulating factor (GM‐CSF)‐signaling and GM‐CSF‐induced maturation accompanied with impaired function during an acute inflammatory response.<xref rid="all15261-bib-0015" ref-type="bibr">
+<sup>15</sup>
+</xref>
+</p></sec></sec></sec><sec id="all15261-sec-0008"><label>3</label><title>BTK PATHWAY INHIBITION IN THE TREATMENT OF SKIN DISEASES</title><p>On the basis of the involvement of the BTK pathway in autoimmune, IgE‐mediated allergic, and other inflammatory mechanisms, BTK inhibition is emerging as a candidate therapeutic approach for a number of dermatological disorders.</p><sec id="all15261-sec-0009"><label>3.1</label><title>Chronic spontaneous urticaria</title><p>CSU is defined by the presence of wheals and/or angioedema occurring for more than 6 weeks without a specific trigger.<xref rid="all15261-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref> It is a common condition, affecting approximately 1% of the population worldwide,<xref rid="all15261-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> and showing an increasing trend over time.<xref rid="all15261-bib-0047" ref-type="bibr">
+<sup>47</sup>
+</xref> The burden experienced by patients with CSU can be considerable, with challenges such as sleep deprivation, sexual dysfunction, limitations on daily life, and reduced performance at work or school all affecting health‐related quality of life.<xref rid="all15261-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref> A lack of understanding of underlying cause has precluded development of curative treatments,<xref rid="all15261-bib-0048" ref-type="bibr">
+<sup>48</sup>
+</xref> and patients often experience long delays in achieving effective management<xref rid="all15261-bib-0046" ref-type="bibr">
+<sup>46</sup>
+</xref>; indeed, many patients do not achieve symptom control.<xref rid="all15261-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref> Fewer than half of the patients with CSU respond to a standard‐dosed H1‐antihistamine, the first‐line recommended treatment.<xref rid="all15261-bib-0050" ref-type="bibr">
+<sup>50</sup>
+</xref> The only other licensed treatment for CSU is the anti‐IgE monoclonal antibody, omalizumab, which, in a phase 2 head‐to‐head trial, showed a complete hive response rate of 26%, compared with 30%–51% with the anti‐IgE ligelizumab.<xref rid="all15261-bib-0049" ref-type="bibr">
+<sup>49</sup>
+</xref> Agents such as cyclosporine, dapsone, and hydroxychloroquine are used off‐label.<xref rid="all15261-bib-0045" ref-type="bibr">
+<sup>45</sup>
+</xref> Novel treatment options with improved effectiveness are urgently needed for patients with CSU.</p><p>The rationale for BTK inhibition in CSU is strong, as BTK is involved in both of the known pathways that lead to the degranulation of skin MCs, the key pathogenic driver of CSU (Figure <xref rid="all15261-fig-0002" ref-type="fig">2A</xref>). In type I (autoallergic) CSU, the occurrence of signs and symptoms is driven by IgE to autoallergens (e.g., against thyroperoxidase, thyroglobulin, tissue factor, interleukin‐24, and double‐stranded DNA), while type IIb autoimmune CSU is due to MC‐targeted IgG autoantibodies against IgE or FcεRI.<xref rid="all15261-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref> Type IIb CSU is the less common endotype, but is characterized by high disease activity and poor response to treatment with antihistamines and omalizumab.<xref rid="all15261-bib-0051" ref-type="bibr">
+<sup>51</sup>
+</xref>, <xref rid="all15261-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref>, <xref rid="all15261-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref>, <xref rid="all15261-bib-0054" ref-type="bibr">
+<sup>54</sup>
+</xref>
+</p><fig position="float" fig-type="FIGURE" id="all15261-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>Overview of the role of BTK in the pathophysiology of (A) CSU and (B) pemphigus. BCR, B‐cell receptor; BTK, Bruton's tyrosine kinase; CSU, chronic spontaneous urticaria; IgE, immunoglobulin E; IgG, immunoglobulin G. (A) CSU: The pathogenesis of CSU involves antibody‐mediated MC and basophil activation, occurring via IgE (“auto allergic” or type I CSU) or IgG (“auto immune” or type IIb) generated by differentiated B cells. In type I CSU, crosslinking of FcεRI via autoreactive IgE molecules directed against self‐antigens such as thyroid peroxidase promotes MC/basophil degranulation. In type IIb CSU, IgG molecules directed against the Fc portion of IgE or the FcεRI promote spontaneous cellular degranulation.<xref rid="all15261-bib-0119" ref-type="bibr">
+<sup>119</sup>
+</xref> The role of eosinophils is debated, but eosinophil proteins may promote mast cell degranulation in CSU, and eosinopenia has been linked to high disease activity, type IIb autoimmunity, and poor response to treatment.<xref rid="all15261-bib-0120" ref-type="bibr">
+<sup>120</sup>
+</xref> In addition to its well‐established role in B‐cell signaling, evidence suggests that BTK is specifically required for IgE‐mediated activation of basophils<xref rid="all15261-bib-0037" ref-type="bibr">
+<sup>37</sup>
+</xref> and in MC FcεRI‐induced cytokine secretion.<xref rid="all15261-bib-0121" ref-type="bibr">
+<sup>121</sup>
+</xref> (B) Pemphigus: Dendritic cells presenting desmoglein (DSG) antigens activate T cells, in turn triggering BTK‐mediated anti‐DSG antibody production from B cells<xref rid="all15261-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref>
+</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="ALL-77-2355-g001.jpg"/></fig><p>BTK inhibitors have potential for efficacy in both autoallergic and autoimmune CSU due to inhibition of BTK‐mediated degranulation in MCs and autoantibody production in B cells. In particular, they may help to address the suboptimal levels of response to currently available treatments in type IIb CSU.<xref rid="all15261-bib-0052" ref-type="bibr">
+<sup>52</sup>
+</xref>, <xref rid="all15261-bib-0053" ref-type="bibr">
+<sup>53</sup>
+</xref>, <xref rid="all15261-bib-0055" ref-type="bibr">
+<sup>55</sup>
+</xref>
+</p></sec><sec id="all15261-sec-0010"><label>3.2</label><title>Pemphigus</title><p>Pemphigus is an autoantibody‐driven skin disease characterized by a loss of cell adhesion (acantholysis), leading to blisters or erosions of the skin and/or mucous membrane.<xref rid="all15261-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref>, <xref rid="all15261-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref> There are three major forms: pemphigus vulgaris, pemphigus foliaceus, and paraneoplastic pemphigus; of these, pemphigus vulgaris is the most common variant.<xref rid="all15261-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref> The pathology of pemphigus is based on IgG autoantibodies targeting various adhesion molecules in the epidermis, including desmoglein (DSG) 1 and 3.<xref rid="all15261-bib-0056" ref-type="bibr">
+<sup>56</sup>
+</xref> Dendritic cells presenting DSG antigens can activate T cells, in turn triggering anti‐DSG antibody production from B cells (Figure <xref rid="all15261-fig-0002" ref-type="fig">2B</xref>).<xref rid="all15261-bib-0057" ref-type="bibr">
+<sup>57</sup>
+</xref>
+</p><p>The mainstay of pemphigus therapy is immunosuppression, primarily with systemic corticosteroids and rituximab. However, these agents can be associated with significant side effects; severe infection induced by an immunocompromised state is a major cause of death in patients with pemphigus.<xref rid="all15261-bib-0058" ref-type="bibr">
+<sup>58</sup>
+</xref>, <xref rid="all15261-bib-0059" ref-type="bibr">
+<sup>59</sup>
+</xref> Rituximab, while a very effective treatment option, requires intravenous administration and results in B‐cell depletion, potentially contributing to a higher rate of severe infections. There is an unmet need for steroid‐sparing agents with rapid onset, patient‐friendly administration, and an acceptable safety profile, including lack of chronic B‐cell depletion. Targeted approaches such as the use of engineered human cytotoxic chimeric autoantigen receptor (CAAR)‐T cells to specifically kill B cells producing autoantibodies are under clinical investigation for pemphigus.<xref rid="all15261-bib-0060" ref-type="bibr">
+<sup>60</sup>
+</xref> Given the key role of BTK in the responses of autoreactive B cells, BTK inhibitors represent a promising therapeutic strategy for pemphigus.</p></sec><sec id="all15261-sec-0011"><label>3.3</label><title>Other skin conditions</title><p>CSU and pemphigus are the focus of attention with respect to the potential of BTK inhibition for efficacy in dermatological conditions, but patients with other chronic inflammatory skin diseases, including hidradenitis suppurativa (HS), systemic lupus erythematosus (SLE), and atopic dermatitis can be expected to also benefit from this therapeutic approach.</p><p>HS is a chronic inflammatory skin disease, characterized by cutaneous inflamed nodules, abscesses, and pus‐discharging tunnels developed in axillary, inguinal, gluteal, and perianal body sites.<xref rid="all15261-bib-0061" ref-type="bibr">
+<sup>61</sup>
+</xref> Steroid injections, antibiotic creams, or oral antibiotics are first‐line options used to treat HS; for moderate‐to‐severe and/or recalcitrant cases, anti‐TNF treatment with adalimumab is currently the only approved therapy.<xref rid="all15261-bib-0062" ref-type="bibr">
+<sup>62</sup>
+</xref> Surgery is necessary for some patients with HS, particularly when significant scarring has occurred.<xref rid="all15261-bib-0063" ref-type="bibr">
+<sup>63</sup>
+</xref> The immunopathogenesis of HS is poorly understood, but B cells—particularly plasma cells—have been identified as a potential therapeutic target. Characterization of the inflammatory response in HS using proteomic and transcriptomic approaches has revealed enrichment of BTK signaling, thus supporting the potential value of BTK inhibition as a therapeutic strategy.<xref rid="all15261-bib-0064" ref-type="bibr">
+<sup>64</sup>
+</xref>
+</p><p>SLE is a chronic autoimmune disease characterized by autoantibodies against nuclear antigens.<xref rid="all15261-bib-0065" ref-type="bibr">
+<sup>65</sup>
+</xref> Cutaneous disease is a common manifestation of SLE; indeed, skin is the second most affected organ after articular involvement.<xref rid="all15261-bib-0066" ref-type="bibr">
+<sup>66</sup>
+</xref> The disease is characterized by altered B‐cell selection, triggering production of autoreactive antibodies and pro‐inflammatory cytokines, and the presentation of autoantigens to autoreactive T cells.<xref rid="all15261-bib-0065" ref-type="bibr">
+<sup>65</sup>
+</xref> Due to the heterogeneity in the etiopathogenesis of SLE, numerous therapeutic targets have been investigated,<xref rid="all15261-bib-0067" ref-type="bibr">
+<sup>67</sup>
+</xref> but the first drug approved by the FDA for the treatment of SLE in over 50 years was belimumab, a fully human IgG1 monoclonal antibody, which selectively targets and inhibits the B‐cell survival factor, B‐lymphocyte stimulator (BLyS).<xref rid="all15261-bib-0068" ref-type="bibr">
+<sup>68</sup>
+</xref> Several components of BTK signaling pathways are altered in B cells from patients with SLE, and BTK is considered to be a promising therapeutic target for the treatment of cutaneous as well as CNS, renal, and articular manifestations of SLE.<xref rid="all15261-bib-0065" ref-type="bibr">
+<sup>65</sup>
+</xref>
+</p><p>Atopic dermatitis is the most common inflammatory skin disease, characterized by impaired barrier function.<xref rid="all15261-bib-0069" ref-type="bibr">
+<sup>69</sup>
+</xref> Current pharmacological management strategies include topical agents such as corticosteroids, calcineurin inhibitors and phosphodiesterase‐4 inhibitors, and systemic agents including broad‐spectrum immunosuppressants, cyclosporine, methotrexate, mycophenolate mofetil, and azathioprine.<xref rid="all15261-bib-0070" ref-type="bibr">
+<sup>70</sup>
+</xref> While BTK inhibition is one of a number of therapeutic strategies under investigation,<xref rid="all15261-bib-0071" ref-type="bibr">
+<sup>71</sup>
+</xref> recent additions to the armamentarium include monoclonal antibodies (dupilumab and tralokinumab), along with Janus kinase inhibitors (baricitinib, upadacitinib and abrocitinib).<xref rid="all15261-bib-0072" ref-type="bibr">
+<sup>72</sup>
+</xref> The penetration of antigens through the impaired dermatological barrier leads to production of cytokines such as thymic stromal lymphopoietin, which triggers BTK‐dependent signaling and this may be of therapeutic interest.<xref rid="all15261-bib-0069" ref-type="bibr">
+<sup>69</sup>
+</xref>
+</p><p>There may also be a role for BTK inhibitors in the treatment of pure IgE‐mediated conditions such as anaphylaxis of IgE‐mediated food allergy; further studies are warranted in this area.</p></sec></sec><sec id="all15261-sec-0012"><label>4</label><title>BTK INHIBITORS IN CLINICAL PRACTICE</title><sec id="all15261-sec-0013"><label>4.1</label><title>First‐generation BTK inhibitors</title><p>Since ibrutinib came to the market in 2013 for the treatment of adult patients with MCL, its range of indications has expanded, and a number of other BTK inhibitors, such as acalabrutinib, zanubrutinib, and orelabrutinib, have been developed for the treatment of B‐cell malignancies (Figure <xref rid="all15261-fig-0001" ref-type="fig">1</xref>).<xref rid="all15261-bib-0073" ref-type="bibr">
+<sup>73</sup>
+</xref>, <xref rid="all15261-bib-0074" ref-type="bibr">
+<sup>74</sup>
+</xref>, <xref rid="all15261-bib-0075" ref-type="bibr">
+<sup>75</sup>
+</xref>, <xref rid="all15261-bib-0076" ref-type="bibr">
+<sup>76</sup>
+</xref>, <xref rid="all15261-bib-0077" ref-type="bibr">
+<sup>77</sup>
+</xref>, <xref rid="all15261-bib-0078" ref-type="bibr">
+<sup>78</sup>
+</xref> Acalabrutinib, for example, has demonstrated improved potency and selectivity, with reduced off‐target side effects, compared with ibrutinib, while zanubrutinib is another selective BTK inhibitor with superior oral bioavailability and greater BTK specificity than ibrutinib.<xref rid="all15261-bib-0079" ref-type="bibr">
+<sup>79</sup>
+</xref> All of these agents, however, interact with their target via covalent bonding, a feature which, while affording impressive efficacy, has also been associated with drug resistance and a challenging tolerability profile.<xref rid="all15261-bib-0077" ref-type="bibr">
+<sup>77</sup>
+</xref> Aside from BTK, covalent agents may also bind to other kinases, including—but not limited to—those that feature, a cysteine at the same position as BTK.<xref rid="all15261-bib-0076" ref-type="bibr">
+<sup>76</sup>
+</xref> Severe adverse events (AEs) associated with early BTK inhibitors include hemorrhage, hypertension, cardiac arrhythmias and cardiac failure, second primary malignancies, and tumor lysis syndrome.<xref rid="all15261-bib-0080" ref-type="bibr">
+<sup>80</sup>
+</xref> Some of the most common AEs, occurring in more than 30% of patients, are thrombocytopenia, diarrhea, fatigue, musculoskeletal pain, neutropenia, rash, anemia, and bruising.<xref rid="all15261-bib-0080" ref-type="bibr">
+<sup>80</sup>
+</xref> As might be expected for a treatment that targets B cells, BTK‐inhibitor therapy elevates the risk of infection.<xref rid="all15261-bib-0080" ref-type="bibr">
+<sup>80</sup>
+</xref> Ibrutinib treatment is associated with an increased risk of pneumonia, sinusitis, and infections of the upper respiratory and urinary tracts, as well as opportunistic skin infections including herpes simplex and herpes zoster virus reactivations, and <italic toggle="yes">Staphylococcus aureus</italic> superinfection.<xref rid="all15261-bib-0081" ref-type="bibr">
+<sup>81</sup>
+</xref> The precise role played by BTK in pathogenic microorganism infections is not yet clear and remains the subject of investigation.<xref rid="all15261-bib-0082" ref-type="bibr">
+<sup>82</sup>
+</xref>
+</p><p>The risk‐to‐benefit profile of these early BTK inhibitors requires re‐evaluation when considering their potential to offer therapeutic benefits outside of the oncology setting. An AE profile that is considered acceptable for the management of a life‐threatening cancer is different from that which can reasonably be recommended for chronic treatment of conditions that considerably affect patients’ quality of life but are not life‐threatening. As seen above, there is a strong rationale for the potential benefits of BTK inhibitors in some autoimmune and allergic conditions. While agents such as acalabrutinib and zanubrutinib offered improvements over ibrutinib, supporting potential roles in treating chronic, non‐malignant conditions such as food allergy or IgG4‐related disease, a need for the efficacy of BTK inhibitors with an improved AE profile has seen a shift toward development and investigation of a new generation of drugs in this class.<xref rid="all15261-bib-0076" ref-type="bibr">
+<sup>76</sup>
+</xref>, <xref rid="all15261-bib-0083" ref-type="bibr">
+<sup>83</sup>
+</xref>
+</p><p>One strategy being used to address this is the use of BTK inhibitors that utilize non‐covalent binding mechanisms.<xref rid="all15261-bib-0077" ref-type="bibr">
+<sup>77</sup>
+</xref> An important benefit in the use of covalent inhibitors is their ability to achieve high, sustained occupancy of the target without the need for extended drug exposure.<xref rid="all15261-bib-0076" ref-type="bibr">
+<sup>76</sup>
+</xref> However, non‐covalent inhibitors may be able to overcome drug resistance, owing to a lack of dependence on binding to C481 mutations, which are a major mechanism for acquired resistance in oncologic indications.<xref rid="all15261-bib-0077" ref-type="bibr">
+<sup>77</sup>
+</xref> Several non‐covalent BTK inhibitors are in development for B‐cell malignancies and, while longer‐term studies are required, early clinical data suggest high levels of specificity and an improved tolerability profile.<xref rid="all15261-bib-0077" ref-type="bibr">
+<sup>77</sup>
+</xref>, <xref rid="all15261-bib-0084" ref-type="bibr">
+<sup>84</sup>
+</xref>, <xref rid="all15261-bib-0085" ref-type="bibr">
+<sup>85</sup>
+</xref>
+</p></sec><sec id="all15261-sec-0014"><label>4.2</label><title>Next‐generation BTK inhibitors for dermatology/allergology indications</title><p>An overview of next‐generation BTK inhibitors in development for immune‐mediated dermatological indications is provided in Table <xref rid="all15261-tbl-0001" ref-type="table">1</xref> (also shown in Figure <xref rid="all15261-fig-0001" ref-type="fig">1</xref>). Fenebrutinib (GDC‐0853, RG7845) is a highly selective, reversible, non‐covalent, oral BTK inhibitor.<xref rid="all15261-bib-0086" ref-type="bibr">
+<sup>86</sup>
+</xref> Remibrutinib (LOU064), rilzabrutinib (PRN1008), and tirabrutinib (ONO/GS‐4059) are all oral agents, which bind covalently to their BTK target but with high levels of selectivity.<xref rid="all15261-bib-0083" ref-type="bibr">
+<sup>83</sup>
+</xref>, <xref rid="all15261-bib-0087" ref-type="bibr">
+<sup>87</sup>
+</xref>, <xref rid="all15261-bib-0088" ref-type="bibr">
+<sup>88</sup>
+</xref> In the case of remibrutinib, improved selectivity and tolerability are likely attributable to its ability to bind to an inactive conformation of BTK.<xref rid="all15261-bib-0083" ref-type="bibr">
+<sup>83</sup>
+</xref> Rilzabrutinib demonstrates high affinity and selectivity for the BTK receptor, combined with a long duration of action due to prolonged, but reversible, target occupancy.<xref rid="all15261-bib-0087" ref-type="bibr">
+<sup>87</sup>
+</xref> Tirabrutinib binds in an irreversible covalent manner. High specificity of tirabrutinib binding to C481 on the BTK active site has been confirmed experimentally via mass spectrometry.<xref rid="all15261-bib-0089" ref-type="bibr">
+<sup>89</sup>
+</xref>
+</p><table-wrap position="float" id="all15261-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>BTK inhibitors in development (phase II+) for treatment of immune‐mediated dermatological diseases</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Drug</th><th align="left" valign="top" rowspan="1" colspan="1">Other names</th><th align="left" valign="top" rowspan="1" colspan="1">Manufacturer/developer</th><th align="left" valign="top" rowspan="1" colspan="1">Indication</th><th align="left" valign="top" rowspan="1" colspan="1">Phase</th><th align="left" valign="top" rowspan="1" colspan="1">Trial identifier (status)</th></tr></thead><tbody><tr><td align="left" rowspan="2" colspan="1">Branebrutinib</td><td align="left" rowspan="2" colspan="1">BMS‐986195</td><td align="left" rowspan="2" colspan="1">Bristol–Myers Squibb</td><td align="left" rowspan="1" colspan="1">Atopic dermatitis</td><td align="left" rowspan="1" colspan="1">II</td><td align="left" rowspan="1" colspan="1"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT05014438">NCT05014438</ext-link> (recruiting)</td></tr><tr><td align="left" rowspan="1" colspan="1">SLE<xref rid="all15261-note-0004" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td><td align="left" rowspan="1" colspan="1">II</td><td align="left" rowspan="1" colspan="1"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT04186871">NCT04186871</ext-link> (recruiting)</td></tr><tr><td align="left" rowspan="3" colspan="1">Fenebrutinib</td><td align="left" rowspan="3" colspan="1">GDC‐0853</td><td align="left" rowspan="3" colspan="1">Genentech</td><td align="left" rowspan="2" colspan="1">CSU</td><td align="left" rowspan="1" colspan="1">II</td><td align="left" rowspan="1" colspan="1"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT03137069">NCT03137069</ext-link> (completed)</td></tr><tr><td align="left" rowspan="1" colspan="1">II</td><td align="left" rowspan="1" colspan="1"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT03693625">NCT03693625</ext-link> (terminated)</td></tr><tr><td align="left" rowspan="1" colspan="1">SLE</td><td align="left" rowspan="1" colspan="1">II</td><td align="left" rowspan="1" colspan="1"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT02908100">NCT02908100</ext-link> (completed)</td></tr><tr><td align="left" rowspan="4" colspan="1">Remibrutinib</td><td align="left" rowspan="4" colspan="1">LOU064</td><td align="left" rowspan="4" colspan="1">Novartis</td><td align="left" rowspan="4" colspan="1">CSU</td><td align="left" rowspan="1" colspan="1">II</td><td align="left" rowspan="1" colspan="1"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT03926611">NCT03926611</ext-link> (completed)</td></tr><tr><td align="left" rowspan="1" colspan="1">II</td><td align="left" rowspan="1" colspan="1"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT04109313">NCT04109313</ext-link> (active, not recruiting)</td></tr><tr><td align="left" rowspan="1" colspan="1">III</td><td align="left" rowspan="1" colspan="1"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT05030311">NCT05030311</ext-link>/<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT05032157">NCT05032157</ext-link> (not yet recruiting)</td></tr><tr><td align="left" rowspan="1" colspan="1">III</td><td align="left" rowspan="1" colspan="1"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT05048342">NCT05048342</ext-link> (not yet recruiting)</td></tr><tr><td align="left" rowspan="4" colspan="1">Rilzabrutinib</td><td align="left" rowspan="4" colspan="1">PRN1008</td><td align="left" rowspan="4" colspan="1">Principia Biopharma/Sanofi</td><td align="left" rowspan="2" colspan="1">Pemphigus vulgaris</td><td align="left" rowspan="1" colspan="1">II</td><td align="left" rowspan="1" colspan="1"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT02704429">NCT02704429</ext-link> (completed)</td></tr><tr><td align="left" rowspan="1" colspan="1">III</td><td align="left" rowspan="1" colspan="1"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT03762265">NCT03762265</ext-link> (active, not recruiting)</td></tr><tr><td align="left" rowspan="1" colspan="1">IgG4‐related disease</td><td align="left" rowspan="1" colspan="1">II</td><td align="left" rowspan="1" colspan="1"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT04520451">NCT04520451</ext-link> (recruiting)</td></tr><tr><td align="left" rowspan="1" colspan="1">Atopic dermatitis</td><td align="left" rowspan="1" colspan="1">II</td><td align="left" rowspan="1" colspan="1"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT05018806">NCT05018806</ext-link> (recruiting)</td></tr><tr><td align="left" rowspan="2" colspan="1">Tirabrutinib</td><td align="left" rowspan="2" colspan="1">GS‐4059</td><td align="left" rowspan="2" colspan="1">Gilead</td><td align="left" rowspan="1" colspan="1">CSU</td><td align="left" rowspan="1" colspan="1">II</td><td align="left" rowspan="1" colspan="1"><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT04827589">NCT04827589</ext-link> (withdrawn)</td></tr><tr><td align="left" rowspan="1" colspan="1">Pemphigus</td><td align="left" rowspan="1" colspan="1">II</td><td align="left" rowspan="1" colspan="1">JapicCTI‐184231</td></tr></tbody></table><table-wrap-foot id="all15261-ntgp-0002"><title>Note</title><fn id="all15261-note-0002"><p>Trial identifier and status information taken from clinicaltrials.gov, with the exception of JapicCTI‐184231 (NIPH Clinical Trials Search at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://rctportal.niph.go.jp/en" ext-link-type="uri">https://rctportal.niph.go.jp/en</ext-link>)</p></fn><fn id="all15261-note-0003"><p>Abbreviations: CSU, chronic spontaneous urticaria; SLE, systemic lupus erythematosus.</p></fn><fn id="all15261-note-0004"><label>
+<sup>a</sup>
+</label><p>In addition to autoimmune disorder, rheumatoid arthritis and primary Sjögren's syndrome.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &amp; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="all15261-sec-0015"><label>4.3</label><title>Clinical development of BTK inhibitors for the treatment of chronic inflammatory skin diseases</title><p>In the fields of dermatology and allergology, CSU is a focus of particular interest for the development of next‐generation BTK inhibitors. Remibrutinib and fenebrutinib are most advanced in their clinical development for CSU, both with phase II studies completed.</p><p>The first‐in‐human study of remibrutinib (in healthy and asymptomatic atopic volunteers; <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT03918980">NCT03918980</ext-link>) demonstrated a very fast onset of action and full BTK occupancy for at least 24 h following single doses of 30 mg and higher, while repeated dosing did not cause accumulation.<xref rid="all15261-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref> Near‐complete inhibition of blood basophil degranulation was achieved with doses of at least 50 mg.<xref rid="all15261-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>, <xref rid="all15261-bib-0090" ref-type="bibr">
+<sup>90</sup>
+</xref> A phase II study of remibrutinib and an open‐label extension study have been initiated in CSU: initial data from the dose‐finding study in 311 patients with CSU inadequately controlled by H1 antihistamines (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT03926611">NCT03926611</ext-link>) indicated that all tested remibrutinib doses provided significant improvements in urticaria activity score (UAS7) change from baseline at Week 4 and Week 12 compared with placebo, supported by a favorable safety profile.<xref rid="all15261-bib-0091" ref-type="bibr">
+<sup>91</sup>
+</xref>, <xref rid="all15261-bib-0092" ref-type="bibr">
+<sup>92</sup>
+</xref> The open‐label, multicenter, extension study (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT04109313">NCT04109313</ext-link>) is ongoing to evaluate the long‐term safety and tolerability of remibrutinib in eligible patients with CSU; this has enrolled 195 participants and is due to complete in late 2022.<xref rid="all15261-bib-0093" ref-type="bibr">
+<sup>93</sup>
+</xref> Phase III trials of remibrutinib for CSU inadequately controlled by H1 antihistamines are planned to initiate late in 2021 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT05030311">NCT05030311</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT05032157">NCT05032157</ext-link>, and an open‐label study in Japan: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT05048342">NCT05048342</ext-link>).<xref rid="all15261-bib-0094" ref-type="bibr">
+<sup>94</sup>
+</xref>, <xref rid="all15261-bib-0095" ref-type="bibr">
+<sup>95</sup>
+</xref> Also of note in the context of atopic disease, the first‐in‐human study of remibrutinib demonstrated a dose‐dependent reduction in wheal size in skin‐prick tests in individuals with atopic diathesis or atopic dermatitis.<xref rid="all15261-bib-0039" ref-type="bibr">
+<sup>39</sup>
+</xref>, <xref rid="all15261-bib-0090" ref-type="bibr">
+<sup>90</sup>
+</xref>
+</p><p>Following a phase I study investigating a single, oral dose of fenebrutinib in healthy volunteers (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT03596632">NCT03596632</ext-link>),<xref rid="all15261-bib-0096" ref-type="bibr">
+<sup>96</sup>
+</xref> two phase II trials of fenebrutinib have been initiated in patients with CSU. In a double‐blind, placebo‐controlled trial in 93 adults with CSU refractory to antihistamines (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT03137069">NCT03137069</ext-link>), fenebrutinib was associated with significant improvements from baseline in UAS7 over 7 days at week 8 (primary endpoint) at doses of 150 mg daily and 200 mg twice daily.<xref rid="all15261-bib-0097" ref-type="bibr">
+<sup>97</sup>
+</xref> Patients with type IIb autoimmunity were apparently more responsive to lower doses of fenebrutinib than those without autoimmunity, and fenebrutinib substantially reduced IgG‐anti‐FcεRI relative to baseline.<xref rid="all15261-bib-0097" ref-type="bibr">
+<sup>97</sup>
+</xref> Numbers of AEs were generally balanced across fenebrutinib and placebo groups and were mild or moderate in severity. Transient grade 3 elevations in alanine transaminase were noted with fenebrutinib 150 mg daily and 200 mg twice daily. Two serious AEs considered to be related to treatment were reported in the 200 mg twice‐daily fenebrutinib arm (periorbital cellulitis and an increase in hepatic enzymes), and led to treatment withdrawal.<xref rid="all15261-bib-0097" ref-type="bibr">
+<sup>97</sup>
+</xref> The second, phase II study was an open‐label, multicenter extension of the double‐blind trial, designed to evaluate the long‐term safety and efficacy of fenebrutinib in patients with CSU.<xref rid="all15261-bib-0098" ref-type="bibr">
+<sup>98</sup>
+</xref> This extension study was terminated following an interim analysis of data from the parent study.<xref rid="all15261-bib-0098" ref-type="bibr">
+<sup>98</sup>
+</xref> Fenebrutinib (150 mg daily or 200 mg twice daily) was also evaluated in a placebo‐controlled, phase II trial in patients with SLE (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT02908100">NCT02908100</ext-link>); it demonstrated evidence of strong pathway inhibition (reduced BTK‐dependent plasmablast RNA signature, anti‐dsDNA autoantibodies, total IgG and IgM, and increased complement C4, versus placebo), although the trial's primary endpoint (SLE Responder Index‐4 at week 48) was not met.<xref rid="all15261-bib-0099" ref-type="bibr">
+<sup>99</sup>
+</xref> Safety results were similar across all arms, except that serious AEs were more frequent with 200 mg twice‐daily fenebrutinib. More AEs led to treatment withdrawal in the fenebrutinib 200 mg twice‐daily group (19%; <italic toggle="yes">n</italic> = 17) than in the fenebrutinib 150 mg once daily group (8%; <italic toggle="yes">n</italic> = 7) or placebo group (8%; <italic toggle="yes">n</italic> = 7). The most common reason for discontinuation was lymphopenia (<italic toggle="yes">n</italic> = 1 and <italic toggle="yes">n</italic> = 3 in the 150 mg daily and 200 mg twice‐daily arms, respectively; <italic toggle="yes">n</italic> = 0 in the placebo arm).<xref rid="all15261-bib-0099" ref-type="bibr">
+<sup>99</sup>
+</xref>
+</p><p>In addition to these two “front runners,” other agents are in development for immune‐mediated dermatological conditions. Rilzabrutinib has been investigated in the multicenter, proof‐of‐concept, phase II, BELIEVE study in 27 patents with moderate and moderate‐to‐severe pemphigus vulgaris.<xref rid="all15261-bib-0100" ref-type="bibr">
+<sup>100</sup>
+</xref> Rilzabrutinib is being studied further in the pivotal, phase III, PEGASUS trial (131 patients with pemphigus vulgaris or pemphigus foliaceus have been enrolled worldwide); this trial did not meet its primary or key secondary endpoints.<xref rid="all15261-bib-0101" ref-type="bibr">
+<sup>101</sup>
+</xref>, <xref rid="all15261-bib-0102" ref-type="bibr">
+<sup>102</sup>
+</xref> Tirabrutinib is already approved for recurrent or refractory primary central nervous system lymphoma and under regulatory review for WM and lymphoplasmacytic lymphoma in Japan, and is in clinical development in Japan for pemphigus.<xref rid="all15261-bib-0088" ref-type="bibr">
+<sup>88</sup>
+</xref>, <xref rid="all15261-bib-0103" ref-type="bibr">
+<sup>103</sup>
+</xref> Patients are currently being recruited for phase II trials of branebrutinib: one in atopic dermatitis and the second in a range of conditions including SLE.<xref rid="all15261-bib-0104" ref-type="bibr">
+<sup>104</sup>
+</xref>, <xref rid="all15261-bib-0105" ref-type="bibr">
+<sup>105</sup>
+</xref>
+</p></sec><sec id="all15261-sec-0016"><label>4.4</label><title>The potential of BTK inhibitors to address unmet clinical needs in dermatology</title><p>Recent years have seen a number of therapeutic advances in immune‐mediated dermatological conditions such as CSU or pemphigus and also in SLE. The availability of monoclonal antibodies for the treatment of these conditions (e.g., omalizumab, rituximab, and belimumab, respectively<xref rid="all15261-bib-0106" ref-type="bibr">
+<sup>106</sup>
+</xref>, <xref rid="all15261-bib-0107" ref-type="bibr">
+<sup>107</sup>
+</xref>, <xref rid="all15261-bib-0108" ref-type="bibr">
+<sup>108</sup>
+</xref>) is a particularly exciting prospect. These biologic agents are, nonetheless, associated with limitations, such that important unmet needs remain in the management of these diseases.</p><p>Firstly, nearly a third of patients with CSU remain symptomatic when receiving licensed doses of omalizumab, even after 6 months of treatment.<xref rid="all15261-bib-0109" ref-type="bibr">
+<sup>109</sup>
+</xref> Strategies such as updosing and biomarker profiling are being investigated to try and improve the rate of clinical response.<xref rid="all15261-bib-0109" ref-type="bibr">
+<sup>109</sup>
+</xref>, <xref rid="all15261-bib-0110" ref-type="bibr">
+<sup>110</sup>
+</xref> The second limitation relates to the route of administration of the monoclonal antibody treatments. Those administered subcutaneously require training in self‐administration from a healthcare professional, while treatments administered intravenously are associated with considerable healthcare resource burden as dosing must be carried out in a hospital setting. In terms of mode of action, biologic treatments target one specific molecule. For conditions such as CSU or SLE with multifactorial pathogenesis, this may not be the optimal therapeutic approach. It is also important to consider the tolerability profiles of these biologic agents. The safety profile of omalizumab is generally considered highly favorable, although it demonstrated an increased frequency of mild‐to‐moderate AEs, which were mainly upper respiratory tract infections, compared with placebo in clinical trials.<xref rid="all15261-bib-0111" ref-type="bibr">
+<sup>111</sup>
+</xref> Rituximab is generally well tolerated, but treatment is associated with a rare, yet important, risk of infusion‐related reactions.<xref rid="all15261-bib-0112" ref-type="bibr">
+<sup>112</sup>
+</xref> Moreover, there is also a risk of severe infections during rituximab treatment, which may be fatal.<xref rid="all15261-bib-0113" ref-type="bibr">
+<sup>113</sup>
+</xref> Belimumab, which has been shown to improve mucocutaneous manifestations of SLE,<xref rid="all15261-bib-0114" ref-type="bibr">
+<sup>114</sup>
+</xref> demonstrated a similar overall rate of AEs as placebo in SLE clinical trials.<xref rid="all15261-bib-0115" ref-type="bibr">
+<sup>115</sup>
+</xref> However, it has also been associated with a risk of rare but severe AEs such as serious infections, neoplasms, and progressive multifocal leukoencephalopathy.<xref rid="all15261-bib-0115" ref-type="bibr">
+<sup>115</sup>
+</xref>
+</p><p>Drugs that target inhibition of the BTK pathway represent a new therapeutic approach for patients with immune‐mediated dermatological conditions and have the potential to address previously unmet needs. In contrast to monoclonal antibody treatments, these agents feature oral administration (although requiring more frequent dosing, so the likely impact on adherence is unclear) and a favorable mechanism of action that targets a significant pathogenic pathway rather than a single molecule. BTK inhibitors do not carry the safety concerns that have been associated with the biologic treatment options.</p><p>Generally speaking, across the immune‐mediated diseases market, small molecules are more accessible than biologics due to disparities in their science, production strategies, and existing government policies.<xref rid="all15261-bib-0116" ref-type="bibr">
+<sup>116</sup>
+</xref> However, pharmacoeconomical comparisons should be informed by other aspects such as efficacy, safety, direct, and indirect health and societal costs of treating chronic inflammatory diseases. Regarding diseases such as CSU or pemphigus, small molecules such as BTK inhibitors are entering a space already populated with approved biologic therapies, and only time can tell how this market will evolve.</p><p>It is also worth considering that BTK inhibitors may prove a useful tool to address gaps in understanding of the functions of MCs, basophils, and B cells, and their roles in the pathogenesis of skin diseases.<xref rid="all15261-bib-0117" ref-type="bibr">
+<sup>117</sup>
+</xref> For example, research with ibrutinib using the chronic urticaria–basophil activation test (CU‐BAT) has helped to show that the IgE/FcεRI‐BTK pathway is dominant for the degranulation of basophils treated with sera of patients with autoimmune CSU, but that its inhibition does not completely abrogate basophil activation in all patients.<xref rid="all15261-bib-0118" ref-type="bibr">
+<sup>118</sup>
+</xref>
+</p></sec></sec><sec sec-type="conclusions" id="all15261-sec-0017"><label>5</label><title>CONCLUSIONS</title><p>The development of treatments for immune‐mediated dermatological conditions presents a particular challenge: A successful therapy not only must be effective but also boast a tolerability profile that is acceptable for the long‐term treatment of a chronic condition that affects quality of life but does not significantly reduce life expectancy. BTK inhibitors present themselves as promising candidates for this role. The wide‐ranging clinical potential of BTK inhibition is based on the involvement of BTK in various inflammatory mechanisms and in the pathogenesis of many immunological disorders. Somewhat paradoxically, BTK inhibitors may also offer high levels of specificity with improved tolerability versus existing treatment options, owing to reduced off‐target activity. There is currently a focus on development of these agents in CSU and pemphigus, but they also have potential in SLE and other allergic/autoimmune disorders. In addition to inhibition of FcεRI signaling in MCs and basophils, other effects such as blocking of BCR signaling and disruption of autoantibody production may contribute to the efficacy of these agents and are worthy of further study.</p></sec><sec sec-type="COI-statement" id="all15261-sec-0019"><title>CONFLICTS OF INTEREST</title><p>PM‐B received honoraria for acting as a consultant and/or as a speaker for AbbVie, Janssen, Novartis, LEO Pharma, Almirall, Sanofi, Viatris, L’Oréal, and Cantabria Labs and served as a principal investigator in clinical trials supported by AbbVie, Sanofi, and Novartis. AB received honoraria for lectures and educational events for LEO Pharma, Janssen‐Cilag, AbbVie, and Novartis. PK received payment/honoraria for lectures/presentations outside of submitted work for Novartis and Roche.. SM‐R received funding from GA²LEN Global Allergy and Asthma European Network. MM served as a speaker and/or advisor for and/or has received research funding from Allakos, Amgen, Aralez, ArgenX, AstraZeneca, Blueprint, Celldex, Centogene, CSL Behring, FAES, Genentech, Gilead, GIInnovation, Innate Pharma, Kyowa Kirin, Leo Pharma, Lilly, Menarini, Moxie, Novartis, Roche, Sanofi/Regeneron, Third Harmonic Bio, UCB, and Uriach. SF and JS have no conflicts of interest to disclose.</p></sec></body><back><ack id="all15261-sec-0018"><title>ACKNOWLEDGMENT</title><p>We acknowledge Becky Fox‐Spencer, Ph.D. (on behalf of Bedrock Healthcare Communications), who provided writing support for this manuscript, funded by Novartis Pharma AG (Basel, Switzerland).</p></ack><ref-list content-type="cited-references" id="all15261-bibl-0001"><title>REFERENCES</title><ref id="all15261-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="all15261-cit-0001">
+<string-name name-style="western">
+<surname>Bruton</surname>
+<given-names>OC</given-names>
+</string-name>. <article-title>Agammaglobulinemia</article-title>. <source>Pediatrics</source>. <year>1952</year>;<volume>9</volume>(<issue>6</issue>):<fpage>722</fpage>‐<lpage>728</lpage>.<pub-id pub-id-type="pmid">14929630</pub-id></mixed-citation></ref><ref id="all15261-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="all15261-cit-0002">
+<string-name name-style="western">
+<surname>Vetrie</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vořechovský</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sideras</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>The gene involved in X‐linked agammaglobulinaemia is a member of the src family of protein‐tyrosine kinases</article-title>. <source>Nature</source>. <year>1993</year>;<volume>361</volume>(<issue>6409</issue>):<fpage>226</fpage>‐<lpage>233</lpage>.<pub-id pub-id-type="pmid">8380905</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/361226a0</pub-id></mixed-citation></ref><ref id="all15261-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="all15261-cit-0003">
+<string-name name-style="western">
+<surname>Tsukada</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saffran</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rawlings</surname>
+<given-names>DJ</given-names>
+</string-name>, et al. <article-title>Deficient expression of a B cell cytoplasmic tyrosine kinase in human X‐linked agammaglobulinemia</article-title>. <source>Cell</source>. <year>1993</year>;<volume>72</volume>(<issue>2</issue>):<fpage>279</fpage>‐<lpage>290</lpage>.<pub-id pub-id-type="pmid">8425221</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0092-8674(93)90667-f</pub-id></mixed-citation></ref><ref id="all15261-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="all15261-cit-0004">
+<string-name name-style="western">
+<surname>Thomas</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sideras</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>CI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vorechovsky</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chapman</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Paul</surname>
+<given-names>WE</given-names>
+</string-name>. <article-title>Colocalization of X‐linked agammaglobulinemia and X‐linked immunodeficiency genes</article-title>. <source>Science</source>. <year>1993</year>;<volume>261</volume>(<issue>5119</issue>):<fpage>355</fpage>‐<lpage>358</lpage>.<pub-id pub-id-type="pmid">8332900</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.8332900</pub-id></mixed-citation></ref><ref id="all15261-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="all15261-cit-0005">
+<string-name name-style="western">
+<surname>Rawlings</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Saffran</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsukada</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Mutation of unique region of Bruton's tyrosine kinase in immunodeficient XID mice</article-title>. <source>Science</source>. <year>1993</year>;<volume>261</volume>(<issue>5119</issue>):<fpage>358</fpage>‐<lpage>361</lpage>.<pub-id pub-id-type="pmid">8332901</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.8332901</pub-id></mixed-citation></ref><ref id="all15261-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="all15261-cit-0006">
+<string-name name-style="western">
+<surname>Honigberg</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sirisawad</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>The Bruton tyrosine kinase inhibitor PCI‐32765 blocks B‐cell activation and is efficacious in models of autoimmune disease and B‐cell malignancy</article-title>. <source>Proc Natl Acad Sci USA</source>. <year>2010</year>;<volume>107</volume>(<issue>29</issue>):<fpage>13075</fpage>‐<lpage>13080</lpage>.<pub-id pub-id-type="pmid">20615965</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1004594107</pub-id><pub-id pub-id-type="pmcid">PMC2919935</pub-id></mixed-citation></ref><ref id="all15261-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="all15261-cit-0007">
+<string-name name-style="western">
+<surname>Chang</surname>
+<given-names>BY</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Francesco</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>The Bruton tyrosine kinase inhibitor PCI‐32765 ameliorates autoimmune arthritis by inhibition of multiple effector cells</article-title>. <source>Arthritis Res Ther</source>. <year>2011</year>;<volume>13</volume>(<issue>4</issue>):<fpage>R115</fpage>.<pub-id pub-id-type="pmid">21752263</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/ar3400</pub-id><pub-id pub-id-type="pmcid">PMC3239353</pub-id></mixed-citation></ref><ref id="all15261-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="all15261-cit-0008">
+<string-name name-style="western">
+<surname>Hendriks</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yuvaraj</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kil</surname>
+<given-names>LP</given-names>
+</string-name>. <article-title>Targeting Bruton's tyrosine kinase in B cell malignancies</article-title>. <source>Nat Rev Cancer</source>. <year>2014</year>;<volume>14</volume>(<issue>4</issue>):<fpage>219</fpage>‐<lpage>232</lpage>.<pub-id pub-id-type="pmid">24658273</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrc3702</pub-id></mixed-citation></ref><ref id="all15261-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="all15261-cit-0009">
+<string-name name-style="western">
+<surname>Hartkamp</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fine</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>van Es</surname>
+<given-names>IE</given-names>
+</string-name>, et al. <article-title>Btk inhibition suppresses agonist‐induced human macrophage activation and inflammatory gene expression in RA synovial tissue explants</article-title>. <source>Ann Rheum Dis</source>. <year>2015</year>;<volume>74</volume>(<issue>8</issue>):<fpage>1603</fpage>‐<lpage>1611</lpage>.<pub-id pub-id-type="pmid">24764451</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/annrheumdis-2013-204143</pub-id></mixed-citation></ref><ref id="all15261-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="all15261-cit-0010">
+<string-name name-style="western">
+<surname>de Gorter</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beuling</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kersseboom</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Bruton's tyrosine kinase and phospholipase Cgamma2 mediate chemokine‐controlled B cell migration and homing</article-title>. <source>Immunity</source>. <year>2007</year>;<volume>26</volume>(<issue>1</issue>):<fpage>93</fpage>‐<lpage>104</lpage>.<pub-id pub-id-type="pmid">17239630</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.immuni.2006.11.012</pub-id></mixed-citation></ref><ref id="all15261-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="all15261-cit-0011">
+<string-name name-style="western">
+<surname>Brunner</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Muller</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wirth</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Bruton's Tyrosine Kinase is involved in innate and adaptive immunity</article-title>. <source>Histol Histopathol</source>. <year>2005</year>;<volume>20</volume>(<issue>3</issue>):<fpage>945</fpage>‐<lpage>955</lpage>.<pub-id pub-id-type="pmid">15944945</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.14670/HH-20.945</pub-id></mixed-citation></ref><ref id="all15261-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="all15261-cit-0012">
+<string-name name-style="western">
+<surname>Pal Singh</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dammeijer</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hendriks</surname>
+<given-names>RW</given-names>
+</string-name>. <article-title>Role of Bruton's tyrosine kinase in B cells and malignancies</article-title>. <source>Mol Cancer</source>. <year>2018</year>;<volume>17</volume>(<issue>1</issue>):<fpage>57</fpage>.<pub-id pub-id-type="pmid">29455639</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12943-018-0779-z</pub-id><pub-id pub-id-type="pmcid">PMC5817726</pub-id></mixed-citation></ref><ref id="all15261-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="all15261-cit-0013">
+<string-name name-style="western">
+<surname>Xia</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cao</surname>
+<given-names>X</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xu</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>T‐cell expression of Bruton's tyrosine kinase promotes autoreactive T‐cell activation and exacerbates aplastic anemia</article-title>. <source>Cell Mol Immunol</source>. <year>2020</year>;<volume>17</volume>(<issue>10</issue>):<fpage>1042</fpage>‐<lpage>1052</lpage>.<pub-id pub-id-type="pmid">31431692</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41423-019-0270-9</pub-id><pub-id pub-id-type="pmcid">PMC7608443</pub-id></mixed-citation></ref><ref id="all15261-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="all15261-cit-0014">
+<string-name name-style="western">
+<surname>Bao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Han</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Tyrosine kinase Btk is required for NK cell activation</article-title>. <source>J Biol Chem</source>. <year>2012</year>;<volume>287</volume>(<issue>28</issue>):<fpage>23769</fpage>‐<lpage>23778</lpage>.<pub-id pub-id-type="pmid">22589540</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.M112.372425</pub-id><pub-id pub-id-type="pmcid">PMC3390651</pub-id></mixed-citation></ref><ref id="all15261-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="all15261-cit-0015">
+<string-name name-style="western">
+<surname>Fiedler</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sindrilaru</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Terszowski</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Neutrophil development and function critically depend on Bruton tyrosine kinase in a mouse model of X‐linked agammaglobulinemia</article-title>. <source>Blood</source>. <year>2011</year>;<volume>117</volume>(<issue>4</issue>):<fpage>1329</fpage>‐<lpage>1339</lpage>.<pub-id pub-id-type="pmid">21063022</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood-2010-04-281170</pub-id></mixed-citation></ref><ref id="all15261-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="all15261-cit-0016">
+<string-name name-style="western">
+<surname>Smiljkovic</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Blatt</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stefanzl</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>BTK inhibition is a potent approach to block IgE‐mediated histamine release in human basophils</article-title>. <source>Allergy</source>. <year>2017</year>;<volume>72</volume>(<issue>11</issue>):<fpage>1666</fpage>‐<lpage>1676</lpage>.<pub-id pub-id-type="pmid">28328081</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/all.13166</pub-id><pub-id pub-id-type="pmcid">PMC5655929</pub-id></mixed-citation></ref><ref id="all15261-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="all15261-cit-0017">
+<string-name name-style="western">
+<surname>Koprulu</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ellmeier</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>The role of Tec family kinases in mononuclear phagocytes</article-title>. <source>Crit Rev Immunol</source>. <year>2009</year>;<volume>29</volume>(<issue>4</issue>):<fpage>317</fpage>‐<lpage>333</lpage>.<pub-id pub-id-type="pmid">19673686</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1615/critrevimmunol.v29.i4.30</pub-id></mixed-citation></ref><ref id="all15261-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="all15261-cit-0018">
+<string-name name-style="western">
+<surname>Advani</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Buggy</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sharman</surname>
+<given-names>JP</given-names>
+</string-name>, et al. <article-title>Bruton tyrosine kinase inhibitor ibrutinib (PCI‐32765) has significant activity in patients with relapsed/refractory B‐cell malignancies</article-title>. <source>J Clin Oncol</source>. <year>2013</year>;<volume>31</volume>(<issue>1</issue>):<fpage>88</fpage>‐<lpage>94</lpage>.<pub-id pub-id-type="pmid">23045577</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1200/JCO.2012.42.7906</pub-id><pub-id pub-id-type="pmcid">PMC5505166</pub-id></mixed-citation></ref><ref id="all15261-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="all15261-cit-0019">
+<string-name name-style="western">
+<surname>Cameron</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sanford</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Ibrutinib: first global approval</article-title>. <source>Drugs</source>. <year>2014</year>;<volume>74</volume>(<issue>2</issue>):<fpage>263</fpage>‐<lpage>271</lpage>.<pub-id pub-id-type="pmid">24464309</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40265-014-0178-8</pub-id></mixed-citation></ref><ref id="all15261-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="all15261-cit-0020">
+<string-name name-style="western">
+<surname>Wen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Shi</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Qian</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Inhibitors targeting Bruton's tyrosine kinase in cancers: drug development advances</article-title>. <source>Leukemia</source>. <year>2021</year>;<volume>35</volume>(<issue>2</issue>):<fpage>312</fpage>‐<lpage>332</lpage>.<pub-id pub-id-type="pmid">33122850</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41375-020-01072-6</pub-id><pub-id pub-id-type="pmcid">PMC7862069</pub-id></mixed-citation></ref><ref id="all15261-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="all15261-cit-0021">
+<string-name name-style="western">
+<surname>Carnero Contentti</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Correale</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Bruton's tyrosine kinase inhibitors: a promising emerging treatment option for multiple sclerosis</article-title>. <source>Expert Opin Emerg Drugs</source>. <year>2020</year>;<volume>25</volume>(<issue>4</issue>):<fpage>377</fpage>‐<lpage>381</lpage>.<pub-id pub-id-type="pmid">32910702</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/14728214.2020.1822817</pub-id></mixed-citation></ref><ref id="all15261-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="all15261-cit-0022">
+<string-name name-style="western">
+<surname>Neys</surname>
+<given-names>SFH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hendriks</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Corneth</surname>
+<given-names>OBJ</given-names>
+</string-name>. <article-title>Targeting Bruton's tyrosine kinase in inflammatory and autoimmune pathologies</article-title>. <source>Front Cell Dev Biol</source>. <year>2021</year>;<volume>9</volume>: <fpage>668131</fpage>.<pub-id pub-id-type="pmid">34150760</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fcell.2021.668131</pub-id><pub-id pub-id-type="pmcid">PMC8213343</pub-id></mixed-citation></ref><ref id="all15261-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="all15261-cit-0023">
+<string-name name-style="western">
+<surname>Bradshaw</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>The Src, Syk, and Tec family kinases: distinct types of molecular switches</article-title>. <source>Cell Signal</source>. <year>2010</year>;<volume>22</volume>(<issue>8</issue>):<fpage>1175</fpage>‐<lpage>1184</lpage>.<pub-id pub-id-type="pmid">20206686</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.cellsig.2010.03.001</pub-id></mixed-citation></ref><ref id="all15261-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="all15261-cit-0024">
+<string-name name-style="western">
+<surname>Aoki</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Isselbacher</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pillai</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Bruton tyrosine kinase is tyrosine phosphorylated and activated in pre‐B lymphocytes and receptor‐ligated B cells</article-title>. <source>Proc Natl Acad Sci USA</source>. <year>1994</year>;<volume>91</volume>(<issue>22</issue>):<fpage>10606</fpage>‐<lpage>10609</lpage>.<pub-id pub-id-type="pmid">7524098</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.91.22.10606</pub-id><pub-id pub-id-type="pmcid">PMC45070</pub-id></mixed-citation></ref><ref id="all15261-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="all15261-cit-0025">
+<string-name name-style="western">
+<surname>Gilfillan</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rivera</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>The tyrosine kinase network regulating mast cell activation</article-title>. <source>Immunol Rev</source>. <year>2009</year>;<volume>228</volume>(<issue>1</issue>):<fpage>149</fpage>‐<lpage>169</lpage>.<pub-id pub-id-type="pmid">19290926</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1600-065X.2008.00742.x</pub-id><pub-id pub-id-type="pmcid">PMC2669301</pub-id></mixed-citation></ref><ref id="all15261-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="all15261-cit-0026">
+<string-name name-style="western">
+<surname>Wahl</surname>
+<given-names>MI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fluckiger</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kato</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Witte</surname>
+<given-names>ON</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Rawlings</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>Phosphorylation of two regulatory tyrosine residues in the activation of Bruton's tyrosine kinase via alternative receptors</article-title>. <source>Proc Natl Acad Sci USA</source>. <year>1997</year>;<volume>94</volume>(<issue>21</issue>):<fpage>11526</fpage>‐<lpage>11533</lpage>.<pub-id pub-id-type="pmid">9326643</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.94.21.11526</pub-id><pub-id pub-id-type="pmcid">PMC23526</pub-id></mixed-citation></ref><ref id="all15261-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="all15261-cit-0027">
+<string-name name-style="western">
+<surname>Rawlings</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Scharenberg</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Park</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Activation of BTK by a phosphorylation mechanism initiated by SRC family kinases</article-title>. <source>Science</source>. <year>1996</year>;<volume>271</volume>(<issue>5250</issue>):<fpage>822</fpage>‐<lpage>825</lpage>.<pub-id pub-id-type="pmid">8629002</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.271.5250.822</pub-id></mixed-citation></ref><ref id="all15261-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="all15261-cit-0028">
+<string-name name-style="western">
+<surname>Park</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wahl</surname>
+<given-names>MI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Afar</surname>
+<given-names>DEH</given-names>
+</string-name>, et al. <article-title>Regulation of Btk function by a major autophosphorylation site within the SH3 domain</article-title>. <source>Immunity</source>. <year>1996</year>;<volume>4</volume>(<issue>5</issue>):<fpage>515</fpage>‐<lpage>525</lpage>.<pub-id pub-id-type="pmid">8630736</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s1074-7613(00)80417-3</pub-id></mixed-citation></ref><ref id="all15261-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="all15261-cit-0029">
+<string-name name-style="western">
+<surname>Pivniouk</surname>
+<given-names>VI</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Martin</surname>
+<given-names>TR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Lu‐Kuo</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Katz</surname>
+<given-names>HR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Oettgen</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Geha</surname>
+<given-names>RS</given-names>
+</string-name>. <article-title>SLP‐76 deficiency impairs signaling via the high‐affinity IgE receptor in mast cells</article-title>. <source>J Clin Invest</source>. <year>1999</year>;<volume>103</volume>(<issue>12</issue>):<fpage>1737</fpage>‐<lpage>1743</lpage>.<pub-id pub-id-type="pmid">10377180</pub-id><pub-id pub-id-type="pmcid">PMC408386</pub-id></mixed-citation></ref><ref id="all15261-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="all15261-cit-0030">
+<string-name name-style="western">
+<surname>Fu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Turck</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kurosaki</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chan</surname>
+<given-names>AC</given-names>
+</string-name>. <article-title>BLNK: a central linker protein in B cell activation</article-title>. <source>Immunity</source>. <year>1998</year>;<volume>9</volume>(<issue>1</issue>):<fpage>93</fpage>‐<lpage>103</lpage>.<pub-id pub-id-type="pmid">9697839</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s1074-7613(00)80591-9</pub-id></mixed-citation></ref><ref id="all15261-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="all15261-cit-0031">
+<string-name name-style="western">
+<surname>Takata</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kurosaki</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>A role for Bruton's tyrosine kinase in B cell antigen receptor‐mediated activation of phospholipase C‐gamma 2</article-title>. <source>J Exp Med</source>. <year>1996</year>;<volume>184</volume>(<issue>1</issue>):<fpage>31</fpage>‐<lpage>40</lpage>.<pub-id pub-id-type="pmid">8691147</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1084/jem.184.1.31</pub-id><pub-id pub-id-type="pmcid">PMC2192683</pub-id></mixed-citation></ref><ref id="all15261-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="all15261-cit-0032">
+<string-name name-style="western">
+<surname>Crofford</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nyhoff</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sheehan</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kendall</surname>
+<given-names>PL</given-names>
+</string-name>. <article-title>The role of Bruton's tyrosine kinase in autoimmunity and implications for therapy</article-title>. <source>Expert Rev Clin Immunol</source>. <year>2016</year>;<volume>12</volume>(<issue>7</issue>):<fpage>763</fpage>‐<lpage>773</lpage>.<pub-id pub-id-type="pmid">26864273</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1586/1744666X.2016.1152888</pub-id><pub-id pub-id-type="pmcid">PMC5070917</pub-id></mixed-citation></ref><ref id="all15261-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="all15261-cit-0033">
+<string-name name-style="western">
+<surname>Bame</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Burns</surname>
+<given-names>JC</given-names>
+</string-name>, et al. <article-title>Next‐generation Bruton's tyrosine kinase inhibitor BIIB091 selectively and potently inhibits B cell and Fc receptor signaling and downstream functions in B cells and myeloid cells</article-title>. <source>Clin Transl Immunology</source>. <year>2021</year>;<volume>10</volume>(<issue>6</issue>):<elocation-id>e1295</elocation-id>.<pub-id pub-id-type="pmid">34141433</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cti2.1295</pub-id><pub-id pub-id-type="pmcid">PMC8204096</pub-id></mixed-citation></ref><ref id="all15261-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="all15261-cit-0034">
+<string-name name-style="western">
+<surname>Leandro</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>B‐cell subpopulations in humans and their differential susceptibility to depletion with anti‐CD20 monoclonal antibodies</article-title>. <source>Arthritis Res Ther</source>. <year>2013</year>;<volume>15</volume>(<issue>Suppl 1</issue>):<fpage>S3</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/ar3908</pub-id><pub-id pub-id-type="pmcid">PMC3624669</pub-id><pub-id pub-id-type="pmid">23566754</pub-id></mixed-citation></ref><ref id="all15261-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="all15261-cit-0035">
+<string-name name-style="western">
+<surname>Rip</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Van Der Ploeg</surname>
+<given-names>EK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hendriks</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Corneth</surname>
+<given-names>OBJ</given-names>
+</string-name>. <article-title>The role of Bruton's tyrosine kinase in immune cell signaling and systemic autoimmunity</article-title>. <source>Crit Rev Immunol</source>. <year>2018</year>;<volume>38</volume>(<issue>1</issue>):<fpage>17</fpage>‐<lpage>62</lpage>.<pub-id pub-id-type="pmid">29717662</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1615/CritRevImmunol.2018025184</pub-id></mixed-citation></ref><ref id="all15261-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="all15261-cit-0036">
+<string-name name-style="western">
+<surname>Dispenza</surname>
+<given-names>MC</given-names>
+</string-name>. <article-title>The use of Bruton's tyrosine kinase inhibitors to treat allergic disorders</article-title>. <source>Curr Treat Options Allergy</source>. <year>2021</year>;<volume>8</volume>(<issue>3</issue>):<fpage>261</fpage>‐<lpage>273</lpage>.<pub-id pub-id-type="pmid">33880321</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40521-021-00286-y</pub-id><pub-id pub-id-type="pmcid">PMC8050815</pub-id></mixed-citation></ref><ref id="all15261-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="all15261-cit-0037">
+<string-name name-style="western">
+<surname>MacGlashan</surname>
+<given-names>D</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name name-style="western">
+<surname>Honigberg</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Buggy</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schroeder</surname>
+<given-names>JT</given-names>
+</string-name>. <article-title>Inhibition of IgE‐mediated secretion from human basophils with a highly selective Bruton's tyrosine kinase, Btk, inhibitor</article-title>. <source>Int Immunopharmacol</source>. <year>2011</year>;<volume>11</volume>(<issue>4</issue>):<fpage>475</fpage>‐<lpage>479</lpage>.<pub-id pub-id-type="pmid">21238622</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.intimp.2010.12.018</pub-id><pub-id pub-id-type="pmcid">PMC3345890</pub-id></mixed-citation></ref><ref id="all15261-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="all15261-cit-0038">
+<string-name name-style="western">
+<surname>Regan</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dispenza</surname>
+<given-names>MC</given-names>
+</string-name>, et al. <article-title>Ibrutinib, a Bruton's tyrosine kinase inhibitor used for treatment of lymphoproliferative disorders, eliminates both aeroallergen skin test and basophil activation test reactivity</article-title>. <source>J Allergy Clin Immunol</source>. <year>2017</year>;<volume>140</volume>(<issue>3</issue>):<fpage>875</fpage>‐<lpage>879.e1</lpage>.<pub-id pub-id-type="pmid">28389390</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jaci.2017.03.013</pub-id><pub-id pub-id-type="pmcid">PMC7366359</pub-id></mixed-citation></ref><ref id="all15261-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="all15261-cit-0039">
+<string-name name-style="western">
+<surname>Kaul</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>End</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cabanski</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Remibrutinib (LOU064): a selective potent oral BTK inhibitor with promising clinical safety and pharmacodynamics in a randomized phase I trial</article-title>. <source>Clin Transl Sci</source>. <year>2021</year>;<volume>14</volume>(<issue>5</issue>):<fpage>1756</fpage>‐<lpage>1768</lpage>. doi:<pub-id pub-id-type="doi">10.1111/cts.13005</pub-id>
+<pub-id pub-id-type="pmid">33834628</pub-id><pub-id pub-id-type="pmcid">PMC8504815</pub-id></mixed-citation></ref><ref id="all15261-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="all15261-cit-0040">
+<string-name name-style="western">
+<surname>Ellmeier</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abramova</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Schebesta</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Tec family kinases: regulation of FcepsilonRI‐mediated mast‐cell activation</article-title>. <source>FEBS J</source>. <year>2011</year>;<volume>278</volume>(<issue>12</issue>):<fpage>1990</fpage>‐<lpage>2000</lpage>.<pub-id pub-id-type="pmid">21362140</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1742-4658.2011.08073.x</pub-id></mixed-citation></ref><ref id="all15261-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="all15261-cit-0041">
+<string-name name-style="western">
+<surname>Folkerts</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Redegeld</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Folkerts</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Butyrate inhibits human mast cell activation via epigenetic regulation of FcepsilonRI‐mediated signaling</article-title>. <source>Allergy</source>. <year>2020</year>;<volume>75</volume>(<issue>8</issue>):<fpage>1966</fpage>‐<lpage>1978</lpage>.<pub-id pub-id-type="pmid">32112426</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/all.14254</pub-id><pub-id pub-id-type="pmcid">PMC7703657</pub-id></mixed-citation></ref><ref id="all15261-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="all15261-cit-0042">
+<string-name name-style="western">
+<surname>Simonowski</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wilhelm</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Habib</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zorn</surname>
+<given-names>CN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huber</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Differential use of BTK and PLC in FcepsilonRI‐ and KIT‐mediated mast cell activation: a marginal role of BTK upon KIT activation</article-title>. <source>Biochim Biophys Acta Mol Cell Res</source>. <year>2020</year>;<volume>1867</volume>(<issue>4</issue>):<fpage>118622</fpage>.<pub-id pub-id-type="pmid">31837347</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbamcr.2019.118622</pub-id></mixed-citation></ref><ref id="all15261-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="all15261-cit-0043">
+<string-name name-style="western">
+<surname>Xing</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chu</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wadhwa</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Preclinical mechanisms of topical PRN473, a Bruton tyrosine kinase inhibitor, in immune‐mediated skin disease models</article-title>. <source>ImmunoHorizons</source>. <year>2021</year>;<volume>5</volume>(<issue>7</issue>):<fpage>581</fpage>‐<lpage>589</lpage>.<pub-id pub-id-type="pmid">34326199</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4049/immunohorizons.2100063</pub-id></mixed-citation></ref><ref id="all15261-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="all15261-cit-0044">
+<string-name name-style="western">
+<surname>Ren</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Campbell</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fang</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Analysis of the effects of the Bruton's tyrosine kinase (Btk) inhibitor ibrutinib on monocyte Fcgamma receptor (FcgammaR) function</article-title>. <source>J Biol Chem</source>. <year>2016</year>;<volume>291</volume>(<issue>6</issue>):<fpage>3043</fpage>‐<lpage>3052</lpage>.<pub-id pub-id-type="pmid">26627823</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.M115.687251</pub-id><pub-id pub-id-type="pmcid">PMC4742765</pub-id></mixed-citation></ref><ref id="all15261-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="all15261-cit-0045">
+<string-name name-style="western">
+<surname>Zuberbier</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aberer</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Asero</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>The EAACI/GA(2)LEN/EDF/WAO guideline for the definition, classification, diagnosis and management of urticaria</article-title>. <source>Allergy</source>. <year>2018</year>;<volume>73</volume>(<issue>7</issue>):<fpage>1393</fpage>‐<lpage>1414</lpage>.<pub-id pub-id-type="pmid">29336054</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/all.13397</pub-id></mixed-citation></ref><ref id="all15261-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="all15261-cit-0046">
+<string-name name-style="western">
+<surname>Gonçalo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gimenéz‐Arnau</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Al‐Ahmad</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>The global burden of chronic urticaria for the patient and society</article-title>. <source>Br J Dermatol</source>. <year>2021</year>;<volume>184</volume>(<issue>2</issue>):<fpage>226</fpage>‐<lpage>236</lpage>.<pub-id pub-id-type="pmid">32956489</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/bjd.19561</pub-id></mixed-citation></ref><ref id="all15261-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="all15261-cit-0047">
+<string-name name-style="western">
+<surname>Fricke</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ávila</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Keller</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Prevalence of chronic urticaria in children and adults across the globe: systematic review with meta‐analysis</article-title>. <source>Allergy</source>. <year>2020</year>;<volume>75</volume>(<issue>2</issue>):<fpage>423</fpage>‐<lpage>432</lpage>.<pub-id pub-id-type="pmid">31494963</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/all.14037</pub-id></mixed-citation></ref><ref id="all15261-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="all15261-cit-0048">
+<string-name name-style="western">
+<surname>Maurer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Weller</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bindslev‐Jensen</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Unmet clinical needs in chronic spontaneous urticaria. A GA(2)LEN task force report</article-title>. <source>Allergy</source>. <year>2011</year>;<volume>66</volume>(<issue>3</issue>):<fpage>317</fpage>‐<lpage>330</lpage>.<pub-id pub-id-type="pmid">21083565</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1398-9995.2010.02496.x</pub-id></mixed-citation></ref><ref id="all15261-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="all15261-cit-0049">
+<string-name name-style="western">
+<surname>Maurer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Giménez‐Arnau</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sussman</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Ligelizumab for chronic spontaneous urticaria</article-title>. <source>N Engl J Med</source>. <year>2019</year>;<volume>381</volume>(<issue>14</issue>):<fpage>1321</fpage>‐<lpage>1332</lpage>.<pub-id pub-id-type="pmid">31577874</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1056/NEJMoa1900408</pub-id></mixed-citation></ref><ref id="all15261-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="all15261-cit-0050">
+<string-name name-style="western">
+<surname>Guillen‐Aguinaga</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jauregui Presa</surname>
+<given-names>I</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aguinaga‐Ontoso</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guillen‐Grima</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ferrer</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Updosing nonsedating antihistamines in patients with chronic spontaneous urticaria: a systematic review and meta‐analysis</article-title>. <source>Br J Dermatol</source>. <year>2016</year>;<volume>175</volume>(<issue>6</issue>):<fpage>1153</fpage>‐<lpage>1165</lpage>.<pub-id pub-id-type="pmid">27237730</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/bjd.14768</pub-id></mixed-citation></ref><ref id="all15261-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="all15261-cit-0051">
+<string-name name-style="western">
+<surname>Maurer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eyerich</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eyerich</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Urticaria: collegium internationale allergologicum (CIA) Update 2020</article-title>. <source>Int Arch Allergy Immunol</source>. <year>2020</year>;<volume>181</volume>(<issue>5</issue>):<fpage>321</fpage>‐<lpage>333</lpage>.<pub-id pub-id-type="pmid">32224621</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000507218</pub-id><pub-id pub-id-type="pmcid">PMC7265766</pub-id></mixed-citation></ref><ref id="all15261-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="all15261-cit-0052">
+<string-name name-style="western">
+<surname>Ertas</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ozyurt</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Atasoy</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hawro</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maurer</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The clinical response to omalizumab in chronic spontaneous urticaria patients is linked to and predicted by IgE levels and their change</article-title>. <source>Allergy</source>. <year>2018</year>;<volume>73</volume>(<issue>3</issue>):<fpage>705</fpage>‐<lpage>712</lpage>.<pub-id pub-id-type="pmid">29083482</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/all.13345</pub-id></mixed-citation></ref><ref id="all15261-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="all15261-cit-0053">
+<string-name name-style="western">
+<surname>Kolkhir</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Church</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Altrichter</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>Eosinopenia, in chronic spontaneous urticaria, is associated with high disease activity, autoimmunity, and poor response to treatment</article-title>. <source>J Allergy Clin Immunol Pract</source>. <year>2020</year>;<volume>8</volume>(<issue>1</issue>):<fpage>318</fpage>‐<lpage>325.e5</lpage>.<pub-id pub-id-type="pmid">31472293</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jaip.2019.08.025</pub-id></mixed-citation></ref><ref id="all15261-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="all15261-cit-0054">
+<string-name name-style="western">
+<surname>Altrichter</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fok</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jiao</surname>
+<given-names>Q</given-names>
+</string-name>, et al. <article-title>Total IgE as a marker for chronic spontaneous urticaria</article-title>. <source>Allergy Asthma Immunol Res</source>. <year>2021</year>;<volume>13</volume>(<issue>2</issue>):<fpage>206</fpage>‐<lpage>218</lpage>.<pub-id pub-id-type="pmid">33474856</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4168/aair.2021.13.2.206</pub-id><pub-id pub-id-type="pmcid">PMC7840871</pub-id></mixed-citation></ref><ref id="all15261-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="all15261-cit-0055">
+<string-name name-style="western">
+<surname>Schoepke</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Asero</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ellrich</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Biomarkers and clinical characteristics of autoimmune chronic spontaneous urticaria: results of the PURIST Study</article-title>. <source>Allergy</source>. <year>2019</year>;<volume>74</volume>(<issue>12</issue>):<fpage>2427</fpage>‐<lpage>2436</lpage>.<pub-id pub-id-type="pmid">31228881</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/all.13949</pub-id></mixed-citation></ref><ref id="all15261-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="all15261-cit-0056">
+<string-name name-style="western">
+<surname>Didona</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maglie</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Eming</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hertl</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Pemphigus: current and future therapeutic strategies</article-title>. <source>Front Immunol</source>. <year>2019</year>;<volume>10</volume>:<fpage>1418</fpage>.<pub-id pub-id-type="pmid">31293582</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2019.01418</pub-id><pub-id pub-id-type="pmcid">PMC6603181</pub-id></mixed-citation></ref><ref id="all15261-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="all15261-cit-0057">
+<string-name name-style="western">
+<surname>Kasperkiewicz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ellebrecht</surname>
+<given-names>CT</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Takahashi</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Pemphigus</article-title>. <source>Nat Rev Dis Primers</source>. <year>2017</year>;<volume>3</volume>:<fpage>17026</fpage>.<pub-id pub-id-type="pmid">28492232</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrdp.2017.26</pub-id><pub-id pub-id-type="pmcid">PMC5901732</pub-id></mixed-citation></ref><ref id="all15261-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="all15261-cit-0058">
+<string-name name-style="western">
+<surname>Joly</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Horvath</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patsatsi</surname>
+<given-names>Α</given-names>
+</string-name>, et al. <article-title>Updated S2K guidelines on the management of pemphigus vulgaris and foliaceus initiated by the European academy of dermatology and venereology (EADV)</article-title>. <source>J Eur Acad Dermatol Venereol</source>. <year>2020</year>;<volume>34</volume>(<issue>9</issue>):<fpage>1900</fpage>‐<lpage>1913</lpage>.<pub-id pub-id-type="pmid">32830877</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jdv.16752</pub-id></mixed-citation></ref><ref id="all15261-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="all15261-cit-0059">
+<string-name name-style="western">
+<surname>Izumi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Bieber</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ludwig</surname>
+<given-names>RJ</given-names>
+</string-name>. <article-title>Current clinical trials in pemphigus and pemphigoid</article-title>. <source>Front Immunol</source>. <year>2019</year>;<volume>10</volume>:<fpage>978</fpage>.<pub-id pub-id-type="pmid">31130959</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2019.00978</pub-id><pub-id pub-id-type="pmcid">PMC6509547</pub-id></mixed-citation></ref><ref id="all15261-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="all15261-cit-0060">
+<string-name name-style="western">
+<surname>Roth‐Walter</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Adcock</surname>
+<given-names>IM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Benito‐Villalvilla</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>Immune modulation via T regulatory cell enhancement: Disease‐modifying therapies for autoimmunity and their potential for chronic allergic and inflammatory diseases‐An EAACI position paper of the Task Force on Immunopharmacology (TIPCO)</article-title>. <source>Allergy</source>. <year>2021</year>;<volume>76</volume>(<issue>1</issue>):<fpage>90</fpage>‐<lpage>113</lpage>.<pub-id pub-id-type="pmid">32593226</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/all.14478</pub-id></mixed-citation></ref><ref id="all15261-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="all15261-cit-0061">
+<string-name name-style="western">
+<surname>Sabat</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jemec</surname>
+<given-names>GBE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Matusiak</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kimball</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prens</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wolk</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Hidradenitis suppurativa</article-title>. <source>Nat Rev Dis Primers</source>. <year>2020</year>;<volume>6</volume>(<issue>1</issue>):<fpage>18</fpage>.<pub-id pub-id-type="pmid">32165620</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41572-020-0149-1</pub-id></mixed-citation></ref><ref id="all15261-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="all15261-cit-0062">
+<string-name name-style="western">
+<surname>Rumberger</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Boarder</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Owens</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Howell</surname>
+<given-names>MD</given-names>
+</string-name>. <article-title>Transcriptomic analysis of hidradenitis suppurativa skin suggests roles for multiple inflammatory pathways in disease pathogenesis</article-title>. <source>Inflamm Res</source>. <year>2020</year>;<volume>69</volume>(<issue>10</issue>):<fpage>967</fpage>‐<lpage>973</lpage>.<pub-id pub-id-type="pmid">32661800</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00011-020-01381-7</pub-id></mixed-citation></ref><ref id="all15261-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="all15261-cit-0063">
+<string-name name-style="western">
+<surname>Gulliver</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zouboulis</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Prens</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jemec</surname>
+<given-names>GB</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tzellos</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Evidence‐based approach to the treatment of hidradenitis suppurativa/acne inversa, based on the European guidelines for hidradenitis suppurativa</article-title>. <source>Rev Endocr Metab Disord</source>. <year>2016</year>;<volume>17</volume>(<issue>3</issue>):<fpage>343</fpage>‐<lpage>351</lpage>.<pub-id pub-id-type="pmid">26831295</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s11154-016-9328-5</pub-id><pub-id pub-id-type="pmcid">PMC5156664</pub-id></mixed-citation></ref><ref id="all15261-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="all15261-cit-0064">
+<string-name name-style="western">
+<surname>Gudjonsson</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsoi</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ma</surname>
+<given-names>F</given-names>
+</string-name>, et al. <article-title>Contribution of plasma cells and B cells to hidradenitis suppurativa pathogenesis</article-title>. <source>JCI Insight</source>. <year>2020</year>;<volume>5</volume>(<issue>19</issue>). doi:<pub-id pub-id-type="doi">10.1172/jci.insight.139930</pub-id>
+<pub-id pub-id-type="pmcid">PMC7566715</pub-id><pub-id pub-id-type="pmid">32853177</pub-id></mixed-citation></ref><ref id="all15261-bib-0065"><label>65</label><mixed-citation publication-type="journal" id="all15261-cit-0065">
+<string-name name-style="western">
+<surname>Lorenzo‐Vizcaya</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fasano</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Isenberg</surname>
+<given-names>DA</given-names>
+</string-name>. <article-title>Bruton's tyrosine kinase inhibitors: a new therapeutic target for the treatment of SLE?</article-title>
+<source>Immunotargets Ther</source>. <year>2020</year>;<volume>9</volume>:<fpage>105</fpage>‐<lpage>110</lpage>.<pub-id pub-id-type="pmid">32582577</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/ITT.S240874</pub-id><pub-id pub-id-type="pmcid">PMC7276208</pub-id></mixed-citation></ref><ref id="all15261-bib-0066"><label>66</label><mixed-citation publication-type="journal" id="all15261-cit-0066">
+<string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>H‐Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cao</surname>
+<given-names>N‐W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>Systemic lupus erythematosus patients have a distinct structural and functional skin microbiota compared with controls</article-title>. <source>Lupus</source>. <year>2021</year>;<volume>30</volume>(<issue>10</issue>):<fpage>1553</fpage>‐<lpage>1564</lpage>. doi:<pub-id pub-id-type="doi">10.1177/09612033211025095</pub-id>
+<pub-id pub-id-type="pmid">34139926</pub-id></mixed-citation></ref><ref id="all15261-bib-0067"><label>67</label><mixed-citation publication-type="journal" id="all15261-cit-0067">
+<string-name name-style="western">
+<surname>Mathias</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stohl</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Systemic lupus erythematosus (SLE): emerging therapeutic targets</article-title>. <source>Expert Opin Ther Targets</source>. <year>2020</year>;<volume>24</volume>(<issue>12</issue>):<fpage>1283</fpage>‐<lpage>1302</lpage>.<pub-id pub-id-type="pmid">33034541</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/14728222.2020.1832464</pub-id></mixed-citation></ref><ref id="all15261-bib-0068"><label>68</label><mixed-citation publication-type="journal" id="all15261-cit-0068">
+<string-name name-style="western">
+<surname>Stohl</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hilbert</surname>
+<given-names>DM</given-names>
+</string-name>. <article-title>The discovery and development of belimumab: the anti‐BLyS‐lupus connection</article-title>. <source>Nat Biotechnol</source>. <year>2012</year>;<volume>30</volume>(<issue>1</issue>):<fpage>69</fpage>‐<lpage>77</lpage>.<pub-id pub-id-type="pmid">22231104</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nbt.2076</pub-id><pub-id pub-id-type="pmcid">PMC3264947</pub-id></mixed-citation></ref><ref id="all15261-bib-0069"><label>69</label><mixed-citation publication-type="journal" id="all15261-cit-0069">
+<string-name name-style="western">
+<surname>Szilveszter</surname>
+<given-names>KP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nemeth</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mocsai</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Tyrosine kinases in autoimmune and inflammatory skin diseases</article-title>. <source>Front Immunol</source>. <year>2019</year>;<volume>10</volume>:<fpage>1862</fpage>.<pub-id pub-id-type="pmid">31447854</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2019.01862</pub-id><pub-id pub-id-type="pmcid">PMC6697022</pub-id></mixed-citation></ref><ref id="all15261-bib-0070"><label>70</label><mixed-citation publication-type="journal" id="all15261-cit-0070">
+<string-name name-style="western">
+<surname>Lipman</surname>
+<given-names>ZM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Labib</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Yosipovitch</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Current clinical options for the management of itch in atopic dermatitis</article-title>. <source>Clin Cosmet Investig Dermatol</source>. <year>2021</year>;<volume>14</volume>:<fpage>959</fpage>‐<lpage>969</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.2147/CCID.S289716</pub-id><pub-id pub-id-type="pmcid">PMC8349193</pub-id><pub-id pub-id-type="pmid">34377004</pub-id></mixed-citation></ref><ref id="all15261-bib-0071"><label>71</label><mixed-citation publication-type="journal" id="all15261-cit-0071">
+<string-name name-style="western">
+<surname>Bieber</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Atopic dermatitis: an expanding therapeutic pipeline for a complex disease</article-title>. <source>Nat Rev Drug Discov</source>. <year>2021</year>;<volume>21</volume>(<issue>1</issue>):<fpage>21</fpage>‐<lpage>40</lpage>.<pub-id pub-id-type="pmid">34417579</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41573-021-00266-6</pub-id><pub-id pub-id-type="pmcid">PMC8377708</pub-id></mixed-citation></ref><ref id="all15261-bib-0072"><label>72</label><mixed-citation publication-type="journal" id="all15261-cit-0072">
+<string-name name-style="western">
+<surname>Svoboda</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Phillips</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Dermatologic applications and safety considerations of Janus kinase inhibitors</article-title>. <source>Skin Therapy Lett</source>. <year>2020</year>;<volume>25</volume>(<issue>4</issue>):<fpage>6</fpage>‐<lpage>11</lpage>.<pub-id pub-id-type="pmid">33017108</pub-id></mixed-citation></ref><ref id="all15261-bib-0073"><label>73</label><mixed-citation publication-type="journal" id="all15261-cit-0073">
+<string-name name-style="western">
+<surname>Burger</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Barr</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Robak</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Long‐term efficacy and safety of first‐line ibrutinib treatment for patients with CLL/SLL: 5 years of follow‐up from the phase 3 RESONATE‐2 study</article-title>. <source>Leukemia</source>. <year>2020</year>;<volume>34</volume>(<issue>3</issue>):<fpage>787</fpage>‐<lpage>798</lpage>.<pub-id pub-id-type="pmid">31628428</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41375-019-0602-x</pub-id><pub-id pub-id-type="pmcid">PMC7214263</pub-id></mixed-citation></ref><ref id="all15261-bib-0074"><label>74</label><mixed-citation publication-type="journal" id="all15261-cit-0074">
+<string-name name-style="western">
+<surname>Sharman</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Egyed</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jurczak</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Acalabrutinib with or without obinutuzumab versus chlorambucil and obinutuzmab for treatment‐naive chronic lymphocytic leukaemia (ELEVATE TN): a randomised, controlled, phase 3 trial</article-title>. <source>Lancet</source>. <year>2020</year>;<volume>395</volume>(<issue>10232</issue>):<fpage>1278</fpage>‐<lpage>1291</lpage>.<pub-id pub-id-type="pmid">32305093</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0140-6736(20)30262-2</pub-id><pub-id pub-id-type="pmcid">PMC8151619</pub-id></mixed-citation></ref><ref id="all15261-bib-0075"><label>75</label><mixed-citation publication-type="journal" id="all15261-cit-0075">
+<string-name name-style="western">
+<surname>Tam</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Opat</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>D'Sa</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>A randomized phase 3 trial of zanubrutinib vs ibrutinib in symptomatic Waldenstrom macroglobulinemia: the ASPEN study</article-title>. <source>Blood</source>. <year>2020</year>;<volume>136</volume>(<issue>18</issue>):<fpage>2038</fpage>‐<lpage>2050</lpage>.<pub-id pub-id-type="pmid">32731259</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1182/blood.2020006844</pub-id><pub-id pub-id-type="pmcid">PMC7596850</pub-id></mixed-citation></ref><ref id="all15261-bib-0076"><label>76</label><mixed-citation publication-type="journal" id="all15261-cit-0076">
+<string-name name-style="western">
+<surname>Gabizon</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>London</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>A Fast and clean BTK Inhibitor</article-title>. <source>J Med Chem</source>. <year>2020</year>;<volume>63</volume>(<issue>10</issue>):<fpage>5100</fpage>‐<lpage>5101</lpage>.<pub-id pub-id-type="pmid">32401033</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acs.jmedchem.0c00597</pub-id><pub-id pub-id-type="pmcid">PMC7304894</pub-id></mixed-citation></ref><ref id="all15261-bib-0077"><label>77</label><mixed-citation publication-type="journal" id="all15261-cit-0077">
+<string-name name-style="western">
+<surname>Gu</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Miao</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Targeting Bruton tyrosine kinase using non‐covalent inhibitors in B cell malignancies</article-title>. <source>J Hematol Oncol</source>. <year>2021</year>;<volume>14</volume>(<issue>1</issue>):<fpage>40</fpage>.<pub-id pub-id-type="pmid">33676527</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13045-021-01049-7</pub-id><pub-id pub-id-type="pmcid">PMC7937220</pub-id></mixed-citation></ref><ref id="all15261-bib-0078"><label>78</label><mixed-citation publication-type="journal" id="all15261-cit-0078">
+<string-name name-style="western">
+<surname>Xu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Song</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Li</surname>
+<given-names>Z</given-names>
+</string-name>, et al. <article-title>Safety, tolerability and efficacy of orelabrutinib, once a day, to treat Chinese patients with relapsed or refractory chronic lymphocytic leukemia/small cell leukemia</article-title>. <source>Blood</source>. <year>2019</year>;<volume>134</volume>:<fpage>4319</fpage>.</mixed-citation></ref><ref id="all15261-bib-0079"><label>79</label><mixed-citation publication-type="journal" id="all15261-cit-0079">
+<string-name name-style="western">
+<surname>Wu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tsui</surname>
+<given-names>ST</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Liu</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Second‐generation inhibitors of Bruton tyrosine kinase</article-title>. <source>J Hematol Oncol</source>. <year>2016</year>;<volume>9</volume>(<issue>1</issue>):<fpage>80</fpage>.<pub-id pub-id-type="pmid">27590878</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13045-016-0313-y</pub-id><pub-id pub-id-type="pmcid">PMC5010774</pub-id></mixed-citation></ref><ref id="all15261-bib-0080"><label>80</label><mixed-citation publication-type="miscellaneous" id="all15261-cit-0080">
+<article-title>Ibrutinib prescribing information</article-title>. Accessed September 6, 2021. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.imbruvica.com/files/prescribing-information.pdf" ext-link-type="uri">https://www.imbruvica.com/files/prescribing‐information.pdf</ext-link>
+</mixed-citation></ref><ref id="all15261-bib-0081"><label>81</label><mixed-citation publication-type="journal" id="all15261-cit-0081">
+<string-name name-style="western">
+<surname>Sibaud</surname>
+<given-names>V</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Beylot‐Barry</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Protin</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vigarios</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Recher</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ysebaert</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Dermatological toxicities of Bruton's tyrosine kinase inhibitors</article-title>. <source>Am J Clin Dermatol</source>. <year>2020</year>;<volume>21</volume>(<issue>6</issue>):<fpage>799</fpage>‐<lpage>812</lpage>.<pub-id pub-id-type="pmid">32613545</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40257-020-00535-x</pub-id></mixed-citation></ref><ref id="all15261-bib-0082"><label>82</label><mixed-citation publication-type="journal" id="all15261-cit-0082">
+<string-name name-style="western">
+<surname>Ye</surname>
+<given-names>B</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zhou</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Guo</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Zheng</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Effects of BTK signalling in pathogenic microorganism infections</article-title>. <source>J Cell Mol Med</source>. <year>2019</year>;<volume>23</volume>(<issue>10</issue>):<fpage>6522</fpage>‐<lpage>6529</lpage>.<pub-id pub-id-type="pmid">31397086</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jcmm.14548</pub-id><pub-id pub-id-type="pmcid">PMC6787465</pub-id></mixed-citation></ref><ref id="all15261-bib-0083"><label>83</label><mixed-citation publication-type="journal" id="all15261-cit-0083">
+<string-name name-style="western">
+<surname>Angst</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gessier</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Janser</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Discovery of LOU064 (Remibrutinib), a potent and highly selective covalent inhibitor of Bruton's tyrosine kinase</article-title>. <source>J Med Chem</source>. <year>2020</year>;<volume>63</volume>(<issue>10</issue>):<fpage>5102</fpage>‐<lpage>5118</lpage>.<pub-id pub-id-type="pmid">32083858</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acs.jmedchem.9b01916</pub-id></mixed-citation></ref><ref id="all15261-bib-0084"><label>84</label><mixed-citation publication-type="journal" id="all15261-cit-0084">
+<string-name name-style="western">
+<surname>Byrd</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Smith</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Wagner‐Johnston</surname>
+<given-names>N</given-names>
+</string-name>, et al. <article-title>First‐in‐human phase 1 study of the BTK inhibitor GDC‐0853 in relapsed or refractory B‐cell NHL and CLL</article-title>. <source>Oncotarget</source>. <year>2018</year>;<volume>9</volume>(<issue>16</issue>):<fpage>13023</fpage>‐<lpage>13035</lpage>.<pub-id pub-id-type="pmid">29560128</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18632/oncotarget.24310</pub-id><pub-id pub-id-type="pmcid">PMC5849192</pub-id></mixed-citation></ref><ref id="all15261-bib-0085"><label>85</label><mixed-citation publication-type="journal" id="all15261-cit-0085">
+<string-name name-style="western">
+<surname>Allan</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patel</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mato</surname>
+<given-names>AR</given-names>
+</string-name>, et al. <article-title>Ongoing results of a phase 1B/2 dose‐escalation and cohort‐expansion study of the selective, noncovalent, reversible Bruton's tyrosine kinase inhibitor, vecabrutinib, in B‐cell malignancies</article-title>. <source>Blood</source>. <year>2019</year>;<volume>134</volume>:<fpage>3041</fpage>.</mixed-citation></ref><ref id="all15261-bib-0086"><label>86</label><mixed-citation publication-type="journal" id="all15261-cit-0086">
+<string-name name-style="western">
+<surname>Crawford</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Johnson</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Misner</surname>
+<given-names>DL</given-names>
+</string-name>, et al. <article-title>Discovery of GDC‐0853: a potent, selective, and noncovalent Bruton's tyrosine kinase inhibitor in early clinical development</article-title>. <source>J Med Chem</source>. <year>2018</year>;<volume>61</volume>(<issue>6</issue>):<fpage>2227</fpage>‐<lpage>2245</lpage>.<pub-id pub-id-type="pmid">29457982</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acs.jmedchem.7b01712</pub-id></mixed-citation></ref><ref id="all15261-bib-0087"><label>87</label><mixed-citation publication-type="journal" id="all15261-cit-0087">
+<string-name name-style="western">
+<surname>Smith</surname>
+<given-names>PF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Krishnarajah</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Nunn</surname>
+<given-names>PA</given-names>
+</string-name>, et al. <article-title>A phase I trial of PRN1008, a novel reversible covalent inhibitor of Bruton's tyrosine kinase, in healthy volunteers</article-title>. <source>Br J Clin Pharmacol</source>. <year>2017</year>;<volume>83</volume>(<issue>11</issue>):<fpage>2367</fpage>‐<lpage>2376</lpage>.<pub-id pub-id-type="pmid">28636208</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/bcp.13351</pub-id><pub-id pub-id-type="pmcid">PMC5651318</pub-id></mixed-citation></ref><ref id="all15261-bib-0088"><label>88</label><mixed-citation publication-type="journal" id="all15261-cit-0088">
+<string-name name-style="western">
+<surname>Dhillon</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Tirabrutinib: first approval</article-title>. <source>Drugs</source>. <year>2020</year>;<volume>80</volume>(<issue>8</issue>):<fpage>835</fpage>‐<lpage>840</lpage>.<pub-id pub-id-type="pmid">32382949</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40265-020-01318-8</pub-id></mixed-citation></ref><ref id="all15261-bib-0089"><label>89</label><mixed-citation publication-type="journal" id="all15261-cit-0089">
+<string-name name-style="western">
+<surname>Liclican</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Serafini</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Xing</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Biochemical characterization of tirabrutinib and other irreversible inhibitors of Bruton's tyrosine kinase reveals differences in on ‐ and off ‐ target inhibition</article-title>. <source>Biochim Biophys Acta Gen Subj</source>. <year>2020</year>;<volume>1864</volume>(<issue>4</issue>):<fpage>129531</fpage>.<pub-id pub-id-type="pmid">31953125</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.bbagen.2020.129531</pub-id></mixed-citation></ref><ref id="all15261-bib-0090"><label>90</label><mixed-citation publication-type="miscellaneous" id="all15261-cit-0090">
+<collab collab-type="authors">clinicaltrials.gov</collab>
+. <article-title>Single dose and multiple dose study to assess safety and tolerability of LOU064 (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT03918980">NCT03918980</ext-link>)</article-title>. Accessed July 2, 2021. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/ct2/show/NCT03918980?term=LOU064%26draw=2%26rank=3" ext-link-type="uri">https://clinicaltrials.gov/ct2/show/NCT03918980?term=LOU064&amp;draw=2&amp;rank=3</ext-link>
+</mixed-citation></ref><ref id="all15261-bib-0091"><label>91</label><mixed-citation publication-type="miscellaneous" id="all15261-cit-0091">
+<string-name name-style="western">
+<surname>Maurer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Berger</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>The Bruton’s tyrosine kinase inhibitor remibrutinib (LOU064) in chronic spontaneous urticaria: top line results of a phase 2b dose‐finding study</article-title>. Presented at the EADV Congress. <year>2021</year>.</mixed-citation></ref><ref id="all15261-bib-0092"><label>92</label><mixed-citation publication-type="miscellaneous" id="all15261-cit-0092">
+<collab collab-type="authors">clinicaltrials.gov</collab>
+. <article-title>Dose‐finding study to evaluate efficacy and safety of LOU064 in patients With CSU inadequately controlled by H1‐antihistamines (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT03926611">NCT03926611</ext-link>)</article-title>. Accessed July 2, 2021. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/ct2/show/NCT03926611?term=LOU064%26draw=2%26rank=5" ext-link-type="uri">https://clinicaltrials.gov/ct2/show/NCT03926611?term=LOU064&amp;draw=2&amp;rank=5</ext-link>
+</mixed-citation></ref><ref id="all15261-bib-0093"><label>93</label><mixed-citation publication-type="miscellaneous" id="all15261-cit-0093">
+<collab collab-type="authors">clinicaltrials.gov</collab>
+. <article-title>Open‐label, multicenter, extension study to evaluate long‐term safety and tolerability of LOU064 in subjects with CSU (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT04109313">NCT04109313</ext-link>)</article-title>. Accessed July 2, 2021. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/ct2/show/NCT04109313?term=LOU064%26draw=2%26rank=1" ext-link-type="uri">https://clinicaltrials.gov/ct2/show/NCT04109313?term=LOU064&amp;draw=2&amp;rank=1</ext-link>
+</mixed-citation></ref><ref id="all15261-bib-0094"><label>94</label><mixed-citation publication-type="miscellaneous" id="all15261-cit-0094">
+<collab collab-type="authors">clinicaltrials.gov</collab>
+. <article-title>A phase 3 study of efficacy and safety of remibrutinib in the treatment of CSU in adults inadequately controlled by H1 antihistamines (REMIX‐1) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT05030311">NCT05030311</ext-link>)</article-title>. Accessed October 11, 2021. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/ct2/show/NCT05030311?term=NCT05030311%26draw=2%26rank=1" ext-link-type="uri">https://clinicaltrials.gov/ct2/show/NCT05030311?term=NCT05030311&amp;draw=2&amp;rank=1</ext-link>
+</mixed-citation></ref><ref id="all15261-bib-0095"><label>95</label><mixed-citation publication-type="miscellaneous" id="all15261-cit-0095">
+<collab collab-type="authors">clinicaltrials.gov</collab>
+. <article-title>A safety and efficacy study of remibrutinib in the treatment of CSU in Japanese adults inadequately controlled by H1‐antihistamines (REMIX‐Japan) (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT05048342">NCT05048342</ext-link>)</article-title>. Accessed October 11, 2021. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/ct2/show/NCT05048342?term=NCT05048342%26draw=2%26rank=1" ext-link-type="uri">https://clinicaltrials.gov/ct2/show/NCT05048342?term=NCT05048342&amp;draw=2&amp;rank=1</ext-link>
+</mixed-citation></ref><ref id="all15261-bib-0096"><label>96</label><mixed-citation publication-type="journal" id="all15261-cit-0096">
+<string-name name-style="western">
+<surname>Herman</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Chinn</surname>
+<given-names>LW</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kotwal</surname>
+<given-names>SG</given-names>
+</string-name>, et al. <article-title>Safety, pharmacokinetics, and pharmacodynamics in healthy volunteers treated with GDC‐0853, a selective reversible Bruton's tyrosine kinase inhibitor</article-title>. <source>Clin Pharmacol Ther</source>. <year>2018</year>;<volume>103</volume>(<issue>6</issue>):<fpage>1020</fpage>‐<lpage>1028</lpage>.<pub-id pub-id-type="pmid">29484638</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cpt.1056</pub-id></mixed-citation></ref><ref id="all15261-bib-0097"><label>97</label><mixed-citation publication-type="journal" id="all15261-cit-0097">
+<string-name name-style="western">
+<surname>Metz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sussman</surname>
+<given-names>G</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gagnon</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Fenebrutinib in H<sub>1</sub>‐antihistamine‐refractory chronic spontaneous urticaria: a randomized phase 2 trial</article-title>. <source>Nat Med</source>. <year>2021</year>;<volume>27</volume>:<fpage>1961</fpage>‐<lpage>1969</lpage>.<pub-id pub-id-type="pmid">34750553</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41591-021-01537-w</pub-id><pub-id pub-id-type="pmcid">PMC8604722</pub-id></mixed-citation></ref><ref id="all15261-bib-0098"><label>98</label><mixed-citation publication-type="miscellaneous" id="all15261-cit-0098">
+<collab collab-type="authors">clinicaltrials.gov</collab>
+. <article-title>A study to evaluate the long‐term safety and efficacy of fenebrutinib in participants previously enrolled in a fenebrutinib chronic spontaneous urticaria (CSU) study (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT03693625">NCT03693625</ext-link>)</article-title>. Accessed July 5, 2021. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/ct2/show/NCT03693625?term=fenebrutinib%26draw=2%26rank=1" ext-link-type="uri">https://clinicaltrials.gov/ct2/show/NCT03693625?term=fenebrutinib&amp;draw=2&amp;rank=1</ext-link>
+</mixed-citation></ref><ref id="all15261-bib-0099"><label>99</label><mixed-citation publication-type="journal" id="all15261-cit-0099">
+<string-name name-style="western">
+<surname>Isenberg</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Furie</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Jones</surname>
+<given-names>NS</given-names>
+</string-name>, et al. <article-title>Efficacy, safety, and pharmacodynamic effects of the Bruton's tyrosine kinase inhibitor, fenebrutinib (GDC‐0853), in systemic lupus erythematosus</article-title>. <source>Arthritis Rheumatol</source>. <year>2021</year>; doi:<pub-id pub-id-type="doi">10.1002/art.41811</pub-id>
+<pub-id pub-id-type="pmid">34042314</pub-id></mixed-citation></ref><ref id="all15261-bib-0100"><label>100</label><mixed-citation publication-type="journal" id="all15261-cit-0100">
+<string-name name-style="western">
+<surname>Murrell</surname>
+<given-names>DF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Patsatsi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Stavropoulos</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Proof‐of‐concept for clinical effects of oral rilzabrutinib, the first Bruton tyrosine kinase inhibitor for pemphigus vulgaris: the phase 2 BELIEVE study</article-title>. <source>Br J Dermatol</source>. <year>2021</year>;<volume>185</volume>(<issue>4</issue>):<fpage>745</fpage>‐<lpage>755</lpage>.<pub-id pub-id-type="pmid">33942286</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/bjd.20431</pub-id><pub-id pub-id-type="pmcid">PMC8518737</pub-id></mixed-citation></ref><ref id="all15261-bib-0101"><label>101</label><mixed-citation publication-type="miscellaneous" id="all15261-cit-0101">
+<collab collab-type="authors">clinicaltrials.gov</collab>
+. <article-title>A study of PRN1008 in patients with pemphigus (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT03762265">NCT03762265</ext-link>)</article-title>. Accessed October 11, 2021. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/ct2/results?cond=%26term=NCT03762265%26cntry=%26state=%26city=%26dist=" ext-link-type="uri">https://clinicaltrials.gov/ct2/results?cond=&amp;term=NCT03762265&amp;cntry=&amp;state=&amp;city=&amp;dist=</ext-link>
+</mixed-citation></ref><ref id="all15261-bib-0102"><label>102</label><mixed-citation publication-type="miscellaneous" id="all15261-cit-0102">
+<article-title>Sanofi provides update on Phase 3 study evaluating rilzabrutinib for the treatment of pemphigus</article-title>. September 9 2021. Accessed October 1, 2021. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.sanofi.com/en/media-room/press-releases/2021/2021-09-09-07-00-00-2293920" ext-link-type="uri">https://www.sanofi.com/en/media‐room/press‐releases/2021/2021‐09‐09‐07‐00‐00‐2293920</ext-link> [press release]</mixed-citation></ref><ref id="all15261-bib-0103"><label>103</label><mixed-citation publication-type="journal" id="all15261-cit-0103">
+<string-name name-style="western">
+<surname>Yamagami</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Ujiie</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Aoyama</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>A multicenter, open‐label, uncontrolled, single‐arm phase 2 study of tirabrutinib, an oral Bruton's tyrosine kinase inhibitor, in pemphigus</article-title>. <source>J Dermatol Sci</source>. <year>2021</year>;<volume>103</volume>(<issue>3</issue>):<fpage>135</fpage>–<lpage>142</lpage>.<pub-id pub-id-type="pmid">34376340</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jdermsci.2021.07.002</pub-id></mixed-citation></ref><ref id="all15261-bib-0104"><label>104</label><mixed-citation publication-type="miscellaneous" id="all15261-cit-0104">
+<collab collab-type="authors">clinicaltrials.gov</collab>
+. <article-title>A study of BMS‐986166 or branebrutinib for the treatment of participants with atopic dermatitis (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT05014438">NCT05014438</ext-link>)</article-title>. Accessed October 11, 2021. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/ct2/show/NCT05014438?term=NCT05014438%26draw=2%26rank=1" ext-link-type="uri">https://clinicaltrials.gov/ct2/show/NCT05014438?term=NCT05014438&amp;draw=2&amp;rank=1</ext-link>
+</mixed-citation></ref><ref id="all15261-bib-0105"><label>105</label><mixed-citation publication-type="miscellaneous" id="all15261-cit-0105">
+<collab collab-type="authors">clinicaltrials.gov</collab>
+. <article-title>Study to assess safety and effectiveness of branebrutinib treatment in participants with active systemic lupus erythematosus or primary Sjögren's syndrome, or branebrutinib treatment followed by open‐label abatacept treatment in study participants with active rheumatoid arthritis (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT04186871">NCT04186871</ext-link>)</article-title>. Accessed October 11, 2021. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://clinicaltrials.gov/ct2/show/NCT04186871?term=NCT04186871%26draw=2%26rank=1" ext-link-type="uri">https://clinicaltrials.gov/ct2/show/NCT04186871?term=NCT04186871&amp;draw=2&amp;rank=1</ext-link>
+</mixed-citation></ref><ref id="all15261-bib-0106"><label>106</label><mixed-citation publication-type="journal" id="all15261-cit-0106">
+<string-name name-style="western">
+<surname>Maurer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Khan</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elieh Ali Komi</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kaplan</surname>
+<given-names>AP</given-names>
+</string-name>. <article-title>Biologics for the use in chronic spontaneous urticaria: when and which</article-title>. <source>J Allergy Clin Immunol Pract</source>. <year>2021</year>;<volume>9</volume>(<issue>3</issue>):<fpage>1067</fpage>‐<lpage>1078</lpage>.<pub-id pub-id-type="pmid">33685605</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jaip.2020.11.043</pub-id></mixed-citation></ref><ref id="all15261-bib-0107"><label>107</label><mixed-citation publication-type="journal" id="all15261-cit-0107">
+<string-name name-style="western">
+<surname>Murrell</surname>
+<given-names>DF</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pena</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Joly</surname>
+<given-names>P</given-names>
+</string-name>, et al. <article-title>Diagnosis and management of pemphigus: recommendations of an international panel of experts</article-title>. <source>J Am Acad Dermatol</source>. <year>2020</year>;<volume>82</volume>(<issue>3</issue>):<fpage>575</fpage>‐<lpage>585 e571</lpage>.<pub-id pub-id-type="pmid">29438767</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jaad.2018.02.021</pub-id><pub-id pub-id-type="pmcid">PMC7313440</pub-id></mixed-citation></ref><ref id="all15261-bib-0108"><label>108</label><mixed-citation publication-type="journal" id="all15261-cit-0108">
+<string-name name-style="western">
+<surname>Kleinmann</surname>
+<given-names>J‐F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Tubach</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Le Guern</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>International and multidisciplinary expert recommendations for the use of biologics in systemic lupus erythematosus</article-title>. <source>Autoimmun Rev</source>. <year>2017</year>;<volume>16</volume>(<issue>6</issue>):<fpage>650</fpage>‐<lpage>657</lpage>.<pub-id pub-id-type="pmid">28434948</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.autrev.2017.04.011</pub-id></mixed-citation></ref><ref id="all15261-bib-0109"><label>109</label><mixed-citation publication-type="journal" id="all15261-cit-0109">
+<string-name name-style="western">
+<surname>Metz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Vadasz</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Kocaturk</surname>
+<given-names>E</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gimenez‐Arnau</surname>
+<given-names>AM</given-names>
+</string-name>. <article-title>Omalizumab updosing in chronic spontaneous urticaria: an overview of real‐world evidence</article-title>. <source>Clin Rev Allergy Immunol</source>. <year>2020</year>;<volume>59</volume>(<issue>1</issue>):<fpage>38</fpage>‐<lpage>45</lpage>.<pub-id pub-id-type="pmid">32418171</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s12016-020-08794-6</pub-id><pub-id pub-id-type="pmcid">PMC7351799</pub-id></mixed-citation></ref><ref id="all15261-bib-0110"><label>110</label><mixed-citation publication-type="journal" id="all15261-cit-0110">
+<string-name name-style="western">
+<surname>de Montjoye</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Darrigade</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Gimenez‐Arnau</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Herman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Dumoutier</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Baeck</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Correlations between disease activity, autoimmunity and biological parameters in patients with chronic spontaneous urticaria</article-title>. <source>Eur Ann Allergy Clin Immunol</source>. <year>2021</year>;<volume>53</volume>(<issue>2</issue>):<fpage>55</fpage>‐<lpage>66</lpage>.<pub-id pub-id-type="pmid">31965967</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.23822/EurAnnACI.1764-1489.132</pub-id></mixed-citation></ref><ref id="all15261-bib-0111"><label>111</label><mixed-citation publication-type="journal" id="all15261-cit-0111">
+<string-name name-style="western">
+<surname>Gimenez‐Arnau</surname>
+<given-names>AM</given-names>
+</string-name>. <article-title>Omalizumab for treating chronic spontaneous urticaria: an expert review on efficacy and safety</article-title>. <source>Expert Opin Biol Ther</source>. <year>2017</year>;<volume>17</volume>(<issue>3</issue>):<fpage>375</fpage>‐<lpage>385</lpage>.<pub-id pub-id-type="pmid">28125304</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/14712598.2017.1285903</pub-id></mixed-citation></ref><ref id="all15261-bib-0112"><label>112</label><mixed-citation publication-type="journal" id="all15261-cit-0112">
+<string-name name-style="western">
+<surname>Paul</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Cartron</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Infusion‐related reactions to rituximab: frequency, mechanisms and predictors</article-title>. <source>Expert Rev Clin Immunol</source>. <year>2019</year>;<volume>15</volume>(<issue>4</issue>):<fpage>383</fpage>‐<lpage>389</lpage>.<pub-id pub-id-type="pmid">30580638</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/1744666X.2019.1562905</pub-id></mixed-citation></ref><ref id="all15261-bib-0113"><label>113</label><mixed-citation publication-type="journal" id="all15261-cit-0113">
+<string-name name-style="western">
+<surname>Tavakolpour</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mahmoudi</surname>
+<given-names>H</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Balighi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abedini</surname>
+<given-names>R</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Daneshpazhooh</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Sixteen‐year history of rituximab therapy for 1085 pemphigus vulgaris patients: a systematic review</article-title>. <source>Int Immunopharmacol</source>. <year>2018</year>;<volume>54</volume>:<fpage>131</fpage>‐<lpage>138</lpage>.<pub-id pub-id-type="pmid">29132070</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.intimp.2017.11.005</pub-id></mixed-citation></ref><ref id="all15261-bib-0114"><label>114</label><mixed-citation publication-type="journal" id="all15261-cit-0114">
+<string-name name-style="western">
+<surname>Manzi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Sánchez‐Guerrero</surname>
+<given-names>J</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Merrill</surname>
+<given-names>JT</given-names>
+</string-name>, et al. <article-title>Effects of belimumab, a B lymphocyte stimulator‐specific inhibitor, on disease activity across multiple organ domains in patients with systemic lupus erythematosus: combined results from two phase III trials</article-title>. <source>Ann Rheum Dis</source>. <year>2012</year>;<volume>71</volume>(<issue>11</issue>):<fpage>1833</fpage>‐<lpage>1838</lpage>.<pub-id pub-id-type="pmid">22550315</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1136/annrheumdis-2011-200831</pub-id><pub-id pub-id-type="pmcid">PMC3465857</pub-id></mixed-citation></ref><ref id="all15261-bib-0115"><label>115</label><mixed-citation publication-type="journal" id="all15261-cit-0115">
+<string-name name-style="western">
+<surname>Blair</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Duggan</surname>
+<given-names>ST</given-names>
+</string-name>. <article-title>Belimumab: a review in systemic lupus erythematosus</article-title>. <source>Drugs</source>. <year>2018</year>;<volume>78</volume>(<issue>3</issue>):<fpage>355</fpage>‐<lpage>366</lpage>.<pub-id pub-id-type="pmid">29396833</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s40265-018-0872-z</pub-id></mixed-citation></ref><ref id="all15261-bib-0116"><label>116</label><mixed-citation publication-type="journal" id="all15261-cit-0116">
+<string-name name-style="western">
+<surname>Makurvet</surname>
+<given-names>FD</given-names>
+</string-name>. <article-title>Biologics vs. small molecules: drug costs and patient access</article-title>. <source>Med Drug Discov</source>. <year>2021</year>;<volume>9</volume>:<fpage>100075</fpage>.</mixed-citation></ref><ref id="all15261-bib-0117"><label>117</label><mixed-citation publication-type="journal" id="all15261-cit-0117">
+<string-name name-style="western">
+<surname>Kolkhir</surname>
+<given-names>P</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Elieh‐Ali‐Komi</surname>
+<given-names>D</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Metz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Siebenhaar</surname>
+<given-names>F</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Maurer</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Understanding human mast cells: lesson from therapies for allergic and non‐allergic diseases</article-title>. <source>Nat Rev Immunol</source>. <year>2021</year>. doi:<pub-id pub-id-type="doi">10.1038/s41577-021-00622-y</pub-id>
+<pub-id pub-id-type="pmid">34611316</pub-id></mixed-citation></ref><ref id="all15261-bib-0118"><label>118</label><mixed-citation publication-type="journal" id="all15261-cit-0118">
+<string-name name-style="western">
+<surname>Jorg</surname>
+<given-names>L</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Mueller‐Wirth</surname>
+<given-names>N</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pecaric‐Petkovic</surname>
+<given-names>T</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Diaz</surname>
+<given-names>C</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Pichler</surname>
+<given-names>W</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Hausmann</surname>
+<given-names>O</given-names>
+</string-name>. <article-title>The Fcepsilon receptor I pathway is crucial but not exclusive for basophil activation in patients with autoimmune forms of chronic spontaneous urticaria</article-title>. <source>J Eur Acad Dermatol Venereol</source>. <year>2020</year>;<volume>34</volume>(<issue>12</issue>):<fpage>e825</fpage>‐<lpage>e827</lpage>.<pub-id pub-id-type="pmid">32491222</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jdv.16703</pub-id></mixed-citation></ref><ref id="all15261-bib-0119"><label>119</label><mixed-citation publication-type="journal" id="all15261-cit-0119">
+<string-name name-style="western">
+<surname>Bracken</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Abraham</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>MacLeod</surname>
+<given-names>AS</given-names>
+</string-name>. <article-title>Autoimmune theories of chronic spontaneous urticaria</article-title>. <source>Front Immunol</source>. <year>2019</year>;<volume>10</volume>:<fpage>627</fpage>.<pub-id pub-id-type="pmid">30984191</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fimmu.2019.00627</pub-id><pub-id pub-id-type="pmcid">PMC6450064</pub-id></mixed-citation></ref><ref id="all15261-bib-0120"><label>120</label><mixed-citation publication-type="journal" id="all15261-cit-0120">
+<string-name name-style="western">
+<surname>Altrichter</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Frischbutter</surname>
+<given-names>S</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Fok</surname>
+<given-names>JS</given-names>
+</string-name>, et al. <article-title>The role of eosinophils in chronic spontaneous urticaria</article-title>. <source>J Allergy Clin Immunol</source>. <year>2020</year>;<volume>145</volume>(<issue>6</issue>):<fpage>1510</fpage>‐<lpage>1516</lpage>.<pub-id pub-id-type="pmid">32224275</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.jaci.2020.03.005</pub-id></mixed-citation></ref><ref id="all15261-bib-0121"><label>121</label><mixed-citation publication-type="journal" id="all15261-cit-0121">
+<string-name name-style="western">
+<surname>Iyer</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Morales</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name name-style="western">
+<surname>Huang</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Absence of Tec family kinases interleukin‐2 inducible T cell kinase (Itk) and Bruton's tyrosine kinase (Btk) severely impairs Fc epsilonRI‐dependent mast cell responses</article-title>. <source>J Biol Chem</source>. <year>2011</year>;<volume>286</volume>(<issue>11</issue>):<fpage>9503</fpage>‐<lpage>9513</lpage>.<pub-id pub-id-type="pmid">21212279</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.M110.165613</pub-id><pub-id pub-id-type="pmcid">PMC3059023</pub-id></mixed-citation></ref></ref-list></back></article></pmc-articleset>

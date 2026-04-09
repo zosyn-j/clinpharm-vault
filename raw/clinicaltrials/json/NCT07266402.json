@@ -1,0 +1,1288 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT07266402",
+      "orgStudyIdInfo": {
+        "id": "CDX0159-16"
+      },
+      "organization": {
+        "fullName": "Celldex Therapeutics",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study to Investigate Efficacy, Safety and Tolerability of Barzolvolimab Versus Placebo in Adults With Cold Induced Urticaria and Symptomatic Dermographism Inadequately Controlled by H1-antihistamines (EMBARQ - ColdU and SD)",
+      "officialTitle": "A Phase 3 Randomized, Double-Blind, Placebo-Controlled, Multi-Center, Parallel-Group Study of Barzolvolimab in Participants With Cold Induced Urticaria and Symptomatic Dermographism (EMBARQ-COLDU and SD)"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-03",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2026-01-15",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2028-06",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2028-10",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2025-11-19",
+      "studyFirstSubmitQcDate": "2025-11-25",
+      "studyFirstPostDateStruct": {
+        "date": "2025-12-05",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-03-26",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-03-27",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Celldex Therapeutics",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this Phase 3, randomized, double-blind, placebo-controlled study is to assess the activity and safety of barzolvolimab compared to placebo in participants with cold induced urticaria or symptomatic dermographism who remain symptomatic despite the use of H1-antihistamines.",
+      "detailedDescription": "The purpose of this Phase 3, randomized, double-blind, placebo-controlled study is to assess the activity and safety of barzolvolimab compared to placebo in participants with cold induced urticaria (ColdU) or symptomatic dermographism (SD) who remain symptomatic despite the use of H1-antihistamines.\n\nThere is a Screening Period of up to 4 weeks, followed by a 24-week treatment period where patients will receive barzolvolimab or placebo. Patients receiving barzolvolimab will receive 450mg at the start of the treatment period and then 150mg. Then there is 16-week follow-up period where all patients are observed."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Chronic Inducible Urticaria",
+        "Cold Urticaria",
+        "Cold-Induced Urticaria",
+        "Symptomatic Dermographism"
+      ],
+      "keywords": [
+        "Chronic Inducible urticaria",
+        "cold urticaria",
+        "cold-induced urticaria",
+        "ColdU",
+        "symptomatic dermographism,",
+        "SD",
+        "barzolvolimab",
+        "CDX0159",
+        "CDX-0159"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 240,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "barzolvolimab 450mg loading dose followed by 150mg in patients with Cold Induced Urticaria",
+          "type": "EXPERIMENTAL",
+          "description": "barzolvolimab 450mg injection subcutaneously at randomization , then 150mg injection subcutaneously every 4 weeks for 24 weeks",
+          "interventionNames": [
+            "Drug: Barzolvolimab"
+          ]
+        },
+        {
+          "label": "Placebo comparator in patients with Cold Induced Urticaria",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Placebo injection subcutaneously every 4 weeks for 24 weeks",
+          "interventionNames": [
+            "Drug: Matching Placebo"
+          ]
+        },
+        {
+          "label": "barzolvolimab 450mg loading dose followed by 150mg in patients with Symptomatic Dermographism",
+          "type": "EXPERIMENTAL",
+          "description": "barzolvolimab 450mg injection subcutaneously at randomization, then 150mg injection subcutaneously every 4 weeks for 24 weeks",
+          "interventionNames": [
+            "Drug: Barzolvolimab"
+          ]
+        },
+        {
+          "label": "Placebo comparator in patients with Symptomatic Dermographism",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Placebo injection subcutaneously every 4 weeks for 24 weeks",
+          "interventionNames": [
+            "Drug: Matching Placebo"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Barzolvolimab",
+          "description": "Subcutaneous Administration",
+          "armGroupLabels": [
+            "barzolvolimab 450mg loading dose followed by 150mg in patients with Cold Induced Urticaria",
+            "barzolvolimab 450mg loading dose followed by 150mg in patients with Symptomatic Dermographism"
+          ],
+          "otherNames": [
+            "CDX-0159"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Matching Placebo",
+          "description": "Subcutaneous Administration",
+          "armGroupLabels": [
+            "Placebo comparator in patients with Cold Induced Urticaria",
+            "Placebo comparator in patients with Symptomatic Dermographism"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Complete response to provocation testing at Week 12",
+          "description": "Proportion of Cold Induced Urticaria \\[ColdU\\] participants with complete response in Critical Temperature Threshold (CTT) or proportion of Symptomatic Dermographism \\[SD\\] participants with complete response in Critical Friction Threshold at Week 12.\n\n* For ColdU patients, a complete response is defined as absence of wheals at the provocation site within 10 min at \u2264 4\u00b0C after provocation using TempTest\u00ae\n* For SD patients, a complete response test is defined as absence of wheals at the provocation site within 10 min at 0 pins after provocation using the FricTest\u00ae",
+          "timeFrame": "From Day 1 (first dose) to Week 12"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change from baseline in Critical Temperature Threshold (CTT) at Week 12",
+          "description": "For participants with Cold Induced Urticaria, change from baseline in CTT following the TempTest\u00ae at Week 12.\n\nCTT is defined as threshold temperature at which wheals are triggered (highest temperature for cold), assessed at the 10-minute mark.",
+          "timeFrame": "From Day 1 (first dose) to Week 12"
+        },
+        {
+          "measure": "Change from baseline in Critical Friction Threshold (CFT) at Week 12",
+          "description": "For participants with Symptomatic Dermographism, change from baseline in CFT following the FricTest\u00ae at Week 12.\n\nCFT is the threshold pin number at which wheals are triggered, assessed at the 10-minute mark.",
+          "timeFrame": "From Day 1 (first dose) to Week 12"
+        },
+        {
+          "measure": "Complete response to provocation testing at Week 24 for Cold Induced Urticaria participants",
+          "description": "Proportion of Cold Induced Urticaria participants with complete response in Critical Temperature Threshold (CTT) following the TempTest\u00ae 4.0 at Week 24.",
+          "timeFrame": "From Day 1 (first dose) to Week 24"
+        },
+        {
+          "measure": "Complete response to provocation testing at Week 24 for Symptomatic Dermographism participants",
+          "description": "Proportion of Symptomatic Dermographism participants with complete response in Critical Friction Threshold (CFT) following the FricTest\u00ae 4.0 at Week 24",
+          "timeFrame": "From Day 1 (first dose) to Week 24"
+        },
+        {
+          "measure": "Change from baseline in Critical Temperature Threshold (CTT) at Week 24",
+          "description": "For participants with Cold Induced Urticaria, change from baseline in CTT following the TempTest\u00ae at Week 24.",
+          "timeFrame": "From Day 1 (first dose) to Week 24"
+        },
+        {
+          "measure": "Change from baseline in Critical Friction Threshold (CFT) at Week 24",
+          "description": "For participants with Symptomatic Dermographism, change from baseline in CFT following the FricTest\u00ae at Week 24.",
+          "timeFrame": "From Day 1 (first dose) to Week 24"
+        },
+        {
+          "measure": "Improvement in clinical symptoms of itch at Week 12",
+          "description": "Change from baseline in worst itch-numerical rating scale (WI-NRS) at Week 12 (on a scale of 0-10 in which no itch/burning/pain = 0 and worst ever is = 10).",
+          "timeFrame": "From Day 1 (first dose) to Week 12"
+        },
+        {
+          "measure": "Improvement in clinical symptoms of itch at Week 24",
+          "description": "Change from baseline in worst itch-numerical rating scale (WI-NRS) at Week 24 (on a scale of 0-10 in which no itch/burning/pain = 0 and worst ever is = 10).",
+          "timeFrame": "From Day 1 (first dose) to Week 24"
+        },
+        {
+          "measure": "Change from baseline in WI-NRS following provocation testing (WI-NRSprovo) at Week 12",
+          "description": "Change from baseline in WI-NRSprovo at Week 12 (on a scale of 0-10 in which no itch/burning/pain = 0 and worst ever is = 10).",
+          "timeFrame": "From Day 1 (first dose) to Week 12"
+        },
+        {
+          "measure": "Complete response to provocation testing at Week 4",
+          "description": "Proportion of Cold Induced Urticaria participants with complete response in Critical Temperature Threshold (CTT) following the TempTest\u00ae 4.0 at Week 4 or proportion of Symptomatic Dermographism participants with complete response in Critical Friction Threshold (CFT) following the FricTest\u00ae 4.0 at Week 4",
+          "timeFrame": "From Day 1 (first dose) to Week 4"
+        },
+        {
+          "measure": "Change from baseline in Critical Temperature Threshold (CTT) at Week 4",
+          "description": "For participants with Cold Induced Urticaria, change from baseline in CTT following the TempTest\u00ae at Week 4.",
+          "timeFrame": "From Day 1 (first dose) to Week 4"
+        },
+        {
+          "measure": "Change from baseline in Critical Friction Threshold (CFT) at Week 4",
+          "description": "For participants with Symptomatic Dermographism, change from baseline in CFT following the FricTest\u00ae at Week 4.",
+          "timeFrame": "From Day 1 (first dose) to Week 4"
+        },
+        {
+          "measure": "Improvement in clinical symptoms of hives at Week 12",
+          "description": "Change from baseline in worst hives-numerical rating scale (WH-NRS) at Week 12 (on a scale of 0-10 in which no itch/burning/pain = 0 and worst ever is = 10).",
+          "timeFrame": "From Day 1 (first dose) to Week 12"
+        },
+        {
+          "measure": "Improvement in clinical symptoms of hives at Week 24",
+          "description": "Change from baseline in worst hives-numerical rating scale (WH-NRS) at Week 24 (on a scale of 0-10 in which no itch/burning/pain = 0 and worst ever is = 10).",
+          "timeFrame": "From Day 1 (first dose) to Week 24"
+        },
+        {
+          "measure": "Improvement in Dermatology Quality of Life Index (DLQI) at Week 12",
+          "description": "Proportion of participants with DLQI = 0-1 at Week 12.",
+          "timeFrame": "From Day 1 (first dose) to Week 12"
+        },
+        {
+          "measure": "Incidence of Treatment-Emergent Adverse Events",
+          "description": "Occurrence of treatment emergent adverse events, adverse events of special interest and serious adverse events during the study.",
+          "timeFrame": "From Day 1 (first dose) to Week 40"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Key Inclusion Criteria:\n\n1. Males and females, \\>/= 18 years of age.\n2. Diagnosis of cold induced urticaria or symptomatic dermographism \\>/= 3 months.\n3. Diagnosis of cold induced urticaria or symptomatic dermographism despite the use of a stable regimen of second generation non-sedating H1-antihistamine as defined by:\n\n   1. The presence of hives for \\>/= 6 weeks at any time prior to Visit 1 despite the use of H1-antihistamines.\n   2. Must be on a stable regimen of second generation non-sedating H1-antihistamine for \\>/= 4 weeks prior to study treatment.\n   3. Cold induced urticaria: A Critical Threshold Temperature (CTT) of \u2265 10 \u00b0C and \\< 37 \u00b0C using the TempTest\u00ae and a numerical rating scale score of \u2265 3 for itch after the provocation test.\n   4. Symptomatic dermographism: A Critical Friction Threshold (CFT) of \u2265 3 using the FricTest\u00ae and a numerical rating scale score of \u2265 3 for itch after the provocation test.\n4. Cold induced urticaria: Positive ice-cube test resulting in hives at the provocation site during Screening\n5. Normal blood counts and liver function tests.\n6. Both males and females of child-bearing potential must agree to use highly effective contraceptives during the study and for 150 days after treatment.\n7. Willing and able to complete a daily symptom electronic diary and comply with study visits.\n8. Participants with and without prior biologic experience are eligible.\n\nKey Exclusion Criteria:\n\n1. Women who are pregnant or nursing.\n2. Clearly defined cause for chronic urticaria.\n3. Active, pruritic skin condition in addition to cold induced urticaria or symptomatic dermographism.\n4. Medical condition that would cause additional risk or interfere with study procedures.\n5. Known HIV, hepatitis B or hepatitis C infection.\n6. Vaccination of a live vaccine within 2 months prior to study treatment (subjects must agree to avoid vaccination during the study). Inactivated vaccines are allowed such as seasonal influenza injection or COVID-19 vaccine.\n7. History of anaphylaxis, unless due to cold exposure over a large part of the body (such as swimming in cold water).\n8. Prior treatment with barzolvolimab\n\nThere are additional criteria that your study doctor will review with you to confirm you are eligible for the study.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Celldex Therapeutics",
+          "role": "CONTACT",
+          "phone": "844-723-9363",
+          "email": "clinicaltrials@celldex.com"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Cahaba Dermatology & Skin Health Center, LLC",
+          "status": "RECRUITING",
+          "city": "Birmingham",
+          "state": "Alabama",
+          "zip": "35244",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Jennifer Perry",
+              "role": "CONTACT",
+              "email": "jperry@cahabaderm.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 33.52066,
+            "lon": -86.80249
+          }
+        },
+        {
+          "facility": "One of a Kind Clinical Research Center, LLC",
+          "status": "RECRUITING",
+          "city": "Scottsdale",
+          "state": "Arizona",
+          "zip": "85258",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Michelle Humbard",
+              "role": "CONTACT",
+              "email": "michelle@1-oak.net"
+            }
+          ],
+          "geoPoint": {
+            "lat": 33.50921,
+            "lon": -111.89903
+          }
+        },
+        {
+          "facility": "Kern Research, Inc.",
+          "status": "RECRUITING",
+          "city": "Bakersfield",
+          "state": "California",
+          "zip": "93301",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Wandy Noriega",
+              "role": "CONTACT",
+              "email": "wandy.noriega@kernresearch.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 35.37329,
+            "lon": -119.01871
+          }
+        },
+        {
+          "facility": "One of a Kind Clinical Research Center",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Napa",
+          "state": "California",
+          "zip": "94558",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.29714,
+            "lon": -122.28553
+          }
+        },
+        {
+          "facility": "Allergy & Asthma Consultants",
+          "status": "RECRUITING",
+          "city": "Redwood City",
+          "state": "California",
+          "zip": "94063",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Sherry Lipson",
+              "role": "CONTACT",
+              "email": "sherry.lipsonallergy@gmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 37.48522,
+            "lon": -122.23635
+          }
+        },
+        {
+          "facility": "Amicis Research Center",
+          "status": "RECRUITING",
+          "city": "Sherman Oaks",
+          "state": "California",
+          "zip": "91403",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "William Calder",
+              "role": "CONTACT",
+              "email": "w.calder@amicisresearch.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 34.15112,
+            "lon": -118.44925
+          }
+        },
+        {
+          "facility": "FOMAT - Allergy, Asthma & Immunology Medical Group",
+          "status": "RECRUITING",
+          "city": "Ventura",
+          "state": "California",
+          "zip": "93003",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Thai Orantes",
+              "role": "CONTACT",
+              "email": "torantes@fomatmedical.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 34.27834,
+            "lon": -119.29317
+          }
+        },
+        {
+          "facility": "Direct Helpers Research Center",
+          "status": "RECRUITING",
+          "city": "Hialeah",
+          "state": "Florida",
+          "zip": "33012",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Monica Merino-Lopez",
+              "role": "CONTACT",
+              "email": "monica@dhrtrials.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 25.8576,
+            "lon": -80.27811
+          }
+        },
+        {
+          "facility": "Well Pharma Medical Research, Corp.",
+          "status": "RECRUITING",
+          "city": "Miami",
+          "state": "Florida",
+          "zip": "33143",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Yudesiy Izquierdo",
+              "role": "CONTACT",
+              "email": "yizquierdo@wpharma.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 25.77427,
+            "lon": -80.19366
+          }
+        },
+        {
+          "facility": "Deluxe Health Center, LLC",
+          "status": "RECRUITING",
+          "city": "Miami Lakes",
+          "state": "Florida",
+          "zip": "33014",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Leidy Caballero",
+              "role": "CONTACT",
+              "email": "lcaballero@deluxehealthcenter.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 25.90871,
+            "lon": -80.30866
+          }
+        },
+        {
+          "facility": "GCP, Global Clinical Professionals",
+          "status": "RECRUITING",
+          "city": "St. Petersburg",
+          "state": "Florida",
+          "zip": "33705",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Nailis Echevarria",
+              "role": "CONTACT",
+              "email": "nechevarria@researchgcp.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 27.77086,
+            "lon": -82.67927
+          }
+        },
+        {
+          "facility": "Advanced Clinical Research Institute",
+          "status": "RECRUITING",
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33607",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Lisbet Rodriguez",
+              "role": "CONTACT",
+              "email": "lisbet@acrinstitute.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 27.94752,
+            "lon": -82.45843
+          }
+        },
+        {
+          "facility": "Centricity Research Columbus Dermatology",
+          "status": "RECRUITING",
+          "city": "Columbus",
+          "state": "Georgia",
+          "zip": "31904",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Cheyenne Dempsey",
+              "role": "CONTACT",
+              "email": "cheyenne.dempsey@centricityresearch.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 32.46098,
+            "lon": -84.98771
+          }
+        },
+        {
+          "facility": "Treasure Valley Medical Research",
+          "status": "RECRUITING",
+          "city": "Boise",
+          "state": "Idaho",
+          "zip": "83706",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Jackie Allen",
+              "role": "CONTACT",
+              "email": "jallen@tvmedresearch.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 43.6135,
+            "lon": -116.20345
+          }
+        },
+        {
+          "facility": "Endeavor Health Clinical Trials Center",
+          "status": "RECRUITING",
+          "city": "Skokie",
+          "state": "Illinois",
+          "zip": "60077",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Alba Berty",
+              "role": "CONTACT",
+              "email": "alba.berty@endeavorhealth.org"
+            }
+          ],
+          "geoPoint": {
+            "lat": 42.03336,
+            "lon": -87.73339
+          }
+        },
+        {
+          "facility": "Equity Medical, LLC",
+          "status": "RECRUITING",
+          "city": "Bowling Green",
+          "state": "Kentucky",
+          "zip": "42104",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Kristen Newman",
+              "role": "CONTACT",
+              "email": "knewman@equity-med.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 36.99032,
+            "lon": -86.4436
+          }
+        },
+        {
+          "facility": "Advanced ENT and Allergy, PLLC",
+          "status": "RECRUITING",
+          "city": "Louisville",
+          "state": "Kentucky",
+          "zip": "40207",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Rhonda Dase",
+              "role": "CONTACT",
+              "email": "rdase@advancedentandallergy.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 38.25424,
+            "lon": -85.75941
+          }
+        },
+        {
+          "facility": "Johns Hopkins University",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21224",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.29038,
+            "lon": -76.61219
+          }
+        },
+        {
+          "facility": "Revival Research Institute, LLC",
+          "status": "RECRUITING",
+          "city": "Troy",
+          "state": "Michigan",
+          "zip": "48084",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Ria Abraham",
+              "role": "CONTACT",
+              "email": "rabraham@rev-research.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 42.60559,
+            "lon": -83.14993
+          }
+        },
+        {
+          "facility": "Equity Medical, LLC",
+          "status": "RECRUITING",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10023",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Adugna Deboch",
+              "role": "CONTACT",
+              "email": "adugna.getahun@primeglobalresearch.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        },
+        {
+          "facility": "Markowitz Medical PLLC dba OptiSkin Medical",
+          "status": "RECRUITING",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10128",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Nathan Schwab",
+              "role": "CONTACT",
+              "email": "nathan@optiskinmedical.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        },
+        {
+          "facility": "University of Cincinnati",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Cincinnati",
+          "state": "Ohio",
+          "zip": "45267",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.12711,
+            "lon": -84.51439
+          }
+        },
+        {
+          "facility": "Allergy, Asthma & Clinical Research Center",
+          "status": "RECRUITING",
+          "city": "Oklahoma City",
+          "state": "Oklahoma",
+          "zip": "73120",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Meryem Assaoui",
+              "role": "CONTACT",
+              "email": "meryem@mtarpay.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 35.46756,
+            "lon": -97.51643
+          }
+        },
+        {
+          "facility": "Advanced Dermatology and Cosmetic Surgery - Spartanburg",
+          "status": "RECRUITING",
+          "city": "Spartanburg",
+          "state": "South Carolina",
+          "zip": "29307",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Rion Allen",
+              "role": "CONTACT",
+              "email": "rion.allen@adcsclinics.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 34.94957,
+            "lon": -81.93205
+          }
+        },
+        {
+          "facility": "RFSA Dermatology",
+          "status": "RECRUITING",
+          "city": "San Antonio",
+          "state": "Texas",
+          "zip": "78212",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Jonathan Joseph",
+              "role": "CONTACT",
+              "email": "jonathanj.rfsadermatology@gmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 29.42412,
+            "lon": -98.49363
+          }
+        },
+        {
+          "facility": "Allergy Associates of Utah",
+          "status": "RECRUITING",
+          "city": "Sandy City",
+          "state": "Utah",
+          "zip": "84093",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Holly Anderson",
+              "role": "CONTACT",
+              "email": "holly.anderson@utahallergies.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 40.59161,
+            "lon": -111.8841
+          }
+        },
+        {
+          "facility": "Universit\u00e4tsklinikum Augsburg - III. Med. Klinik",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Augsburg",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 48.37154,
+            "lon": 10.89851
+          }
+        },
+        {
+          "facility": "Institut f\u00fcr Allergieforschung (IFA) Charit\u00e9 - Universit\u00e4tsmedizin Berlin",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Berlin",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.52437,
+            "lon": 13.41053
+          }
+        },
+        {
+          "facility": "Elbekliniken Buxtehude",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Buxtehude",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 53.46994,
+            "lon": 9.68968
+          }
+        },
+        {
+          "facility": "Rosenpark Research",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Darmstadt",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 49.87167,
+            "lon": 8.65027
+          }
+        },
+        {
+          "facility": "University Hospital Dresden",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Dresden",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.05089,
+            "lon": 13.73832
+          }
+        },
+        {
+          "facility": "University Hospital D\u00fcsseldorf",
+          "status": "NOT_YET_RECRUITING",
+          "city": "D\u00fcsseldorf",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.22172,
+            "lon": 6.77616
+          }
+        },
+        {
+          "facility": "Universitatsklinkum Erlangen-Ulmenweg 18",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Erlangen",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 49.59099,
+            "lon": 11.00783
+          }
+        },
+        {
+          "facility": "Universit\u00e4tsklinikum G\u00f6ttingen",
+          "status": "NOT_YET_RECRUITING",
+          "city": "G\u00f6ttingen",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.53443,
+            "lon": 9.93228
+          }
+        },
+        {
+          "facility": "Universit\u00e4tsklinikum Heidelberg",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Heidelberg",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 49.40768,
+            "lon": 8.69079
+          }
+        },
+        {
+          "facility": "MVZ DermaKiel GmbH",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Kiel",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 54.32133,
+            "lon": 10.13489
+          }
+        },
+        {
+          "facility": "Universit\u00e4tsklinikum Schleswig-Holstein - Campus L\u00fcbeck",
+          "status": "NOT_YET_RECRUITING",
+          "city": "L\u00fcbeck",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 53.86893,
+            "lon": 10.68729
+          }
+        },
+        {
+          "facility": "LMU Klinikum der Universit\u00e4t",
+          "status": "NOT_YET_RECRUITING",
+          "city": "M\u00fcnchen",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.60698,
+            "lon": 13.31243
+          }
+        },
+        {
+          "facility": "Universit\u00e4tsklinikum M\u00fcnster, Klinik u. Poliklinik f. Dermatologie",
+          "status": "NOT_YET_RECRUITING",
+          "city": "M\u00fcnster",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.96236,
+            "lon": 7.62571
+          }
+        },
+        {
+          "facility": "Universit\u00e4ts-Hautklinik T\u00fcbingen",
+          "status": "NOT_YET_RECRUITING",
+          "city": "T\u00fcbingen",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 48.52266,
+            "lon": 9.05222
+          }
+        },
+        {
+          "facility": "CD8 Klinika",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Kaunas",
+          "country": "Lithuania",
+          "geoPoint": {
+            "lat": 54.90156,
+            "lon": 23.90909
+          }
+        },
+        {
+          "facility": "UAB Ausros Medicinos Centras",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Kaunas",
+          "country": "Lithuania",
+          "geoPoint": {
+            "lat": 54.90156,
+            "lon": 23.90909
+          }
+        },
+        {
+          "facility": "Republic Klaipeda Hospital",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Klaip\u0117da",
+          "country": "Lithuania",
+          "geoPoint": {
+            "lat": 55.7068,
+            "lon": 21.13912
+          }
+        },
+        {
+          "facility": "Center of Allergy Diagnosis and Treatment",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Vilnius",
+          "country": "Lithuania",
+          "geoPoint": {
+            "lat": 54.68916,
+            "lon": 25.2798
+          }
+        },
+        {
+          "facility": "Santaros KTC (klinikiniu tyrimu centras)",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Vilnius",
+          "country": "Lithuania",
+          "geoPoint": {
+            "lat": 54.68916,
+            "lon": 25.2798
+          }
+        },
+        {
+          "facility": "Centrum Medyczne ALL-MED Badania Kliniczne",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Krakow",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 50.06143,
+            "lon": 19.93658
+          }
+        },
+        {
+          "facility": "Centrum Nowoczesnych Terapii Dobry Lekarz Sp. z o.o.",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Krakow",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 50.06143,
+            "lon": 19.93658
+          }
+        },
+        {
+          "facility": "\"Oddzial Kliniczny Chorob Wewnetrznych, Astmy i Alergii z Odcinkiem dla Dzieci, Uniwersytecki Szpital Kliniczny nr 1 w Lodzi\"",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Lodz",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 51.77058,
+            "lon": 19.47395
+          }
+        },
+        {
+          "facility": "Santa Familia PTG Lodz",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Lodz",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 51.77058,
+            "lon": 19.47395
+          }
+        },
+        {
+          "facility": "Luxderm Specjalistyczny Gabinet Dermatologiczny Prof. dr hab. N. med. Dorota Krasowska",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Lublin",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 51.25058,
+            "lon": 22.57009
+          }
+        },
+        {
+          "facility": "Uniwersytecki Szpital Kliniczny w Opolu",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Opole",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 50.67119,
+            "lon": 17.92604
+          }
+        },
+        {
+          "facility": "Medicome Sp. z o.o.",
+          "status": "NOT_YET_RECRUITING",
+          "city": "O\u015bwi\u0119cim",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 50.03437,
+            "lon": 19.21037
+          }
+        },
+        {
+          "facility": "EMC Instytut Medyczny S.A.PL CERTUS Szpital i Ambulatorium",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Poznan",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 52.40692,
+            "lon": 16.92993
+          }
+        },
+        {
+          "facility": "Uniwersytecki Szpital Kliniczny im. Fryderyka Chopina w Rzeszowie",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Rzesz\u00f3w",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 50.04132,
+            "lon": 21.99901
+          }
+        },
+        {
+          "facility": "Alergo-med O\u015brodek Bada\u0144 Klinicznych Sp\u00f3lka z ograniczon\u0105 odpowiedzialno\u015bci\u0105",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Tarn\u00f3w",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 50.01381,
+            "lon": 20.98698
+          }
+        },
+        {
+          "facility": "MICS Centrum Medyczne Toru\u0144",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Torun",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 53.01375,
+            "lon": 18.59814
+          }
+        },
+        {
+          "facility": "Klinika Ambroziak Dermatologia",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Warsaw",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 52.22977,
+            "lon": 21.01178
+          }
+        },
+        {
+          "facility": "Cityclinic Przychodnia Lekarsko-Psychologiczna Matusiak Sp. Partnerska",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Wroclaw",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 51.10286,
+            "lon": 17.03006
+          }
+        },
+        {
+          "facility": "Worthwhile Clinical Trials",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Benoni",
+          "country": "South Africa",
+          "geoPoint": {
+            "lat": -26.18848,
+            "lon": 28.32078
+          }
+        },
+        {
+          "facility": "Allergy and Immunology Unit, University of Cape Town Lung Institute (UCTLI)",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Cape Town",
+          "country": "South Africa",
+          "geoPoint": {
+            "lat": -33.92584,
+            "lon": 18.42322
+          }
+        },
+        {
+          "facility": "Dr. PJ Sebastian",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Durban",
+          "country": "South Africa",
+          "geoPoint": {
+            "lat": -29.8579,
+            "lon": 31.0292
+          }
+        },
+        {
+          "facility": "Infinity Dermatology Inc",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Durban",
+          "country": "South Africa",
+          "geoPoint": {
+            "lat": -29.8579,
+            "lon": 31.0292
+          }
+        },
+        {
+          "facility": "Synapta Clinical Research Centre",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Durban",
+          "country": "South Africa",
+          "geoPoint": {
+            "lat": -29.8579,
+            "lon": 31.0292
+          }
+        },
+        {
+          "facility": "Newtown Clinical Research Centre",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Johannesburg",
+          "country": "South Africa",
+          "geoPoint": {
+            "lat": -26.20227,
+            "lon": 28.04363
+          }
+        },
+        {
+          "facility": "Sandton Medical Research Centre",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Johannesburg",
+          "country": "South Africa",
+          "geoPoint": {
+            "lat": -26.20227,
+            "lon": 28.04363
+          }
+        },
+        {
+          "facility": "Global Clinical Trials (Pty) Ltd",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Pretoria",
+          "country": "South Africa",
+          "geoPoint": {
+            "lat": -25.74486,
+            "lon": 28.18783
+          }
+        },
+        {
+          "facility": "Allergy and Asthma Centre",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Westville",
+          "country": "South Africa",
+          "geoPoint": {
+            "lat": -29.82554,
+            "lon": 30.937
+          }
+        },
+        {
+          "facility": "Hospital del Mar",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Barcelona",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Clinica Universidad Navarra - Pamplona",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Pamplona",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 42.81687,
+            "lon": -1.64323
+          }
+        },
+        {
+          "facility": "Addenbrooke's Hospital",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Cambridge",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 52.2,
+            "lon": 0.11667
+          }
+        },
+        {
+          "facility": "Queen Elizabeth University Hospital",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Glasgow",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 55.86515,
+            "lon": -4.25763
+          }
+        },
+        {
+          "facility": "Salford Care Organisation NCA NHS Trust",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Manchester",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 53.48095,
+            "lon": -2.23743
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-04-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000094482",
+          "term": "Chronic Inducible Urticaria"
+        },
+        {
+          "id": "D000096703",
+          "term": "Cold Urticaria"
+        },
+        {
+          "id": "C536612",
+          "term": "Familial dermographism"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000080223",
+          "term": "Chronic Urticaria"
+        },
+        {
+          "id": "D014581",
+          "term": "Urticaria"
+        },
+        {
+          "id": "D017445",
+          "term": "Skin Diseases, Vascular"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D006969",
+          "term": "Hypersensitivity, Immediate"
+        },
+        {
+          "id": "D006967",
+          "term": "Hypersensitivity"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": false,
+  "_meta": {
+    "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT07266402",
+    "fetched_at": "2026-04-09T00:59:09.835590+00:00"
+  }
+}

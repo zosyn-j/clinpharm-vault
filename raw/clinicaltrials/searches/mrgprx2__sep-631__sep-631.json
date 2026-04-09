@@ -1,0 +1,9 @@
+{
+  "priority_class": "MRGPRX2",
+  "program": "SEP-631",
+  "term": "SEP-631",
+  "url": "https://clinicaltrials.gov/api/v2/studies?query.cond=urticaria&query.term=SEP-631&pageSize=100",
+  "fetched_at": "2026-04-09T00:59:09.835590+00:00",
+  "study_count": 0,
+  "studies": []
+}

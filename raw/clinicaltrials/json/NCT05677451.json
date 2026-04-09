@@ -1,0 +1,1161 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05677451",
+      "orgStudyIdInfo": {
+        "id": "CLOU064F12301"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2022-502159-78-00",
+          "type": "OTHER",
+          "domain": "EU CT Number"
+        }
+      ],
+      "organization": {
+        "fullName": "Novartis",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "24 Weeks Double-blind Randomized Placebo-controlled Trial to Evaluate Efficacy, PK, Safety of LOU064 in Adolescents (12 - <18) With CSU and Inadequate Response to H1-antihistamine Followed by Optional 3 Years Open-label Extension and an Optional 3 Years Safety Long-term Treatment-free Follow-up",
+      "officialTitle": "A Double-blind, Randomized, Placebo-controlled Trial to Evaluate the Efficacy, Pharmacokinetics and Safety of Remibrutinib (LOU064) for 24 Weeks in Adolescents From 12 to Less Than 18 Years of Age With Chronic Spontaneous Urticaria Inadequately Controlled by H1-antihistamines Followed by an Optional Open-label Extension for up to Another 3 Years and an Optional Safety Long-term Treatment-free Follow-up Period for up to an Additional 3 Years"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-06",
+      "overallStatus": "RECRUITING",
+      "startDateStruct": {
+        "date": "2023-07-11",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2026-04-02",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2032-03-30",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2022-12-16",
+      "studyFirstSubmitQcDate": "2022-12-23",
+      "studyFirstPostDateStruct": {
+        "date": "2023-01-10",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-06-27",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-06-29",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Novartis Pharmaceuticals",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this trial is:\n\n1. to assess the efficacy, pharmacokinetics, and safety of remibrutinib vs. placebo in adolescents from 12 to \\< 18 years of age suffering from chronic spontaneous urticaria inadequately controlled by H1-antihistamines\n2. to collect long-term efficacy, safety and tolerability data on remibrutinib in adolescents after having completed 24 weeks of treatment\n3. to collect safety data in this population for up to three years after the last dose of study treatment",
+      "detailedDescription": "This trial consists of 3 different periods:\n\n1. the \"core period\", which is randomized and double-blind, during which 2/3 participants will receive remibrutinib and 1/3 will receive placebo for 24 weeks. Total duration: approximately 32 weeks (10 site visits).\n2. an optional \"open-label extension (OLE) period\" proposed to all participants who completed 24 weeks of treatment of the \"core period\" and all scheduled assessments planned at week 24 visit . Depending on their CSU symptoms (as assessed by the doctor), participants will either receive remibrutinib for 24 weeks, or enter an observational treatment-free period for 1 year. If the CSU symptoms return during the observational period, the participants can switch to the treatment period at any time (decided by the doctor). At the end of the 24-week treatment period, if CSU is controlled, participants will enter the 1-year observational period, otherwise, they can continue with another cycle of 24-week remibrutinib treatment. The number of remibrutinib treatment or observational cycles will be limited to 6 times each. Total duration: from 1 year to approximately 3 years, and number of visits: from 3 to 15 (depending on the CSU symptoms).\n3. an optional \"long-term treatment-free follow-up period\" proposed to all participants who completed at least 4 months treatment in the \"OLE period\". No treatment will be given. Duration: 3 years with 1 site visit and up to 4 phone call follow-up visits.\n\nThe primary clinical question of interest is what is the effect of remibrutinib treatment versus placebo on the change from baseline in UAS7, ISS7 and HSS7 scores after 12 weeks of treatment"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ],
+      "keywords": [
+        "BTK inhibitor",
+        "Chronic spontaneous urticaria",
+        "Urticaria activity score",
+        "Hives severity score",
+        "Itch severity score"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 100,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Arm 1: LOU064 (blinded)",
+          "type": "EXPERIMENTAL",
+          "description": "LOU064 (blinded) taken orally b.i.d. for 24 weeks, followed by LOU064 (open-label) taken orally b.i.d. for up to 6 cycles of 24 weeks.",
+          "interventionNames": [
+            "Drug: LOU064 (blinded)"
+          ]
+        },
+        {
+          "label": "Arm 2: LOU064 placebo (blinded)",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "LOU064 placebo (blinded) taken orally b.i.d. for 24 weeks (randomized in a 2:1 ratio arm 1: arm 2)",
+          "interventionNames": [
+            "Drug: placebo"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "LOU064 (blinded)",
+          "description": "LOU064 (blinded) active treatment",
+          "armGroupLabels": [
+            "Arm 1: LOU064 (blinded)"
+          ],
+          "otherNames": [
+            "remibrutinib"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "placebo",
+          "description": "matching active drug",
+          "armGroupLabels": [
+            "Arm 2: LOU064 placebo (blinded)"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change from baseline in UAS7",
+          "description": "The Urticaria Activity Score (UAS) is sum of the Hive Severity Score (HSS) and the Itch Severity Score (ISS). UAS7 is sum of the HSS7 and the ISS7 scores. Possible range of weekly UAS7 score is 0 to 42. Complete UAS7 response is UAS7 = 0.\n\nNegative change from baseline indicates improvement.",
+          "timeFrame": "Baseline, week 12"
+        },
+        {
+          "measure": "Change fron baseline in ISS7",
+          "description": "Itch Severity Score (ISS) scale is 0 to 3. Score (ISS7) is derived by adding up average daily scores of 7 days preceding visit. Possible range of weekly score is therefore 0 to 21. Itch Severity Score scale: 0 - None 1 - Mild (minimal awareness, easily tolerated) 2 - Moderate (definite awareness, bothersome but tolerable) 3 - Severe (difficult to tolerate).\n\nNegative change from baseline indicates improvement.",
+          "timeFrame": "Baseline, Week 12"
+        },
+        {
+          "measure": "Change from baseline in HSS7",
+          "description": "Hives Severity Score (HSS) scale is 0 to 3. A weekly score (HSS7) is derived by adding up the average daily scores of the 7 days preceding the visit. Possible range of the weekly score is therefore 0 to 21. Hives Severity Score scale: 0 - None 1 - Mild (1-6 hives/12 hours) 2 - Moderate (7-12 hives/12 hours) 3 - Severe (\\>12 hives/12 hours).\n\nNegative change from baseline indicates improvement.",
+          "timeFrame": "Baseline, Week 12"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Cmax of remibrutinib",
+          "description": "The maximum (peak) observed blood drug concentration after single dose administration",
+          "timeFrame": "At Week 12, before study drug intake, then after 30 min, 1 h, 2h, 3h and 4 h after study drug intake"
+        },
+        {
+          "measure": "Tmax of remibrutinib",
+          "description": "The time to reach maximum (peak) blood drug concentration after single dose administration",
+          "timeFrame": "At Week 12, before study drug intake, then after 30 min, 1 h, 2h, 3h and 4 h after study drug intake"
+        },
+        {
+          "measure": "AUClast of remibrutinib",
+          "description": "The Area Under the Curve (AUC) from pre-dose to the last measurable concentration sampling time",
+          "timeFrame": "At Week 12, before study drug intake, then after 30 min, 1 h, 2h, 3h and 4 h after study drug intake"
+        },
+        {
+          "measure": "Absolute change from baseline in ISS7",
+          "description": "Itch Severity Score (ISS) scale is 0 to 3. Score (ISS7) is derived by adding up average daily scores of 7 days preceding visit. Possible range of weekly score is therefore 0 to 21. Itch Severity Score scale: 0 - None 1 - Mild (minimal awareness, easily tolerated) 2 - Moderate (definite awareness, bothersome but tolerable) 3 - Severe (difficult to tolerate).\n\nNegative change from baseline indicates improvement.",
+          "timeFrame": "Baseline - Week 12"
+        },
+        {
+          "measure": "Absolute change from baseline in HSS7",
+          "description": "Hives Severity Score (HSS) scale is 0 to 3. A weekly score (HSS7) is derived by adding up the average daily scores of the 7 days preceding the visit. Possible range of the weekly score is therefore 0 to 21. Hives Severity Score scale: 0 - None 1 - Mild (1-6 hives/12 hours) 2 - Moderate (7-12 hives/12 hours) 3 - Severe (\\>12 hives/12 hours).\n\nNegative change from baseline indicates improvement.",
+          "timeFrame": "Baseline - Week 12"
+        },
+        {
+          "measure": "Achievement of UAS7 \u2264 6 (yes/no)",
+          "description": "Disease activity control is defined as UAS7 \u2264 6. The Urticaria Activity Score (UAS) is sum of the Hive Severity Score (HSS) and the Itch Severity Score (ISS). UAS7 is sum of the HSS7 and the ISS7 scores. Possible range of weekly UAS7 score is 0 to 42.",
+          "timeFrame": "Week 12 and over time"
+        },
+        {
+          "measure": "Achievement of UAS7 = 0 (yes/no)",
+          "description": "Complete absence of hives and itch is defined as UAS7 = 0. The Urticaria Activity Score (UAS) is sum of the Hive Severity Score (HSS) and the Itch Severity Score (ISS). UAS7 is sum of the HSS7 and the ISS7 scores. Possible range of weekly UAS7 score is 0 to 42.",
+          "timeFrame": "Week 12 and over time"
+        },
+        {
+          "measure": "Absolute change from baseline in CDLQI score",
+          "description": "The Children Dermatology life Quality Index (CDLQI) score range is 0 to 30, with 0 (meaning no impact of skin disease on quality of life) to 30 (meaning maximum impact on quality of life).",
+          "timeFrame": "Week 12"
+        },
+        {
+          "measure": "Number of weeks without angioedema, assessed by the cumulative number of weeks with an AAS7 = 0 response",
+          "description": "Angioedema Activity Score (AAS7) is a measure of the frequency and intensity of angioedema episodes. The total possible range of scores over 7 days is 0-105 where higher scores indicate increased angioedema activity.",
+          "timeFrame": "baseline - Week 12"
+        },
+        {
+          "measure": "Occurrence of treatment-emergent adverse events (AE) and serious adverse events (SAE) during the core period",
+          "description": "To demonstrate the safety and tolerability of remibrutinib by assessing occurrence of treatment emergent adverse events and serious adverse events during the core period of the study.",
+          "timeFrame": "28 weeks"
+        },
+        {
+          "measure": "Occurrence of treatment emergent AEs, and SAEs during the Open Label Extension (OLE) period",
+          "description": "To demonstrate the safety and tolerability of remibrutinib by assessing occurrence of treatment emergent adverse events and serious adverse events during the OLE period of the study.",
+          "timeFrame": "3 years"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Male and female adolescent participants aged \\>= 12 to \\< 18 years of age at the time of signing the informed consent\n* CSU duration for \\>= 6 months prior to screening (defined as the onset of CSU determined by the investigator based on all available supporting documentation)\n* Diagnosis of CSU inadequately controlled by second-generation H1-AH at the time of randomization defined as:\n* The presence of itch and hives for \u2265 6 consecutive weeks prior to screening despite the use of second-generation H1-AH during this time period according to local treatment guidelines\n* UAS7 score (range 0 - 42) \\>= 16, ISS7 score (range 0 - 21) \\>= 6 and HSS7 score (range 0 - 21) \\>= 6 during the 7 days prior to randomization (Day 1)\n* Documentation of hives within three months before randomization (either at screening and/or at randomization; or documented in the participants' medical history)\n\nKey Exclusion criteria:\n\n* Previous use of remibrutinib or other BTK inhibitors\n* Significant bleeding risk or coagulation disorders\n* History of gastrointestinal bleeding\n* Requirement for anti-platelet medication, except for acetylsalicylic acid up to 100 mg/d or clopidogrel up to 75 mg/d. The use of dual anti-platelet therapy (e.g., acetylsalicylic acid + clopidogrel) is prohibited\n* History or current hepatic disease\n* Evidence of clinically significant cardiovascular, neurological, psychiatric, pulmonary, renal, hepatic, endocrine, metabolic, hematological disorders, gastrointestinal disease or immunodeficiency that, in the investigator's opinion, would compromise the safety of the participant, interfere with the interpretation of the study results or otherwise preclude participation or protocol adherence of the participant\n* History of hypersensitivity to any of the study drugs or its excipients or to drugs of similar chemical classes\n* Participants having a clearly defined predominant or sole trigger of their chronic urticaria (chronic inducible urticaria) including urticaria factitia (symptomatic dermographism), cold-, heat-, solar-, pressure-, delayed pressure-, aquagenic-, cholinergic-, or contact-urticaria\n* Other diseases with symptoms of urticaria or angioedema, including but not limited to urticaria vasculitis, urticaria pigmentosa, erythema multiforme, mastocytosis, hereditary angioedema, or drug-induced urticaria\n* Any other skin disease associated with chronic itching that might influence in the investigator's opinion the study evaluations and results, e.g., atopic dermatitis, bullous pemphigoid, dermatitis herpetiformis, senile pruritus or psoriasis\n\nOther protocol-defined inclusion/exclusion criteria may apply.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "12 Years",
+      "maximumAge": "17 Years",
+      "stdAges": [
+        "CHILD"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Novartis Pharmaceuticals",
+          "role": "CONTACT",
+          "phone": "1-888-669-6682",
+          "email": "novartis.email@novartis.com"
+        },
+        {
+          "name": "Novartis Pharmaceuticals",
+          "role": "CONTACT",
+          "phone": "+41613241111"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Novartis Pharmaceuticals",
+          "affiliation": "Novartis Pharmaceuticals",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Kern Research",
+          "status": "RECRUITING",
+          "city": "Bakersfield",
+          "state": "California",
+          "zip": "93301",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Federico Navarro",
+              "role": "CONTACT",
+              "phone": "661-864-7710",
+              "email": "federico.navarro@kernresearch.com"
+            },
+            {
+              "name": "Eric Boren",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 35.37329,
+            "lon": -119.01871
+          }
+        },
+        {
+          "facility": "Allergy and Asthma Medical Group and Research Center",
+          "status": "RECRUITING",
+          "city": "San Diego",
+          "state": "California",
+          "zip": "92123",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Mary Vales",
+              "role": "CONTACT",
+              "phone": "858-268-2368",
+              "email": "maryvales@allergyandasthma.com"
+            },
+            {
+              "name": "Bob Geng",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 32.71571,
+            "lon": -117.16472
+          }
+        },
+        {
+          "facility": "Pediatric Dermatology of Miami at the Pediatric CoE",
+          "status": "RECRUITING",
+          "city": "Coral Gables",
+          "state": "Florida",
+          "zip": "33134",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Karla Olivas",
+              "role": "CONTACT",
+              "phone": "305-667-3152",
+              "email": "karla@pediatricskinresearch.com"
+            },
+            {
+              "name": "Mercedes E Gonzalez",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 25.72149,
+            "lon": -80.26838
+          }
+        },
+        {
+          "facility": "Treasure Valley Medical Research",
+          "status": "RECRUITING",
+          "city": "Boise",
+          "state": "Idaho",
+          "zip": "83706",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Summer Reames",
+              "role": "CONTACT",
+              "email": "sreames@tvmedresearch.com"
+            },
+            {
+              "name": "Neetu Talreja",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 43.6135,
+            "lon": -116.20345
+          }
+        },
+        {
+          "facility": "Endeavor Health",
+          "status": "RECRUITING",
+          "city": "Glenview",
+          "state": "Illinois",
+          "zip": "60077",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Madeline Snedden",
+              "role": "CONTACT",
+              "phone": "847-657-5959",
+              "email": "msnedden@northshore.org"
+            },
+            {
+              "name": "Giselle Mosnaim",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 42.06975,
+            "lon": -87.78784
+          }
+        },
+        {
+          "facility": "Allergy and Asthma Specialist P S C",
+          "status": "RECRUITING",
+          "city": "Owensboro",
+          "state": "Kentucky",
+          "zip": "42301",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Andrea Arthur",
+              "role": "CONTACT",
+              "phone": "270-684-6144",
+              "email": "andrea@cloremd.com"
+            },
+            {
+              "name": "Lee Clore",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 37.77422,
+            "lon": -87.11333
+          }
+        },
+        {
+          "facility": "Toledo Institute of Clinical Research",
+          "status": "RECRUITING",
+          "city": "Toledo",
+          "state": "Ohio",
+          "zip": "43617",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Faheem Husain",
+              "role": "CONTACT",
+              "phone": "419-843-8815",
+              "email": "faheem.husain@ohmiallergy.com"
+            },
+            {
+              "name": "Syed Rehman",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 41.66394,
+            "lon": -83.55521
+          }
+        },
+        {
+          "facility": "Allergy Asthma and Clinical Research",
+          "status": "RECRUITING",
+          "city": "Oklahoma City",
+          "state": "Oklahoma",
+          "zip": "73120",
+          "country": "United States",
+          "contacts": [
+            {
+              "role": "CONTACT",
+              "phone": "405-752-0393"
+            },
+            {
+              "name": "Martha Tarpay",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 35.46756,
+            "lon": -97.51643
+          }
+        },
+        {
+          "facility": "Allergy and Clinical Immunology Associates",
+          "status": "RECRUITING",
+          "city": "Pittsburgh",
+          "state": "Pennsylvania",
+          "zip": "15241",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Sherry Knoblock",
+              "role": "CONTACT",
+              "phone": "412-833-4051",
+              "email": "sherryknoblock@gmail.com"
+            },
+            {
+              "name": "Michael Palumbo",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 40.44062,
+            "lon": -79.99589
+          }
+        },
+        {
+          "facility": "RFSA Dermatology",
+          "status": "RECRUITING",
+          "city": "San Antonio",
+          "state": "Texas",
+          "zip": "78213",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Lindsey Finklea",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 29.42412,
+            "lon": -98.49363
+          }
+        },
+        {
+          "facility": "Allergy Associates of Utah",
+          "status": "RECRUITING",
+          "city": "Sandy City",
+          "state": "Utah",
+          "zip": "84093",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Deann Sims",
+              "role": "CONTACT",
+              "phone": "801-263-8700",
+              "email": "deann.wilson-sims@utahallergies.com"
+            },
+            {
+              "name": "Andrew Smith",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 40.59161,
+            "lon": -111.8841
+          }
+        },
+        {
+          "facility": "Seattle Allergy and Asthma Rsch",
+          "status": "WITHDRAWN",
+          "city": "Seattle",
+          "state": "Washington",
+          "zip": "98115",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 47.60621,
+            "lon": -122.33207
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "CABA",
+          "state": "Buenos Aires",
+          "zip": "C1181ACH",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "CABA",
+          "state": "Buenos Aires",
+          "zip": "C1414AIF",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "CABA",
+          "state": "Buenos Aires",
+          "zip": "C1425BEN",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Rosario",
+          "state": "Santa Fe Province",
+          "zip": "2000",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -32.94682,
+            "lon": -60.63932
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Montreal",
+          "state": "Quebec",
+          "zip": "H4A 3J1",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 45.50884,
+            "lon": -73.58781
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "Santiago",
+          "zip": "8420383",
+          "country": "Chile",
+          "geoPoint": {
+            "lat": -33.45694,
+            "lon": -70.64827
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Guangdong",
+          "state": "Guangzhou",
+          "zip": "510091",
+          "country": "China",
+          "geoPoint": {
+            "lat": 42.76832,
+            "lon": 129.33635
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Chengdu",
+          "state": "Sichuan",
+          "zip": "610041",
+          "country": "China",
+          "geoPoint": {
+            "lat": 30.66667,
+            "lon": 104.06667
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Beijing",
+          "zip": "100050",
+          "country": "China",
+          "geoPoint": {
+            "lat": 39.9075,
+            "lon": 116.39723
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Beijing",
+          "zip": "100069",
+          "country": "China",
+          "geoPoint": {
+            "lat": 39.9075,
+            "lon": 116.39723
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Frankfurt am Main",
+          "state": "Hesse",
+          "zip": "60590",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 50.11552,
+            "lon": 8.68417
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Berlin",
+          "zip": "13353",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.52437,
+            "lon": 13.41053
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Mainz",
+          "zip": "55131",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 49.98185,
+            "lon": 8.28008
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "M\u00fcnster",
+          "zip": "48149",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.96236,
+            "lon": 7.62571
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "T\u00fcbingen",
+          "zip": "72076",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 48.52266,
+            "lon": 9.05222
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Hong Kong",
+          "zip": "999077",
+          "country": "Hong Kong",
+          "geoPoint": {
+            "lat": 22.27832,
+            "lon": 114.17469
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Pokfulam",
+          "zip": "999077",
+          "country": "Hong Kong"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Florence",
+          "state": "FI",
+          "zip": "50139",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 43.77925,
+            "lon": 11.24626
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Parma",
+          "state": "PR",
+          "zip": "43126",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 44.79935,
+            "lon": 10.32618
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Pavia",
+          "state": "PV",
+          "zip": "27100",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 45.19205,
+            "lon": 9.15917
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Siena",
+          "state": "SI",
+          "zip": "53100",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 43.31822,
+            "lon": 11.33064
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Trieste",
+          "state": "TS",
+          "zip": "34137",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 45.64953,
+            "lon": 13.77678
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Bari",
+          "zip": "70126",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 41.12066,
+            "lon": 16.86982
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Naples",
+          "zip": "80138",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 40.85216,
+            "lon": 14.26811
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Kitakyushu",
+          "state": "Fukuoka",
+          "zip": "807-8556",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 33.85181,
+            "lon": 130.85034
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Kamimashi-gun",
+          "state": "Kumamoto",
+          "zip": "861-3106",
+          "country": "Japan"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Sakai",
+          "state": "Osaka",
+          "zip": "593-8324",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 34.58216,
+            "lon": 135.46653
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Izumo",
+          "state": "Shimane",
+          "zip": "693 8501",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 35.36667,
+            "lon": 132.76667
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Itabashi-ku",
+          "state": "Tokyo",
+          "zip": "173-8610",
+          "country": "Japan"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Kuching",
+          "state": "Sarawak",
+          "zip": "93586",
+          "country": "Malaysia",
+          "geoPoint": {
+            "lat": 1.55,
+            "lon": 110.33333
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Deventer",
+          "zip": "7416 SE",
+          "country": "Netherlands",
+          "geoPoint": {
+            "lat": 52.255,
+            "lon": 6.16389
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Utrecht",
+          "zip": "3584",
+          "country": "Netherlands",
+          "geoPoint": {
+            "lat": 52.09083,
+            "lon": 5.12222
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Lodz",
+          "zip": "90-436",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 51.77058,
+            "lon": 19.47395
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Olsztyn",
+          "zip": "10-045",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 53.78376,
+            "lon": 20.49272
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Warsaw",
+          "zip": "02-962",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 52.22977,
+            "lon": 21.01178
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Singapore",
+          "zip": "119074",
+          "country": "Singapore",
+          "geoPoint": {
+            "lat": 1.28967,
+            "lon": 103.85007
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Singapore",
+          "zip": "229899",
+          "country": "Singapore",
+          "geoPoint": {
+            "lat": 1.28967,
+            "lon": 103.85007
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Pretoria",
+          "state": "Gauteng",
+          "zip": "0009",
+          "country": "South Africa",
+          "geoPoint": {
+            "lat": -25.74486,
+            "lon": 28.18783
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Cape Town",
+          "state": "Western Cape",
+          "zip": "7405",
+          "country": "South Africa",
+          "geoPoint": {
+            "lat": -33.92584,
+            "lon": 18.42322
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Esplugues de Llobregat",
+          "state": "Barcelona",
+          "zip": "08950",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.37732,
+            "lon": 2.08809
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Barcelona",
+          "state": "Catalonia",
+          "zip": "08035",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Valencia",
+          "state": "Valencia",
+          "zip": "46014",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 39.47391,
+            "lon": -0.37966
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Songkhla",
+          "state": "Hat Yai",
+          "zip": "90110",
+          "country": "Thailand",
+          "geoPoint": {
+            "lat": 7.19882,
+            "lon": 100.5951
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Bangkok",
+          "zip": "10330",
+          "country": "Thailand",
+          "geoPoint": {
+            "lat": 13.75398,
+            "lon": 100.50144
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Bangkok",
+          "zip": "10700",
+          "country": "Thailand",
+          "geoPoint": {
+            "lat": 13.75398,
+            "lon": 100.50144
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Adana",
+          "zip": "01050",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 36.98615,
+            "lon": 35.32531
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Ankara",
+          "zip": "06230",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 39.91987,
+            "lon": 32.85427
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Istanbul",
+          "zip": "34093",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 41.01384,
+            "lon": 28.94966
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Peterborough",
+          "state": "Cambridgeshire",
+          "zip": "PE3 9GZ",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 52.57364,
+            "lon": -0.24777
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Manchester",
+          "zip": "M13 9WL",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 53.48095,
+            "lon": -2.23743
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "status": "RECRUITING",
+          "city": "Southampton",
+          "zip": "SO16 6YD",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 50.90395,
+            "lon": -1.40428
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Novartis is committed to sharing with qualified external researchers, access to patient-level data and supporting clinical documents from eligible studies. These requests are reviewed and approved by an independent review panel on the basis of scientific merit. All data provided is anonymized to respect the privacy of patients who have participated in the trial in line with applicable laws and regulations.\n\nThis trial data availability is according to the criteria and process described on www.clinicalstudydatarequest.com"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-04-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000080223",
+          "term": "Chronic Urticaria"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014581",
+          "term": "Urticaria"
+        },
+        {
+          "id": "D017445",
+          "term": "Skin Diseases, Vascular"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D006969",
+          "term": "Hypersensitivity, Immediate"
+        },
+        {
+          "id": "D006967",
+          "term": "Hypersensitivity"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C000722911",
+          "term": "remibrutinib"
+        }
+      ]
+    }
+  },
+  "hasResults": false,
+  "_meta": {
+    "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT05677451",
+    "fetched_at": "2026-04-09T00:59:09.835590+00:00"
+  }
+}

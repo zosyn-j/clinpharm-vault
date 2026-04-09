@@ -1,0 +1,871 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06931405",
+      "orgStudyIdInfo": {
+        "id": "BLU-808-1201"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2024-520031-33-00",
+          "type": "OTHER",
+          "domain": "Clinical Trials Information System (CTIS)"
+        }
+      ],
+      "organization": {
+        "fullName": "Blueprint Medicines Corporation",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Study of BLU-808 in Chronic Inducible Urticaria (CIndU) and Chronic Spontaneous Urticaria (CSU)",
+      "officialTitle": "A Phase 2 Study to Evaluate the Safety, Tolerability, and Clinical Activity of BLU-808, a Wild Type KIT Inhibitor, in Chronic Inducible Urticaria and Chronic Spontaneous Urticaria"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-02",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2025-05-28",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2026-12-31",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2026-12-31",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2025-04-09",
+      "studyFirstSubmitQcDate": "2025-04-09",
+      "studyFirstPostDateStruct": {
+        "date": "2025-04-17",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-02-16",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-02-17",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Blueprint Medicines Corporation",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This is a 2-part, proof-of-concept study to be conducted globally, designed to evaluate the safety, tolerability, clinical activity, pharmacokinetics, and pharmacodynamics of BLU-808, a wild type KIT inhibitor, in participants with CIndU (Part A) or CSU (Part B)."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Chronic Inducible Urticaria",
+        "Chronic Spontaneous Urticaria"
+      ],
+      "keywords": [
+        "Chronic Inducible Urticaria",
+        "Chronic Spontaneous Urticaria",
+        "BLU-808",
+        "CIndU",
+        "CSU",
+        "Chronic Urticaria",
+        "CU",
+        "Cold Urticaria",
+        "ColdU",
+        "Symptomatic Dermographism",
+        "SD"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "TRIPLE",
+          "maskingDescription": "Arms A1 and A3 are non-randomized and open label. Arm B is randomized and double blind.",
+          "whoMasked": [
+            "PARTICIPANT",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 105,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Arm A1 (Part A): BLU-808",
+          "type": "EXPERIMENTAL",
+          "description": "BLU-808 will be administered orally.",
+          "interventionNames": [
+            "Drug: BLU-808"
+          ]
+        },
+        {
+          "label": "Arm A3 (Part A): BLU-808",
+          "type": "EXPERIMENTAL",
+          "description": "BLU-808 will be administered orally.",
+          "interventionNames": [
+            "Drug: BLU-808"
+          ]
+        },
+        {
+          "label": "Arm B (Part B): BLU-808/Placebo",
+          "type": "EXPERIMENTAL",
+          "description": "BLU-808 or matching placebo will be administered orally.",
+          "interventionNames": [
+            "Drug: BLU-808",
+            "Drug: Placebo"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "BLU-808",
+          "description": "Oral administration",
+          "armGroupLabels": [
+            "Arm A1 (Part A): BLU-808",
+            "Arm A3 (Part A): BLU-808",
+            "Arm B (Part B): BLU-808/Placebo"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo",
+          "description": "Oral administration",
+          "armGroupLabels": [
+            "Arm B (Part B): BLU-808/Placebo"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Part A and Part B: Number of Participants with Treatment-emergent Adverse Events (TEAEs)",
+          "timeFrame": "Day 1 through Week 16"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Part A: Mean Change From Baseline in Critical Temperature Threshold (CTT) at Week 12",
+          "description": "CTT is the temperature at which CIndU symptoms appear.",
+          "timeFrame": "Baseline, Week 12"
+        },
+        {
+          "measure": "Part A: Mean Change From Baseline in Total Fric Score (TFS) at Week 12",
+          "description": "TFS is a measure of CIndU trigger thresholds and disease activity.",
+          "timeFrame": "Baseline, Week 12"
+        },
+        {
+          "measure": "Part A and Part B: Complete Response Rate",
+          "timeFrame": "Week 12"
+        },
+        {
+          "measure": "Part A and Part B: Absolute Change From Baseline in Serum Tryptase Concentration at Week 12",
+          "timeFrame": "Baseline, Week 12"
+        },
+        {
+          "measure": "Part A and Part B: Percent Change From Baseline in Serum Tryptase Concentration at Week 12",
+          "timeFrame": "Baseline, Week 12"
+        },
+        {
+          "measure": "Part A and Part B: Area Under the Curve (AUC) of BLU-808",
+          "timeFrame": "Day 1 to Day 57"
+        },
+        {
+          "measure": "Part A and Part B: Maximum Plasma Concentration (Cmax) of BLU-808",
+          "timeFrame": "Day 1 to Day 57"
+        },
+        {
+          "measure": "Part A and Part B: Minimum Plasma Concentration (Cmin) of BLU-808",
+          "timeFrame": "Day 1 to Day 57"
+        },
+        {
+          "measure": "Part A and Part B: Apparent Clearance (CL/F) of BLU-808",
+          "timeFrame": "Day 1 to Day 57"
+        },
+        {
+          "measure": "Part A and Part B: Apparent Volume of Distribution for the Central Compartment (Vc/F) of BLU-808",
+          "timeFrame": "Day 1 to Day 57"
+        },
+        {
+          "measure": "Part A and Part B: Terminal Half-life (t\u00bd) of BLU-808",
+          "timeFrame": "Day 1 to Day 57"
+        },
+        {
+          "measure": "Part B: Mean Change From Baseline in Urticaria Activity Score Over 7 Days (UAS7) at Week 12",
+          "description": "UAS7 is a patient-reported outcome used to assess symptoms in participants with CSU.",
+          "timeFrame": "Baseline, Week 12"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Part A: Confirmed diagnosis of CIndU for \u22653 months prior to Day 1 that is inadequately controlled with second generation H1-antihistamines.\n* Part B: Confirmed diagnosis of CSU for \u22653 months prior to Day 1 that is inadequately controlled with second generation H1-antihistamines.\n\nKey Exclusion Criteria:\n\n* Part A: Any active urticaria that may interfere with study assessments.\n* Part B: Participant has a clearly defined predominant cause of chronic urticaria or sole trigger such as symptomatic dermographism and cold-induced urticaria.\n* Part A and Part B: Any other skin disease associated with chronic itching or angioedema that might influence the study evaluations and results, skin diseases associated with only wheals and no itch, or autoinflammatory diseases with urticarial lesions.\n* Part A and Part B: Significant medical, psychiatric, or surgical conditions, or physical findings that may affect participant safety, study drug metabolism, study participation, or assessment of study results.\n* Part A and Part B: Abnormal laboratory values that may pose risks or interfere with study participation.\n* Part A and Part B: Pregnancy or plans for pregnancy; breastfeeding.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Blueprint Medicines",
+          "role": "CONTACT",
+          "phone": "1-888-258-7768",
+          "email": "medinfo@blueprintmedicines.com"
+        },
+        {
+          "name": "Blueprint Medicines, EU Contact",
+          "role": "CONTACT",
+          "phone": "+31 85 064 4001",
+          "email": "medinfoeurope@blueprintmedicines.com"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Allervie Clinical Research",
+          "status": "RECRUITING",
+          "city": "Birmingham",
+          "state": "Alabama",
+          "zip": "35209",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.52066,
+            "lon": -86.80249
+          }
+        },
+        {
+          "facility": "Acuro Research, Inc.",
+          "status": "RECRUITING",
+          "city": "Little Rock",
+          "state": "Arkansas",
+          "zip": "72205",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.74648,
+            "lon": -92.28959
+          }
+        },
+        {
+          "facility": "Modena Allergy & Asthma Clinical Research - La Jolla",
+          "status": "RECRUITING",
+          "city": "La Jolla",
+          "state": "California",
+          "zip": "92037",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.84727,
+            "lon": -117.2742
+          }
+        },
+        {
+          "facility": "Allergy & Asthma Associates of Southern California",
+          "status": "RECRUITING",
+          "city": "Laguna Niguel",
+          "state": "California",
+          "zip": "92677",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.52253,
+            "lon": -117.70755
+          }
+        },
+        {
+          "facility": "Allergy & Asthma Medical Group and Research Center",
+          "status": "RECRUITING",
+          "city": "San Diego",
+          "state": "California",
+          "zip": "92123",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.71571,
+            "lon": -117.16472
+          }
+        },
+        {
+          "facility": "Allergy Affiliates Inc.",
+          "status": "RECRUITING",
+          "city": "Bradenton",
+          "state": "Florida",
+          "zip": "34208",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.49893,
+            "lon": -82.57482
+          }
+        },
+        {
+          "facility": "University of South Florida",
+          "status": "RECRUITING",
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33613",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.94752,
+            "lon": -82.45843
+          }
+        },
+        {
+          "facility": "Treasure Valley Medical Research",
+          "status": "RECRUITING",
+          "city": "Boise",
+          "state": "Idaho",
+          "zip": "83706",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.6135,
+            "lon": -116.20345
+          }
+        },
+        {
+          "facility": "Endeavor Health",
+          "status": "RECRUITING",
+          "city": "Northbrook",
+          "state": "Illinois",
+          "zip": "60062",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.12753,
+            "lon": -87.82895
+          }
+        },
+        {
+          "facility": "Dawes Fretzin Clinical Research Group, LLC",
+          "status": "RECRUITING",
+          "city": "Indianapolis",
+          "state": "Indiana",
+          "zip": "46250",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.76838,
+            "lon": -86.15804
+          }
+        },
+        {
+          "facility": "Southern Indiana Clinical Trials",
+          "status": "RECRUITING",
+          "city": "New Albany",
+          "state": "Indiana",
+          "zip": "47150",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.28562,
+            "lon": -85.82413
+          }
+        },
+        {
+          "facility": "The Indiana Clinical Trials Center",
+          "status": "RECRUITING",
+          "city": "Plainfield",
+          "state": "Indiana",
+          "zip": "46168",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.70421,
+            "lon": -86.39944
+          }
+        },
+        {
+          "facility": "Equity Medical - Bowling Green",
+          "status": "RECRUITING",
+          "city": "Bowling Green",
+          "state": "Kentucky",
+          "zip": "42104",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.99032,
+            "lon": -86.4436
+          }
+        },
+        {
+          "facility": "Johns Hopkins University",
+          "status": "RECRUITING",
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21224",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.29038,
+            "lon": -76.61219
+          }
+        },
+        {
+          "facility": "Institute For Asthma & Allergy",
+          "status": "RECRUITING",
+          "city": "Wheaton",
+          "state": "Maryland",
+          "zip": "20902",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.03983,
+            "lon": -77.05526
+          }
+        },
+        {
+          "facility": "Chesapeake Clinical Research",
+          "status": "RECRUITING",
+          "city": "White Marsh",
+          "state": "Maryland",
+          "zip": "21236",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.38372,
+            "lon": -76.43218
+          }
+        },
+        {
+          "facility": "Henry Ford Health",
+          "status": "RECRUITING",
+          "city": "Detroit",
+          "state": "Michigan",
+          "zip": "48202",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.33143,
+            "lon": -83.04575
+          }
+        },
+        {
+          "facility": "Mayo Clinic",
+          "status": "RECRUITING",
+          "city": "Rochester",
+          "state": "Minnesota",
+          "zip": "55905",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 44.02163,
+            "lon": -92.4699
+          }
+        },
+        {
+          "facility": "The Clinical Research Center LLC.",
+          "status": "RECRUITING",
+          "city": "St Louis",
+          "state": "Missouri",
+          "zip": "63141",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.62727,
+            "lon": -90.19789
+          }
+        },
+        {
+          "facility": "Montana Medical Research, Inc.",
+          "status": "RECRUITING",
+          "city": "Missoula",
+          "state": "Montana",
+          "zip": "59808",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 46.87215,
+            "lon": -113.994
+          }
+        },
+        {
+          "facility": "Equity Medical (at Cameron Dermatology) - New York",
+          "status": "RECRUITING",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10023",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        },
+        {
+          "facility": "Bernstein Clinical Research Center",
+          "status": "RECRUITING",
+          "city": "Cincinnati",
+          "state": "Ohio",
+          "zip": "45236",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.12711,
+            "lon": -84.51439
+          }
+        },
+        {
+          "facility": "Allergy & Clinical Immunology Associates",
+          "status": "RECRUITING",
+          "city": "Pittsburgh",
+          "state": "Pennsylvania",
+          "zip": "15241",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.44062,
+            "lon": -79.99589
+          }
+        },
+        {
+          "facility": "National Allergy, Asthma & Urticaria Centers of Charleston",
+          "status": "RECRUITING",
+          "city": "Charleston",
+          "state": "South Carolina",
+          "zip": "29407",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.77632,
+            "lon": -79.93275
+          }
+        },
+        {
+          "facility": "Medical University of South Carolina (MUSC)",
+          "status": "RECRUITING",
+          "city": "Charleston",
+          "state": "South Carolina",
+          "zip": "29425",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.77632,
+            "lon": -79.93275
+          }
+        },
+        {
+          "facility": "Reveal Research Institute",
+          "status": "RECRUITING",
+          "city": "Dallas",
+          "state": "Texas",
+          "zip": "75235",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.78306,
+            "lon": -96.80667
+          }
+        },
+        {
+          "facility": "Austin Institute for Clinical Research",
+          "status": "RECRUITING",
+          "city": "Pflugerville",
+          "state": "Texas",
+          "zip": "78660",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 30.43937,
+            "lon": -97.62
+          }
+        },
+        {
+          "facility": "Odense University Hospital - Odense",
+          "status": "RECRUITING",
+          "city": "Odense",
+          "zip": "5000",
+          "country": "Denmark",
+          "geoPoint": {
+            "lat": 55.39594,
+            "lon": 10.38831
+          }
+        },
+        {
+          "facility": "Fraunhofer-Institut fuer Translationale Medizin und Pharmakologie ITMP - Standort Berlin",
+          "status": "RECRUITING",
+          "city": "Berlin",
+          "zip": "12203",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.52437,
+            "lon": 13.41053
+          }
+        },
+        {
+          "facility": "Universitaetsklinikum Carl Gustav Carus Dresden",
+          "status": "RECRUITING",
+          "city": "Dresden",
+          "zip": "01307",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.05089,
+            "lon": 13.73832
+          }
+        },
+        {
+          "facility": "Universitaetsklinikum Frankfurt - Klinikum der Johann Wolfgang Goethe Universitaet",
+          "status": "RECRUITING",
+          "city": "Frankfurt am Main",
+          "zip": "60596",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 50.11552,
+            "lon": 8.68417
+          }
+        },
+        {
+          "facility": "Medizinische Hochschule Hannover (MHH)",
+          "status": "RECRUITING",
+          "city": "Hanover",
+          "zip": "30625",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.37052,
+            "lon": 9.73322
+          }
+        },
+        {
+          "facility": "Universitaetsmedizin der Johannes Gutenberg - Universitaet Mainz",
+          "status": "RECRUITING",
+          "city": "Mainz",
+          "zip": "55131",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 49.98185,
+            "lon": 8.28008
+          }
+        },
+        {
+          "facility": "Universitaetsklinikum Tuebingen",
+          "status": "RECRUITING",
+          "city": "T\u00fcbingen",
+          "zip": "72016",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 48.52266,
+            "lon": 9.05222
+          }
+        },
+        {
+          "facility": "Azienda Ospedale - Universit\u00e0 Padova",
+          "status": "RECRUITING",
+          "city": "Padova",
+          "zip": "35128",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 44.38225,
+            "lon": 11.14261
+          }
+        },
+        {
+          "facility": "Azienda Ospedaliero Universitaria Policlinico Umberto",
+          "status": "RECRUITING",
+          "city": "Rome",
+          "zip": "00161",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 41.89193,
+            "lon": 12.51133
+          }
+        },
+        {
+          "facility": "Centro Ricerche Cliniche di Verona s.r.l.",
+          "status": "RECRUITING",
+          "city": "Verona",
+          "zip": "37134",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 45.43854,
+            "lon": 10.9938
+          }
+        },
+        {
+          "facility": "Hospital del Mar",
+          "status": "RECRUITING",
+          "city": "Barcelona",
+          "zip": "08003",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Hospital Universitario Vall d'Hebron",
+          "status": "RECRUITING",
+          "city": "Barcelona",
+          "zip": "08035",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Hospital Universitari de Bellvitge",
+          "status": "RECRUITING",
+          "city": "Barcelona",
+          "zip": "08907",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Hospital Regional Universitario de Malaga",
+          "status": "RECRUITING",
+          "city": "M\u00e1laga",
+          "zip": "29010",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 36.72016,
+            "lon": -4.42034
+          }
+        },
+        {
+          "facility": "National Taiwan University Hospital Hsin-Chu Branch",
+          "status": "RECRUITING",
+          "city": "Hsinchu",
+          "zip": "300",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 24.80361,
+            "lon": 120.96861
+          }
+        },
+        {
+          "facility": "Kaohsiung Veterans General Hospital (KSVGH)",
+          "status": "RECRUITING",
+          "city": "Kaohsiung City",
+          "zip": "813414",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 22.61626,
+            "lon": 120.31333
+          }
+        },
+        {
+          "facility": "Taipei Medical University - Shuang Ho Hospital",
+          "status": "RECRUITING",
+          "city": "New Taipei City",
+          "zip": "235",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 25.06199,
+            "lon": 121.45703
+          }
+        },
+        {
+          "facility": "China Medical University Hospital",
+          "status": "RECRUITING",
+          "city": "Taichung",
+          "zip": "40402",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 24.1469,
+            "lon": 120.6839
+          }
+        },
+        {
+          "facility": "National Taiwan University Hospital",
+          "status": "RECRUITING",
+          "city": "Taipei",
+          "zip": "100225",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 25.05306,
+            "lon": 121.52639
+          }
+        },
+        {
+          "facility": "Linkou Chang Gung Memorial Hospital (CGMHLK)",
+          "status": "RECRUITING",
+          "city": "Taoyuan",
+          "zip": "105406",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 24.99368,
+            "lon": 121.29696
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-04-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000094482",
+          "term": "Chronic Inducible Urticaria"
+        },
+        {
+          "id": "D000080223",
+          "term": "Chronic Urticaria"
+        },
+        {
+          "id": "D000096703",
+          "term": "Cold Urticaria"
+        },
+        {
+          "id": "C536612",
+          "term": "Familial dermographism"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014581",
+          "term": "Urticaria"
+        },
+        {
+          "id": "D017445",
+          "term": "Skin Diseases, Vascular"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D006969",
+          "term": "Hypersensitivity, Immediate"
+        },
+        {
+          "id": "D006967",
+          "term": "Hypersensitivity"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": false,
+  "_meta": {
+    "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT06931405",
+    "fetched_at": "2026-04-09T00:59:09.835590+00:00"
+  }
+}

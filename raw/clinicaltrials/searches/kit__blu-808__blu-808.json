@@ -1,0 +1,19 @@
+{
+  "priority_class": "KIT",
+  "program": "BLU-808",
+  "term": "BLU-808",
+  "url": "https://clinicaltrials.gov/api/v2/studies?query.cond=urticaria&query.term=BLU-808&pageSize=100",
+  "fetched_at": "2026-04-09T00:59:09.835590+00:00",
+  "study_count": 1,
+  "studies": [
+    {
+      "nct_id": "NCT06931405",
+      "brief_title": "Study of BLU-808 in Chronic Inducible Urticaria (CIndU) and Chronic Spontaneous Urticaria (CSU)",
+      "official_title": "A Phase 2 Study to Evaluate the Safety, Tolerability, and Clinical Activity of BLU-808, a Wild Type KIT Inhibitor, in Chronic Inducible Urticaria and Chronic Spontaneous Urticaria",
+      "conditions": [
+        "Chronic Inducible Urticaria",
+        "Chronic Spontaneous Urticaria"
+      ]
+    }
+  ]
+}

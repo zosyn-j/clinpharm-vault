@@ -1,0 +1,1792 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05976243",
+      "orgStudyIdInfo": {
+        "id": "CLOU064M12301"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2023-505739-12-00",
+          "type": "REGISTRY",
+          "domain": "EU CT NUMBER"
+        }
+      ],
+      "organization": {
+        "fullName": "Novartis",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study to Investigate Efficacy, Safety, and Tolerability of Remibrutinib Compared With Placebo in Adults With CINDU Inadequately Controlled by H1-antihistamines",
+      "officialTitle": "A 52-week Multi-center, Randomized, Double-blind, Placebo Controlled, Basket Study With an Open-label Extension to Investigate the Efficacy, Safety, and Tolerability of Remibrutinib (LOU064) in Chronic Inducible Urticaria (CINDU) in Adults Inadequately Controlled by H1-antihistamines"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-03",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "startDateStruct": {
+        "date": "2023-12-07",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2026-05-22",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2029-06-15",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2023-07-28",
+      "studyFirstSubmitQcDate": "2023-07-28",
+      "studyFirstPostDateStruct": {
+        "date": "2023-08-04",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-03-02",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-03-03",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Novartis Pharmaceuticals",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This is a Phase 3, parallel group, placebo-controlled, double-blind, confirmatory study in patients with CINDU, with an optional Open-label Extension (OLE).\n\nThe purpose of the core period (52 weeks of treatment) of this study is to evaluate the efficacy, safety, and tolerability of remibrutinib (LOU064) vs. placebo in adults suffering from CINDU inadequately controlled by H1-antihistamines (H1-AHs).\n\nThe purpose of the OLE period is to collect long-term efficacy, safety, and tolerability data on remibrutinib in participants after having completed the Core period",
+      "detailedDescription": "This study consists of a core and extension periods.\n\nThe Core period (6 arms) has a total duration of up to 60 weeks including a double-blind placebo-controlled treatment period until Week 24 followed by open-label treatment with remibrutinib up to Week 52. The primary endpoint for all CINDU subtypes is assessed at Week 12.\n\nThe Core period consists of:\n\n* Screening period (up to 4 weeks): During the screening period, participants who have provided informed consent will be assessed for study eligibility.\n* Double-blind, placebo-controlled treatment period (24 weeks): 24 weeks of double-blind treatment with remibrutinib or placebo.\n* Open-label treatment period (28 weeks): 28 weeks of open-label treatment with remibrutinib.\n* Follow-up period: 4 weeks of treatment free follow-up. The open-label extension period consists of observation and treatment period. At the end of the core period of the study, if participants continue to experience symptoms, they will transition to the treatment period in OLE. If they do not experience symtpoms they will transition to the observation period in the OLE.\n\nThe duration of the Open-label Extension period will be approximately 3 years where participants can switch from observation to treatment depending on if they start developing symptoms. Only those participants participating in the Open-label Extension Treatment period will receive remibrutinib. The participants in the Open-label Extension Observation period will not receive remibrutinib"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Chronic Inducible Urticaria"
+      ],
+      "keywords": [
+        "CINDU",
+        "Chronic inducible urticaria",
+        "BTK",
+        "remibrutinib",
+        "symptomatic dermographsim",
+        "cold urticaria",
+        "cholinergic urticaria"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "TRIPLE",
+          "maskingDescription": "This masking applies to the core period. There is no masking in the open-label extension (OLE).",
+          "whoMasked": [
+            "PARTICIPANT",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 362,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Remibrutinib, symptomatic dermographism group",
+          "type": "EXPERIMENTAL",
+          "description": "Remibrutinib oral twice daily in participants with symptomatic dermographism",
+          "interventionNames": [
+            "Drug: Remibrutinib"
+          ]
+        },
+        {
+          "label": "Placebo, symptomatic dermographism group",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Placebo oral twice daily, symptomatic dermographism",
+          "interventionNames": [
+            "Other: Placebo"
+          ]
+        },
+        {
+          "label": "Remibrutinib, cold urticaria group",
+          "type": "EXPERIMENTAL",
+          "description": "Remibrutinib oral twice daily, cold urticaria",
+          "interventionNames": [
+            "Drug: Remibrutinib"
+          ]
+        },
+        {
+          "label": "Placebo, cold urticaria group",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Placebo oral twice daily, cold urticaria",
+          "interventionNames": [
+            "Other: Placebo"
+          ]
+        },
+        {
+          "label": "Remibrutinib, cholinergic urticaria group",
+          "type": "EXPERIMENTAL",
+          "description": "Remibrutinib oral twice daily, cholinergic urticaria",
+          "interventionNames": [
+            "Drug: Remibrutinib"
+          ]
+        },
+        {
+          "label": "Placebo, cholinergic urticaria",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Placebo oral twice daily, cholinergic urticaria",
+          "interventionNames": [
+            "Other: Placebo"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Remibrutinib",
+          "description": "Remibrutinib treated groups and arms",
+          "armGroupLabels": [
+            "Remibrutinib, cholinergic urticaria group",
+            "Remibrutinib, cold urticaria group",
+            "Remibrutinib, symptomatic dermographism group"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo",
+          "description": "Placebo treated groups and arms",
+          "armGroupLabels": [
+            "Placebo, cholinergic urticaria",
+            "Placebo, cold urticaria group",
+            "Placebo, symptomatic dermographism group"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Proportion of participants with complete response in Total Fric Score; symptomatic dermographism",
+          "description": "Total Fric score (a scale from 0-4 where a positive response with all of the four pins is TFS = 4, while a positive response with only one pin - the largest pin is TFS = 1)",
+          "timeFrame": "Week 12"
+        },
+        {
+          "measure": "Proportion of participants with complete response in critical temperature threshold; cold urticaria",
+          "description": "The Temptest is used to induce itch and hives in participants with cold urticaria. Critical temperature threshold (CTT), as measured by the Temptest, determines the highest temperature that induces symptoms.",
+          "timeFrame": "Week 12"
+        },
+        {
+          "measure": "Proportion of participants with itch numerical rating scale =0; cholinergic urticaria",
+          "description": "Itch numerical rating scale, a scale from 0 to 10\n\nPatients are asked to rate itching severity based on the worst level of itching in the past 24 h using an 11-point scale from 0 (\"no itch\") to 10 (\"worst itch imaginable\")",
+          "timeFrame": "Week 12"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change from baseline in Total Fric score; symptomatic dermographism",
+          "description": "Total Fric score, a scale from 0-4 where a positive response with all four pins is TFS=4, while a positive only 1 pin - the largest pin is TFS=1",
+          "timeFrame": "Week 12"
+        },
+        {
+          "measure": "Change from baseline in criticial temperature threshold following Temptest; cold urticaria",
+          "description": "Critical temperature threshold, as measured by the Temptest, determines the highest temperature that induces symptoms",
+          "timeFrame": "Week 12"
+        },
+        {
+          "measure": "Change from baseline in itch numerical rating scale; cholinergic urticaria",
+          "description": "Itch numerical rating scale (NRS), scale from 0 to 10. 0 (\"no itch\") to 10 (\"worst imaginable itch\").",
+          "timeFrame": "Week 12"
+        },
+        {
+          "measure": "proportion of participants with Physician Global Assessment (PGA) severity of hives =0; cholinergic urticaria",
+          "description": "Physician global assessment of severity of hives. This assessment is scored 0 to 4 with 0=no hives, 1=mild hives, 2=moderate hives, 3=severe hives and 4=very severe hives",
+          "timeFrame": "Week 12"
+        },
+        {
+          "measure": "Proportion of participants with complete response in TFS; symptomatic dermographism",
+          "description": "Total Fric score (a scale from 0-4 where a positive response with all of the four pins is TFS = 4, while a positive response with only one pin - the largest pin is TFS = 1)",
+          "timeFrame": "Week 24"
+        },
+        {
+          "measure": "Proportion of participants with complete response in Critical Temperature threshold; cold urticaria",
+          "description": "Critical Temperature Threshold, as measured by the Temptest, is the highest temperature that induces symptoms",
+          "timeFrame": "Week 24"
+        },
+        {
+          "measure": "Proportion of participants with complete response in itch numerical rating scale; cholinergic urticaria",
+          "description": "Itch numerical rating scale (NRS), scale from 0 to 10. 0 (\"no itch\") to 10 (\"worst imaginable itch\").",
+          "timeFrame": "Week 24"
+        },
+        {
+          "measure": "Change from baseline in itch numerical rating scale in participants with symptomatic dermographism",
+          "description": "Itch numerical rating scale (NRS), scale from 0 to 10. 0 (\"no itch\") to 10 (\"worst imaginable itch\").",
+          "timeFrame": "Week 12"
+        },
+        {
+          "measure": "Change from baseline in itch numerical rating scale in participants with cold urticaria",
+          "description": "Itch numerical rating scale (NRS), scale from 0 to 10. 0 (\"no itch\") to 10 (\"worst imaginable itch\").",
+          "timeFrame": "Week 12"
+        },
+        {
+          "measure": "Proportion of participants with complete response in Total Fric score; symptomatic dermographism",
+          "description": "Total Fric score (a scale from 0-4 where a positive response with all of the four pins is TFS = 4, while a positive response with only one pin - the largest pin is TFS = 1)",
+          "timeFrame": "Week 2"
+        },
+        {
+          "measure": "Proportion of participants with complete response in Critical Temperature Threshold; cold urticaria",
+          "description": "Critical temperature threshold (CTT), as measured by the Temptest, determines the highest temperature that induces symptoms.",
+          "timeFrame": "Week 2"
+        },
+        {
+          "measure": "Proportion of participants with itch NRS=0; cholinergic urticaria",
+          "description": "Itch numerical rating scale (NRS), scale from 0 to 10. 0 (\"no itch\") to 10 (\"worst imaginable itch\").",
+          "timeFrame": "Week 2"
+        },
+        {
+          "measure": "Change from baseline in TFS in participants with symptomatic dermographism",
+          "description": "Total Fric score (a scale from 0-4 where a positive response with all of the four pins is TFS = 4, while a positive response with only one pin - the largest pin is TFS = 1)",
+          "timeFrame": "Week 2"
+        },
+        {
+          "measure": "Change from baseline in Critical Temperature Threshold in participants with cold urticaria",
+          "description": "Critical temperature threshold (CTT), as measured by the Temptest, determines the highest temperature that induces symptoms.",
+          "timeFrame": "Week 2"
+        },
+        {
+          "measure": "Change from baseline in itch NRS in participants with cholinergic urticaria",
+          "description": "Itch numerical rating scale (NRS), scale from 0 to 10. 0 (\"no itch\") to 10 (\"worst imaginable itch\").",
+          "timeFrame": "Week 2"
+        },
+        {
+          "measure": "Change from baseline in itch NRS in participants with symptomatic dermographism",
+          "description": "Total Fric score (a scale from 0-4 where a positive response with all of the four pins is TFS = 4, while a positive response with only one pin - the largest pin is TFS = 1)",
+          "timeFrame": "Week 2"
+        },
+        {
+          "measure": "Change from baseline in itch NRS in participants with cold urticaria",
+          "description": "Itch numerical rating scale (NRS), scale from 0 to 10. 0 (\"no itch\") to 10 (\"worst imaginable itch\").",
+          "timeFrame": "Week 2"
+        },
+        {
+          "measure": "Proportion of participants with cholinergic urticaria with PGA=0",
+          "description": "Physician global assessment of severity of hives is a 4-point scale (0 = no active disease, 1 = mild disease, 2 = moderate disease, 3 = severe disease).",
+          "timeFrame": "Week 2"
+        },
+        {
+          "measure": "Change from baseline in weekly most bothersome symptom NRS score on the USDD",
+          "description": "Urtricara symptom daily diary (USDD). This daily diary records if the participant experiences any symptoms or avoided the triggers",
+          "timeFrame": "Week 12"
+        },
+        {
+          "measure": "Proportion of participants with DLQI=0-1",
+          "description": "The Dermatology Life Quality Index (DLQI) is a 10-item dermatology-specific quality of life (QoL) measure. Subjects rate their dermatology symptoms as well as the impact of their skin condition on various aspects of their lives thinking about the previous 7 days. An overall score is calculated and ranges from 0 to 30 (higher score meaning worse disease-related QoL). A DLQI score of 0 or 1 means that there is no impact of a skin disease on the patient's life.",
+          "timeFrame": "Week 12"
+        },
+        {
+          "measure": "Occurrence of treatment emergent adverse events and serious adverse events during the study",
+          "description": "Treatment emergent adverse events and serious adverse events are those that occur at any time only after treatment has started",
+          "timeFrame": "Week 52"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria for core period:\n\n1. Male and female participants \u226518 years of age at the time of signing of the ICFs\n2. Confirmed CINDU diagnosis (as per guidelines) for symptomatic dermographism, cold urticaria or cholinergic urticaria for \u2265 4 months (defined as onset of CINDU with supporting documentation (e.g medical record, clinical history, photographs)) and inadequate control with H1-AH at local label approved doses at the time of randomization\n3. The following response to the provocation test for each subtype is required at the randomization visit :\n\n   * Symptomatic Dermographism: A Total Fric Score of \u22653 using the FricTest\u00ae 4.0 and a numerical rating scale score of \u22655 for itch after the provocation test.\n   * Cold Urticaria: A Critical Threshold Temperature of \u226515\u00b0C using the TempTest\u00ae 4.0 and a numerical rating scale score of \u22655 for itch after the provocation test.\n   * Cholinergic Urticaria: A physician global assessment of severity of hives \u2265 2 using the Pulse-controlled ergometry test and a numerical rating scale score of \u22655 for itch after the provocation test.\n4. Cold Urticaria: Positive ice-cube test resulting in hives at the provocation site for participants at Screening.\n5. Cholinergic urticaria: Participants must show sweating in performing the pulse-controlled ergometry test on day of randomization. Participants with anhidrosis must not be included.\n\nInclusion criteria for the OLE:\n\n1. Participants who have completed the Core period up to Week 52 and are willing to enter the OLE period\n\n   Exclusion Criteria for core period:\n   * 1\\. Previous use of remibrutinib or other BTK inhibitors.\n2. Participants who have concomitant CSU at screening. Participants with resolved CSU at the time of screening can be included in the study.\n3. Participants who have a familial form (e.g familial cold autoinflammatory syndrome, familial cold urticaria) of the target CINDU that is being considered for the participant's inclusion in this study.\n4. Participants having a more defined other form of inducible urticaria than the target CINDU that is being considered for the participant's inclusion in this study.\n5. Diseases, other than chronic inducible urticaria, with urticaria or angioedema symptoms including but not limited to urticarial vasculitis, erythema multiforme, cutaneous mastocytosis (urticaria pigmentosa) and hereditary or acquired angioedema\n6. Any other skin disease associated with chronic itching that might influence, in the investigator's opinion, the study evaluations and results (e.g., atopic dermatitis, bullous pemphigoid, dermatitis herpetiformis, senile pruritus, etc.) or skin diseases associated with only wheals and no itch e.g asymptomatic dermographism\n\nThere are no exclusion criteria for OLE",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "100 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Novartis Pharmaceuticals",
+          "affiliation": "Novartis Pharmaceuticals",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Allervie Clinical Research",
+          "city": "Birmingham",
+          "state": "Alabama",
+          "zip": "35209",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.52066,
+            "lon": -86.80249
+          }
+        },
+        {
+          "facility": "Acuro Research Inc",
+          "city": "Little Rock",
+          "state": "Arkansas",
+          "zip": "72205",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.74648,
+            "lon": -92.28959
+          }
+        },
+        {
+          "facility": "Kern Research",
+          "city": "Bakersfield",
+          "state": "California",
+          "zip": "93301",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.37329,
+            "lon": -119.01871
+          }
+        },
+        {
+          "facility": "Allergy and Asthma Specialists Group",
+          "city": "Huntington Beach",
+          "state": "California",
+          "zip": "92647",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.6603,
+            "lon": -117.99923
+          }
+        },
+        {
+          "facility": "Antelope Valley Clinical Trials",
+          "city": "Lancaster",
+          "state": "California",
+          "zip": "93534",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.69804,
+            "lon": -118.13674
+          }
+        },
+        {
+          "facility": "Asthma and Allergy Associates P C",
+          "city": "Colorado Springs",
+          "state": "Colorado",
+          "zip": "80907",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.83388,
+            "lon": -104.82136
+          }
+        },
+        {
+          "facility": "Florida Ctr Allergy Asthma Research",
+          "city": "Aventura",
+          "state": "Florida",
+          "zip": "33180",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.95648,
+            "lon": -80.13921
+          }
+        },
+        {
+          "facility": "Sarasota Clinical Research",
+          "city": "Sarasota",
+          "state": "Florida",
+          "zip": "34233",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.33643,
+            "lon": -82.53065
+          }
+        },
+        {
+          "facility": "Univ of South Florida Asthma Allergy and Immunology CRU",
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33613",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.94752,
+            "lon": -82.45843
+          }
+        },
+        {
+          "facility": "Aeroallergy Research Laboratories",
+          "city": "Savannah",
+          "state": "Georgia",
+          "zip": "31406",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.08354,
+            "lon": -81.09983
+          }
+        },
+        {
+          "facility": "Treasure Valley Medical Research",
+          "city": "Boise",
+          "state": "Idaho",
+          "zip": "83706",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.6135,
+            "lon": -116.20345
+          }
+        },
+        {
+          "facility": "Endeavor Health",
+          "city": "Glenview",
+          "state": "Illinois",
+          "zip": "60077",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.06975,
+            "lon": -87.78784
+          }
+        },
+        {
+          "facility": "Asthma and Allergy Center of Chicago S C",
+          "city": "River Forest",
+          "state": "Illinois",
+          "zip": "60305",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.89781,
+            "lon": -87.81395
+          }
+        },
+        {
+          "facility": "The Indiana Clinical Trials Center",
+          "city": "Plainfield",
+          "state": "Indiana",
+          "zip": "46168",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.70421,
+            "lon": -86.39944
+          }
+        },
+        {
+          "facility": "Allergy and Asthma Specialist P S C",
+          "city": "Owensboro",
+          "state": "Kentucky",
+          "zip": "42301",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.77422,
+            "lon": -87.11333
+          }
+        },
+        {
+          "facility": "John Hopkins University",
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21204",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.29038,
+            "lon": -76.61219
+          }
+        },
+        {
+          "facility": "Allergy Asthma and Clinical Research",
+          "city": "Oklahoma City",
+          "state": "Oklahoma",
+          "zip": "73120",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.46756,
+            "lon": -97.51643
+          }
+        },
+        {
+          "facility": "Allergy and Clinical Immunology Associates",
+          "city": "Pittsburgh",
+          "state": "Pennsylvania",
+          "zip": "15241",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.44062,
+            "lon": -79.99589
+          }
+        },
+        {
+          "facility": "National Allergy and Asthma Research LLS",
+          "city": "North Charleston",
+          "state": "South Carolina",
+          "zip": "29420",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.85462,
+            "lon": -79.97481
+          }
+        },
+        {
+          "facility": "PanAmerican Clinical Research",
+          "city": "Brownsville",
+          "state": "Texas",
+          "zip": "78520",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.90175,
+            "lon": -97.49748
+          }
+        },
+        {
+          "facility": "Western Sky Medical Research",
+          "city": "El Paso",
+          "state": "Texas",
+          "zip": "79924",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 31.75872,
+            "lon": -106.48693
+          }
+        },
+        {
+          "facility": "RFSA Dermatology",
+          "city": "San Antonio",
+          "state": "Texas",
+          "zip": "78213",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.42412,
+            "lon": -98.49363
+          }
+        },
+        {
+          "facility": "STAAMP Research LLC",
+          "city": "San Antonio",
+          "state": "Texas",
+          "zip": "78229",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.42412,
+            "lon": -98.49363
+          }
+        },
+        {
+          "facility": "Complete Dermatology",
+          "city": "Sugar Land",
+          "state": "Texas",
+          "zip": "77479",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.61968,
+            "lon": -95.63495
+          }
+        },
+        {
+          "facility": "Allergy Associates of Utah",
+          "city": "Sandy City",
+          "state": "Utah",
+          "zip": "84093",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.59161,
+            "lon": -111.8841
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Caba",
+          "state": "Buenos Aires",
+          "zip": "C1121ABE",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "CABA",
+          "state": "Buenos Aires",
+          "zip": "C1414AIF",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Rosario",
+          "state": "Santa Fe Province",
+          "zip": "2000",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -32.94682,
+            "lon": -60.63932
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "CABA",
+          "zip": "C1181ACH",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Woolloongabba",
+          "state": "Queensland",
+          "zip": "4102",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -27.48855,
+            "lon": 153.03655
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Carlton",
+          "state": "Victoria",
+          "zip": "3053",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -37.8,
+            "lon": 144.96667
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Melbourne",
+          "state": "Victoria",
+          "zip": "3004",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -37.814,
+            "lon": 144.96332
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Alphaville Barueri",
+          "state": "S\u00e3o Paulo",
+          "zip": "06454-010",
+          "country": "Brazil"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Santo Andr\u00e9",
+          "state": "S\u00e3o Paulo",
+          "zip": "09060-870",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -23.66389,
+            "lon": -46.53833
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Sorocaba",
+          "state": "S\u00e3o Paulo",
+          "zip": "18040-425",
+          "country": "Brazil",
+          "geoPoint": {
+            "lat": -23.50167,
+            "lon": -47.45806
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Winnipeg",
+          "state": "Manitoba",
+          "zip": "R3J 0S9",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 49.8844,
+            "lon": -97.14704
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Hamilton",
+          "state": "Ontario",
+          "zip": "L8L 3C3",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.25011,
+            "lon": -79.84963
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Trois-Rivi\u00e8res",
+          "state": "Quebec",
+          "zip": "G8T 7A1",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 46.34515,
+            "lon": -72.5477
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Fuzhou",
+          "state": "Fujian",
+          "zip": "350025",
+          "country": "China",
+          "geoPoint": {
+            "lat": 26.06139,
+            "lon": 119.30611
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Guangzhou",
+          "state": "Guangdong",
+          "zip": "510091",
+          "country": "China",
+          "geoPoint": {
+            "lat": 23.11667,
+            "lon": 113.25
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Guangzhou",
+          "state": "Guangdong",
+          "zip": "510630",
+          "country": "China",
+          "geoPoint": {
+            "lat": 23.11667,
+            "lon": 113.25
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Changsha",
+          "state": "Hunan",
+          "zip": "410008",
+          "country": "China",
+          "geoPoint": {
+            "lat": 28.19874,
+            "lon": 112.97087
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Wuxi",
+          "state": "Jiangsu",
+          "zip": "214002",
+          "country": "China",
+          "geoPoint": {
+            "lat": 31.56887,
+            "lon": 120.28857
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Changchun",
+          "state": "Jilin",
+          "zip": "130021",
+          "country": "China",
+          "geoPoint": {
+            "lat": 43.88,
+            "lon": 125.32278
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Jinan",
+          "state": "Shandong",
+          "zip": "250022",
+          "country": "China",
+          "geoPoint": {
+            "lat": 36.66833,
+            "lon": 116.99722
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Chengdu",
+          "state": "Sichuan",
+          "zip": "610041",
+          "country": "China",
+          "geoPoint": {
+            "lat": 30.66667,
+            "lon": 104.06667
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Chengdu",
+          "state": "Sichuan",
+          "zip": "610072",
+          "country": "China",
+          "geoPoint": {
+            "lat": 30.66667,
+            "lon": 104.06667
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "\u00dcr\u00fcmqi",
+          "state": "Xinjiang",
+          "zip": "830001",
+          "country": "China",
+          "geoPoint": {
+            "lat": 43.80096,
+            "lon": 87.60046
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Hangzhou",
+          "state": "Zhejiang",
+          "zip": "310001",
+          "country": "China",
+          "geoPoint": {
+            "lat": 30.29365,
+            "lon": 120.16142
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Yiwu",
+          "state": "Zhejiang",
+          "zip": "322000",
+          "country": "China",
+          "geoPoint": {
+            "lat": 29.31506,
+            "lon": 120.07676
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Beijing",
+          "zip": "100050",
+          "country": "China",
+          "geoPoint": {
+            "lat": 39.9075,
+            "lon": 116.39723
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Beijing",
+          "zip": "100730",
+          "country": "China",
+          "geoPoint": {
+            "lat": 39.9075,
+            "lon": 116.39723
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Jinan",
+          "zip": "250012",
+          "country": "China",
+          "geoPoint": {
+            "lat": 36.66833,
+            "lon": 116.99722
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Shanghai",
+          "zip": "200040",
+          "country": "China",
+          "geoPoint": {
+            "lat": 31.22222,
+            "lon": 121.45806
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Tianjin",
+          "zip": "300052",
+          "country": "China",
+          "geoPoint": {
+            "lat": 39.14222,
+            "lon": 117.17667
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Barranquilla",
+          "state": "Atl\u00e1ntico",
+          "zip": "080002",
+          "country": "Colombia",
+          "geoPoint": {
+            "lat": 10.96854,
+            "lon": -74.78132
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Barranquilla",
+          "state": "Atl\u00e1ntico",
+          "zip": "080020",
+          "country": "Colombia",
+          "geoPoint": {
+            "lat": 10.96854,
+            "lon": -74.78132
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Clermont-Ferrand",
+          "zip": "63003",
+          "country": "France",
+          "geoPoint": {
+            "lat": 45.77969,
+            "lon": 3.08682
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Grenoble",
+          "zip": "38043",
+          "country": "France",
+          "geoPoint": {
+            "lat": 45.17869,
+            "lon": 5.71479
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Montpellier",
+          "zip": "34295",
+          "country": "France",
+          "geoPoint": {
+            "lat": 43.61093,
+            "lon": 3.87635
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Nantes",
+          "zip": "44093",
+          "country": "France",
+          "geoPoint": {
+            "lat": 47.21725,
+            "lon": -1.55336
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Paris",
+          "zip": "75970",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.85341,
+            "lon": 2.3488
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Pierre-B\u00e9nite",
+          "zip": "69495",
+          "country": "France",
+          "geoPoint": {
+            "lat": 45.70359,
+            "lon": 4.82424
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Rouen",
+          "zip": "76031",
+          "country": "France",
+          "geoPoint": {
+            "lat": 49.44313,
+            "lon": 1.09932
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Toulouse",
+          "zip": "31400",
+          "country": "France",
+          "geoPoint": {
+            "lat": 43.60426,
+            "lon": 1.44367
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "G\u00f6ttingen",
+          "state": "Lower Saxony",
+          "zip": "37075",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.53443,
+            "lon": 9.93228
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Stade",
+          "state": "Lower Saxony",
+          "zip": "21682",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 53.59407,
+            "lon": 9.47302
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Dresden",
+          "state": "Saxony",
+          "zip": "01307",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.05089,
+            "lon": 13.73832
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Berlin",
+          "zip": "13353",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.52437,
+            "lon": 13.41053
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Mainz",
+          "zip": "55131",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 49.98185,
+            "lon": 8.28008
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "M\u00fcnster",
+          "zip": "48149",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.96236,
+            "lon": 7.62571
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "T\u00fcbingen",
+          "zip": "72076",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 48.52266,
+            "lon": 9.05222
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Hong Kong",
+          "zip": "999999",
+          "country": "Hong Kong",
+          "geoPoint": {
+            "lat": 22.27832,
+            "lon": 114.17469
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Debrecen",
+          "state": "Hajdu Bihar Megye",
+          "zip": "4032",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 47.53167,
+            "lon": 21.62444
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Debrecen",
+          "state": "Hajd\u00fa-Bihar",
+          "zip": "4031",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 47.53167,
+            "lon": 21.62444
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Szolnok",
+          "state": "J\u00e1sz-Nagykun-Szolnok",
+          "zip": "5000",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 47.18066,
+            "lon": 20.19835
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "zip": "560004",
+          "country": "India",
+          "geoPoint": {
+            "lat": 12.97194,
+            "lon": 77.59369
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Mysore",
+          "state": "Karnataka",
+          "zip": "570001",
+          "country": "India",
+          "geoPoint": {
+            "lat": 12.29791,
+            "lon": 76.63925
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Haifa",
+          "zip": "3104802",
+          "country": "Israel",
+          "geoPoint": {
+            "lat": 32.81303,
+            "lon": 34.99928
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Jerusalem",
+          "zip": "9112001",
+          "country": "Israel",
+          "geoPoint": {
+            "lat": 31.76904,
+            "lon": 35.21633
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Ramat Gan",
+          "zip": "5265601",
+          "country": "Israel",
+          "geoPoint": {
+            "lat": 32.08227,
+            "lon": 34.81065
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Tel Aviv",
+          "zip": "6423906",
+          "country": "Israel",
+          "geoPoint": {
+            "lat": 32.08088,
+            "lon": 34.78057
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Ancona",
+          "state": "AN",
+          "zip": "60126",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 43.60717,
+            "lon": 13.5103
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Milan",
+          "state": "MI",
+          "zip": "20122",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 42.78235,
+            "lon": 12.59836
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Rozzano",
+          "state": "MI",
+          "zip": "20089",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 45.38193,
+            "lon": 9.1559
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Kitakyushu",
+          "state": "Fukuoka",
+          "zip": "8078556",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 33.85181,
+            "lon": 130.85034
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Sapporo",
+          "state": "Hokkaido",
+          "zip": "0608543",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 43.06667,
+            "lon": 141.35
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Kamimashi-gun",
+          "state": "Kumamoto",
+          "zip": "861-3106",
+          "country": "Japan"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Habikino",
+          "state": "Osaka",
+          "zip": "5838588",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 34.55276,
+            "lon": 135.59097
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Takatsuki",
+          "state": "Osaka",
+          "zip": "5698686",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 34.84833,
+            "lon": 135.61678
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Ohtsu",
+          "state": "Shiga",
+          "zip": "5202192",
+          "country": "Japan"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Izumo",
+          "state": "Shimane",
+          "zip": "693 8501",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 35.36667,
+            "lon": 132.76667
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Bunkyo-ku",
+          "state": "Tokyo",
+          "zip": "1138519",
+          "country": "Japan"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Itabashi-ku",
+          "state": "Tokyo",
+          "zip": "1738610",
+          "country": "Japan"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Shinjuku Ku",
+          "state": "Tokyo",
+          "zip": "160-0023",
+          "country": "Japan"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Tachikawa",
+          "state": "Tokyo",
+          "zip": "1900023",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 35.7091,
+            "lon": 139.41891
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Hiroshima",
+          "zip": "7308518",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 34.4,
+            "lon": 132.45
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Muar town",
+          "state": "Johor",
+          "zip": "84000",
+          "country": "Malaysia",
+          "geoPoint": {
+            "lat": 2.0442,
+            "lon": 102.5689
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Ipoh",
+          "state": "Perak",
+          "zip": "30450",
+          "country": "Malaysia",
+          "geoPoint": {
+            "lat": 4.5841,
+            "lon": 101.0829
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "George Town",
+          "state": "Pulau Pinang",
+          "zip": "10450",
+          "country": "Malaysia",
+          "geoPoint": {
+            "lat": 5.41123,
+            "lon": 100.33543
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Utrecht",
+          "zip": "3584 CX",
+          "country": "Netherlands",
+          "geoPoint": {
+            "lat": 52.09083,
+            "lon": 5.12222
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Bydgoszcz",
+          "zip": "85-094",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 53.1235,
+            "lon": 18.00762
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Rzesz\u00f3w",
+          "zip": "35 055",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 50.04132,
+            "lon": 21.99901
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Warsaw",
+          "zip": "02-962",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 52.22977,
+            "lon": 21.01178
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Coimbra",
+          "zip": "3004-561",
+          "country": "Portugal",
+          "geoPoint": {
+            "lat": 40.20686,
+            "lon": -8.41996
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Lisbon",
+          "zip": "1649-035",
+          "country": "Portugal",
+          "geoPoint": {
+            "lat": 38.72509,
+            "lon": -9.1498
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Vila Nova de Gaia",
+          "zip": "4434 502",
+          "country": "Portugal",
+          "geoPoint": {
+            "lat": 41.12401,
+            "lon": -8.61241
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Bucharest",
+          "state": "District 2",
+          "zip": "020762",
+          "country": "Romania",
+          "geoPoint": {
+            "lat": 44.43225,
+            "lon": 26.10626
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Singapore",
+          "zip": "308205",
+          "country": "Singapore",
+          "geoPoint": {
+            "lat": 1.28967,
+            "lon": 103.85007
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Ke\u017emarok",
+          "zip": "060 01",
+          "country": "Slovakia",
+          "geoPoint": {
+            "lat": 49.13571,
+            "lon": 20.43352
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Trnava",
+          "zip": "917 02",
+          "country": "Slovakia",
+          "geoPoint": {
+            "lat": 48.37773,
+            "lon": 17.58603
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "\u017dilina",
+          "zip": "012 07",
+          "country": "Slovakia",
+          "geoPoint": {
+            "lat": 49.22315,
+            "lon": 18.73941
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Suwon",
+          "state": "Gyeonggi-do",
+          "zip": "16499",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.29111,
+            "lon": 127.00889
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Seoul",
+          "zip": "03722",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Santiago",
+          "state": "A Coruna",
+          "zip": "15702",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 37.9358,
+            "lon": -4.13866
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Granada",
+          "state": "Andalusia",
+          "zip": "18014",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 37.18817,
+            "lon": -3.60667
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Barcelona",
+          "state": "Catalonia",
+          "zip": "08003",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Alicante",
+          "zip": "03010",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 38.34517,
+            "lon": -0.48149
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Barcelona",
+          "zip": "08035",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Madrid",
+          "zip": "28041",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Madrid",
+          "zip": "280796",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Valencia",
+          "zip": "46015",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 39.47391,
+            "lon": -0.37966
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Bangkok",
+          "zip": "10400",
+          "country": "Thailand",
+          "geoPoint": {
+            "lat": 13.75398,
+            "lon": 100.50144
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Bangkok",
+          "zip": "10700",
+          "country": "Thailand",
+          "geoPoint": {
+            "lat": 13.75398,
+            "lon": 100.50144
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Chiang Mai",
+          "zip": "50200",
+          "country": "Thailand",
+          "geoPoint": {
+            "lat": 18.79038,
+            "lon": 98.98468
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Sakarya",
+          "state": "Adapazari",
+          "zip": "54290",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 39.50333,
+            "lon": 32.07583
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Istanbul",
+          "state": "Basaksehir",
+          "zip": "34480",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 41.01384,
+            "lon": 28.94966
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Istanbul",
+          "state": "Fatih",
+          "zip": "34093",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 41.01384,
+            "lon": 28.94966
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Kayseri",
+          "state": "Melikgazi",
+          "zip": "38039",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 38.73222,
+            "lon": 35.48528
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Istanbul",
+          "state": "Uskudar",
+          "zip": "34662",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 41.01384,
+            "lon": 28.94966
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Oxford",
+          "zip": "OX3 7LE",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.75222,
+            "lon": -1.25596
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Hanoi",
+          "zip": "100000",
+          "country": "Vietnam",
+          "geoPoint": {
+            "lat": 21.0245,
+            "lon": 105.84117
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Ho Chi Minh City",
+          "zip": "700000",
+          "country": "Vietnam",
+          "geoPoint": {
+            "lat": 10.82302,
+            "lon": 106.62965
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Novartis is committed to sharing access to patient-level data and supporting clinical documents from eligible studies with qualified external researchers. Requests are reviewed and approved by an independent review panel on the basis of scientific merit. All data provided is anonymized to protect the privacy of patients who have participated in the trial in line with applicable laws and regulations.\n\nThis trial data availability is according to the criteria and process described on www.clinicalstudydatarequest.com"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-04-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000094482",
+          "term": "Chronic Inducible Urticaria"
+        },
+        {
+          "id": "D000096703",
+          "term": "Cold Urticaria"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000080223",
+          "term": "Chronic Urticaria"
+        },
+        {
+          "id": "D014581",
+          "term": "Urticaria"
+        },
+        {
+          "id": "D017445",
+          "term": "Skin Diseases, Vascular"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D006969",
+          "term": "Hypersensitivity, Immediate"
+        },
+        {
+          "id": "D006967",
+          "term": "Hypersensitivity"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C000722911",
+          "term": "remibrutinib"
+        }
+      ]
+    }
+  },
+  "hasResults": false,
+  "_meta": {
+    "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT05976243",
+    "fetched_at": "2026-04-09T00:59:09.835590+00:00"
+  }
+}

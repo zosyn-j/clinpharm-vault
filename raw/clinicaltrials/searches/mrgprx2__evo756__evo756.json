@@ -1,0 +1,26 @@
+{
+  "priority_class": "MRGPRX2",
+  "program": "EVO756",
+  "term": "EVO756",
+  "url": "https://clinicaltrials.gov/api/v2/studies?query.cond=urticaria&query.term=EVO756&pageSize=100",
+  "fetched_at": "2026-04-09T00:59:09.835590+00:00",
+  "study_count": 2,
+  "studies": [
+    {
+      "nct_id": "NCT06603220",
+      "brief_title": "A Study Evaluating the Safety, Tolerability, and Efficacy of EVO756 in Adults With Chronic Inducible Urticaria",
+      "official_title": "An Open Label Study Evaluating the Safety, Tolerability, and Efficacy of EVO756 in Adults With Chronic Inducible Urticaria",
+      "conditions": [
+        "Chronic Inducible Urticaria"
+      ]
+    },
+    {
+      "nct_id": "NCT06873516",
+      "brief_title": "Phase 2b Study of EVO756 in Adults With Moderate to Severe Chronic Spontaneous Urticaria (CSU)",
+      "official_title": "A Randomized, Double-Blind, Placebo Controlled, Dose-Ranging Study Evaluating the Efficacy and Safety of EVO756 in Adults With Moderate to Severe Chronic Spontaneous Urticaria",
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ]
+    }
+  ]
+}

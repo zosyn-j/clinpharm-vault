@@ -1,0 +1,68 @@
+{
+  "program": "fenebrutinib",
+  "priority_class": "BTK",
+  "term": "(fenebrutinib OR GDC-0853) AND urticaria",
+  "fetched_at": "2026-04-09T01:12:43.467179+00:00",
+  "count": 15,
+  "ids": [
+    "35667749",
+    "38141832",
+    "35175630",
+    "40326848",
+    "31446134",
+    "35166638",
+    "36420759",
+    "29457982",
+    "34750553",
+    "35569949",
+    "30015639",
+    "31494233",
+    "41270830",
+    "41654334",
+    "34650565"
+  ],
+  "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=%28fenebrutinib+OR+GDC-0853%29+AND+urticaria",
+  "raw": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "15",
+      "retmax": "15",
+      "retstart": "0",
+      "idlist": [
+        "35667749",
+        "38141832",
+        "35175630",
+        "40326848",
+        "31446134",
+        "35166638",
+        "36420759",
+        "29457982",
+        "34750553",
+        "35569949",
+        "30015639",
+        "31494233",
+        "41270830",
+        "41654334",
+        "34650565"
+      ],
+      "translationset": [
+        {
+          "from": "fenebrutinib",
+          "to": "\"fenebrutinib\"[Supplementary Concept] OR \"fenebrutinib\"[All Fields]"
+        },
+        {
+          "from": "GDC-0853",
+          "to": "\"fenebrutinib\"[Supplementary Concept] OR \"fenebrutinib\"[All Fields] OR \"gdc 0853\"[All Fields]"
+        },
+        {
+          "from": "urticaria",
+          "to": "\"urticaria\"[MeSH Terms] OR \"urticaria\"[All Fields] OR \"urticarias\"[All Fields]"
+        }
+      ],
+      "querytranslation": "(\"fenebrutinib\"[Supplementary Concept] OR \"fenebrutinib\"[All Fields] OR (\"fenebrutinib\"[Supplementary Concept] OR \"fenebrutinib\"[All Fields] OR \"gdc 0853\"[All Fields])) AND (\"urticaria\"[MeSH Terms] OR \"urticaria\"[All Fields] OR \"urticarias\"[All Fields])"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "program": "blu-808",
+  "priority_class": "KIT",
+  "term": "BLU-808 AND urticaria",
+  "fetched_at": "2026-04-09T01:12:43.467179+00:00",
+  "count": 0,
+  "ids": [],
+  "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=BLU-808+AND+urticaria",
+  "raw": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "0",
+      "retmax": "0",
+      "retstart": "0",
+      "idlist": [],
+      "translationset": [
+        {
+          "from": "urticaria",
+          "to": "\"urticaria\"[MeSH Terms] OR \"urticaria\"[All Fields] OR \"urticarias\"[All Fields]"
+        }
+      ],
+      "querytranslation": "BLU-808 AND urticaria",
+      "errorlist": {
+        "phrasesnotfound": [
+          "BLU-808"
+        ],
+        "fieldsnotfound": []
+      },
+      "warninglist": {
+        "phrasesignored": [],
+        "quotedphrasesnotfound": [],
+        "outputmessages": [
+          "No items found."
+        ]
+      }
+    }
+  }
+}

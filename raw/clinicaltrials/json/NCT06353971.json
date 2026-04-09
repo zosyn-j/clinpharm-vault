@@ -1,0 +1,295 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06353971",
+      "orgStudyIdInfo": {
+        "id": "JSP-CP-010"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2023-507534-24",
+          "type": "EUDRACT_NUMBER"
+        }
+      ],
+      "organization": {
+        "fullName": "Jasper Therapeutics, Inc.",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Dose Escalation Trial of Safety, Pharmacokinetic/Pharmacodynamic and Preliminary Clinical Activity of Briquilimab in Adult Patients With Chronic Inducible Urticaria (CIndU) Who Remain Symptomatic Despite Treatment With H1- Antihistamines",
+      "officialTitle": "A Phase 1b/2a, Dose Escalation Trial of Safety, Pharmacokinetic/Pharmacodynamic and Preliminary Clinical Activity of Briquilimab in Adult Patients With Chronic Inducible Urticaria (CIndU) Who Remain Symptomatic Despite Treatment With H1- Antihistamines",
+      "acronym": "SPOTLIGHT"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-09",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "Enrollment was completed and primary efficacy endpoint was completed. Study was terminated before safety follow up was completed due to changes in company priorities and not related to safety concerns",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2024-03-18",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2025-07-31",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2025-07-31",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2024-04-03",
+      "studyFirstSubmitQcDate": "2024-04-03",
+      "studyFirstPostDateStruct": {
+        "date": "2024-04-09",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-10-03",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-10-08",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Jasper Therapeutics, Inc.",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "This is an open-label, single ascending dose Phase 1b/2a trial to determine the safety and tolerability and assess the preliminary efficacy of briquilimab in adult participants with Cold Urticaria (ColdU) or Symptomatic Dermographism (SD), who remain symptomatic despite treatment with H1 antihistamines. The trial will explore three ascending dose levels which will be tested in three sequential cohorts."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Chronic Inducible Urticaria"
+      ],
+      "keywords": [
+        "Urticaria",
+        "Skin Diseases, Vascular",
+        "Skin Diseases",
+        "Immune System Diseases",
+        "Chronic Urticaria",
+        "Itch",
+        "Hives",
+        "Wheals"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SEQUENTIAL",
+        "interventionModelDescription": "This is an open-label, single ascending dose, Phase 1b/2a trial.\n\nCohort 1 follows a 3+3 design and will be treated with a single 40mg dose. Cohort 2 will be treated with a single 120mg dose. Cohort 3 will be treated with a single 180mg dose.",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 27,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Briquilimab",
+          "type": "EXPERIMENTAL",
+          "description": "Cohort 1: Participants will be treated at the trial site with 40 mg briquilimab (Subcutaneous Injection) Cohort 2: Participants will be treated at the trial site with 120 mg briquilimab (Subcutaneous Injection) Cohort 3: Participants will be treated at the trial site with 180 mg briqulimab (Subcutaneous Injection)",
+          "interventionNames": [
+            "Drug: Briquilimab"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Briquilimab",
+          "description": "Subcutaneous Injection",
+          "armGroupLabels": [
+            "Briquilimab"
+          ],
+          "otherNames": [
+            "JSP191"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Incidence and severity of treatment emergent AEs/SAEs [safety and tolerability] of a single dose of briquilimab in patients with ColdU or SD who remain symptomatic despite the use of H1 antihistamines.",
+          "description": "Incidence and severity of treatment emergent AEs/SAEs",
+          "timeFrame": "From signing the informed consent form (ICF) through end of trial (EOT) visit (Week 36)"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Preliminary efficacy of briquilimab",
+          "description": "Provocation testing:\n\nColdU: Critical temperature threshold (CCT) SD: Critical friction threshold (CFT)",
+          "timeFrame": "Change from Baseline to all assessment time points through Week 36"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Written informed consent obtained from potential participants capable of providing informed consent, after the nature of the trial has been fully explained and before performing any trial related assessments\n2. Males and females, \u226518 years old\n3. Diagnosis of ColdU or SD despite the use of H1-antihistamines as defined by all of the following:\n\n   * Diagnosis of ColdU or SD for \u2265 3 months, symptoms must comprise both wheal and itch or painful sensation\n   * Presence of itch and hives for \u2265 6 consecutive weeks at any time prior to Screening despite current use of H1-antihistamines (as reported by the participant)\n   * ColdU participants must have a positive cold stimulation tests above 4\u00baC using TempTest\u00ae (wheal and itch or painful sensation) on site during Screening to be eligible\n   * SD participants must have a positive FricTests\u00ae with \u2265 3 pins (wheal and itch) on site during Screening to be eligible\n4. Use of H1-antihistamines on stable dose up to four-fold of the approved dose for at least 4 weeks prior to the Screening visit and not expected to change during first 12 weeks of the trial.\n5. Participants with chronic spontaneous urticaria (CSU) are eligible if they present with symptoms consistent with ColdU or SD and ColdU or SD is the dominant type of chronic urticaria.\n6. Blood counts at Screening with:\n\n   * Hemoglobin: \u2265 11 g/dl\n   * Platelets: \u2265 100,000/mm3\n   * Leucocytes: \u2265 3,000/mm3\n   * Neutrophils: \u2265 2,000/mm3\n7. Willing and able to participate and adhere to the trial visits schedule.\n\nExclusion Criteria:\n\n1. Women who are pregnant or nursing or intend to become pregnant during the course of the trial\n2. Participants weighing less than 40 kg or more than 125 kg at Screening\n3. Dominant comorbid chronic urticaria with a clearly defined predominant or sole trigger (chronic inducible urticaria) other than ColdU or SD, including, heat-, solar-, pressure-,delayed pressure-, aquagenic-, cholinergic-, or contact urticaria as well as variants of cold induced urticaria or familial cold autoimmune syndrome except CSU (see inclusion criterion #5)\n4. Other active diseases with possible symptoms of urticaria, wheals or angioedema, including urticarial vasculitis, erythema multiforme, cutaneous mastocytosis (urticaria pigmentosa), and hereditary or acquired angioedema (e.g., due to C1 inhibitor deficiency)\n5. Any other active skin disease associated with chronic itching that might confound the trial evaluations and results in the opinion of the Investigator (e.g., atopic dermatitis, bullous pemphigoid, dermatitis herpetiformis, senile pruritus, etc.)\n6. History of severe anaphylaxis as defined by Sampson et al. (Section 25.1 ) within 5 years of Screening\n7. Any H2 antihistamine, leukotriene receptor antagonist or tricyclic antidepressant use within 3 days prior to Screening\n8. Experimental monoclonal antibody therapy (e.g., dupilumab, ligelizumab, etc.) within 6 months or Janus kinase (JAK) inhibitors or experimental Bruton Tyrosine Kinase (BTK) inhibitors within 5 half-lives prior injection of IP\n9. Immunosuppressive therapy (e.g., systemic corticosteroids, cyclosporine, methotrexate, dapsone, cyclophosphamide, tacrolimus and mycophenolate mofetil, hydroxychloroquine, etc.) within 4 weeks (or 5 half-lives, whichever is longer) prior to injection of IP\n10. ECG findings at Screening that are considered clinically significant\n11. Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) \\> 1.5 x Upper limit of normal (ULN) at Screening\n12. Serum total bilirubin \\>1.5 x ULN, unless attributable to Gilbert's syndrome\n13. Estimated creatinine clearance (eCrCl) by Cockcroft-Gault equation using total body weight \\< 60 mL/min\n14. Known HIV-, hepatitis B-, hepatitis C infection, or acute/long-COVID\n15. Major abdominal or thoracic surgery within 8 weeks prior to Screening or planned surgery during trial participation\n16. Male participants (who are not vasectomized) who are not willing to use highly effective contraceptive methods (when having sexual intercourse with a female partner of childbearing potential (Section 9.2) and who are not willing to abstain from sperm donation during the trial and for at least 150 days after last IP dosing. A male participant is considered vasectomized if he had a vasectomy at least 4 months prior to Screening and if he has received post-surgical medical assessment of the surgical success of the vasectomy.\n17. Female participants of childbearing potential not willing to use highly effective contraceptive methods (Section 9.2) during the trial and for at least 150 days after IP dosing in case of early withdrawal. Women of non-childbearing potential, must be surgically sterile (i.e., had undergone complete hysterectomy, bilateral oophorectomy, or tubal ligation) or be in menopausal state (at least 1 year without menses).\n18. Participation in another research trial involving the use of an IP within the last 30 days (or 5 half-lives of IP, whichever is longer) prior to Screening\n19. Any known contraindications or hypersensitivity to any component of IPs, drugs of similar chemical classes (i.e., to murine, chimeric or human antibodies) or antihistamines, leukotrienes\n20. Any other acute or chronic medical or psychiatric condition or laboratory abnormality that could increase the risk associated with trial participation or IP administration or could interfere with the interpretation of trial results and, in the judgment of the Investigator, would make the participant inappropriate for entry into the trial\n21. Participants not willing to abstain from blood donations while being on the trial (Screening to EOT)\n22. Close affiliation with the Investigator (e.g., a close relative, financially dependent on the trial site) or participant who is an employee of the Sponsor's company",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Charit\u00e9 - University Clinic Berlin",
+          "city": "Berlin",
+          "zip": "12203",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.52437,
+            "lon": 13.41053
+          }
+        },
+        {
+          "facility": "University Hospital Dresden",
+          "city": "Dresden",
+          "zip": "01307",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.05089,
+            "lon": 13.73832
+          }
+        },
+        {
+          "facility": "University Clinic Schleswig-Holstein",
+          "city": "L\u00fcbeck",
+          "zip": "23538",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 53.86893,
+            "lon": 10.68729
+          }
+        },
+        {
+          "facility": "University of Marburg",
+          "city": "Marburg",
+          "zip": "35043",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 50.80904,
+            "lon": 8.77069
+          }
+        },
+        {
+          "facility": "University of Munster",
+          "city": "M\u00fcnster",
+          "zip": "48149",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.96236,
+            "lon": 7.62571
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-04-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000094482",
+          "term": "Chronic Inducible Urticaria"
+        },
+        {
+          "id": "D014581",
+          "term": "Urticaria"
+        },
+        {
+          "id": "D017445",
+          "term": "Skin Diseases, Vascular"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D000080223",
+          "term": "Chronic Urticaria"
+        },
+        {
+          "id": "D011537",
+          "term": "Pruritus"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D006969",
+          "term": "Hypersensitivity, Immediate"
+        },
+        {
+          "id": "D006967",
+          "term": "Hypersensitivity"
+        },
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D012877",
+          "term": "Skin Manifestations"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": false,
+  "_meta": {
+    "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT06353971",
+    "fetched_at": "2026-04-09T00:59:09.835590+00:00"
+  }
+}

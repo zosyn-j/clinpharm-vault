@@ -1,0 +1,36 @@
+{
+  "program": "ep262",
+  "priority_class": "MRGPRX2",
+  "term": "EP262 AND urticaria",
+  "fetched_at": "2026-04-09T01:12:43.467179+00:00",
+  "count": 3,
+  "ids": [
+    "40747638",
+    "41270830",
+    "41654334"
+  ],
+  "search_url": "https://pubmed.ncbi.nlm.nih.gov/?term=EP262+AND+urticaria",
+  "raw": {
+    "header": {
+      "type": "esearch",
+      "version": "0.3"
+    },
+    "esearchresult": {
+      "count": "3",
+      "retmax": "3",
+      "retstart": "0",
+      "idlist": [
+        "40747638",
+        "41270830",
+        "41654334"
+      ],
+      "translationset": [
+        {
+          "from": "urticaria",
+          "to": "\"urticaria\"[MeSH Terms] OR \"urticaria\"[All Fields] OR \"urticarias\"[All Fields]"
+        }
+      ],
+      "querytranslation": "\"EP262\"[All Fields] AND (\"urticaria\"[MeSH Terms] OR \"urticaria\"[All Fields] OR \"urticarias\"[All Fields])"
+    }
+  }
+}

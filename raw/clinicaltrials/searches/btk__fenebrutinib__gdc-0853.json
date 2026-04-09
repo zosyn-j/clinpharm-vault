@@ -1,0 +1,26 @@
+{
+  "priority_class": "BTK",
+  "program": "Fenebrutinib",
+  "term": "GDC-0853",
+  "url": "https://clinicaltrials.gov/api/v2/studies?query.cond=urticaria&query.term=GDC-0853&pageSize=100",
+  "fetched_at": "2026-04-09T00:59:09.835590+00:00",
+  "study_count": 2,
+  "studies": [
+    {
+      "nct_id": "NCT03693625",
+      "brief_title": "A Study to Evaluate the Long-term Safety and Efficacy of Fenebrutinib in Participants Previously Enrolled in a Fenebrutinib Chronic Spontaneous Urticaria (CSU) Study",
+      "official_title": "A Phase II Open-Label Extension Study To Evaluate The Long-Term Safety And Efficacy Of Fenebrutinib In Patients Previously Enrolled In A Fenebrutinib Chronic Spontaneous Urticaria Study",
+      "conditions": [
+        "Urticaria"
+      ]
+    },
+    {
+      "nct_id": "NCT03137069",
+      "brief_title": "A Study of GDC-0853 in Participants With Refractory Chronic Spontaneous Urticaria (CSU).",
+      "official_title": "A Phase II, Multicenter, Randomized, Double-Blind, Placebo-Controlled Pilot and Dose-Ranging Study of GDC-0853 in Patients With Refractory Chronic Spontaneous Urticaria (CSU).",
+      "conditions": [
+        "Urticaria"
+      ]
+    }
+  ]
+}

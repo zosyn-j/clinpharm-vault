@@ -1,0 +1,434 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06736262",
+      "orgStudyIdInfo": {
+        "id": "JSP-CP-014"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2024-517830-17-00",
+          "type": "CTIS"
+        }
+      ],
+      "organization": {
+        "fullName": "Jasper Therapeutics, Inc.",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Phase 2, Open-Label, Extension Study to Evaluate Long Term Safety and Clinical Activity of Briquilimab in Participants From Jasper-Sponsored Chronic Urticaria Trials",
+      "officialTitle": "Open-Label Extension Study to Evaluate Long Term Safety and Clinical Activity of Briquilimab in Chronic Urticaria"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-02",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2024-11-26",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2026-08-13",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2026-09-30",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2024-11-20",
+      "studyFirstSubmitQcDate": "2024-12-12",
+      "studyFirstPostDateStruct": {
+        "date": "2024-12-16",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-02-19",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-02-23",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Jasper Therapeutics, Inc.",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Phase 2, open-label, extension study to evaluate the long-term safety, clinical activity, and pharmacodynamics of briquilimab in participants previously enrolled in a Jasper sponsored CU clinical trial.",
+      "detailedDescription": "This is a Phase 2, open-label, extension study to evaluate the long-term safety, clinical activity, and pharmacodynamics of briquilimab in participants previously enrolled in a Jasper sponsored CU clinical trial, specifically the BEACON (JSP-CP-011) and SPOTLIGHT (JSP CP-010) trials (referred to as \"parent studies\") and future CU trials sponsored by Jasper Therapeutics."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Urticaria Chronic"
+      ],
+      "keywords": [
+        "Itch"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 67,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Briquilimab",
+          "type": "EXPERIMENTAL",
+          "description": "Briquilimab via SQ injection",
+          "interventionNames": [
+            "Drug: Briquilimab"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Briquilimab",
+          "description": "No additional details needed",
+          "armGroupLabels": [
+            "Briquilimab"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "To evaluate the safety and tolerability of briquilimab",
+          "description": "Incidence and severity of AEs including SAEs, TEAEs and AEIs.",
+          "timeFrame": "From signing the informed consent form through study completion (an average of one year)"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Provides informed written consent.\n2. Previously participated in and completed an eligible Jasper-sponsored clinical trial (in the last 4 months) without any investigational product (IP)-related anaphylactic event\n3. Disease specific eligibility:\n\n   1. Participants with CSU have a UAS7 of 16 or greater following the completion of at least 8 weeks of safety follow up in the parent study OR anyone who completed their parent study regardless of UAS7 score.\n   2. Participants with CIndU (cold contact urticaria \\[ColdU\\] or symptomatic dermographism) have a UCT of 12 or less following the completion of at least 8 weeks of safety follow up in the parent study OR anyone who completed their parent study regardless of UCT score.\n4. The laboratory parameters to be within the acceptable range as follows:\n\n   1. Hemoglobin: \u2265 10 g/dL\n   2. Platelets: \u2265 100,000/mm3\n   3. Neutrophils: \u2265 1,500/mm3\n   4. Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) \\< 3 \u00d7 the upper limit of normal (ULN)\n   5. Serum total bilirubin \\< 2 \u00d7 ULN, unless attributable to Gilbert's syndrome\n   6. Estimated creatinine clearance (eCrCl) by the Cockcroft-Gault equation (using total body weight) \u2265 30 mL/min\n5. Participants willing to abstain from blood donations while being on the trial (Screening to end of trial \\[EOT\\]).\n6. Male participants (who are not vasectomized) who are heterosexually active must use highly effective contraceptive methods and must abstain from sperm donation during the trial and for at least 8 months after the last dose of briquilimab. A male participant is considered vasectomized if he had a vasectomy at least 4 months prior to Screening and if he has received post-surgical medical assessment of the surgical success of the vasectomy\n7. Female participants of childbearing potential who are heterosexually active (defined in Section 5.2.1.1) must use highly effective contraceptive methods (Section 5.2.1) during the trial and for at least 90 days after the last dose of briquilimab. Female participants of non-childbearing potential must be surgically sterile (i.e., had undergone complete hysterectomy, bilateral oophorectomy, or bilateral tubal ligation) or be in a menopausal state (at least 1 year without menses).\n\nExclusion Criteria:\n\n1. Participated in or currently participating in an interventional clinical trial investigating an experimental therapy following cessation of participation in a Jasper-sponsored CU trial.\n2. Other active diseases with possible symptoms of urticaria, wheals or angioedema, including urticarial vasculitis, erythema multiforme, systemic or cutaneous mastocytosis (urticaria pigmentosa), and hereditary or acquired angioedema (e.g., due to C1 inhibitor deficiency)\n3. Women who are pregnant or nursing or intend to become pregnant during the course of the trial\n4. Any known contraindications or hypersensitivity to any component of briquilimab, drugs of similar chemical classes (i.e., to murine, chimeric or human antibodies) or antihistamines or leukotrienes. Those who have previously experienced an IP-related anaphylactic event, IP-related SAE, or IP-related AE that led to treatment discontinuation in a prior Jasper-sponsored urticaria clinical trial, which in the opinion of the Investigator or medical monitor, may indicate that continued treatment could present an unreasonable risk to the participant are also excluded.\n5. Any other acute or chronic medical or psychiatric condition or laboratory abnormality that could increase the risk associated with trial participation or briquilimab administration or could interfere with the interpretation of trial results and, in the judgment of the Investigator, would make the participant inappropriate for entry into the trial.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Medical Director",
+          "affiliation": "Jasper Therapeutics",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Investigative Site 118",
+          "city": "Birmingham",
+          "state": "Alabama",
+          "zip": "35244",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.52066,
+            "lon": -86.80249
+          }
+        },
+        {
+          "facility": "Investigative Site 108",
+          "city": "Little Rock",
+          "state": "Arkansas",
+          "zip": "72205",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.74648,
+            "lon": -92.28959
+          }
+        },
+        {
+          "facility": "Investigative Site 105",
+          "city": "San Diego",
+          "state": "California",
+          "zip": "92123",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.71571,
+            "lon": -117.16472
+          }
+        },
+        {
+          "facility": "Investigative Site 116",
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33613",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.94752,
+            "lon": -82.45843
+          }
+        },
+        {
+          "facility": "Investigative Site 109",
+          "city": "Boise",
+          "state": "Idaho",
+          "zip": "83706",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.6135,
+            "lon": -116.20345
+          }
+        },
+        {
+          "facility": "Investigative Site 124",
+          "city": "Normal",
+          "state": "Illinois",
+          "zip": "61761",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.5142,
+            "lon": -88.99063
+          }
+        },
+        {
+          "facility": "Investigative Site 110",
+          "city": "Indianapolis",
+          "state": "Indiana",
+          "zip": "46250",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.76838,
+            "lon": -86.15804
+          }
+        },
+        {
+          "facility": "Investigative Site 123",
+          "city": "Lafayette",
+          "state": "Louisiana",
+          "zip": "70508",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 30.22409,
+            "lon": -92.01984
+          }
+        },
+        {
+          "facility": "Investigative Site 101",
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21224",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.29038,
+            "lon": -76.61219
+          }
+        },
+        {
+          "facility": "Investigative Site 121",
+          "city": "White Marsh",
+          "state": "Maryland",
+          "zip": "21162",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.38372,
+            "lon": -76.43218
+          }
+        },
+        {
+          "facility": "Investigative Site 103",
+          "city": "Cincinnati",
+          "state": "Ohio",
+          "zip": "45236",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.12711,
+            "lon": -84.51439
+          }
+        },
+        {
+          "facility": "Investigative Site 111",
+          "city": "Murray",
+          "state": "Utah",
+          "zip": "84107",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.66689,
+            "lon": -111.88799
+          }
+        },
+        {
+          "facility": "Investigative Site 115",
+          "city": "Seattle",
+          "state": "Washington",
+          "zip": "98101",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 47.60621,
+            "lon": -122.33207
+          }
+        },
+        {
+          "facility": "Investigative Site 210",
+          "city": "M\u00fcnchen",
+          "state": "Bavaria",
+          "zip": "80802",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 48.69668,
+            "lon": 13.46314
+          }
+        },
+        {
+          "facility": "Investigative Site 202",
+          "city": "Marburg",
+          "state": "Hesse",
+          "zip": "35043",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 50.80904,
+            "lon": 8.77069
+          }
+        },
+        {
+          "facility": "Investigative Site 204",
+          "city": "M\u00fcnster",
+          "state": "North Rhine-Westphalia",
+          "zip": "48149",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.96236,
+            "lon": 7.62571
+          }
+        },
+        {
+          "facility": "Investigative Site 209",
+          "city": "Dresden",
+          "state": "Saxony",
+          "zip": "01307",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.05089,
+            "lon": 13.73832
+          }
+        },
+        {
+          "facility": "Investigative Site 206",
+          "city": "L\u00fcbeck",
+          "state": "Schleswig-Holstein",
+          "zip": "23538",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 53.86893,
+            "lon": 10.68729
+          }
+        },
+        {
+          "facility": "Investigative Site 201",
+          "city": "Berlin",
+          "zip": "12203",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.52437,
+            "lon": 13.41053
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-04-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000080223",
+          "term": "Chronic Urticaria"
+        },
+        {
+          "id": "D011537",
+          "term": "Pruritus"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014581",
+          "term": "Urticaria"
+        },
+        {
+          "id": "D017445",
+          "term": "Skin Diseases, Vascular"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D006969",
+          "term": "Hypersensitivity, Immediate"
+        },
+        {
+          "id": "D006967",
+          "term": "Hypersensitivity"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D012877",
+          "term": "Skin Manifestations"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": false,
+  "_meta": {
+    "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT06736262",
+    "fetched_at": "2026-04-09T00:59:09.835590+00:00"
+  }
+}

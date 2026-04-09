@@ -1,0 +1,3388 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03137069",
+      "orgStudyIdInfo": {
+        "id": "GS39684"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2016-004624-35",
+          "type": "EUDRACT_NUMBER"
+        }
+      ],
+      "organization": {
+        "fullName": "Genentech, Inc.",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study of GDC-0853 in Participants With Refractory Chronic Spontaneous Urticaria (CSU).",
+      "officialTitle": "A Phase II, Multicenter, Randomized, Double-Blind, Placebo-Controlled Pilot and Dose-Ranging Study of GDC-0853 in Patients With Refractory Chronic Spontaneous Urticaria (CSU)."
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2020-09",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2017-05-26",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2019-09-27",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2019-10-25",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2017-04-28",
+      "studyFirstSubmitQcDate": "2017-04-28",
+      "studyFirstPostDateStruct": {
+        "date": "2017-05-02",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2020-09-02",
+      "resultsFirstSubmitQcDate": "2020-09-28",
+      "resultsFirstPostDateStruct": {
+        "date": "2020-09-29",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2020-09-28",
+      "lastUpdatePostDateStruct": {
+        "date": "2020-09-29",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Genentech, Inc.",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to evaluate the efficacy, safety and pharmacokinetics of GDC-0853 compared with placebo in participants with Refractory Chronic Spontaneous Urticaria (CSU) already treated with anti-histamines. Participants have the option to enter the Open-Label Extension (OLE) study after completing the 8-week treatment period."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Urticaria"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 134,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Cohort 1: Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Participants received matching placebo twice daily from Day 1 to 56.",
+          "interventionNames": [
+            "Drug: Placebo"
+          ]
+        },
+        {
+          "label": "Cohort 1: GDC-0853 200mg BID",
+          "type": "EXPERIMENTAL",
+          "description": "Participants received GDC-0853 200mg twice daily from Day 1 to 56.",
+          "interventionNames": [
+            "Drug: GDC-0853"
+          ]
+        },
+        {
+          "label": "Cohort 2: Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Participants received matching placebo up to twice daily from Day 1 to 56.",
+          "interventionNames": [
+            "Drug: Placebo"
+          ]
+        },
+        {
+          "label": "Cohort 2: GDC-0853 50mg QD",
+          "type": "EXPERIMENTAL",
+          "description": "Participants received GDC-0853 50mg once daily from Day 1 to 56.",
+          "interventionNames": [
+            "Drug: GDC-0853"
+          ]
+        },
+        {
+          "label": "Cohort 2: GDC-0853 150mg QD",
+          "type": "EXPERIMENTAL",
+          "description": "Participants received GDC-0853 150mg once daily from Day 1 to 56.",
+          "interventionNames": [
+            "Drug: GDC-0853"
+          ]
+        },
+        {
+          "label": "Cohort 2: GDC-0853 200mg BID",
+          "type": "EXPERIMENTAL",
+          "description": "Participants received GDC-0853 200mg twice daily from Day 1 to 56.",
+          "interventionNames": [
+            "Drug: GDC-0853"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "GDC-0853",
+          "description": "GDC-0853 will be administered orally at dosages of 50, 150 and 200mg to participants, as per the dosing schedules described above.",
+          "armGroupLabels": [
+            "Cohort 1: GDC-0853 200mg BID",
+            "Cohort 2: GDC-0853 150mg QD",
+            "Cohort 2: GDC-0853 200mg BID",
+            "Cohort 2: GDC-0853 50mg QD"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo",
+          "description": "Matching Placebo will be administered orally, as per the dosing schedules described above.",
+          "armGroupLabels": [
+            "Cohort 1: Placebo",
+            "Cohort 2: Placebo"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change From Baseline in the Urticaria Activity Score Over 7 Days (UAS7) at Day 57",
+          "description": "The Urticaria Activity Score (UAS) is a composite, diary-recorded score with numeric severity intensity ratings (0=none to 3=intense/severe) for the number of wheals (hives) and the intensity of the pruritus (itch) over the past 12 hours (twice daily). The daily UAS is calculated as the average of the morning and evening scores. The UAS7 is the weekly sum of the daily UAS, which is the composite score of the intensity of pruritus and the number of wheals. The maximum UAS7 value is 42. A higher score indicates worse disease. A negative change score (Day 57 score minus Baseline score) indicates improvement.",
+          "timeFrame": "Baseline and Day 57"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Percentage of Participants Who Are Well-Controlled (UAS7 \u2264 6)",
+          "description": "The Urticaria Activity Score (UAS) is a composite, diary-recorded score with numeric severity intensity ratings (0=none to 3=intense/severe) for the number of wheals (hives) and the intensity of the pruritus (itch) over the past 12 hours (twice daily). The daily UAS is calculated as the average of the morning and evening scores. The UAS7 is the weekly sum of the daily UAS, which is the composite score of the intensity of pruritus and the number of wheals. The maximum UAS7 value is 42. A higher score indicates worse disease. Participants with UAS7 score \u22646 are considered well controlled.",
+          "timeFrame": "Day 57"
+        },
+        {
+          "measure": "Change From Baseline in the UAS7 at Day 29",
+          "description": "The Urticaria Activity Score (UAS) is a composite, diary-recorded score with numeric severity intensity ratings (0=none to 3=intense/severe) for the number of wheals (hives) and the intensity of the pruritus (itch) over the past 12 hours (twice daily). The daily UAS is calculated as the average of the morning and evening scores. The UAS7 is the weekly sum of the daily UAS, which is the composite score of the intensity of pruritus and the number of wheals. The maximum UAS7 value is 42. A higher score indicates worse disease. A negative change score (Day 29 score minus Baseline score) indicates improvement.",
+          "timeFrame": "Baseline and Day 29"
+        },
+        {
+          "measure": "Percentage of Participants With Adverse Events (AEs)",
+          "description": "An Adverse Event (AE) is any untoward medical occurrence in a participant administered a pharmaceutical product and which does not necessarily have to have a causal relationship with the treatment. An Adverse Event can therefore be any unfavorable and unintended sign (including abnormal laboratory values or abnormal clinical test results), symptom, or disease temporally associated with the use of a pharmaceutical product, whether or not considered related to the pharmaceutical product. Preexisting conditions which worsen during a study are also considered as Adverse Events.",
+          "timeFrame": "Baseline up until 4 weeks after the last dose of study drug (up to 2 years, 5 months)."
+        },
+        {
+          "measure": "Plasma Concentrations of Fenebrutinib (GDC-0853) at Specified Timepoints",
+          "description": "Plasma Concentration Data for fenebrutinib (GDC-0853) will be tabulated and summarised by visits. Descriptive summary statistics for Arithmetic Mean and Standard Deviation will be presented. Please note that the Placebo Cohorts were not evaluated for this Outcome Measure.",
+          "timeFrame": "Days 1, 8 and 57."
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Aged 18-75 years, inclusive\n* Diagnosis of chronic spontaneous urticaria (CSU) refractory to H1 antihistamines at the time of randomization\n* Willing and able to complete an Urticaria Participant Daily eDiary for the duration of the study\n* No evidence of active or latent or inadequately treated infection with tuberculosis (TB)\n* Partcipants with a history of Bacille Calmette-Gu\u00e9rin (BCG) vaccination should be screened using the QuantiFERON-TB-Gold (QFT) test\n* Only for participants currently receiving proton-pump inhibitors (PPIs) or H2 receptor antagonists (H2RAs): Treatment must be at a stable dose during the 2-week screening period prior to randomization and with a plan to remain at a stable dose for the duration of the study\n* For women of childbearing potential: Agreement to remain abstinent (refrain from heterosexual intercourse) or use contraceptive methods that result in a failure rate of \\<1% per year during the treatment period and for at least 4 weeks after the last dose of study drug. Women must refrain from donating eggs during this same period.\n\nExclusion Criteria:\n\n* Treatment with omalizumab or other monoclonal antibody therapies used to treat CSU within 4 months prior to screening or primary nonresponse to omalizumab\n* Use of a non-biologic investigational drug or participation in an investigational study with a non-biologic drug within 30 days prior to study drug administration on Day 1 (or within 5 half-lives of the investigational product, whichever is greater)\n* Use of a biologic investigational therapy or participation in an investigational study involving biologic therapy within 90 days or 5 half-lives, whichever is greater, prior to study drug administration on Day 1\n* Previous treatment with GDC-0853 or other Bruton's tyrosine kinase (BTK) inhibitors\n* Participants whose urticaria is solely due to physical urticaria\n* Other diseases with symptoms of urticaria or angioedema, including urticarial vasculitis, urticaria pigmentosa, erythema multiforme, mastocytosis, hereditary or acquired angioedema, lymphoma, or leukemia\n* Atopic dermatitis, bullous pemphigoid, dermatitis herpetiformis, or other skin disease associated with itch such as psoriasis\n* Routine doses of the following medications within 30 days prior to screening: systemic or cutaneous (topical) corticosteroids (prescription or over the counter), hydroxychloroquine, methotrexate, cyclosporine, or cyclophosphamide\n* Prior utilization of intravenous (IV) steroids for treatment of laryngeal angioedema\n* Intravenous immunoglobulin G (IV IG) or plasmapheresis within 30 days prior to screening\n* History of anaphylactic shock without clearly identifiable avoidable antigen\n* Hypersensitivity to GDC-0853 or any component of the formulation\n* Major surgery within 8 weeks prior to screening or surgery planned prior to end of study (12 weeks after randomization)\n* Require any prohibited concomitant medications\n* History of live attenuated vaccine within 6 weeks prior to randomization or requirement to receive these vaccinations at any time during study drug treatment\n* Evidence of clinically significant cardiac, neurologic, psychiatric, pulmonary, renal, hepatic, endocrine, metabolic, or gastrointestinal (GI) disease that, in the investigator's opinion, would compromise the safety of the participant, interfere with the interpretation of the study results or otherwise preclude participant participation\n* Current treatment with astemizole, terfenadine, and/or ebastine\n* Uncontrolled disease states, such as asthma, psoriasis, or inflammatory bowel disease, where flares are commonly treated with oral or parenteral corticosteroids",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "75 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Clinical Trials",
+          "affiliation": "Hoffmann-La Roche",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Clinical Research Center of Alabama, LLC",
+          "city": "Birmingham",
+          "state": "Alabama",
+          "zip": "35209",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.52066,
+            "lon": -86.80249
+          }
+        },
+        {
+          "facility": "Allergy & Asthma Immunology Associates",
+          "city": "Scottsdale",
+          "state": "Arizona",
+          "zip": "85251",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.50921,
+            "lon": -111.89903
+          }
+        },
+        {
+          "facility": "Kern Allergy Med Clinic, Inc.",
+          "city": "Bakersfield",
+          "state": "California",
+          "zip": "93301",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.37329,
+            "lon": -119.01871
+          }
+        },
+        {
+          "facility": "Southern California Research Center",
+          "city": "Mission Viejo",
+          "state": "California",
+          "zip": "92691",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.60002,
+            "lon": -117.672
+          }
+        },
+        {
+          "facility": "Allergy & Asthma Consultants",
+          "city": "Redwood City",
+          "state": "California",
+          "zip": "94063",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.48522,
+            "lon": -122.23635
+          }
+        },
+        {
+          "facility": "Integrated Research Group Inc",
+          "city": "Riverside",
+          "state": "California",
+          "zip": "92506",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.95335,
+            "lon": -117.39616
+          }
+        },
+        {
+          "facility": "Integrated Research of Inland",
+          "city": "Upland",
+          "state": "California",
+          "zip": "91786",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.09751,
+            "lon": -117.64839
+          }
+        },
+        {
+          "facility": "New Horizon Research Center",
+          "city": "Miami",
+          "state": "Florida",
+          "zip": "33165",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.77427,
+            "lon": -80.19366
+          }
+        },
+        {
+          "facility": "Renstar Medical Research",
+          "city": "Ocala",
+          "state": "Florida",
+          "zip": "34470",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.1872,
+            "lon": -82.14009
+          }
+        },
+        {
+          "facility": "Vital Prospects Clinical Research Institute PC - CRN",
+          "city": "Tulsa",
+          "state": "Oklahoma",
+          "zip": "74136",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.15398,
+            "lon": -95.99277
+          }
+        },
+        {
+          "facility": "Asthma, Nasal Disease, and Allergy Research Center of New England",
+          "city": "East Providence",
+          "state": "Rhode Island",
+          "zip": "02914",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.81371,
+            "lon": -71.37005
+          }
+        },
+        {
+          "facility": "Center for Clinical Studies",
+          "city": "Cypress",
+          "state": "Texas",
+          "zip": "77433",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.96911,
+            "lon": -95.69717
+          }
+        },
+        {
+          "facility": "Timber Lane Allergy and Asthma Research, LLC",
+          "city": "Burlington",
+          "state": "Vermont",
+          "zip": "05403",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 44.47588,
+            "lon": -73.21207
+          }
+        },
+        {
+          "facility": "University of British Columbia",
+          "city": "Vancouver",
+          "state": "British Columbia",
+          "zip": "V6T 1Z4",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 49.24966,
+            "lon": -123.11934
+          }
+        },
+        {
+          "facility": "Private Practice - Dr. Jason Ohayon",
+          "city": "Hamilton",
+          "state": "Ontario",
+          "zip": "L8S 1G5",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.25011,
+            "lon": -79.84963
+          }
+        },
+        {
+          "facility": "Lynde Institute for Dermatology",
+          "city": "Markham",
+          "state": "Ontario",
+          "zip": "L3P 1X2",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.86682,
+            "lon": -79.2663
+          }
+        },
+        {
+          "facility": "Cheema Research",
+          "city": "Mississauga",
+          "state": "Ontario",
+          "zip": "L5A 3V4",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.5789,
+            "lon": -79.6583
+          }
+        },
+        {
+          "facility": "Yang Medicine",
+          "city": "Ottawa",
+          "state": "Ontario",
+          "zip": "K1G 6C6",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 45.41117,
+            "lon": -75.69812
+          }
+        },
+        {
+          "facility": "Gordon Sussman Clinical Research",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M4V 1R2",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.70643,
+            "lon": -79.39864
+          }
+        },
+        {
+          "facility": "Private Practice - Dr. Isabelle Delorme",
+          "city": "Drummondville",
+          "state": "Quebec",
+          "zip": "J2B 5L4",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 45.88336,
+            "lon": -72.48241
+          }
+        },
+        {
+          "facility": "Centre de Recherche Applique En Allergie de Quebec",
+          "city": "Qu\u00e9bec",
+          "state": "Quebec",
+          "zip": "G1V 4M6",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 46.81228,
+            "lon": -71.21454
+          }
+        },
+        {
+          "facility": "Licca Clinical Research Institute",
+          "city": "Augsburg",
+          "zip": "86179",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 48.37154,
+            "lon": 10.89851
+          }
+        },
+        {
+          "facility": "Charite Mitte; Klinik fur Dermatologie",
+          "city": "Berlin",
+          "zip": "10117",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.52437,
+            "lon": 13.41053
+          }
+        },
+        {
+          "facility": "Universit\u00e4tsklinikum Carl Gustav Carus, Klinik und Poliklinik f\u00fcr Augenheilkunde",
+          "city": "Dresden",
+          "zip": "01307",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.05089,
+            "lon": 13.73832
+          }
+        },
+        {
+          "facility": "Hautarztpraxis Mahlow",
+          "city": "Mahlow",
+          "zip": "15831",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.36017,
+            "lon": 13.40954
+          }
+        },
+        {
+          "facility": "Universit\u00e4tsmedizin Johannes Gutenberg Universit\u00e4t",
+          "city": "Mainz",
+          "zip": "55131",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 49.98185,
+            "lon": 8.28008
+          }
+        },
+        {
+          "facility": "Klinik f\u00fcr Haut- und Geschlechtskrankheiten, Universit\u00e4tsklinikum M\u00fcnster",
+          "city": "M\u00fcnster",
+          "zip": "48419",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.96236,
+            "lon": 7.62571
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Qualified researchers may request access to individual patient level data through the clinical study data request platform (www.vivli.org). Further details on Roche's criteria for eligible studies are available here (https://vivli.org/ourmember/roche/). For further details on Roche's Global Policy on the Sharing of Clinical Information and how to request access to related clinical study documents, see here (https://www.roche.com/research\\_and\\_development/who\\_we\\_are\\_how\\_we\\_work/clinical\\_trials/our\\_commitment\\_to\\_data\\_sharing.htm)."
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "A total of 134 participants were enrolled at 21 centers.",
+      "recruitmentDetails": "The study was conducted at 21 centers in 3 countries.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Cohort 1: Placebo",
+          "description": "Participants received matching placebo twice daily from Day 1 to 56."
+        },
+        {
+          "id": "FG001",
+          "title": "Cohort 1: GDC-0853 200mg BID",
+          "description": "Participants received GDC-0853 200mg twice daily from Day 1 to 56."
+        },
+        {
+          "id": "FG002",
+          "title": "Cohort 2: Placebo",
+          "description": "Participants received matching placebo up to twice daily from Day 1 to 56."
+        },
+        {
+          "id": "FG003",
+          "title": "Cohort 2: GDC-0853 50mg QD",
+          "description": "Participants received GDC-0853 50mg once daily from Day 1 to 56."
+        },
+        {
+          "id": "FG004",
+          "title": "Cohort 2: GDC-0853 150mg QD",
+          "description": "Participants received GDC-0853 150mg once daily from Day 1 to 56."
+        },
+        {
+          "id": "FG005",
+          "title": "Cohort 2: GDC-0853 200mg BID",
+          "description": "Participants received GDC-0853 200mg twice daily from Day 1 to 56."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "13"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "28"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "23"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "23"
+                },
+                {
+                  "groupId": "FG004",
+                  "numSubjects": "24"
+                },
+                {
+                  "groupId": "FG005",
+                  "numSubjects": "23"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "12"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "22"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "20"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "17"
+                },
+                {
+                  "groupId": "FG004",
+                  "numSubjects": "22"
+                },
+                {
+                  "groupId": "FG005",
+                  "numSubjects": "21"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "6"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "6"
+                },
+                {
+                  "groupId": "FG004",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG005",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG004",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG005",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "3"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG004",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG005",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Protocol Violation",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG004",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG005",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Physician Decision",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG004",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG005",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Study Terminated by Sponsor",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG004",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG005",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Data Entry Error",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG004",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG005",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Cohort 1: Placebo",
+          "description": "Participants received matching placebo twice daily from Day 1 to 56."
+        },
+        {
+          "id": "BG001",
+          "title": "Cohort 1: GDC-0853 200mg BID",
+          "description": "Participants received GDC-0853 200mg twice daily from Day 1 to 56."
+        },
+        {
+          "id": "BG002",
+          "title": "Cohort 2: Placebo",
+          "description": "Participants received matching placebo up to twice daily from Day 1 to 56."
+        },
+        {
+          "id": "BG003",
+          "title": "Cohort 2: GDC-0853 50mg QD",
+          "description": "Participants received GDC-0853 50mg once daily from Day 1 to 56."
+        },
+        {
+          "id": "BG004",
+          "title": "Cohort 2: GDC-0853 150mg QD",
+          "description": "Participants received GDC-0853 150mg once daily from Day 1 to 56."
+        },
+        {
+          "id": "BG005",
+          "title": "Cohort 2: GDC-0853 200mg BID",
+          "description": "Participants received GDC-0853 200mg twice daily from Day 1 to 56."
+        },
+        {
+          "id": "BG006",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "13"
+            },
+            {
+              "groupId": "BG001",
+              "value": "28"
+            },
+            {
+              "groupId": "BG002",
+              "value": "23"
+            },
+            {
+              "groupId": "BG003",
+              "value": "23"
+            },
+            {
+              "groupId": "BG004",
+              "value": "24"
+            },
+            {
+              "groupId": "BG005",
+              "value": "23"
+            },
+            {
+              "groupId": "BG006",
+              "value": "134"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "Years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "43.6",
+                      "spread": "11.0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "41.3",
+                      "spread": "15.9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "40.2",
+                      "spread": "14.7"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "45.0",
+                      "spread": "13.1"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "43.3",
+                      "spread": "16.7"
+                    },
+                    {
+                      "groupId": "BG005",
+                      "value": "44.3",
+                      "spread": "13.0"
+                    },
+                    {
+                      "groupId": "BG006",
+                      "value": "42.8",
+                      "spread": "14.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "22"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "17"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG005",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG006",
+                      "value": "104"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG005",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG006",
+                      "value": "30"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Hispanic or Latino",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG005",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG006",
+                      "value": "15"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Not Hispanic or Latino",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "27"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "21"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG005",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG006",
+                      "value": "116"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Not Stated",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG005",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG006",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Unknown",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG005",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG006",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "Asian",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG005",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG006",
+                      "value": "15"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Black or African American",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG005",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG006",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "White",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "24"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "23"
+                    },
+                    {
+                      "groupId": "BG005",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG006",
+                      "value": "110"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Multiple",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG005",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG006",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Change From Baseline in the Urticaria Activity Score Over 7 Days (UAS7) at Day 57",
+          "description": "The Urticaria Activity Score (UAS) is a composite, diary-recorded score with numeric severity intensity ratings (0=none to 3=intense/severe) for the number of wheals (hives) and the intensity of the pruritus (itch) over the past 12 hours (twice daily). The daily UAS is calculated as the average of the morning and evening scores. The UAS7 is the weekly sum of the daily UAS, which is the composite score of the intensity of pruritus and the number of wheals. The maximum UAS7 value is 42. A higher score indicates worse disease. A negative change score (Day 57 score minus Baseline score) indicates improvement.",
+          "populationDescription": "The Modified Intent-To-Treat (mITT) Population was defined as all participants who received at least one dose of study treatment grouped for analysis according to the treatment arm to which they were randomized. Data presented below is only for participants included in the actual analysis.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Score on a Scale",
+          "timeFrame": "Baseline and Day 57",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Cohort 1: Placebo",
+              "description": "Participants received matching placebo twice daily from Day 1 to 56."
+            },
+            {
+              "id": "OG001",
+              "title": "Cohort 1: GDC-0853 200mg BID",
+              "description": "Participants received GDC-0853 200mg twice daily from Day 1 to 56."
+            },
+            {
+              "id": "OG002",
+              "title": "Cohort 2: Placebo",
+              "description": "Participants received matching placebo up to twice daily from Day 1 to 56."
+            },
+            {
+              "id": "OG003",
+              "title": "Cohort 2: GDC-0853 50mg QD",
+              "description": "Participants received GDC-0853 50mg once daily from Day 1 to 56."
+            },
+            {
+              "id": "OG004",
+              "title": "Cohort 2: GDC-0853 150mg QD",
+              "description": "Participants received GDC-0853 150mg once daily from Day 1 to 56."
+            },
+            {
+              "id": "OG005",
+              "title": "Cohort 2: GDC-0853 200mg BID",
+              "description": "Participants received GDC-0853 200mg twice daily from Day 1 to 56."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "12"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "22"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "20"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "19"
+                },
+                {
+                  "groupId": "OG004",
+                  "value": "22"
+                },
+                {
+                  "groupId": "OG005",
+                  "value": "21"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-19.16",
+                      "spread": "13.49"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-24.05",
+                      "spread": "9.74"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "-11.25",
+                      "spread": "10.81"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "-15.69",
+                      "spread": "14.25"
+                    },
+                    {
+                      "groupId": "OG004",
+                      "value": "-17.05",
+                      "spread": "10.19"
+                    },
+                    {
+                      "groupId": "OG005",
+                      "value": "-21.80",
+                      "spread": "14.80"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.0559",
+              "statisticalMethod": "Mixed Models Analysis",
+              "statisticalComment": "Covariates included were region, treatment group, visit, and visit by treatment group interaction",
+              "paramType": "Least Squares Mean Difference",
+              "paramValue": "-7.02",
+              "ciPctValue": "90",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-13.01",
+              "ciUpperLimit": "-1.03"
+            },
+            {
+              "groupIds": [
+                "OG002",
+                "OG003"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.8892",
+              "statisticalMethod": "Mixed Models Analysis",
+              "statisticalComment": "Covariates included were region, treatment group, visit, and visit by treatment group interaction",
+              "paramType": "Least Squares Mean Difference",
+              "paramValue": "-0.51",
+              "ciPctValue": "90",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-6.60",
+              "ciUpperLimit": "5.58"
+            },
+            {
+              "groupIds": [
+                "OG002",
+                "OG004"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.0717",
+              "statisticalMethod": "Mixed Models Analysis",
+              "statisticalComment": "Covariates included were region, treatment group, visit, and visit by treatment group interaction",
+              "paramType": "Least Squares Mean Difference",
+              "paramValue": "-6.43",
+              "ciPctValue": "90",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-12.29",
+              "ciUpperLimit": "-0.57"
+            },
+            {
+              "groupIds": [
+                "OG002",
+                "OG005"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.0097",
+              "statisticalMethod": "Mixed Models Analysis",
+              "statisticalComment": "Covariates included were region, treatment group, visit, and visit by treatment group interaction",
+              "paramType": "Least Squares Mean Difference",
+              "paramValue": "-9.53",
+              "ciPctValue": "90",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-15.50",
+              "ciUpperLimit": "-3.55"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Participants Who Are Well-Controlled (UAS7 \u2264 6)",
+          "description": "The Urticaria Activity Score (UAS) is a composite, diary-recorded score with numeric severity intensity ratings (0=none to 3=intense/severe) for the number of wheals (hives) and the intensity of the pruritus (itch) over the past 12 hours (twice daily). The daily UAS is calculated as the average of the morning and evening scores. The UAS7 is the weekly sum of the daily UAS, which is the composite score of the intensity of pruritus and the number of wheals. The maximum UAS7 value is 42. A higher score indicates worse disease. Participants with UAS7 score \u22646 are considered well controlled.",
+          "populationDescription": "The Modified Intent-To-Treat (mITT) Population was defined as all participants who received at least one dose of study treatment grouped for analysis according to the treatment arm to which they were randomized. Data presented below is only for participants included in the actual analysis.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Percentage of Participants",
+          "timeFrame": "Day 57",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Cohort 1: Placebo",
+              "description": "Participants received matching placebo twice daily from Day 1 to 56."
+            },
+            {
+              "id": "OG001",
+              "title": "Cohort 1: GDC-0853 200mg BID",
+              "description": "Participants received GDC-0853 200mg twice daily from Day 1 to 56."
+            },
+            {
+              "id": "OG002",
+              "title": "Cohort 2: Placebo",
+              "description": "Participants received matching placebo up to twice daily from Day 1 to 56."
+            },
+            {
+              "id": "OG003",
+              "title": "Cohort 2: GDC-0853 50mg QD",
+              "description": "Participants received GDC-0853 50mg once daily from Day 1 to 56."
+            },
+            {
+              "id": "OG004",
+              "title": "Cohort 2: GDC-0853 150mg QD",
+              "description": "Participants received GDC-0853 150mg once daily from Day 1 to 56."
+            },
+            {
+              "id": "OG005",
+              "title": "Cohort 2: GDC-0853 200mg BID",
+              "description": "Participants received GDC-0853 200mg twice daily from Day 1 to 56."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "13"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "28"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "23"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "23"
+                },
+                {
+                  "groupId": "OG004",
+                  "value": "24"
+                },
+                {
+                  "groupId": "OG005",
+                  "value": "23"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "30.8"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "57.1"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "21.7"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "34.8"
+                    },
+                    {
+                      "groupId": "OG004",
+                      "value": "45.8"
+                    },
+                    {
+                      "groupId": "OG005",
+                      "value": "56.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.1087",
+              "statisticalMethod": "Cochran-Mantel-Haenszel",
+              "statisticalComment": "Stratified by region"
+            },
+            {
+              "groupIds": [
+                "OG002",
+                "OG003"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.3418",
+              "statisticalMethod": "Cochran-Mantel-Haenszel",
+              "statisticalComment": "Stratified by region"
+            },
+            {
+              "groupIds": [
+                "OG002",
+                "OG004"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.0459",
+              "statisticalMethod": "Cochran-Mantel-Haenszel",
+              "statisticalComment": "Stratified by region"
+            },
+            {
+              "groupIds": [
+                "OG002",
+                "OG005"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.0190",
+              "statisticalMethod": "Cochran-Mantel-Haenszel",
+              "statisticalComment": "Stratified by region"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in the UAS7 at Day 29",
+          "description": "The Urticaria Activity Score (UAS) is a composite, diary-recorded score with numeric severity intensity ratings (0=none to 3=intense/severe) for the number of wheals (hives) and the intensity of the pruritus (itch) over the past 12 hours (twice daily). The daily UAS is calculated as the average of the morning and evening scores. The UAS7 is the weekly sum of the daily UAS, which is the composite score of the intensity of pruritus and the number of wheals. The maximum UAS7 value is 42. A higher score indicates worse disease. A negative change score (Day 29 score minus Baseline score) indicates improvement.",
+          "populationDescription": "The Modified Intent-To-Treat (mITT) Population was defined as all participants who received at least one dose of study treatment grouped for analysis according to the treatment arm to which they were randomized. Data presented below is only for participants included in the actual analysis.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Score on a Scale",
+          "timeFrame": "Baseline and Day 29",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Cohort 1: Placebo",
+              "description": "Participants received matching placebo twice daily from Day 1 to 56."
+            },
+            {
+              "id": "OG001",
+              "title": "Cohort 1: GDC-0853 200mg BID",
+              "description": "Participants received GDC-0853 200mg twice daily from Day 1 to 56."
+            },
+            {
+              "id": "OG002",
+              "title": "Cohort 2: Placebo",
+              "description": "Participants received matching placebo up to twice daily from Day 1 to 56."
+            },
+            {
+              "id": "OG003",
+              "title": "Cohort 2: GDC-0853 50mg QD",
+              "description": "Participants received GDC-0853 50mg once daily from Day 1 to 56."
+            },
+            {
+              "id": "OG004",
+              "title": "Cohort 2: GDC-0853 150mg QD",
+              "description": "Participants received GDC-0853 150mg once daily from Day 1 to 56."
+            },
+            {
+              "id": "OG005",
+              "title": "Cohort 2: GDC-0853 200mg BID",
+              "description": "Participants received GDC-0853 200mg twice daily from Day 1 to 56."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "13"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "24"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "21"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "19"
+                },
+                {
+                  "groupId": "OG004",
+                  "value": "23"
+                },
+                {
+                  "groupId": "OG005",
+                  "value": "21"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-9.69",
+                      "spread": "10.70"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-22.15",
+                      "spread": "10.33"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "-9.05",
+                      "spread": "9.82"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "-16.97",
+                      "spread": "14.31"
+                    },
+                    {
+                      "groupId": "OG004",
+                      "value": "-13.75",
+                      "spread": "12.93"
+                    },
+                    {
+                      "groupId": "OG005",
+                      "value": "-21.69",
+                      "spread": "16.22"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.0010",
+              "statisticalMethod": "Mixed Models Analysis",
+              "statisticalComment": "Covariates included were region, treatment group, visit, and visit by treatment group interaction",
+              "paramType": "Least Squares Mean Difference",
+              "paramValue": "-12.88",
+              "ciPctValue": "90",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-18.94",
+              "ciUpperLimit": "-6.82"
+            },
+            {
+              "groupIds": [
+                "OG002",
+                "OG003"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.4565",
+              "statisticalMethod": "Mixed Models Analysis",
+              "statisticalComment": "Covariates included were region, treatment group, visit, and visit by treatment group interaction",
+              "paramType": "Least Squares Mean Difference",
+              "paramValue": "-2.83",
+              "ciPctValue": "90",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-9.11",
+              "ciUpperLimit": "3.46"
+            },
+            {
+              "groupIds": [
+                "OG002",
+                "OG004"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.1711",
+              "statisticalMethod": "Mixed Models Analysis",
+              "statisticalComment": "Covariates included were region, treatment group, visit, and visit by treatment group interaction",
+              "paramType": "Least Squares Mean Difference",
+              "paramValue": "-5.03",
+              "ciPctValue": "90",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-11.10",
+              "ciUpperLimit": "1.03"
+            },
+            {
+              "groupIds": [
+                "OG002",
+                "OG005"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.0050",
+              "statisticalMethod": "Mixed Models Analysis",
+              "statisticalComment": "Covariates included were region, treatment group, visit, and visit by treatment group interaction",
+              "paramType": "Least Squares Mean Difference",
+              "paramValue": "-10.76",
+              "ciPctValue": "90",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-16.97",
+              "ciUpperLimit": "-4.56"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Participants With Adverse Events (AEs)",
+          "description": "An Adverse Event (AE) is any untoward medical occurrence in a participant administered a pharmaceutical product and which does not necessarily have to have a causal relationship with the treatment. An Adverse Event can therefore be any unfavorable and unintended sign (including abnormal laboratory values or abnormal clinical test results), symptom, or disease temporally associated with the use of a pharmaceutical product, whether or not considered related to the pharmaceutical product. Preexisting conditions which worsen during a study are also considered as Adverse Events.",
+          "populationDescription": "The Safety-evaluable population was defined as all participants who received at least one dose of study drug with participants grouped according to their actual treatment. Due to a data entry error, one participant in the (Cohort 2: Placebo) arm was inadvertently analysed in the (Cohort 2: GDC-0853 200 mg BID) arm.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "Percentage of Participants",
+          "timeFrame": "Baseline up until 4 weeks after the last dose of study drug (up to 2 years, 5 months).",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Cohort 1: Placebo",
+              "description": "Participants received matching placebo twice daily from Day 1 to 56."
+            },
+            {
+              "id": "OG001",
+              "title": "Cohort 1: GDC-0853 200mg BID",
+              "description": "Participants received GDC-0853 200mg twice daily from Day 1 to 56."
+            },
+            {
+              "id": "OG002",
+              "title": "Cohort 2: Placebo",
+              "description": "Participants received matching placebo up to twice daily from Day 1 to 56."
+            },
+            {
+              "id": "OG003",
+              "title": "Cohort 2: GDC-0853 50mg QD",
+              "description": "Participants received GDC-0853 50mg once daily from Day 1 to 56."
+            },
+            {
+              "id": "OG004",
+              "title": "Cohort 2: GDC-0853 150mg QD",
+              "description": "Participants received GDC-0853 150mg once daily from Day 1 to 56."
+            },
+            {
+              "id": "OG005",
+              "title": "Cohort 2: GDC-0853 200mg BID",
+              "description": "Participants received GDC-0853 200mg twice daily from Day 1 to 56."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "13"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "28"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "22"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "23"
+                },
+                {
+                  "groupId": "OG004",
+                  "value": "24"
+                },
+                {
+                  "groupId": "OG005",
+                  "value": "24"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "61.5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "71.4"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "54.5"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "60.9"
+                    },
+                    {
+                      "groupId": "OG004",
+                      "value": "66.7"
+                    },
+                    {
+                      "groupId": "OG005",
+                      "value": "58.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Plasma Concentrations of Fenebrutinib (GDC-0853) at Specified Timepoints",
+          "description": "Plasma Concentration Data for fenebrutinib (GDC-0853) will be tabulated and summarised by visits. Descriptive summary statistics for Arithmetic Mean and Standard Deviation will be presented. Please note that the Placebo Cohorts were not evaluated for this Outcome Measure.",
+          "populationDescription": "The PK-evaluable population was defined as all participants who received at least one dose of fenebrutinib (GDC-0853) and had at least 1 evaluable post-dose PK sample. Participants who received incorrect therapy different from the intended therapy were summarized in the group according to the therapy actually received.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "ng/mL",
+          "timeFrame": "Days 1, 8 and 57.",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Cohort 1: GDC-0853 200mg BID",
+              "description": "Participants received GDC-0853 200mg twice daily from Day 1 to 56."
+            },
+            {
+              "id": "OG001",
+              "title": "Cohort 2: GDC-0853 50mg QD",
+              "description": "Participants received GDC-0853 50mg once daily from Day 1 to 56."
+            },
+            {
+              "id": "OG002",
+              "title": "Cohort 2: GDC-0853 150mg QD",
+              "description": "Participants received GDC-0853 150mg once daily from Day 1 to 56."
+            },
+            {
+              "id": "OG003",
+              "title": "Cohort 2: GDC-0853 200mg BID",
+              "description": "Participants received GDC-0853 200mg twice daily from Day 1 to 56."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "28"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "23"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "24"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "23"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Day 1",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "NA",
+                      "spread": "NA",
+                      "comment": "No drug administered at this timepoint."
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "NA",
+                      "spread": "NA",
+                      "comment": "No drug administered at this timepoint."
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "NA",
+                      "spread": "NA",
+                      "comment": "No drug administered at this timepoint."
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "NA",
+                      "spread": "NA",
+                      "comment": "No drug administered at this timepoint."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Day 8",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "378",
+                      "spread": "389"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "38.5",
+                      "spread": "36.9"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "178",
+                      "spread": "237"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "424",
+                      "spread": "385"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Day 57",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "283",
+                      "spread": "315"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "19.6",
+                      "spread": "26.3"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "24.7",
+                      "spread": "17.7"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "219",
+                      "spread": "293"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "Baseline up until 4 weeks after the last dose of study drug (up to 2 years, 5 months).",
+      "description": "One participant in Cohort 2 was randomized into the Placebo arm (Cohort 2: Placebo) and received the Placebo treatment in the study. However due to a data entry error, this participant was inadvertently analysed in the (Cohort 2: GDC-0853 200 mg BID) arm in the Safety-evaluable population.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Cohort 1: Placebo",
+          "description": "Participants received matching placebo twice daily from Day 1 to 56.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 13,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 13,
+          "otherNumAffected": 8,
+          "otherNumAtRisk": 13
+        },
+        {
+          "id": "EG001",
+          "title": "Cohort 1: GDC-0853 200mg BID",
+          "description": "Participants received GDC-0853 200mg twice daily from Day 1 to 56.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 28,
+          "seriousNumAffected": 3,
+          "seriousNumAtRisk": 28,
+          "otherNumAffected": 16,
+          "otherNumAtRisk": 28
+        },
+        {
+          "id": "EG002",
+          "title": "Cohort 2: Placebo",
+          "description": "Participants received matching placebo up to twice daily from Day 1 to 56.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 22,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 22,
+          "otherNumAffected": 7,
+          "otherNumAtRisk": 22
+        },
+        {
+          "id": "EG003",
+          "title": "Cohort 2: GDC-0853 50mg QD",
+          "description": "Participants received GDC-0853 50mg once daily from Day 1 to 56.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 23,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 23,
+          "otherNumAffected": 7,
+          "otherNumAtRisk": 23
+        },
+        {
+          "id": "EG004",
+          "title": "Cohort 2: GDC-0853 150mg QD",
+          "description": "Participants received GDC-0853 150mg once daily from Day 1 to 56.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 24,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 24,
+          "otherNumAffected": 13,
+          "otherNumAtRisk": 24
+        },
+        {
+          "id": "EG005",
+          "title": "Cohort 2: GDC-0853 200mg BID",
+          "description": "Participants received GDC-0853 200mg twice daily from Day 1 to 56.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 24,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 24,
+          "otherNumAffected": 12,
+          "otherNumAtRisk": 24
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "ABDOMINAL PAIN UPPER",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 28
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 22
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            }
+          ]
+        },
+        {
+          "term": "PERIORBITAL CELLULITIS",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 28
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 22
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            }
+          ]
+        },
+        {
+          "term": "HEPATIC ENZYME INCREASED",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 28
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 22
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "VISION BLURRED",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 28
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 22
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            }
+          ]
+        },
+        {
+          "term": "DIARRHOEA",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 28
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 22
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 24
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            }
+          ]
+        },
+        {
+          "term": "NAUSEA",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 28
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 22
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 24
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 24
+            }
+          ]
+        },
+        {
+          "term": "CHILLS",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 28
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 22
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            }
+          ]
+        },
+        {
+          "term": "FATIGUE",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 28
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 22
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 24
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            }
+          ]
+        },
+        {
+          "term": "FEELING ABNORMAL",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 28
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 22
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            }
+          ]
+        },
+        {
+          "term": "EYE INFECTION",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 28
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 22
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            }
+          ]
+        },
+        {
+          "term": "NASOPHARYNGITIS",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 9,
+              "numAffected": 7,
+              "numAtRisk": 28
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 22
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 4,
+              "numAffected": 3,
+              "numAtRisk": 24
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 4,
+              "numAffected": 3,
+              "numAtRisk": 24
+            }
+          ]
+        },
+        {
+          "term": "TOOTH INFECTION",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 28
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 22
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            }
+          ]
+        },
+        {
+          "term": "UPPER RESPIRATORY TRACT INFECTION",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 28
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 22
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 24
+            }
+          ]
+        },
+        {
+          "term": "URINARY TRACT INFECTION",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 28
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 22
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 24
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 24
+            }
+          ]
+        },
+        {
+          "term": "BONE CONTUSION",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 28
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 22
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            }
+          ]
+        },
+        {
+          "term": "CONTUSION",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 28
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 22
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 24
+            }
+          ]
+        },
+        {
+          "term": "INJURY",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 28
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 22
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            }
+          ]
+        },
+        {
+          "term": "ALANINE AMINOTRANSFERASE INCREASED",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 28
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 22
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 24
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 24
+            }
+          ]
+        },
+        {
+          "term": "ASPARTATE AMINOTRANSFERASE INCREASED",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 28
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 22
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 24
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 24
+            }
+          ]
+        },
+        {
+          "term": "WEIGHT DECREASED",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 28
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 22
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            }
+          ]
+        },
+        {
+          "term": "BACK PAIN",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 28
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 22
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            }
+          ]
+        },
+        {
+          "term": "DIZZINESS",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 28
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 22
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 24
+            }
+          ]
+        },
+        {
+          "term": "HEADACHE",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 5,
+              "numAffected": 4,
+              "numAtRisk": 28
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 22
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 24
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 24
+            }
+          ]
+        },
+        {
+          "term": "CHRONIC SPONTANEOUS URTICARIA",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 3,
+              "numAffected": 2,
+              "numAtRisk": 28
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 22
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 3,
+              "numAffected": 2,
+              "numAtRisk": 24
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 24
+            }
+          ]
+        },
+        {
+          "term": "URTICARIA",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 22.1",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 13
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 5,
+              "numAffected": 5,
+              "numAtRisk": 28
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 22
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 23
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 4,
+              "numAffected": 4,
+              "numAtRisk": 24
+            },
+            {
+              "groupId": "EG005",
+              "numEvents": 5,
+              "numAffected": 5,
+              "numAtRisk": 24
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "limitationsAndCaveats": {
+        "description": "Recruitment was stopped after an interim analysis of Cohort 2 based on pre-specified internal criteria."
+      },
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "The Study being conducted under this Agreement is part of the Overall Study. Investigator is free to publish in reputable journals or to present at professional conferences the results of the Study, but only after the first publication or presentation that involves the Overall Study. The Sponsor may request that Confidential Information be deleted and/or the publication be postponed in order to protect the Sponsor's intellectual property rights."
+      },
+      "pointOfContact": {
+        "title": "Medical Communications",
+        "organization": "Hoffmann-La Roche",
+        "email": "genentech@druginfo.com",
+        "phone": "800 821-8590"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2018-08-09",
+          "uploadDate": "2020-09-02T07:13",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 2192271
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-04-08",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2020-09-25",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D014581",
+          "term": "Urticaria"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D017445",
+          "term": "Skin Diseases, Vascular"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D006969",
+          "term": "Hypersensitivity, Immediate"
+        },
+        {
+          "id": "D006967",
+          "term": "Hypersensitivity"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C000619415",
+          "term": "fenebrutinib"
+        }
+      ]
+    }
+  },
+  "hasResults": true,
+  "_meta": {
+    "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT03137069",
+    "fetched_at": "2026-04-09T00:59:09.835590+00:00"
+  }
+}

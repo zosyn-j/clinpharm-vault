@@ -1,0 +1,1601 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05107115",
+      "orgStudyIdInfo": {
+        "id": "DRI17224"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "U1111-1263-4226",
+          "type": "REGISTRY",
+          "domain": "ICTRP"
+        },
+        {
+          "id": "DRI17224",
+          "type": "OTHER",
+          "domain": "Sanofi Identifier"
+        },
+        {
+          "id": "2021-002609-93",
+          "type": "EUDRACT_NUMBER"
+        }
+      ],
+      "organization": {
+        "fullName": "Sanofi",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Rilzabrutinib for the Treatment of Chronic Spontaneous Urticaria in Patients Who Remain Symptomatic Despite the Use of H1 Antihistamine",
+      "officialTitle": "A Randomized, Double-blind, Placebo-controlled, Multi-center, Dose-ranging Phase 2 Study of Rilzabrutinib Followed by an Open-label Extension Phase in Patients With Moderate-to-severe Chronic Spontaneous Urticaria (CSU) Who Remain Symptomatic Despite the Use of H1 Antihistamine Treatment",
+      "acronym": "RILECSU"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-07",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2021-11-24",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2023-07-19",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-04-23",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2021-10-27",
+      "studyFirstSubmitQcDate": "2021-10-27",
+      "studyFirstPostDateStruct": {
+        "date": "2021-11-04",
+        "type": "ACTUAL"
+      },
+      "dispFirstSubmitDate": "2024-07-18",
+      "dispFirstPostDateStruct": {
+        "date": "2024-07-19",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-07-18",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-07-19",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Sanofi",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The first phase of this study will be a parallel, 12-week treatment, Phase 2, double-blind, 4 arm study to assess the safety and effectiveness of 3 oral doses of SAR444671 (rilzabrutinib), i.e. dose A, B and C, compared with placebo for decreasing the frequency and severity of itch and urticaria in male and female participants aged 18 years inclusive or older with CSU.\n\nAfter completion of the double-blind phase of the study, participants will be given the option of enrolling in the 40-week open label extension (OLE) phase of the study. Participants will receive open-label rilzabrutinib at dose C (the dose may be modified based on the 12-week safety and efficacy data). Due to the fact that some participants may be receiving rilzabrutinib for the first time, all participants will be monitored at Week 14, Week 16, Week 20, and Week 24. Afterwards, participants will be monitored at Week 36 and Week 52."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 161,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Rilzabrutinib dose A",
+          "type": "EXPERIMENTAL",
+          "description": "dose A",
+          "interventionNames": [
+            "Drug: rilzabrutinib"
+          ]
+        },
+        {
+          "label": "Rilzabrutinib dose B",
+          "type": "EXPERIMENTAL",
+          "description": "dose B",
+          "interventionNames": [
+            "Drug: rilzabrutinib"
+          ]
+        },
+        {
+          "label": "Rilzabrutinib dose C",
+          "type": "EXPERIMENTAL",
+          "description": "dose C",
+          "interventionNames": [
+            "Drug: rilzabrutinib"
+          ]
+        },
+        {
+          "label": "Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Matching placebo",
+          "interventionNames": [
+            "Drug: placebo"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "rilzabrutinib",
+          "description": "Tablet, oral use",
+          "armGroupLabels": [
+            "Rilzabrutinib dose A",
+            "Rilzabrutinib dose B",
+            "Rilzabrutinib dose C"
+          ],
+          "otherNames": [
+            "PRN1008/SAR444671"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "placebo",
+          "description": "Tablet, oral use",
+          "armGroupLabels": [
+            "Placebo"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change from baseline in weekly urticaria activity score (UAS7) at Week 12 (except US and US reference countries)",
+          "timeFrame": "From baseline to Week 12"
+        },
+        {
+          "measure": "For US and US reference countries only: change from baseline in weekly itch severity score (ISS7) at Week 12",
+          "timeFrame": "From baseline to Week 12"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change from baseline in UAS7 at Week 4",
+          "timeFrame": "From baseline to Week 4"
+        },
+        {
+          "measure": "Change from baseline in ISS7 at Week 12 (except US and US reference countries)",
+          "timeFrame": "From baseline to Week 12"
+        },
+        {
+          "measure": "For US and US reference countries only: change from baseline in UAS7 at Week 12",
+          "timeFrame": "From baseline to Week 12"
+        },
+        {
+          "measure": "Change from baseline in weekly hives severity score (HSS7) at Week 12",
+          "timeFrame": "From baseline to Week 12"
+        },
+        {
+          "measure": "Proportion of participants with UAS7 \u22646 at Week 12",
+          "timeFrame": "At Week 12"
+        },
+        {
+          "measure": "Proportion of participants with UAS7 = 0 at Week 12",
+          "timeFrame": "At Week 12"
+        },
+        {
+          "measure": "Incidence of treatment-emergent adverse events (TEAEs), serious adverse events (SAEs), adverse events of special interest (AESIs) and withdrawals due to TEAEs during the double-blind period and the open label extension",
+          "timeFrame": "Until Week 52"
+        },
+        {
+          "measure": "Plasma PK concentrations of rilzabrutinib in participants with CSU",
+          "timeFrame": "Until Week 52"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Participants who have a diagnosis of CSU refractory to H1-AH at the time of randomization\n* Diagnosis of CSU \u22653 months prior to screening visit (Visit 1).\n* The presence of itch and hives for \u22656 consecutive weeks at any time prior to screening visit (Visit 1) despite the use of H1-AH during this time period.\n* Participants using a study defined H1-AH for CSU treatment. For participants on stable doses of non-study-approved H1-AH, investigators may switch participants to an equivalent dose of a study-approved H1-AH maintenance medication.\n* Participants who are omalizumab na\u00efve OR omalizumab-incomplete responders.\n* Participants must be willing and able to complete a daily symptom e-diary for the duration of the study.\n* During the 7 days before randomization: UAS7 \u226516 and ISS7 \u22658.\n* Contraceptive use by men and women should be consistent with local regulations regarding the methods of contraception for those participating in clinical studies.\n\nExclusion Criteria:\n\n* Clearly defined underlying etiology for CUs other than CSU (main manifestation being physical urticaria).\n* Presence of skin morbidities other than CSU that may interfere with the assessment of the study outcomes.\n* Participants with active atopic dermatitis (AD).\n* Severe concomitant illness(es) that, in the Investigator's judgment, would adversely affect the patient's participation in the study.\n* Known or suspected immunodeficiency, or otherwise recurrent infections of abnormal frequency or prolonged duration suggesting an immune compromised status, as judged by the Investigator.\n* History of serious infections requiring intravenous (IV) therapy with the potential for recurrence (as judged by the Site Investigator) with less than 4 weeks interval between resolution of serious infection and first dose of study drug, or currently active moderate to severe infection at Screening (Grade 2 or higher), including active coronavirus disease 2019 (COVID-19).\n* Live vaccine except Bacille Calmette Guerin-vaccination within 28 days prior to Day 1 or plan to receive one during the trial; Bacille Calmette Guerin-vaccination within 12 months prior to Screening.\n* Active malignancy or history of malignancy within 5 years.\n* Conditions that may predispose the participant to excessive bleeding\n* Any participant with an uncontrolled disease state as judged by the Investigator, such as asthma, psoriasis, or inflammatory bowel disease, etc. that are typically treated with oral or parenteral corticosteroids\n* Previous use of a BTK inhibitor.\n* Has received any investigational drug (or is currently using an investigational device) within the 30 days before Day 1, or at least 5 times the respective elimination half-life time (whichever is longer).\n* Previous exposure to another investigative drug for CSU.\n* Positive for human immunodeficiency virus (HIV) antibody test.\n* Presence of hepatitis B surface antigen (HBsAg) or hepatitis B core antibody (HBcAb) with positive DNA test result at screening or within 3 months prior to the screening visit.\n* Positive hepatitis C antibody test result at screening or within 3 months prior to the screening visit.\n* Tuberculosis infection.\n* Any of significant laboratory abnormalities and ECG findings at the screening visit.\n\nThe above information is not intended to contain all considerations relevant to a patient's potential participation in a clinical trial.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "80 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Clinical Sciences & Operations",
+          "affiliation": "Sanofi",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Investigational Site Number : 0320006",
+          "city": "CABA",
+          "state": "Buenos Aires",
+          "zip": "C1055AAO",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Investigational Site Number :0320006",
+          "city": "CABA",
+          "state": "Buenos Aires",
+          "zip": "C1055AAO",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Investigational Site Number : 0320002",
+          "city": "CABA",
+          "state": "Buenos Aires",
+          "zip": "C1414AIF",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Investigational Site Number :0320002",
+          "city": "CABA",
+          "state": "Buenos Aires",
+          "zip": "C1414AIF",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Investigational Site Number : 0320004",
+          "city": "Rosario",
+          "state": "Santa Fe Province",
+          "zip": "2000",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -32.94682,
+            "lon": -60.63932
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 0320005",
+          "city": "Rosario",
+          "state": "Santa Fe Province",
+          "zip": "2000",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -32.94682,
+            "lon": -60.63932
+          }
+        },
+        {
+          "facility": "Investigational Site Number :0320004",
+          "city": "Rosario",
+          "state": "Santa Fe Province",
+          "zip": "2000",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -32.94682,
+            "lon": -60.63932
+          }
+        },
+        {
+          "facility": "Investigational Site Number :0320005",
+          "city": "Rosario",
+          "state": "Santa Fe Province",
+          "zip": "2000",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -32.94682,
+            "lon": -60.63932
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 0320003",
+          "city": "Rosario",
+          "state": "Santa Fe Province",
+          "zip": "S2000JKR",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -32.94682,
+            "lon": -60.63932
+          }
+        },
+        {
+          "facility": "Investigational Site Number :0320003",
+          "city": "Rosario",
+          "state": "Santa Fe Province",
+          "zip": "S2000JKR",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -32.94682,
+            "lon": -60.63932
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 0320001",
+          "city": "Buenos Aires",
+          "zip": "C1121ABE",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -34.61315,
+            "lon": -58.37723
+          }
+        },
+        {
+          "facility": "Investigational Site Number :0320001",
+          "city": "Buenos Aires",
+          "zip": "C1121ABE",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -34.61315,
+            "lon": -58.37723
+          }
+        },
+        {
+          "facility": "Investigational Site Number :1240010",
+          "city": "Calgary",
+          "state": "Alberta",
+          "zip": "T2W 4X9",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 51.05011,
+            "lon": -114.08529
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 1240009",
+          "city": "Red Deer",
+          "state": "Alberta",
+          "zip": "T4P 1K4",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 52.26682,
+            "lon": -113.802
+          }
+        },
+        {
+          "facility": "Investigational Site Number :1240009",
+          "city": "Red Deer",
+          "state": "Alberta",
+          "zip": "T4P 1K4",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 52.26682,
+            "lon": -113.802
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 1240005",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M3B 3S6",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.70643,
+            "lon": -79.39864
+          }
+        },
+        {
+          "facility": "Investigational Site Number :1240005",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M3B 3S6",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.70643,
+            "lon": -79.39864
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 1240004",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M5G 1E2",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.70643,
+            "lon": -79.39864
+          }
+        },
+        {
+          "facility": "Investigational Site Number :1240004",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M5G 1E2",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.70643,
+            "lon": -79.39864
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 1240006",
+          "city": "Montreal",
+          "state": "Quebec",
+          "zip": "H4A 3T2",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 45.50884,
+            "lon": -73.58781
+          }
+        },
+        {
+          "facility": "Investigational Site Number :1240006",
+          "city": "Montreal",
+          "state": "Quebec",
+          "zip": "H4A 3T2",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 45.50884,
+            "lon": -73.58781
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 1240002",
+          "city": "Trois-Rivi\u00e8res",
+          "state": "Quebec",
+          "zip": "G8T 7A1",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 46.34515,
+            "lon": -72.5477
+          }
+        },
+        {
+          "facility": "Investigational Site Number :1240002",
+          "city": "Trois-Rivi\u00e8res",
+          "state": "Quebec",
+          "zip": "G8T 7A1",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 46.34515,
+            "lon": -72.5477
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 1240003",
+          "city": "Qu\u00e9bec",
+          "zip": "G1V 4W2",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 46.81228,
+            "lon": -71.21454
+          }
+        },
+        {
+          "facility": "Investigational Site Number :1240003",
+          "city": "Qu\u00e9bec",
+          "zip": "G1V 4W2",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 46.81228,
+            "lon": -71.21454
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 1520004",
+          "city": "Osorno",
+          "state": "Los Lagos Region",
+          "zip": "5310644",
+          "country": "Chile",
+          "geoPoint": {
+            "lat": -40.57395,
+            "lon": -73.13348
+          }
+        },
+        {
+          "facility": "Investigational Site Number :1520004",
+          "city": "Osorno",
+          "state": "Los Lagos Region",
+          "zip": "5310644",
+          "country": "Chile",
+          "geoPoint": {
+            "lat": -40.57395,
+            "lon": -73.13348
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 1520001",
+          "city": "Santiago",
+          "state": "Reg Metropolitana de Santiago",
+          "zip": "7640881",
+          "country": "Chile",
+          "geoPoint": {
+            "lat": -33.45694,
+            "lon": -70.64827
+          }
+        },
+        {
+          "facility": "Investigational Site Number :1520001",
+          "city": "Santiago",
+          "state": "Reg Metropolitana de Santiago",
+          "zip": "7640881",
+          "country": "Chile",
+          "geoPoint": {
+            "lat": -33.45694,
+            "lon": -70.64827
+          }
+        },
+        {
+          "facility": "Investigational Site Number :1520003",
+          "city": "Santiago",
+          "state": "Reg Metropolitana de Santiago",
+          "zip": "7750000",
+          "country": "Chile",
+          "geoPoint": {
+            "lat": -33.45694,
+            "lon": -70.64827
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 1520002",
+          "city": "Santiago",
+          "state": "Reg Metropolitana de Santiago",
+          "zip": "8420383",
+          "country": "Chile",
+          "geoPoint": {
+            "lat": -33.45694,
+            "lon": -70.64827
+          }
+        },
+        {
+          "facility": "Investigational Site Number :1520002",
+          "city": "Santiago",
+          "state": "Reg Metropolitana de Santiago",
+          "country": "Chile",
+          "geoPoint": {
+            "lat": -33.45694,
+            "lon": -70.64827
+          }
+        },
+        {
+          "facility": "Investigational Site Number :2760002",
+          "city": "Berlin",
+          "zip": "10117",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.52437,
+            "lon": 13.41053
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 2760002",
+          "city": "Berlin",
+          "zip": "12200",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.52437,
+            "lon": 13.41053
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 2760001",
+          "city": "Dresden",
+          "zip": "01307",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.05089,
+            "lon": 13.73832
+          }
+        },
+        {
+          "facility": "Investigational Site Number :2760001",
+          "city": "Dresden",
+          "zip": "01307",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.05089,
+            "lon": 13.73832
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 2760005",
+          "city": "Kiel",
+          "zip": "24105",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 54.32133,
+            "lon": 10.13489
+          }
+        },
+        {
+          "facility": "Investigational Site Number :2760005",
+          "city": "Kiel",
+          "zip": "24105",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 54.32133,
+            "lon": 10.13489
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 2760004",
+          "city": "Mainz",
+          "zip": "55131",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 49.98185,
+            "lon": 8.28008
+          }
+        },
+        {
+          "facility": "Investigational Site Number :2760004",
+          "city": "Mainz",
+          "zip": "55131",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 49.98185,
+            "lon": 8.28008
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 3000001",
+          "city": "Athens",
+          "zip": "12462",
+          "country": "Greece",
+          "geoPoint": {
+            "lat": 37.98376,
+            "lon": 23.72784
+          }
+        },
+        {
+          "facility": "Investigational Site Number :3000001",
+          "city": "Athens",
+          "zip": "12462",
+          "country": "Greece",
+          "geoPoint": {
+            "lat": 37.98376,
+            "lon": 23.72784
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 3000002",
+          "city": "Athens",
+          "zip": "16121",
+          "country": "Greece",
+          "geoPoint": {
+            "lat": 37.98376,
+            "lon": 23.72784
+          }
+        },
+        {
+          "facility": "Investigational Site Number :3000002",
+          "city": "Athens",
+          "zip": "16121",
+          "country": "Greece",
+          "geoPoint": {
+            "lat": 37.98376,
+            "lon": 23.72784
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 3000004",
+          "city": "N. Efkarpia",
+          "zip": "56429",
+          "country": "Greece"
+        },
+        {
+          "facility": "Investigational Site Number :3000004",
+          "city": "N. Efkarpia",
+          "zip": "56429",
+          "country": "Greece"
+        },
+        {
+          "facility": "Investigational Site Number : 3000003",
+          "city": "Thessaloniki",
+          "zip": "56403",
+          "country": "Greece",
+          "geoPoint": {
+            "lat": 40.64072,
+            "lon": 22.93493
+          }
+        },
+        {
+          "facility": "Investigational Site Number :3000003",
+          "city": "Thessaloniki",
+          "zip": "56429",
+          "country": "Greece",
+          "geoPoint": {
+            "lat": 40.64072,
+            "lon": 22.93493
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 3800001",
+          "city": "Milan",
+          "state": "Lombardy",
+          "zip": "20122",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 45.46427,
+            "lon": 9.18951
+          }
+        },
+        {
+          "facility": "Investigational Site Number :3800001",
+          "city": "Milan",
+          "state": "Lombardy",
+          "zip": "20122",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 45.46427,
+            "lon": 9.18951
+          }
+        },
+        {
+          "facility": "Investigational Site Number :3800004",
+          "city": "Milan",
+          "state": "Lombardy",
+          "zip": "20161",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 45.46427,
+            "lon": 9.18951
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 3800002",
+          "city": "Ancona",
+          "zip": "60126",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 43.60717,
+            "lon": 13.5103
+          }
+        },
+        {
+          "facility": "Investigational Site Number :3800002",
+          "city": "Ancona",
+          "zip": "60126",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 43.60717,
+            "lon": 13.5103
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 3800005",
+          "city": "Catania",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 37.49223,
+            "lon": 15.07041
+          }
+        },
+        {
+          "facility": "Investigational Site Number :3800005",
+          "city": "Catania",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 37.49223,
+            "lon": 15.07041
+          }
+        },
+        {
+          "facility": "Investigational Site Number :3920004",
+          "city": "Nagoya",
+          "state": "Aichi-ken",
+          "zip": "454-8509",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 35.18147,
+            "lon": 136.90641
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 3920005",
+          "city": "Chikushino-shi",
+          "state": "Fukuoka",
+          "zip": "818-0083",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 33.49631,
+            "lon": 130.5156
+          }
+        },
+        {
+          "facility": "Investigational Site Number :3920005",
+          "city": "Chikushino-shi",
+          "state": "Fukuoka",
+          "zip": "818-0083",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 33.49631,
+            "lon": 130.5156
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 3920002",
+          "city": "Sapporo",
+          "state": "Hokkaido",
+          "zip": "063-0005",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 43.06667,
+            "lon": 141.35
+          }
+        },
+        {
+          "facility": "Investigational Site Number :3920002",
+          "city": "Sapporo",
+          "state": "Hokkaido",
+          "zip": "063-0005",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 43.06667,
+            "lon": 141.35
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 3920001",
+          "city": "Sagamihara-shi",
+          "state": "Kanagawa",
+          "zip": "252-0392",
+          "country": "Japan"
+        },
+        {
+          "facility": "Investigational Site Number :3920001",
+          "city": "Sagamihara-shi",
+          "state": "Kanagawa",
+          "zip": "252-0392",
+          "country": "Japan"
+        },
+        {
+          "facility": "Investigational Site Number : 3920007",
+          "city": "Yokohama",
+          "state": "Kanagawa",
+          "zip": "221-0825",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 35.43333,
+            "lon": 139.65
+          }
+        },
+        {
+          "facility": "Investigational Site Number :3920007",
+          "city": "Yokohama",
+          "state": "Kanagawa",
+          "zip": "221-0825",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 35.43333,
+            "lon": 139.65
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 3920006",
+          "city": "Izumo-shi",
+          "state": "Shimane",
+          "zip": "693-8501",
+          "country": "Japan"
+        },
+        {
+          "facility": "Investigational Site Number :3920006",
+          "city": "Izumo-shi",
+          "state": "Shimane",
+          "zip": "693-8501",
+          "country": "Japan"
+        },
+        {
+          "facility": "Investigational Site Number : 3920003",
+          "city": "Tachikawa-shi",
+          "state": "Tokyo",
+          "zip": "190-0014",
+          "country": "Japan"
+        },
+        {
+          "facility": "Investigational Site Number :3920003",
+          "city": "Tachikawa-shi",
+          "state": "Tokyo",
+          "zip": "190-0014",
+          "country": "Japan"
+        },
+        {
+          "facility": "Investigational Site Number : 3920004",
+          "city": "Nagoya",
+          "zip": "454-8509",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 35.18147,
+            "lon": 136.90641
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 5280002",
+          "city": "Rotterdam",
+          "zip": "3015 GD",
+          "country": "Netherlands",
+          "geoPoint": {
+            "lat": 51.9225,
+            "lon": 4.47917
+          }
+        },
+        {
+          "facility": "Investigational Site Number :5280002",
+          "city": "Rotterdam",
+          "zip": "3015 GD",
+          "country": "Netherlands",
+          "geoPoint": {
+            "lat": 51.9225,
+            "lon": 4.47917
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 5280001",
+          "city": "Utrecht",
+          "zip": "3584 CX",
+          "country": "Netherlands",
+          "geoPoint": {
+            "lat": 52.09083,
+            "lon": 5.12222
+          }
+        },
+        {
+          "facility": "Investigational Site Number :5280001",
+          "city": "Utrecht",
+          "zip": "3584 CX",
+          "country": "Netherlands",
+          "geoPoint": {
+            "lat": 52.09083,
+            "lon": 5.12222
+          }
+        },
+        {
+          "facility": "Investigational Site Number :6160007",
+          "city": "Wroclaw",
+          "state": "Lower Silesian Voivodeship",
+          "zip": "50-088",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 51.10286,
+            "lon": 17.03006
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 6160007",
+          "city": "Wroclaw",
+          "state": "Lower Silesian Voivodeship",
+          "zip": "53-673",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 51.10286,
+            "lon": 17.03006
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 6160001",
+          "city": "Gdansk",
+          "state": "Pomeranian Voivodeship",
+          "zip": "80-214",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 54.35227,
+            "lon": 18.64912
+          }
+        },
+        {
+          "facility": "Investigational Site Number :6160001",
+          "city": "Gdansk",
+          "state": "Pomeranian Voivodeship",
+          "zip": "80-214",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 54.35227,
+            "lon": 18.64912
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 6160009",
+          "city": "Gdansk",
+          "state": "Pomeranian Voivodeship",
+          "zip": "80-546",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 54.35227,
+            "lon": 18.64912
+          }
+        },
+        {
+          "facility": "Investigational Site Number :6160009",
+          "city": "Gdansk",
+          "state": "Pomeranian Voivodeship",
+          "zip": "80-546",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 54.35227,
+            "lon": 18.64912
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 6160008",
+          "city": "Krakow",
+          "zip": "30-438",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 50.06143,
+            "lon": 19.93658
+          }
+        },
+        {
+          "facility": "Investigational Site Number :6160008",
+          "city": "Krakow",
+          "zip": "30-438",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 50.06143,
+            "lon": 19.93658
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 6160004",
+          "city": "Krakow",
+          "zip": "31-011",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 50.06143,
+            "lon": 19.93658
+          }
+        },
+        {
+          "facility": "Investigational Site Number :6160004",
+          "city": "Krakow",
+          "zip": "31-011",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 50.06143,
+            "lon": 19.93658
+          }
+        },
+        {
+          "facility": "Investigational Site Number :6160003",
+          "city": "Krakow",
+          "zip": "31-302",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 50.06143,
+            "lon": 19.93658
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 6160005",
+          "city": "Lodz",
+          "zip": "91-211",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 51.77058,
+            "lon": 19.47395
+          }
+        },
+        {
+          "facility": "Investigational Site Number :6160005",
+          "city": "Lodz",
+          "zip": "91-211",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 51.77058,
+            "lon": 19.47395
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 6160006",
+          "city": "Wroclaw",
+          "zip": "50-566",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 51.10286,
+            "lon": 17.03006
+          }
+        },
+        {
+          "facility": "Investigational Site Number :6160006",
+          "city": "Wroclaw",
+          "zip": "50-566",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 51.10286,
+            "lon": 17.03006
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 6430005",
+          "city": "Moscow",
+          "zip": "115522",
+          "country": "Russia",
+          "geoPoint": {
+            "lat": 55.75204,
+            "lon": 37.61781
+          }
+        },
+        {
+          "facility": "Investigational Site Number :6430005",
+          "city": "Moscow",
+          "zip": "115522",
+          "country": "Russia",
+          "geoPoint": {
+            "lat": 55.75204,
+            "lon": 37.61781
+          }
+        },
+        {
+          "facility": "Investigational Site Number :6430006",
+          "city": "Moscow",
+          "zip": "115522",
+          "country": "Russia",
+          "geoPoint": {
+            "lat": 55.75204,
+            "lon": 37.61781
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 6430002",
+          "city": "Moscow",
+          "zip": "123182",
+          "country": "Russia",
+          "geoPoint": {
+            "lat": 55.75204,
+            "lon": 37.61781
+          }
+        },
+        {
+          "facility": "Investigational Site Number :6430002",
+          "city": "Moscow",
+          "zip": "123182",
+          "country": "Russia",
+          "geoPoint": {
+            "lat": 55.75204,
+            "lon": 37.61781
+          }
+        },
+        {
+          "facility": "Investigational Site Number :6430003",
+          "city": "Saint Petersburg",
+          "zip": "193231",
+          "country": "Russia",
+          "geoPoint": {
+            "lat": 59.93863,
+            "lon": 30.31413
+          }
+        },
+        {
+          "facility": "Investigational Site Number :6430004",
+          "city": "Smolensk",
+          "zip": "214006",
+          "country": "Russia",
+          "geoPoint": {
+            "lat": 54.77826,
+            "lon": 32.05088
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 6430001",
+          "city": "Stavropol",
+          "zip": "355020",
+          "country": "Russia",
+          "geoPoint": {
+            "lat": 45.03442,
+            "lon": 41.9642
+          }
+        },
+        {
+          "facility": "Investigational Site Number :6430001",
+          "city": "Stavropol",
+          "zip": "355020",
+          "country": "Russia",
+          "geoPoint": {
+            "lat": 45.03442,
+            "lon": 41.9642
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 4100002",
+          "city": "Busan",
+          "state": "Busan",
+          "zip": "49241",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 35.10168,
+            "lon": 129.03004
+          }
+        },
+        {
+          "facility": "Investigational Site Number :4100002",
+          "city": "Busan",
+          "state": "Busan",
+          "zip": "602-739",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 35.10168,
+            "lon": 129.03004
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 4100005",
+          "city": "Ansan-si",
+          "state": "Gyeonggi-do",
+          "zip": "15355",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.32361,
+            "lon": 126.82194
+          }
+        },
+        {
+          "facility": "Investigational Site Number :4100005",
+          "city": "Ansan-si",
+          "state": "Gyeonggi-do",
+          "zip": "15355",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.32361,
+            "lon": 126.82194
+          }
+        },
+        {
+          "facility": "Investigational Site Number :4100001",
+          "city": "Seoul",
+          "state": "Seoul-teukbyeolsi",
+          "zip": "03080",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 4100003",
+          "city": "Seoul",
+          "state": "Seoul-teukbyeolsi",
+          "zip": "06973",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        },
+        {
+          "facility": "Investigational Site Number :4100003",
+          "city": "Seoul",
+          "state": "Seoul-teukbyeolsi",
+          "zip": "06973",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 4100004",
+          "city": "Yeongdeunpo-gu",
+          "state": "Seoul-teukbyeolsi",
+          "zip": "Hyllm University Med",
+          "country": "South Korea"
+        },
+        {
+          "facility": "Investigational Site Number :4100004",
+          "city": "Yeongdeunpo-gu",
+          "state": "Seoul-teukbyeolsi",
+          "zip": "Hyllm University Med",
+          "country": "South Korea"
+        },
+        {
+          "facility": "Investigational Site Number : 7240004",
+          "city": "Seville",
+          "state": "Andalusia",
+          "zip": "41009",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 37.38283,
+            "lon": -5.97317
+          }
+        },
+        {
+          "facility": "Investigational Site Number :7240004",
+          "city": "Seville",
+          "state": "Andalusia",
+          "zip": "41009",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 37.38283,
+            "lon": -5.97317
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 7240001",
+          "city": "Barcelona",
+          "state": "Barcelona [Barcelona]",
+          "zip": "08003",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Investigational Site Number :7240001",
+          "city": "Barcelona",
+          "state": "Barcelona [Barcelona]",
+          "zip": "08003",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 7240008",
+          "city": "Barcelona / Sabadell",
+          "state": "Catalunya [Catalu\u00f1a]",
+          "zip": "08208",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number :7240008",
+          "city": "Barcelona / Sabadell",
+          "state": "Catalunya [Catalu\u00f1a]",
+          "zip": "08208",
+          "country": "Spain"
+        },
+        {
+          "facility": "Investigational Site Number :7240007",
+          "city": "Pozuelo de Alarc\u00f3n",
+          "state": "Madrid",
+          "zip": "28223",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.43293,
+            "lon": -3.81338
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 7240006",
+          "city": "Pamplona",
+          "state": "Navarre",
+          "zip": "31008",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 42.81687,
+            "lon": -1.64323
+          }
+        },
+        {
+          "facility": "Investigational Site Number :7240003",
+          "city": "Pamplona",
+          "state": "Navarre",
+          "zip": "31008",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 42.81687,
+            "lon": -1.64323
+          }
+        },
+        {
+          "facility": "Investigational Site Number :7240006",
+          "city": "Pamplona",
+          "state": "Navarre",
+          "zip": "31008",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 42.81687,
+            "lon": -1.64323
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 7240005",
+          "city": "Alicante",
+          "zip": "03010",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 38.34517,
+            "lon": -0.48149
+          }
+        },
+        {
+          "facility": "Investigational Site Number :7240005",
+          "city": "Alicante",
+          "zip": "03010",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 38.34517,
+            "lon": -0.48149
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 7240002",
+          "city": "C\u00f3rdoba",
+          "zip": "14004",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 37.89155,
+            "lon": -4.77275
+          }
+        },
+        {
+          "facility": "Investigational Site Number :7240002",
+          "city": "C\u00f3rdoba",
+          "zip": "14004",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 37.89155,
+            "lon": -4.77275
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 1580002",
+          "city": "Hsinchu",
+          "zip": "30059",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 24.80361,
+            "lon": 120.96861
+          }
+        },
+        {
+          "facility": "Investigational Site Number :1580002",
+          "city": "Hsinchu",
+          "zip": "30059",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 24.80361,
+            "lon": 120.96861
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 1580004",
+          "city": "Kaohsiung City",
+          "zip": "833",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 22.61626,
+            "lon": 120.31333
+          }
+        },
+        {
+          "facility": "Investigational Site Number :1580004",
+          "city": "Kaohsiung City",
+          "zip": "833",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 22.61626,
+            "lon": 120.31333
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 1580003",
+          "city": "Taichung",
+          "zip": "40201",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 24.1469,
+            "lon": 120.6839
+          }
+        },
+        {
+          "facility": "Investigational Site Number :1580003",
+          "city": "Taichung",
+          "zip": "402",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 24.1469,
+            "lon": 120.6839
+          }
+        },
+        {
+          "facility": "Investigational Site Number : 1580001",
+          "city": "Taipei",
+          "zip": "10002",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 25.05306,
+            "lon": 121.52639
+          }
+        },
+        {
+          "facility": "Investigational Site Number :1580001",
+          "city": "Taipei",
+          "zip": "10002",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 25.05306,
+            "lon": 121.52639
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "40266575",
+          "type": "DERIVED",
+          "citation": "Gimenez-Arnau A, Ferrucci S, Ben-Shoshan M, Mikol V, Lucats L, Sun I, Mannent L, Gereige J. Rilzabrutinib in Antihistamine-Refractory Chronic Spontaneous Urticaria: The RILECSU Phase 2 Randomized Clinical Trial. JAMA Dermatol. 2025 Jul 1;161(7):679-687. doi: 10.1001/jamadermatol.2025.0733."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Qualified researchers may request access to patient level data and related study documents including the clinical study report, study protocol with any amendments, blank case report form, statistical analysis plan, and dataset specifications. Patient level data will be anonymized and study documents will be redacted to protect the privacy of trial participants. Further details on Sanofi's data sharing criteria, eligible studies, and process for requesting access can be found at: https://vivli.org"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-04-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000080223",
+          "term": "Chronic Urticaria"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014581",
+          "term": "Urticaria"
+        },
+        {
+          "id": "D017445",
+          "term": "Skin Diseases, Vascular"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D006969",
+          "term": "Hypersensitivity, Immediate"
+        },
+        {
+          "id": "D006967",
+          "term": "Hypersensitivity"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": false,
+  "_meta": {
+    "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT05107115",
+    "fetched_at": "2026-04-09T00:59:09.835590+00:00"
+  }
+}

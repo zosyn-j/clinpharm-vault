@@ -1,0 +1,3750 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05030311",
+      "orgStudyIdInfo": {
+        "id": "CLOU064A2301"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2022-001034-11",
+          "type": "EUDRACT_NUMBER"
+        }
+      ],
+      "organization": {
+        "fullName": "Novartis",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Phase 3 Study of Efficacy and Safety of Remibrutinib in the Treatment of CSU in Adults Inadequately Controlled by H1 Antihistamines",
+      "officialTitle": "A Multicenter, Randomized, Double-blind, Placebo-controlled Phase 3 Study of Remibrutinib (LOU064) to Investigate the Efficacy, Safety and Tolerability for 52 Weeks in Adult Chronic Spontaneous Urticaria (CSU) Patients Inadequately Controlled by H1-antihistamines",
+      "acronym": "REMIX-1"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-04",
+      "overallStatus": "COMPLETED",
+      "startDateStruct": {
+        "date": "2021-11-30",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2023-12-27",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2024-01-19",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2021-08-19",
+      "studyFirstSubmitQcDate": "2021-08-31",
+      "studyFirstPostDateStruct": {
+        "date": "2021-09-01",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2024-10-18",
+      "resultsFirstSubmitQcDate": "2024-11-25",
+      "resultsFirstPostDateStruct": {
+        "date": "2024-12-02",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-04-03",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-04-08",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Novartis Pharmaceuticals",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study was to establish the efficacy, safety, and tolerability of remibrutinib (LOU064) in adult participants suffering from chronic spontaneous urticaria (CSU) inadequately controlled by H1-antihistamines in comparison to placebo.",
+      "detailedDescription": "This was a global Phase III multi-centered, randomized,double-blind, parallel-group, placebo-controlled study investigating the safety, tolerability, and efficacy of remibrutinib (25 mg b.i.d.) in adult patients with CSU inadequately controlled by second generation H1-antihistamines (H1-AHs). The study consisted of four periods, the total study duration was up to 60 weeks: Screening period of up to 4 weeks, Double-blind placebo-controlled treatment period of 24 weeks, Open-label treatment period with remibrutinib period of 28 weeks, and treatment-free follow-up period of 4 weeks. The planned sample size was approximately 450 patients randomized in 2:1 ratio to remibrutinib or placebo arm (300 in the remibrutinib arm and 150 in placebo arm)."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ],
+      "keywords": [
+        "BTK inhibitor",
+        "Chronic spontaneous urticaria",
+        "Urticaria activity score",
+        "Hives severity score",
+        "Itch severity score",
+        "CSU"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 470,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "LOU064 25mg b.i.d.",
+          "type": "EXPERIMENTAL",
+          "description": "Patients initially randomized to Remibrutinib during the Double-blind treatment period and continued Remibrutinib during the Open-label treatment period (Up to Week 52)",
+          "interventionNames": [
+            "Drug: LOU064 25 mg (b.i.d)",
+            "Drug: LOU064 25 mg (b.i.d) as a tablet."
+          ]
+        },
+        {
+          "label": "Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Patients initially randomized to Placebo (Up to Week 24)",
+          "interventionNames": [
+            "Drug: Placebo",
+            "Drug: LOU064 25 mg (b.i.d) as a tablet."
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "LOU064 25 mg (b.i.d)",
+          "description": "LOU064 25 mg was administered by oral route twice a day (b.i.d) as a tablet.",
+          "armGroupLabels": [
+            "LOU064 25mg b.i.d."
+          ],
+          "otherNames": [
+            "remibrutinib"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo",
+          "description": "Placebo",
+          "armGroupLabels": [
+            "Placebo"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "LOU064 25 mg (b.i.d) as a tablet.",
+          "description": "LOU064 25 mg was administered by oral route twice a day (b.i.d) as a tablet in open label phase.",
+          "armGroupLabels": [
+            "LOU064 25mg b.i.d.",
+            "Placebo"
+          ],
+          "otherNames": [
+            "remibrutinib"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change From Baseline in Weekly Urticaria Score (UAS7) at Week 12 (Scenario 1 With UAS7 as Primary Efficacy Endpoint)",
+          "description": "The Weekly Urticaria Activity Score (UAS7) is a simple scoring system to evaluate urticaria signs and symptoms. It is based on scoring wheals (hive severity score) and itch (itch severity score) separately on a scale of 0 (no signs/symptoms) to 3 (intense signs/symptoms) over 7 days. The final score is calculated by adding together the daily scores, which can range from 0 to 6, for 7 days. This results in a maximum total score of 42 (highest urticaria severity), and a minimum possible score of 0.\n\nThis endpoint is a secondary endpoint for testing strategy Scenario 2 with Weekly Itch Severity Score (ISS7) and Weekly Hives Severity Score (HSS7) as co-primary efficacy endpoints).",
+          "timeFrame": "Baseline, Week 12"
+        },
+        {
+          "measure": "Change From Baseline in Weekly Itch Severity Score (ISS7) at Week 12 (Scenario 2 With ISS7 and HSS7 as Co-primary Efficacy Endpoints)",
+          "description": "The severity of the itch was recorded by the participant twice daily in their electronic Diary, on a scale of 0 (none) to 3 (severe). A weekly score (ISS7) was derived by adding up the average daily scores of the 7 days preceding the visit. The possible range of the weekly score was therefore 0 - 21 (highest itch severity).\n\nThis endpoint is a secondary endpoint for testing strategy Scenario 1 with Weekly Urticaria Activity Score (UAS7) as the primary efficacy endpoint).",
+          "timeFrame": "Baseline, Week 12"
+        },
+        {
+          "measure": "Change From Baseline in Weekly Hives Severity Score (HSS7) at Week 12 (Scenario 2 With ISS7 and HSS7 as Co-primary Efficacy Endpoints)",
+          "description": "The hives (wheals) severity score, defined by number of hives, was recorded by the participant twice daily in their electronic Diary, on a scale of 0 (none) to 3 (\\> 12 hives/12 hours). A weekly score (HSS7) was derived by adding up the average daily scores of the 7 days preceding the visit. The possible range of the weekly score was therefore 0 - 21 (highest hives activity).\n\nThis endpoint is a secondary endpoint for testing strategy Scenario 1 with Weekly Urticaria Activity Score (UAS7) as the primary efficacy endpoint.",
+          "timeFrame": "Baseline, Week 12"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Number of Patients Who Achieved Disease Activity Control (UAS7 \u22646)",
+          "description": "The percentage of patients achieving disease activity control (UAS7 =\\< 6) at Week 12 was assessed to evaluate the efficacy of Remibrutinib in Chronic Spontaneous Urticaria (CSU) patients. The UAS7 is the sum of the Weekly Hives Severity Score (HSS7) and the Weekly Itch Severity Score (ISS7). The possible range of the UAS7 score is 0 - 42 (highest hives and itch severity).",
+          "timeFrame": "Week 12"
+        },
+        {
+          "measure": "Number of Patients Who Achieved Complete Absence of Hives and Itch (UAS7 = 0)",
+          "description": "The number of patients achieving complete absence of hives and itch (UAS7 = 0) at Week 12 was assessed to evaluate the efficacy of Remibrutinib in Chronic Spontaneous Urticaria (CSU) patients. The UAS7 is the sum of the Weekly Hives Severity Score (HSS7) and the Weekly Itch Severity Score (ISS7). The possible range of the UAS7 score is 0 - 42 (highest hives and itch severity).",
+          "timeFrame": "Week 12"
+        },
+        {
+          "measure": "Number of Patients With Early Onset of Disease Control (UAS7 \u2264 6 at Week 2)",
+          "description": "The percentage of patients achieving disease activity control (UAS7 =\\< 6) at Week 2 was assessed to evaluate the efficacy of Remibrutinib in Chronic Spontaneous Urticaria (CSU) patients. The UAS7 is the sum of the Weekly Hives Severity Score (HSS7) and the Weekly Itch Severity Score (ISS7). The possible range of the UAS7 score is 0 - 42 (highest hives and itch severity).",
+          "timeFrame": "Week 2"
+        },
+        {
+          "measure": "Cumulative Number of Weeks With Disease Activity Control (UAS7 <= 6) up to Week 12",
+          "description": "Maintaining disease activity control was assessed as cumulative number of weeks with an UAS7 =\\< 6 response between baseline and Week 12. The UAS7 is the sum of the Weekly Hives Severity Score (HSS7) and the Weekly Itch Severity Score (ISS7). The possible range of the UAS7 score is 0 - 42 (highest hives and itch severity).",
+          "timeFrame": "up to Week 12"
+        },
+        {
+          "measure": "Number of Patients Who Achieved DLQI = 0 - 1",
+          "description": "The Dermatology Life Quality Index (DLQI) is a 10-item (grouped in 6 domains) dermatology-specific quality of life (QoL) measure. Participants are rating their dermatology symptoms as well as the impact of their skin condition on various aspects of their lives thinking about the previous 7 days. An overall score is calculated and ranges from 0 to 30 (higher score meaning worse disease-related QoL). Domain scores are calculated for: Symptoms and Feelings (0-6), Daily Activities (0-6), Leisure (0-6), Work and School (0-3), Personal Relationships (0-6), Treatment (0-3). The overall DLQI score range was split into score bands and validated in terms of their meaning/relevance to patients overall. DLQI = 0-1 means no effect on patient's life.",
+          "timeFrame": "Week 12"
+        },
+        {
+          "measure": "Cumulative Number of Weeks Without Angioedema (AAS7 = 0)",
+          "description": "Angioedema occurrence was recorded once daily in the evening in the electronic Diary by the participant. Reporting the occurrence of angioedema was used as opening question for the assessment of the Angioedema Activity Score (AAS). The AAS consists of 5 questions with 4 answer options (scored 0-3) for each item, with a minimum score of 0 and a maximum score of 15 per day. The AAS score over 7 days (AAS7) ranges from 0 (no angioedema episodes) to 105 (highest angioedema severity).",
+          "timeFrame": "Up to Week 12"
+        },
+        {
+          "measure": "Number of Participants With Adverse Events",
+          "description": "An adverse event (AE) is any untoward medical occurrence (e.g., any unfavorable and unintended sign \\[including abnormal laboratory findings\\], symptom or disease) in a clinical investigation participant after providing written informed consent for participation in the study. Therefore, an AE may or may not be temporally or causally associated with the use of a medicinal (investigational) product.",
+          "timeFrame": "On-treatment adverse events are reported from first dose of study medication up to 28 days after last dose of study medication, for a timeframe up to approximately 56 weeks"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Signed informed consent must be obtained prior to participation in the study.\n* Male and female adult participants \u226518 years of age.\n* CSU duration for \u2265 6 months prior to screening (defined as the onset of CSU determined by the investigator based on all available supporting documentation).\n* Diagnosis of CSU inadequately controlled by second generation H1 antihistamines at the time of randomization defined as:\n* The presence of itch and hives for \u22656 consecutive weeks prior to screening despite the use of second generation H1-antihistamines during this time period\n* UAS7 score (range 0-42) \u226516, ISS7 score (range 0-21) \u2265 6 and HSS7 score (range 0-21) \u2265 6 during the 7 days prior to randomization (Day 1)\n* Documentation of hives within three months before randomization (either at screening and/or at randomization; or documented in the participants medical history).\n* Willing and able to complete an Urticaria Patient Daily Diary (UPDD) for the duration of the study and adhere to the study protocol.\n* Participants must not have had more than one missing UPDD entry (either morning or evening) in the 7 days prior to randomization (Day 1).\n\nExclusion Criteria:\n\n* Participants having a clearly defined predominant or sole trigger of their chronic urticaria (chronic inducible urticaria) including urticaria factitia (symptomatic dermographism), cold-, heat-, solar-, pressure-, delayed pressure-, aquagenic-, cholinergic-, or contact-urticaria\n* Other diseases with symptoms of urticaria or angioedema, including but not limited to urticaria vasculitis, urticaria pigmentosa, erythema multiforme, mastocytosis, hereditary urticaria, or drug-induced urticaria\n* Any other skin disease associated with chronic itching that might influence in the investigator's opinion the study evaluations and results, e.g. atopic dermatitis, bullous pemphigoid, dermatitis herpetiformis, senile pruritus or psoriasis\n* Evidence of clinically significant cardiovascular (such as but not limited to myocardial infarction, unstable ischemic heart disease, New York heart association (NYHA) Class III/IV left ventricular failure, arrhythmia and uncontrolled hypertension within 12 months prior to Visit 1), neurological, psychiatric, pulmonary, renal, hepatic, endocrine, metabolic, hematological disorders, gastrointestinal disease or immunodeficiency that, in the investigator's opinion, would compromise the safety of the participant, interfere with the interpretation of the study results or otherwise preclude participation or protocol adherence of the participant\n* Significant bleeding risk or coagulation disorders\n* History of gastrointestinal bleeding, e.g. in association with use of nonsteroidal anti-inflammatory drugs (NSAID), that was clinically relevant (e.g. requiring hospitalization or blood transfusion)\n* Requirement for anti-platelet medication, except for acetylsalicylic acid up to 100 mg/d or clopidogrel. The use of dual anti-platelet therapy (e.g. acetylsalicylic acid + clopidogrel) is prohibited.\n* Requirement for anticoagulant medication (for example, warfarin or Novel Oral Anti-Coagulants (NOAC))\n* History or current hepatic disease including but not limited to acute or chronic hepatitis, cirrhosis or hepatic failure or Aspartate Aminotransferase (AST)/ Alanine Aminotransferase (ALT) levels of more than 1.5 x upper limit of normal (ULN) or International Normalized Ratio (INR) of more than 1.5 at screening",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Novartis Pharmaceuticals",
+          "affiliation": "Novartis Pharmaceuticals",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Birmingham",
+          "state": "Alabama",
+          "zip": "35209",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.52066,
+            "lon": -86.80249
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "North Little Rock",
+          "state": "Arkansas",
+          "zip": "72117",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.76954,
+            "lon": -92.26709
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Bakersfield",
+          "state": "California",
+          "zip": "93301",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.37329,
+            "lon": -119.01871
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Lancaster",
+          "state": "California",
+          "zip": "93534",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.69804,
+            "lon": -118.13674
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90025",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.05223,
+            "lon": -118.24368
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Redwood City",
+          "state": "California",
+          "zip": "94063",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.48522,
+            "lon": -122.23635
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Denver",
+          "state": "Colorado",
+          "zip": "80230",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.73915,
+            "lon": -104.9847
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Aventura",
+          "state": "Florida",
+          "zip": "33180",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.95648,
+            "lon": -80.13921
+          }
+        },
+        {
+          "facility": "Finlay Medical Research",
+          "city": "Greenacres City",
+          "state": "Florida",
+          "zip": "33467",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.62368,
+            "lon": -80.12532
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Sarasota",
+          "state": "Florida",
+          "zip": "34233",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.33643,
+            "lon": -82.53065
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Tallahassee",
+          "state": "Florida",
+          "zip": "32308",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 30.43826,
+            "lon": -84.28073
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Albany",
+          "state": "Georgia",
+          "zip": "31707",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 31.57851,
+            "lon": -84.15574
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Woodstock",
+          "state": "Georgia",
+          "zip": "30188",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.10149,
+            "lon": -84.51938
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Evansville",
+          "state": "Indiana",
+          "zip": "47715",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.97476,
+            "lon": -87.55585
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Chevy Chase",
+          "state": "Maryland",
+          "zip": "20815",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.00287,
+            "lon": -77.07115
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "St Louis",
+          "state": "Missouri",
+          "zip": "63141",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.62727,
+            "lon": -90.19789
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Lincoln",
+          "state": "Nebraska",
+          "zip": "68510",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.8,
+            "lon": -96.66696
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Athens",
+          "state": "Ohio",
+          "zip": "45701",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.32924,
+            "lon": -82.10126
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Columbus",
+          "state": "Ohio",
+          "zip": "43235",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.96118,
+            "lon": -82.99879
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Toledo",
+          "state": "Ohio",
+          "zip": "43617",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.66394,
+            "lon": -83.55521
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Tulsa",
+          "state": "Oklahoma",
+          "zip": "74136",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.15398,
+            "lon": -95.99277
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Austin",
+          "state": "Texas",
+          "zip": "78759",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 30.26715,
+            "lon": -97.74306
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "El Paso",
+          "state": "Texas",
+          "zip": "79924",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 31.75872,
+            "lon": -106.48693
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "San Antonio",
+          "state": "Texas",
+          "zip": "78213",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.42412,
+            "lon": -98.49363
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Sandy City",
+          "state": "Utah",
+          "zip": "84093",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.59161,
+            "lon": -111.8841
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Bellingham",
+          "state": "Washington",
+          "zip": "98225",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 48.75955,
+            "lon": -122.48822
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "CABA",
+          "state": "Buenos Aires",
+          "zip": "C1181ACH",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "CABA",
+          "state": "Buenos Aires",
+          "zip": "C1414AIF",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "La Plata",
+          "state": "Buenos Aires",
+          "zip": "B1902COS",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -34.92126,
+            "lon": -57.95442
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Buenos Aires",
+          "state": "Nueve De Julio",
+          "zip": "B6500BWQ",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -34.61315,
+            "lon": -58.37723
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Santa Fe",
+          "state": "Rosario",
+          "zip": "S2000DBS",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -31.64881,
+            "lon": -60.70868
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Rosario",
+          "state": "Santa Fe Province",
+          "zip": "S2000JKR",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -32.94682,
+            "lon": -60.63932
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Bah\u00eda Blanca",
+          "zip": "B8000JRB",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -38.7176,
+            "lon": -62.26545
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Capital Federal",
+          "zip": "C1023AAB",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Santa Fe",
+          "zip": "S3000FIL",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -31.64881,
+            "lon": -60.70868
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Sydney",
+          "state": "New South Wales",
+          "zip": "2010",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -33.86785,
+            "lon": 151.20732
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "East Melbourne",
+          "state": "Victoria",
+          "zip": "3002",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -37.81667,
+            "lon": 144.9879
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Parkville",
+          "state": "Victoria",
+          "zip": "3050",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -37.78333,
+            "lon": 144.95
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Pleven",
+          "zip": "5800",
+          "country": "Bulgaria",
+          "geoPoint": {
+            "lat": 43.41791,
+            "lon": 24.61666
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Sofia",
+          "zip": "1407",
+          "country": "Bulgaria",
+          "geoPoint": {
+            "lat": 42.69751,
+            "lon": 23.32415
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Sofia",
+          "zip": "1431",
+          "country": "Bulgaria",
+          "geoPoint": {
+            "lat": 42.69751,
+            "lon": 23.32415
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Medell\u00edn",
+          "state": "Antioquia",
+          "zip": "050010",
+          "country": "Colombia",
+          "geoPoint": {
+            "lat": 6.245,
+            "lon": -75.57151
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Barranquilla",
+          "state": "Atl\u00e1ntico",
+          "zip": "080002",
+          "country": "Colombia",
+          "geoPoint": {
+            "lat": 10.96854,
+            "lon": -74.78132
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Barranquilla",
+          "zip": "080020",
+          "country": "Colombia",
+          "geoPoint": {
+            "lat": 10.96854,
+            "lon": -74.78132
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Bogot\u00e1",
+          "zip": "110221",
+          "country": "Colombia",
+          "geoPoint": {
+            "lat": 4.60971,
+            "lon": -74.08175
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Brno",
+          "state": "Czech Republic",
+          "zip": "656 91",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 49.19522,
+            "lon": 16.60796
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Olomouc",
+          "state": "CZE",
+          "zip": "779 00",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 49.59552,
+            "lon": 17.25175
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Pilsen",
+          "zip": "305 99",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 49.74747,
+            "lon": 13.37759
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Prague",
+          "zip": "150 06",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 50.08804,
+            "lon": 14.42076
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Antony",
+          "zip": "92160",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.75329,
+            "lon": 2.29668
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Bordeaux",
+          "zip": "33075",
+          "country": "France",
+          "geoPoint": {
+            "lat": 44.84124,
+            "lon": -0.58046
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Nice",
+          "zip": "06000",
+          "country": "France",
+          "geoPoint": {
+            "lat": 43.70313,
+            "lon": 7.26608
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Pierre-B\u00e9nite",
+          "zip": "69495",
+          "country": "France",
+          "geoPoint": {
+            "lat": 45.70359,
+            "lon": 4.82424
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Reims",
+          "zip": "51100",
+          "country": "France",
+          "geoPoint": {
+            "lat": 49.26526,
+            "lon": 4.02853
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Rouen",
+          "zip": "76031",
+          "country": "France",
+          "geoPoint": {
+            "lat": 49.44313,
+            "lon": 1.09932
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Debrecen",
+          "state": "Hajd\u00fa-Bihar",
+          "zip": "4026",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 47.53167,
+            "lon": 21.62444
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Debrecen",
+          "zip": "4032",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 47.53167,
+            "lon": 21.62444
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Szeged",
+          "zip": "6720",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 46.253,
+            "lon": 20.14824
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Nagpur",
+          "state": "Maharashtra",
+          "zip": "440012",
+          "country": "India",
+          "geoPoint": {
+            "lat": 21.14631,
+            "lon": 79.08491
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Nagpur",
+          "state": "Maharashtra",
+          "zip": "440015",
+          "country": "India",
+          "geoPoint": {
+            "lat": 21.14631,
+            "lon": 79.08491
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Nashik",
+          "state": "Maharashtra",
+          "zip": "422005",
+          "country": "India",
+          "geoPoint": {
+            "lat": 19.99727,
+            "lon": 73.79096
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "New Delhi",
+          "state": "National Capital Territory of Delhi",
+          "zip": "110 060",
+          "country": "India",
+          "geoPoint": {
+            "lat": 28.62137,
+            "lon": 77.2148
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Hyderabad",
+          "state": "Telangana",
+          "zip": "500004",
+          "country": "India",
+          "geoPoint": {
+            "lat": 17.38405,
+            "lon": 78.45636
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Varanasi",
+          "state": "Uttar Pradesh",
+          "zip": "221005",
+          "country": "India",
+          "geoPoint": {
+            "lat": 25.31668,
+            "lon": 83.01041
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Kolkata",
+          "state": "West Bengal",
+          "zip": "700054",
+          "country": "India",
+          "geoPoint": {
+            "lat": 22.56263,
+            "lon": 88.36304
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Belgavi",
+          "zip": "590010",
+          "country": "India"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Chandigarh",
+          "zip": "160012",
+          "country": "India",
+          "geoPoint": {
+            "lat": 30.73629,
+            "lon": 76.7884
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Ancona",
+          "state": "AN",
+          "zip": "60126",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 43.60717,
+            "lon": 13.5103
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Milan",
+          "state": "MI",
+          "zip": "20162",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 42.78235,
+            "lon": 12.59836
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Pisa",
+          "state": "PI",
+          "zip": "56124",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 43.70853,
+            "lon": 10.4036
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Torino",
+          "state": "TO",
+          "zip": "10128",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 44.88856,
+            "lon": 11.99138
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Obihiro",
+          "state": "Hokkaido",
+          "zip": "080 0013",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 42.91722,
+            "lon": 143.20444
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Yokohama",
+          "state": "Kanagawa",
+          "zip": "220-6208",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 35.43333,
+            "lon": 139.65
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Kamimashi-gun",
+          "state": "Kumamoto",
+          "zip": "861-3106",
+          "country": "Japan"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Takatsuki",
+          "state": "Osaka",
+          "zip": "569-8686",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 34.84833,
+            "lon": 135.61678
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Koto",
+          "state": "Tokyo",
+          "zip": "136-0074",
+          "country": "Japan"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Fukuoka",
+          "zip": "819 0167",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 33.6,
+            "lon": 130.41667
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Hiroshima",
+          "zip": "734-8551",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 34.4,
+            "lon": 132.45
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Guadalajara",
+          "state": "Jalisco",
+          "zip": "44130",
+          "country": "Mexico",
+          "geoPoint": {
+            "lat": 20.67738,
+            "lon": -103.34749
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Mexico City",
+          "state": "Mexico City",
+          "zip": "06700",
+          "country": "Mexico",
+          "geoPoint": {
+            "lat": 19.42847,
+            "lon": -99.12766
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Villahermosa",
+          "state": "Tabasco",
+          "zip": "86035",
+          "country": "Mexico",
+          "geoPoint": {
+            "lat": 17.98625,
+            "lon": -92.93928
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Carolina",
+          "zip": "00985",
+          "country": "Puerto Rico",
+          "geoPoint": {
+            "lat": 18.38078,
+            "lon": -65.95739
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "San Juan",
+          "zip": "00927",
+          "country": "Puerto Rico",
+          "geoPoint": {
+            "lat": 18.46633,
+            "lon": -66.10572
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Izhevsk",
+          "zip": "426061",
+          "country": "Russia",
+          "geoPoint": {
+            "lat": 56.85225,
+            "lon": 53.19862
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Singapore",
+          "zip": "308205",
+          "country": "Singapore",
+          "geoPoint": {
+            "lat": 1.28967,
+            "lon": 103.85007
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Daegu",
+          "state": "Dalseo Gu",
+          "zip": "42602",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 35.87028,
+            "lon": 128.59111
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Hwaseong-si",
+          "state": "Gyeonggi-do",
+          "zip": "18450",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.20682,
+            "lon": 126.8169
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Suwon",
+          "state": "Gyeonggi-do",
+          "zip": "16499",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.29111,
+            "lon": 127.00889
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Gwangju",
+          "zip": "61469",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 35.15472,
+            "lon": 126.91556
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Incheon",
+          "zip": "405 760",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.45646,
+            "lon": 126.70515
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Seoul",
+          "zip": "03080",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Seoul",
+          "zip": "03722",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Seoul",
+          "zip": "07061",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Seoul",
+          "zip": "07441",
+          "country": "South Korea",
+          "geoPoint": {
+            "lat": 37.566,
+            "lon": 126.9784
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Barcelona",
+          "state": "Catalonia",
+          "zip": "08003",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Barcelona",
+          "state": "Catalonia",
+          "zip": "08035",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Alicante",
+          "state": "Valencia",
+          "zip": "03010",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 38.34517,
+            "lon": -0.48149
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Valencia",
+          "state": "Valencia",
+          "zip": "46015",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 39.47391,
+            "lon": -0.37966
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Las Palmas de Gran Canaria",
+          "zip": "35010",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 28.10178,
+            "lon": -15.41573
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Madrid",
+          "zip": "280796",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Valencia",
+          "zip": "46026",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 39.47391,
+            "lon": -0.37966
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Taipei",
+          "zip": "10002",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 25.05306,
+            "lon": 121.52639
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Taipei",
+          "zip": "11217",
+          "country": "Taiwan",
+          "geoPoint": {
+            "lat": 25.05306,
+            "lon": 121.52639
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Aydin",
+          "zip": "09100",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 37.84501,
+            "lon": 27.83963
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Istanbul",
+          "zip": "34662",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 41.01384,
+            "lon": 28.94966
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Izmir",
+          "zip": "35100",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 38.41273,
+            "lon": 27.13838
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Izmir",
+          "zip": "35380",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 38.41273,
+            "lon": 27.13838
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Izmir",
+          "zip": "35620",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 38.41273,
+            "lon": 27.13838
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Kayseri",
+          "zip": "38070",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 38.73222,
+            "lon": 35.48528
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Sakarya",
+          "zip": "54290",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 39.50333,
+            "lon": 32.07583
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Samsun",
+          "zip": "55139",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 41.27976,
+            "lon": 36.3361
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Talas Kayseri",
+          "zip": "38039",
+          "country": "Turkey (T\u00fcrkiye)"
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "40043237",
+          "type": "DERIVED",
+          "citation": "Metz M, Gimenez-Arnau A, Hide M, Lebwohl M, Mosnaim G, Saini S, Sussman G, Szalewski R, Haemmerle S, Lheritier K, Martzloff ED, Seko N, Wang P, Zharkov A, Maurer M; REMIX-1 and REMIX-2 Investigators; REMIX-1 Investigators; REMIX-2 Investigators. Remibrutinib in Chronic Spontaneous Urticaria. N Engl J Med. 2025 Mar 6;392(10):984-994. doi: 10.1056/NEJMoa2408792."
+        }
+      ],
+      "seeAlsoLinks": [
+        {
+          "label": "A Plain Language Trial Summary is available on www.novctrd.com",
+          "url": "https://www.novctrd.com/ctrdweb/patientsummary/patientsummaries?patientSummaryId=2429"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Novartis is committed to sharing access to patient-level data and supporting clinical documents from eligible studies with qualified external researchers. Requests are reviewed and approved by an independent review panel on the basis of scientific merit. All data provided is anonymized to protect the privacy of patients who have participated in the trial in line with applicable laws and regulations.\n\nThis trial data availability is according to the criteria and process described on www.clinicalstudydatarequest.com"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "The study was conducted globally across 18 countries. Participants underwent a screening period of up to 4 weeks.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "LOU064 25mg b.i.d.",
+          "description": "Patients initially randomized to Remibrutinib during the Double-blind treatment period and continued Remibrutinib during the Open-label treatment period (Up to Week 52)"
+        },
+        {
+          "id": "FG001",
+          "title": "Placebo",
+          "description": "Patients initially randomized to Placebo (Up to Week 24)"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "comment": "All randomized patients, regardless of whether or not they received a dose of study drug.",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "313"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "157"
+                }
+              ]
+            },
+            {
+              "type": "Safety Set",
+              "comment": "All patients who received at least one dose of study treatment, whether or not randomized.",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "309"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "153"
+                }
+              ]
+            },
+            {
+              "type": "Full Analysis Set (FAS)",
+              "comment": "All patients to whom study treatment was assigned by randomization. Mis-randomized patients were excluded from FAS.",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "309"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "153"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "251"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "124"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "62"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "33"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Technical problems",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "31"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "17"
+                }
+              ]
+            },
+            {
+              "type": "Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "13"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "5"
+                }
+              ]
+            },
+            {
+              "type": "Unsatisfactory therapeutic effect",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "4"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "3"
+                }
+              ]
+            },
+            {
+              "type": "Physician Decision",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "5"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "5"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Protocol Violation",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "4"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "LOU064 25mg b.i.d.",
+          "description": "Patients initially randomized to Remibrutinib during the Double-blind treatment period and continued Remibrutinib during the Open-label treatment period (Up to Week 52)"
+        },
+        {
+          "id": "BG001",
+          "title": "Placebo",
+          "description": "Patients initially randomized to Placebo (Up to Week 24)"
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "313"
+            },
+            {
+              "groupId": "BG001",
+              "value": "157"
+            },
+            {
+              "groupId": "BG002",
+              "value": "470"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "Years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "44.6",
+                      "spread": "14.27"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "45.9",
+                      "spread": "13.44"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45",
+                      "spread": "13.99"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Age, Customized",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": ">= 18 - < 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "282"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "143"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "425"
+                    }
+                  ]
+                },
+                {
+                  "title": ">= 65 - < 85 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "31"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "14"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    }
+                  ]
+                },
+                {
+                  "title": ">= 85 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "212"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "109"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "321"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "101"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "48"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "149"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "76"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "44"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "120"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "237"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "113"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "350"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "14"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "26"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "94"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "140"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "15"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "188"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "89"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "277"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "8"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Change From Baseline in Weekly Urticaria Score (UAS7) at Week 12 (Scenario 1 With UAS7 as Primary Efficacy Endpoint)",
+          "description": "The Weekly Urticaria Activity Score (UAS7) is a simple scoring system to evaluate urticaria signs and symptoms. It is based on scoring wheals (hive severity score) and itch (itch severity score) separately on a scale of 0 (no signs/symptoms) to 3 (intense signs/symptoms) over 7 days. The final score is calculated by adding together the daily scores, which can range from 0 to 6, for 7 days. This results in a maximum total score of 42 (highest urticaria severity), and a minimum possible score of 0.\n\nThis endpoint is a secondary endpoint for testing strategy Scenario 2 with Weekly Itch Severity Score (ISS7) and Weekly Hives Severity Score (HSS7) as co-primary efficacy endpoints).",
+          "populationDescription": "Full Analysis Set (FAS)",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "Scores on a scale",
+          "timeFrame": "Baseline, Week 12",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "LOU064 25mg b.i.d.",
+              "description": "Patients initially randomized to Remibrutinib during the Double-blind treatment period and continued Remibrutinib during the Open-label treatment period (Up to Week 52)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Patients initially randomized to Placebo (Up to Week 24)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "309"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "153"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-20.02",
+                      "spread": "0.716"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-13.79",
+                      "spread": "0.980"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.001",
+              "statisticalMethod": "Mixed Models Analysis",
+              "paramType": "Mean Difference (Final Values)",
+              "paramValue": "-6.22",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-8.45",
+              "ciUpperLimit": "-4.00",
+              "dispersionType": "STANDARD_ERROR_OF_MEAN",
+              "dispersionValue": "1.136",
+              "estimateComment": "MMRM adjusting for treatment arm, geographical region, prior exposure to anti-IgE biologics, visit week, baseline score and both interaction of treatment by visit week and interaction of baseline score by visit week."
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Change From Baseline in Weekly Itch Severity Score (ISS7) at Week 12 (Scenario 2 With ISS7 and HSS7 as Co-primary Efficacy Endpoints)",
+          "description": "The severity of the itch was recorded by the participant twice daily in their electronic Diary, on a scale of 0 (none) to 3 (severe). A weekly score (ISS7) was derived by adding up the average daily scores of the 7 days preceding the visit. The possible range of the weekly score was therefore 0 - 21 (highest itch severity).\n\nThis endpoint is a secondary endpoint for testing strategy Scenario 1 with Weekly Urticaria Activity Score (UAS7) as the primary efficacy endpoint).",
+          "populationDescription": "Full Analysis Set (FAS)",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "Scores on a scale",
+          "timeFrame": "Baseline, Week 12",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "LOU064 25mg b.i.d.",
+              "description": "Patients initially randomized to Remibrutinib during the Double-blind treatment period and continued Remibrutinib during the Open-label treatment period (Up to Week 52)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Patients initially randomized to Placebo (Up to Week 24)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "309"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "153"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-9.52",
+                      "spread": "0.343"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-6.89",
+                      "spread": "0.470"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "ISS7 at Week 12 (Scenario 2 with ISS7 and HSS7 as co-primary efficacy endpoints)",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.001",
+              "statisticalMethod": "Mixed Models Analysis",
+              "paramType": "Mean Difference (Final Values)",
+              "paramValue": "-2.63",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-3.70",
+              "ciUpperLimit": "-1.56",
+              "dispersionType": "STANDARD_ERROR_OF_MEAN",
+              "dispersionValue": "0.544",
+              "estimateComment": "MMRM adjusting for treatment arm, geographical region, prior exposure to anti-IgE biologics, visit week, baseline score and both interaction of treatment by visit week and interaction of baseline score by visit week."
+            }
+          ]
+        },
+        {
+          "type": "PRIMARY",
+          "title": "Change From Baseline in Weekly Hives Severity Score (HSS7) at Week 12 (Scenario 2 With ISS7 and HSS7 as Co-primary Efficacy Endpoints)",
+          "description": "The hives (wheals) severity score, defined by number of hives, was recorded by the participant twice daily in their electronic Diary, on a scale of 0 (none) to 3 (\\> 12 hives/12 hours). A weekly score (HSS7) was derived by adding up the average daily scores of the 7 days preceding the visit. The possible range of the weekly score was therefore 0 - 21 (highest hives activity).\n\nThis endpoint is a secondary endpoint for testing strategy Scenario 1 with Weekly Urticaria Activity Score (UAS7) as the primary efficacy endpoint.",
+          "populationDescription": "Full Analysis Set (FAS)",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "Scores on a scale",
+          "timeFrame": "Baseline, Week 12",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "LOU064 25mg b.i.d.",
+              "description": "Patients initially randomized to Remibrutinib during the Double-blind treatment period and continued Remibrutinib during the Open-label treatment period (Up to Week 52)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Patients initially randomized to Placebo (Up to Week 24)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "309"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "153"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-10.47",
+                      "spread": "0.401"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-6.86",
+                      "spread": "0.548"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "HSS7 at Week 12 (Scenario 2 with ISS7 and HSS7 as co-primary efficacy endpoints)",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.001",
+              "statisticalMethod": "Mixed Models Analysis",
+              "paramType": "Mean Difference (Final Values)",
+              "paramValue": "-3.61",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-4.85",
+              "ciUpperLimit": "-2.36",
+              "dispersionType": "STANDARD_ERROR_OF_MEAN",
+              "dispersionValue": "0.635",
+              "estimateComment": "MMRM adjusting for treatment arm, geographical region, prior exposure to anti-IgE biologics, visit week, baseline score and both interaction of treatment by visit week and interaction of baseline score by visit week."
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Patients Who Achieved Disease Activity Control (UAS7 \u22646)",
+          "description": "The percentage of patients achieving disease activity control (UAS7 =\\< 6) at Week 12 was assessed to evaluate the efficacy of Remibrutinib in Chronic Spontaneous Urticaria (CSU) patients. The UAS7 is the sum of the Weekly Hives Severity Score (HSS7) and the Weekly Itch Severity Score (ISS7). The possible range of the UAS7 score is 0 - 42 (highest hives and itch severity).",
+          "populationDescription": "Full Analysis Set (FAS)",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Week 12",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "LOU064 25mg b.i.d.",
+              "description": "Patients initially randomized to Remibrutinib during the Double-blind treatment period and continued Remibrutinib during the Open-label treatment period (Up to Week 52)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Patients initially randomized to Placebo (Up to Week 24)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "309"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "153"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "154"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "38"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Disease activity control (UAS7 =\\< 6) at Week 12",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.001",
+              "statisticalMethod": "Regression, Logistic",
+              "statisticalComment": "Logistic regression adjusting for treatment arm, geographical region, prior exposure to anti-IgE biologics, and baseline UAS7 score.",
+              "paramType": "Odds Ratio (OR)",
+              "paramValue": "3.11",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "2.00",
+              "ciUpperLimit": "4.84"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Patients Who Achieved Complete Absence of Hives and Itch (UAS7 = 0)",
+          "description": "The number of patients achieving complete absence of hives and itch (UAS7 = 0) at Week 12 was assessed to evaluate the efficacy of Remibrutinib in Chronic Spontaneous Urticaria (CSU) patients. The UAS7 is the sum of the Weekly Hives Severity Score (HSS7) and the Weekly Itch Severity Score (ISS7). The possible range of the UAS7 score is 0 - 42 (highest hives and itch severity).",
+          "populationDescription": "Full Analysis Set (FAS)",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Week 12",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "LOU064 25mg b.i.d.",
+              "description": "Patients initially randomized to Remibrutinib during the Double-blind treatment period and continued Remibrutinib during the Open-label treatment period (Up to Week 52)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Patients initially randomized to Placebo (Up to Week 24)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "309"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "153"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "96"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "16"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Complete absence of hives and itch (UAS7 = 0) at Week 12",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.001",
+              "statisticalMethod": "Regression, Logistic",
+              "statisticalComment": "Logistic regression adjusting for treatment arm, geographical region, prior exposure to anti-IgE biologics, and baseline UAS7 score.",
+              "paramType": "Odds Ratio (OR)",
+              "paramValue": "3.83",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "2.16",
+              "ciUpperLimit": "6.82"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Patients With Early Onset of Disease Control (UAS7 \u2264 6 at Week 2)",
+          "description": "The percentage of patients achieving disease activity control (UAS7 =\\< 6) at Week 2 was assessed to evaluate the efficacy of Remibrutinib in Chronic Spontaneous Urticaria (CSU) patients. The UAS7 is the sum of the Weekly Hives Severity Score (HSS7) and the Weekly Itch Severity Score (ISS7). The possible range of the UAS7 score is 0 - 42 (highest hives and itch severity).",
+          "populationDescription": "Full Analysis Set (FAS)",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Week 2",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "LOU064 25mg b.i.d.",
+              "description": "Patients initially randomized to Remibrutinib during the Double-blind treatment period and continued Remibrutinib during the Open-label treatment period (Up to Week 52)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Patients initially randomized to Placebo (Up to Week 24)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "309"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "153"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "104"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.001",
+              "statisticalMethod": "Regression, Logistic",
+              "paramType": "Odds Ratio (OR)",
+              "paramValue": "15.67",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "6.18",
+              "ciUpperLimit": "39.77",
+              "estimateComment": "Statistical model used logistic regression adjusting for treatment arm, geographical region, prior exposure to anti-IgE biologics, and baseline UAS7 score."
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Cumulative Number of Weeks With Disease Activity Control (UAS7 <= 6) up to Week 12",
+          "description": "Maintaining disease activity control was assessed as cumulative number of weeks with an UAS7 =\\< 6 response between baseline and Week 12. The UAS7 is the sum of the Weekly Hives Severity Score (HSS7) and the Weekly Itch Severity Score (ISS7). The possible range of the UAS7 score is 0 - 42 (highest hives and itch severity).",
+          "populationDescription": "Full Analysis Set (FAS)",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "weeks",
+          "timeFrame": "up to Week 12",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "LOU064 25mg b.i.d.",
+              "description": "Patients initially randomized to Remibrutinib during the Double-blind treatment period and continued Remibrutinib during the Open-label treatment period (Up to Week 52)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Patients initially randomized to Placebo (Up to Week 24)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "309"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "153"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5.17",
+                      "spread": "0.414"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1.92",
+                      "spread": "0.241"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.001",
+              "statisticalMethod": "Negative binomial regression model",
+              "statisticalComment": "Negative binomial regression model with log link, using treatment arm, geographical region, and prior exposure to anti-IgE biologics as covariates.",
+              "paramType": "Rate ratio",
+              "paramValue": "2.69",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "2.01",
+              "ciUpperLimit": "3.61"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Patients Who Achieved DLQI = 0 - 1",
+          "description": "The Dermatology Life Quality Index (DLQI) is a 10-item (grouped in 6 domains) dermatology-specific quality of life (QoL) measure. Participants are rating their dermatology symptoms as well as the impact of their skin condition on various aspects of their lives thinking about the previous 7 days. An overall score is calculated and ranges from 0 to 30 (higher score meaning worse disease-related QoL). Domain scores are calculated for: Symptoms and Feelings (0-6), Daily Activities (0-6), Leisure (0-6), Work and School (0-3), Personal Relationships (0-6), Treatment (0-3). The overall DLQI score range was split into score bands and validated in terms of their meaning/relevance to patients overall. DLQI = 0-1 means no effect on patient's life.",
+          "populationDescription": "Full Analysis Set (FAS) - for patients with a valid measurement without a protocol deviation with impact.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Week 12",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "LOU064 25mg b.i.d.",
+              "description": "Patients initially randomized to Remibrutinib during the Double-blind treatment period and continued Remibrutinib during the Open-label treatment period (Up to Week 52)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Patients initially randomized to Placebo (Up to Week 24)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "308"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "153"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "120"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "34"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.001",
+              "statisticalMethod": "Regression, Logistic",
+              "paramType": "Odds Ratio (OR)",
+              "paramValue": "2.44",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "1.53",
+              "ciUpperLimit": "3.90",
+              "estimateComment": "Statistical model used logistic regression adjusting for treatment arm, geographical region, prior exposure to anti-IgE biologics and baseline DLQI score."
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Cumulative Number of Weeks Without Angioedema (AAS7 = 0)",
+          "description": "Angioedema occurrence was recorded once daily in the evening in the electronic Diary by the participant. Reporting the occurrence of angioedema was used as opening question for the assessment of the Angioedema Activity Score (AAS). The AAS consists of 5 questions with 4 answer options (scored 0-3) for each item, with a minimum score of 0 and a maximum score of 15 per day. The AAS score over 7 days (AAS7) ranges from 0 (no angioedema episodes) to 105 (highest angioedema severity).",
+          "populationDescription": "Full Analysis Set (FAS)",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "Weeks",
+          "timeFrame": "Up to Week 12",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "LOU064 25mg b.i.d.",
+              "description": "Patients initially randomized to Remibrutinib during the Double-blind treatment period and continued Remibrutinib during the Open-label treatment period (Up to Week 52)"
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Patients initially randomized to Placebo (Up to Week 24)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "309"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "153"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "8.43",
+                      "spread": "0.274"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "6.72",
+                      "spread": "0.330"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "groupDescription": "Angioedema occurrence-free weeks (AAS7 = 0 response) up to Week 12",
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "<0.001",
+              "statisticalMethod": "Regression, Linear",
+              "paramType": "Rate ratio",
+              "paramValue": "1.25",
+              "ciPctValue": "95",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "1.12",
+              "ciUpperLimit": "1.41",
+              "estimateComment": "Statistical model used a negative binomial regression with log link included treatment arm as fixed effect, geographical region, prior exposure to anti-IgE biologics, baseline AAS7 = 0 response as covariates."
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Adverse Events",
+          "description": "An adverse event (AE) is any untoward medical occurrence (e.g., any unfavorable and unintended sign \\[including abnormal laboratory findings\\], symptom or disease) in a clinical investigation participant after providing written informed consent for participation in the study. Therefore, an AE may or may not be temporally or causally associated with the use of a medicinal (investigational) product.",
+          "populationDescription": "Safety Set (SAF)",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "On-treatment adverse events are reported from first dose of study medication up to 28 days after last dose of study medication, for a timeframe up to approximately 56 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Double-blind Treatment Period: LOU064 25 mg b.i.d.",
+              "description": "Patients initially randomized to Remibrutinib (Up to Week 24)"
+            },
+            {
+              "id": "OG001",
+              "title": "Double-blind Treatment Period: Placebo",
+              "description": "Patients initially randomized to Placebo (Up to Week 24)"
+            },
+            {
+              "id": "OG002",
+              "title": "Entire Study Period: LOU064 25mg b.i.d.",
+              "description": "Patients initially randomized to Remibrutinib during the Double-blind treatment period and continued Remibrutinib during the Open-label treatment period (Up to Week 52)"
+            },
+            {
+              "id": "OG003",
+              "title": "Open-label Period: Transitioned to LOU064 25 mg b.i.d.",
+              "description": "Patients initially randomized to placebo during the Double-blind treatment period and switched to Remibrutinib during the Open-label treatment period (Weeks 25-52)"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "309"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "153"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "309"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "133"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Patients with at least one AE",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "188"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "86"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "218"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "62"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Patients with serious or other significant events - Death",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Patients with serious or other significant events - SAEs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Discontinued study treatment due to any AEs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Patients with serious or other significant events - Discontinued study treatment due to any SAEs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Patients with serious or other significant events - Treatment interruption due to AEs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "17"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Patients with serious or other significant events - Treatment interruption due to SAEs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "3",
+      "timeFrame": "On-treatment adverse events are reported from first dose of study medication up to 28 days after last dose of study medication, for a timeframe up to approximately 56 weeks",
+      "description": "Any sign or symptom that occurred during the conduct of the trial and safety follow-up. The safety analysis were done on the safety population, which included all randomized subjects who received at least one dose of study medication.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "LOU064 25mg b.i.d.",
+          "description": "Patients initially randomized to Remibrutinib during the Double-blind treatment period and continued Remibrutinib during the Open-label treatment period (Up to Week 52)",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 309,
+          "seriousNumAffected": 13,
+          "seriousNumAtRisk": 309,
+          "otherNumAffected": 139,
+          "otherNumAtRisk": 309
+        },
+        {
+          "id": "EG001",
+          "title": "Placebo",
+          "description": "Patients initially randomized to Placebo (Up to Week 24)",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 153,
+          "seriousNumAffected": 1,
+          "seriousNumAtRisk": 153,
+          "otherNumAffected": 53,
+          "otherNumAtRisk": 153
+        },
+        {
+          "id": "EG002",
+          "title": "Transitioned to LOU064 25mg b.i.d.",
+          "description": "Patients initially randomized to placebo during the Double-blind treatment period and switched to Remibrutinib during the Open-label treatment period (Weeks 25-52)",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 133,
+          "seriousNumAffected": 1,
+          "seriousNumAtRisk": 133,
+          "otherNumAffected": 26,
+          "otherNumAtRisk": 133
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Angina pectoris",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "Cardiac failure congestive",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "Gastrointestinal wall thickening",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "Cholecystitis",
+          "organSystem": "Hepatobiliary disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "Appendicitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "COVID-19",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "Face injury",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "Diabetic ketoacidosis",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "Hypokalaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "Back pain",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "Spondylolisthesis",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "Benign renal neoplasm",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "Mucinous adenocarcinoma of appendix",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "Small intestine adenocarcinoma",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "Abortion spontaneous",
+          "organSystem": "Pregnancy, puerperium and perinatal conditions",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 1,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "Pleuritic pain",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "Chronic spontaneous urticaria",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 133
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Diarrhoea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 11,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 7,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 2,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "Nausea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 11,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 3,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "Pyrexia",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 10,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 3,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 1,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "COVID-19",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 31,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 14,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 6,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "Influenza",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 10,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 2,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 4,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "Nasopharyngitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 22,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 5,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 6,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "Upper respiratory tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 12,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 2,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 3,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "Urinary tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 17,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 4,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 1,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "Arthralgia",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 9,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 5,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 2,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "Headache",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 25,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 11,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 3,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "Cough",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 12,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 2,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 0,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "Petechiae",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 11,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 2,
+              "numAtRisk": 133
+            }
+          ]
+        },
+        {
+          "term": "Urticaria",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA (26.1)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 11,
+              "numAtRisk": 309
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 8,
+              "numAtRisk": 153
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 2,
+              "numAtRisk": 133
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "The terms and conditions of Novartis' agreements with its investigators may vary. However, Novartis does not prohibit any investigator from publishing. Any publications from a single-site are postponed until the publication of the pooled data (i.e., data from all sites) in the clinical trial."
+      },
+      "pointOfContact": {
+        "title": "Study Director",
+        "organization": "Novartis Pharmaceuticals",
+        "email": "Novartis.email@Novartis.com",
+        "phone": "+ 1 862 778 8300"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2022-05-23",
+          "uploadDate": "2024-10-18T09:50",
+          "filename": "Prot_000.pdf",
+          "size": 2313684
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2024-01-25",
+          "uploadDate": "2024-10-18T09:50",
+          "filename": "SAP_001.pdf",
+          "size": 926211
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-04-08",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2024-11-14",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000080223",
+          "term": "Chronic Urticaria"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014581",
+          "term": "Urticaria"
+        },
+        {
+          "id": "D017445",
+          "term": "Skin Diseases, Vascular"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D006969",
+          "term": "Hypersensitivity, Immediate"
+        },
+        {
+          "id": "D006967",
+          "term": "Hypersensitivity"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C000722911",
+          "term": "remibrutinib"
+        }
+      ]
+    }
+  },
+  "hasResults": true,
+  "_meta": {
+    "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT05030311",
+    "fetched_at": "2026-04-09T00:59:09.835590+00:00"
+  }
+}

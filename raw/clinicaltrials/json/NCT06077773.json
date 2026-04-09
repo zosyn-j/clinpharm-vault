@@ -1,0 +1,2510 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06077773",
+      "orgStudyIdInfo": {
+        "id": "EP-262-201"
+      },
+      "organization": {
+        "fullName": "Escient Pharmaceuticals, Inc",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Phase 2, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Effects of EP262 in Subjects With Chronic Spontaneous Urticaria",
+      "officialTitle": "Phase 2, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Effects of EP262 in Subjects With Chronic Spontaneous Urticaria (CALM-CSU)",
+      "acronym": "CALM-CSU"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-11",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "Strategic Business Decision",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-09-25",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2024-12-18",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2025-01-16",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-10-05",
+      "studyFirstSubmitQcDate": "2023-10-05",
+      "studyFirstPostDateStruct": {
+        "date": "2023-10-11",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2025-11-24",
+      "resultsFirstSubmitQcDate": "2025-11-24",
+      "resultsFirstPostDateStruct": {
+        "date": "2025-12-05",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-12-04",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-12-19",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Escient Pharmaceuticals, Inc",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Phase 2, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Effects of EP262 in Subjects with Chronic Spontaneous Urticaria"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ],
+      "keywords": [
+        "Chronic Spontaneous Urticaria",
+        "Chronic Urticaria",
+        "Urticaria",
+        "EP262",
+        "CALM-CSU",
+        "CALM"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "DOUBLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "INVESTIGATOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 113,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "EP262 50 mg",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Drug: Oral EP262"
+          ]
+        },
+        {
+          "label": "EP262 150 mg",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Drug: Oral EP262"
+          ]
+        },
+        {
+          "label": "Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "interventionNames": [
+            "Drug: Placebo"
+          ]
+        },
+        {
+          "label": "EP262 25 mg",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Drug: Oral EP262"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Oral EP262",
+          "description": "Once daily",
+          "armGroupLabels": [
+            "EP262 150 mg",
+            "EP262 25 mg",
+            "EP262 50 mg"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo",
+          "description": "Once daily",
+          "armGroupLabels": [
+            "Placebo"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change From Baseline to Visit 4 (Week 6) in the Urticaria Activity Score Over a 7-day Period (UAS7)",
+          "description": "The UAS is a chronic spontaneous urticaria (CSU)-specific, 24-hour self-evaluation, patient-reported outcome measure based on the assessment of key CSU symptoms: intensity of itch (assessed as the Itch Severity Score \\[ISS\\]) and number of wheals (assessed as the Hive Severity Score \\[HSS\\]). The UAS scales for both itch and wheal assessment are recorded as a score from 0 to 3, with 0 representing no itch/hives to 3 representing intense itch/hives. ISS and HSS scores are summed over 7 consecutive days to create the ISS7 and HSS7 scores, which range from 0 to 21. Higher scores indicate greater disease severity. The UAS score is the sum of the ISS and HSS scores. Daily UAS scores are summed over 7 consecutive days to create the UAS7 score, which ranges from 0 to 42. Higher scores indicate greater disease severity. The 7 daily UAS/ISS/HSS scores prior to or on the nominal Visit 4 (Week 6) date (including the nominal Week 6 visit date UAS/ISS/HSS score) were summed.",
+          "timeFrame": "Baseline; Week 6"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Number of Participants With Any Treatment-emergent Adverse Event (TEAE)",
+          "description": "An adverse event (AE) was defined as any untoward medical occurrence in a participant administered a pharmaceutical product and which does not necessarily have a causal relationship with this treatment. An AE could therefore have been any unfavorable or unintended sign (including a clinically significant abnormal laboratory finding), symptom, or disease temporally associated with the use of a medicinal (investigational) product. Medical conditions present at baseline that worsened in severity or frequency after exposure to study drug were considered TEAEs. A TEAE was any condition that was not present prior to treatment with the study drug but appeared following treatment, was present at treatment initiation but worsened during treatment, or was present at treatment initiation but resolved and then reappeared while the individual was on treatment (regardless of the intensity of the AE when the treatment was initiated).",
+          "timeFrame": "up to 81 days"
+        },
+        {
+          "measure": "Number of Participants With Any \u2265Grade 3 TEAE",
+          "description": "An AE was any untoward medical occurrence in a participant administered a pharmaceutical product and which does not necessarily have a causal relationship with this treatment. An AE could therefore have been any unfavorable or unintended sign (including a clinically significant abnormal laboratory finding), symptom, or disease temporally associated with the use of a medicinal (investigational) product. Medical conditions present at baseline that worsened in severity or frequency after exposure to study drug were considered TEAEs. TEAEs were graded for severity (i.e., intensity) using Common Terminology Criteria for Adverse Events (CTCAE), version 5.0. Grade 1: mild; asymptomatic or mild symptoms; intervention not indicated. Grade 2: moderate; minimal, local or noninvasive intervention indicated. Grade 3: severe or medically significant, but not immediately life-threatening. Grade 4: life-threatening consequences; urgent intervention indicated. Grade 5: death related to TEAE.",
+          "timeFrame": "up to 81 days"
+        },
+        {
+          "measure": "Number of Participants With Any Clinically Meaningful Change From Baseline in Electrocardiogram Parameters",
+          "description": "Clinically meaningful changes were determined by the investigator.",
+          "timeFrame": "up to 81 days"
+        },
+        {
+          "measure": "Number of Participants With Any Clinically Meaningful Change From Baseline in Vital Sign Measurements",
+          "description": "Clinically meaningful changes were determined by the investigator.",
+          "timeFrame": "up to 81 days"
+        },
+        {
+          "measure": "Number of Participants With Any Clinically Meaningful Change From Baseline in Clinical Laboratory Test Results",
+          "description": "Clinically meaningful changes were determined by the investigator.",
+          "timeFrame": "up to 81 days"
+        },
+        {
+          "measure": "Change From Baseline to Visit 4 (Week 6) in the Itch Severity Score Over a 7-day Period (ISS7)",
+          "description": "The ISS is part of the UAS, a CSU-specific, 24-hour self-evaluation, patient-reported outcome measure based on the assessment of key CSU symptoms: intensity of itch (assessed as the ISS) and number of wheals (assessed as the HSS). The UAS scale for itch is recorded as a score from 0 to 3, with 0 representing no itch to 3 representing intense itch. ISS scores are summed over 7 consecutive days to create the ISS7 score, which ranges from 0 to 21. Higher scores indicate greater disease severity. The 7 daily ISS scores prior to or on the nominal Visit 4 (Week 6) date (including the nominal Week 6 visit date ISS score) were summed. Change from Baseline was calculated as the post-Baseline value minus the Baseline value.",
+          "timeFrame": "Baseline; Week 6"
+        },
+        {
+          "measure": "Change From Baseline to Visit 4 (Week 6) in the Hive Severity Score Over a 7-day Period (HSS7)",
+          "description": "The HSS is part of the UAS, a CSU-specific, 24-hour self-evaluation, patient-reported outcome measure based on the assessment of key CSU symptoms: intensity of itch (assessed as the ISS) and number of wheals (assessed as the HSS). The UAS scale for wheal assessment is recorded as a score from 0 to 3, with 0 representing no hives to 3 representing intense hives. HSS scores are summed over 7 consecutive days to create the HSS7 score, which ranges from 0 to 21. Higher scores indicate greater disease severity. The 7 daily HSS scores prior to or on the nominal Visit 4 (Week 6) date (including the nominal Week 6 visit date HSS score) were summed. Change from Baseline was calculated as the post-Baseline value minus the Baseline value.",
+          "timeFrame": "Baseline; Week 6"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Documented history of chronic spontaneous urticaria (CSU) with a UAS7 greater than or equal to 16 despite stable treatment with H1 antihistamine consistent with standard of care\n* Must be on a stable dose of H1 antihistamine up to 4 times the approved dose per local treatment guidelines\n\nExclusion Criteria:\n\n* Urticaria with a clear underlying etiology other than CSU\n* Urticaria with a clearly defined or sole trigger (chronic inducible urticaria)\n* Other active skin diseases associated with chronic pruritus (eg, atopic dermatitis, bullous pemphigoid, prurigo nodularis, dermatitis herpetiformis)",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "80 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "AllerVie Clinical Research",
+          "city": "Birmingham",
+          "state": "Alabama",
+          "zip": "35209",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.52066,
+            "lon": -86.80249
+          }
+        },
+        {
+          "facility": "Scottsdale Clinical Trials",
+          "city": "Scottsdale",
+          "state": "Arizona",
+          "zip": "85260",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.50921,
+            "lon": -111.89903
+          }
+        },
+        {
+          "facility": "Little Rock Allergy & Asthma Clinical Research Center",
+          "city": "Little Rock",
+          "state": "Arkansas",
+          "zip": "72205",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.74648,
+            "lon": -92.28959
+          }
+        },
+        {
+          "facility": "First OC Dermatology Research, Inc.",
+          "city": "Fountain Valley",
+          "state": "California",
+          "zip": "92708",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.70918,
+            "lon": -117.95367
+          }
+        },
+        {
+          "facility": "Allergy and Asthma Specialists Medical Group",
+          "city": "Huntington Beach",
+          "state": "California",
+          "zip": "92647",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.6603,
+            "lon": -117.99923
+          }
+        },
+        {
+          "facility": "Antelope Valley Clinical Trials",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90025",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.05223,
+            "lon": -118.24368
+          }
+        },
+        {
+          "facility": "Allervie Clinical Research",
+          "city": "Destin",
+          "state": "Florida",
+          "zip": "32541",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 30.39353,
+            "lon": -86.49578
+          }
+        },
+        {
+          "facility": "University of Miami Itch Center",
+          "city": "Miami",
+          "state": "Florida",
+          "zip": "33136",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.77427,
+            "lon": -80.19366
+          }
+        },
+        {
+          "facility": "Florida Center for Allergy and Asthma Research",
+          "city": "Miami",
+          "state": "Florida",
+          "zip": "33186",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.77427,
+            "lon": -80.19366
+          }
+        },
+        {
+          "facility": "NuLine Clinical Trial Center",
+          "city": "Pompano Beach",
+          "state": "Florida",
+          "zip": "33060",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.23786,
+            "lon": -80.12477
+          }
+        },
+        {
+          "facility": "Advanced Clinical Research Institute",
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33607",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.94752,
+            "lon": -82.45843
+          }
+        },
+        {
+          "facility": "University of South Florida",
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33612",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.94752,
+            "lon": -82.45843
+          }
+        },
+        {
+          "facility": "Treasure Valley Medical Research",
+          "city": "Boise",
+          "state": "Idaho",
+          "zip": "83706",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.6135,
+            "lon": -116.20345
+          }
+        },
+        {
+          "facility": "Dawes Fretzin Clinical Research Group, LLC",
+          "city": "Indianapolis",
+          "state": "Indiana",
+          "zip": "46250",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.76838,
+            "lon": -86.15804
+          }
+        },
+        {
+          "facility": "Southern Indiana Clinical Trials",
+          "city": "New Albany",
+          "state": "Indiana",
+          "zip": "47150",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.28562,
+            "lon": -85.82413
+          }
+        },
+        {
+          "facility": "The Indiana Clinical Trials Center",
+          "city": "Plainfield",
+          "state": "Indiana",
+          "zip": "46168",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.70421,
+            "lon": -86.39944
+          }
+        },
+        {
+          "facility": "Velocity Clinical Research, Overland Park, KC Asthma & Allergy",
+          "city": "Overland Park",
+          "state": "Kansas",
+          "zip": "66210",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.98223,
+            "lon": -94.67079
+          }
+        },
+        {
+          "facility": "Allergy & Asthma Specialists, P.S.C.",
+          "city": "Owensboro",
+          "state": "Kentucky",
+          "zip": "42301",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.77422,
+            "lon": -87.11333
+          }
+        },
+        {
+          "facility": "Johns Hopkins University",
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21224",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.29038,
+            "lon": -76.61219
+          }
+        },
+        {
+          "facility": "Chesapeake Clinical Research, Inc.",
+          "city": "White Marsh",
+          "state": "Maryland",
+          "zip": "21162",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.38372,
+            "lon": -76.43218
+          }
+        },
+        {
+          "facility": "The Clinical Research Center LLC",
+          "city": "St Louis",
+          "state": "Missouri",
+          "zip": "63141",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.62727,
+            "lon": -90.19789
+          }
+        },
+        {
+          "facility": "Montana Medical Research, Inc.",
+          "city": "Missoula",
+          "state": "Montana",
+          "zip": "59808",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 46.87215,
+            "lon": -113.994
+          }
+        },
+        {
+          "facility": "Las Vegas Clinical Trials",
+          "city": "North Las Vegas",
+          "state": "Nevada",
+          "zip": "89030",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.19886,
+            "lon": -115.1175
+          }
+        },
+        {
+          "facility": "Corning Center for Clinical Research",
+          "city": "Horseheads",
+          "state": "New York",
+          "zip": "14845",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.16702,
+            "lon": -76.82051
+          }
+        },
+        {
+          "facility": "Bobby Buka MD, PC",
+          "city": "New York",
+          "state": "New York",
+          "zip": "11211",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        },
+        {
+          "facility": "Allergy Partners Clinical Research",
+          "city": "Asheville",
+          "state": "North Carolina",
+          "zip": "28803",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.60095,
+            "lon": -82.55402
+          }
+        },
+        {
+          "facility": "Bernstein Clinical Research Center, LLC",
+          "city": "Cincinnati",
+          "state": "Ohio",
+          "zip": "45236",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.12711,
+            "lon": -84.51439
+          }
+        },
+        {
+          "facility": "Toledo Institute of Clinical Research Inc.",
+          "city": "Toledo",
+          "state": "Ohio",
+          "zip": "43617",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.66394,
+            "lon": -83.55521
+          }
+        },
+        {
+          "facility": "Vital Prospects Clinical Research Institute, PC",
+          "city": "Tulsa",
+          "state": "Oklahoma",
+          "zip": "74136",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.15398,
+            "lon": -95.99277
+          }
+        },
+        {
+          "facility": "Allergy and Clinical Immunology Associates",
+          "city": "Pittsburgh",
+          "state": "Pennsylvania",
+          "zip": "15241",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.44062,
+            "lon": -79.99589
+          }
+        },
+        {
+          "facility": "Clinical Partners, LLC",
+          "city": "Johnston",
+          "state": "Rhode Island",
+          "zip": "02919",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.82186,
+            "lon": -71.50675
+          }
+        },
+        {
+          "facility": "National Allergy and Asthma Research, LLC.",
+          "city": "North Charleston",
+          "state": "South Carolina",
+          "zip": "29420",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.85462,
+            "lon": -79.97481
+          }
+        },
+        {
+          "facility": "Progressive Clinical Research, PA",
+          "city": "San Antonio",
+          "state": "Texas",
+          "zip": "78213",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.42412,
+            "lon": -98.49363
+          }
+        },
+        {
+          "facility": "Allergy Associates of Utah",
+          "city": "Murray",
+          "state": "Utah",
+          "zip": "84107",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.66689,
+            "lon": -111.88799
+          }
+        },
+        {
+          "facility": "Red Maple Trials Inc.",
+          "city": "Ottawa",
+          "state": "Ontario",
+          "zip": "K1H1E4",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 45.41117,
+            "lon": -75.69812
+          }
+        },
+        {
+          "facility": "Evidence Based Medical Educator Inc",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M5G 1E2",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.70643,
+            "lon": -79.39864
+          }
+        },
+        {
+          "facility": "Centre de Recherche Saint-Louis",
+          "city": "Qu\u00e9bec",
+          "state": "Quebec",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 46.81228,
+            "lon": -71.21454
+          }
+        },
+        {
+          "facility": "Medizinische Hochschule Hannover",
+          "city": "Hanover",
+          "state": "Lower Saxony",
+          "zip": "30625",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.37052,
+            "lon": 9.73322
+          }
+        },
+        {
+          "facility": "Universitatsmedizin Mainz der Johannes Gutenberg-Universitat",
+          "city": "Mainz",
+          "state": "Rhineland-Palatinate",
+          "zip": "55131",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 49.98185,
+            "lon": 8.28008
+          }
+        },
+        {
+          "facility": "Universit\u00e4tsklinikum Carl Gustav Carus an der Technischen Universit\u00e4t Dresden",
+          "city": "Dresden",
+          "state": "Saxony",
+          "zip": "01307",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.05089,
+            "lon": 13.73832
+          }
+        },
+        {
+          "facility": "Institut fur Allergieforschung Charite - Universitatsmedizin Berlin",
+          "city": "Berlin",
+          "zip": "12203",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.52437,
+            "lon": 13.41053
+          }
+        },
+        {
+          "facility": "Centre for Human Drug Research",
+          "city": "Leiden",
+          "state": "South Holland",
+          "zip": "2333 CL",
+          "country": "Netherlands",
+          "geoPoint": {
+            "lat": 52.15833,
+            "lon": 4.49306
+          }
+        },
+        {
+          "facility": "Prywatna Praktyka Lekarska Ewa Ring",
+          "city": "Warsaw",
+          "state": "Masovian Voivodeship",
+          "zip": "02-482",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 52.22977,
+            "lon": 21.01178
+          }
+        },
+        {
+          "facility": "Pim Mswia",
+          "city": "Warsaw",
+          "state": "Masovian Voivodeship",
+          "zip": "02-507",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 52.22977,
+            "lon": 21.01178
+          }
+        },
+        {
+          "facility": "Centrum Badan Klinicznych PI-House Sp. z o.o.",
+          "city": "Gdansk",
+          "state": "Pomeranian Voivodeship",
+          "zip": "80-546",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 54.35227,
+            "lon": 18.64912
+          }
+        },
+        {
+          "facility": "Hospital del Mar",
+          "city": "Barcelona",
+          "zip": "08003",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Hospital Clinico San Carlos",
+          "city": "Madrid",
+          "zip": "28040",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Hospital Arnau de Vilanova",
+          "city": "Valencia",
+          "zip": "46015",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 39.47391,
+            "lon": -0.37966
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "UNDECIDED"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "This study was conducted at 33 study sites in the United States, Germany, Canada, Poland, Spain, and the Netherlands. The study was terminated following the completion of Part 1 due to business reasons; Part 2 was not enrolled.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Placebo",
+          "description": "Participants received matching placebo once daily for 6 weeks."
+        },
+        {
+          "id": "FG001",
+          "title": "EP262 50 mg",
+          "description": "Participants received oral EP262 50 milligrams (mg) once daily for 6 weeks."
+        },
+        {
+          "id": "FG002",
+          "title": "EP262 150 mg",
+          "description": "Participants received oral EP262 150 mg once daily for 6 weeks."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "38"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "37"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "38"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "37"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "36"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "35"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "3"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "0"
+                }
+              ]
+            },
+            {
+              "type": "Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Placebo",
+          "description": "Participants received matching placebo once daily for 6 weeks."
+        },
+        {
+          "id": "BG001",
+          "title": "EP262 50 mg",
+          "description": "Participants received oral EP262 50 milligrams (mg) once daily for 6 weeks."
+        },
+        {
+          "id": "BG002",
+          "title": "EP262 150 mg",
+          "description": "Participants received oral EP262 150 mg once daily for 6 weeks."
+        },
+        {
+          "id": "BG003",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "38"
+            },
+            {
+              "groupId": "BG001",
+              "value": "37"
+            },
+            {
+              "groupId": "BG002",
+              "value": "38"
+            },
+            {
+              "groupId": "BG003",
+              "value": "113"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "44.8",
+                      "spread": "16.1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "43.6",
+                      "spread": "14.2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45.4",
+                      "spread": "14.6"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "44.6",
+                      "spread": "14.9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "33"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "31"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "34"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "98"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "15"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "16"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "33"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "31"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "33"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "97"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "32"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "25"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "25"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "82"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "21"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "5"
+                    }
+                  ]
+                },
+                {
+                  "title": "Brazilian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "American Indian or Alaska Native/Black or African American/White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "American Indian or Alaska Native/White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Middle Eastern",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Urticaria Activity Score over a 7-day period",
+          "description": "The UAS is a 24-hour self-evaluation based on the assessment of itch intensity and number of wheals. The UAS scales for itch (Itch Severity Score \\[ISS\\]) and wheal assessment (Hive Intensity Score \\[HSS\\]) are recorded as a score from 0 (no itch/hives) to 3 (intense itch/hives). ISS and HSS scores are summed over 7 consecutive days to create the ISS7 and HSS7 scores, which range from 0 to 21. The UAS score is the sum of the ISS and HSS scores. Daily UAS scores are summed over 7 consecutive days to create the UAS7 score, which ranges from 0 to 42. Higher scores indicate greater disease severity.",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "scores on a scale",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "29.52",
+                      "spread": "8.081"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "25.88",
+                      "spread": "7.129"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "25.95",
+                      "spread": "8.399"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "27.13",
+                      "spread": "8.009"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Change From Baseline to Visit 4 (Week 6) in the Urticaria Activity Score Over a 7-day Period (UAS7)",
+          "description": "The UAS is a chronic spontaneous urticaria (CSU)-specific, 24-hour self-evaluation, patient-reported outcome measure based on the assessment of key CSU symptoms: intensity of itch (assessed as the Itch Severity Score \\[ISS\\]) and number of wheals (assessed as the Hive Severity Score \\[HSS\\]). The UAS scales for both itch and wheal assessment are recorded as a score from 0 to 3, with 0 representing no itch/hives to 3 representing intense itch/hives. ISS and HSS scores are summed over 7 consecutive days to create the ISS7 and HSS7 scores, which range from 0 to 21. Higher scores indicate greater disease severity. The UAS score is the sum of the ISS and HSS scores. Daily UAS scores are summed over 7 consecutive days to create the UAS7 score, which ranges from 0 to 42. Higher scores indicate greater disease severity. The 7 daily UAS/ISS/HSS scores prior to or on the nominal Visit 4 (Week 6) date (including the nominal Week 6 visit date UAS/ISS/HSS score) were summed.",
+          "populationDescription": "Full Analysis Set: all randomized participants who took \u22651 dose of randomized study drug. Participants were analyzed according to randomized treatment assignment. Only participants with available data were analyzed. Mixed model for repeated measures (MMRM) included fixed effects for treatment group, week, treatment group by week interaction, prior omalizumab use, and the Baseline score as a covariate. Change from Baseline was calculated as the post-Baseline value minus the Baseline value.",
+          "reportingStatus": "POSTED",
+          "paramType": "LEAST_SQUARES_MEAN",
+          "dispersionType": "Standard Error",
+          "unitOfMeasure": "scores on a scale",
+          "timeFrame": "Baseline; Week 6",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Participants received matching placebo once daily for 6 weeks."
+            },
+            {
+              "id": "OG001",
+              "title": "EP262 50 mg",
+              "description": "Participants received oral EP262 50 milligrams (mg) once daily for 6 weeks."
+            },
+            {
+              "id": "OG002",
+              "title": "EP262 150 mg",
+              "description": "Participants received oral EP262 150 mg once daily for 6 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "35"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "36"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-10.41",
+                      "spread": "1.863"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-8.43",
+                      "spread": "1.844"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "-11.95",
+                      "spread": "1.827"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "analyses": [
+            {
+              "groupIds": [
+                "OG000",
+                "OG001"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.4059",
+              "pValueComment": "MMRM=mixed effects model for repeated measures",
+              "statisticalMethod": "MMRM",
+              "statisticalComment": "The p-value was based on the treatment group by week interaction term for the visit of interest.",
+              "paramType": "Least Square Mean Difference (LSMD)",
+              "paramValue": "1.99",
+              "ciPctValue": "90",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-1.96",
+              "ciUpperLimit": "5.94",
+              "dispersionType": "STANDARD_ERROR_OF_MEAN",
+              "dispersionValue": "2.380",
+              "estimateComment": "LSMD = EP262 minus placebo"
+            },
+            {
+              "groupIds": [
+                "OG000",
+                "OG002"
+              ],
+              "nonInferiorityType": "SUPERIORITY",
+              "pValue": "0.5213",
+              "pValueComment": "The p-value was based on the treatment group by week interaction term for the visit of interest.",
+              "statisticalMethod": "MMRM",
+              "paramType": "LSMD",
+              "paramValue": "-1.53",
+              "ciPctValue": "90",
+              "ciNumSides": "TWO_SIDED",
+              "ciLowerLimit": "-5.49",
+              "ciUpperLimit": "2.42",
+              "dispersionType": "STANDARD_ERROR_OF_MEAN",
+              "dispersionValue": "2.385",
+              "estimateComment": "LSMD = EP262 minus placebo"
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Any Treatment-emergent Adverse Event (TEAE)",
+          "description": "An adverse event (AE) was defined as any untoward medical occurrence in a participant administered a pharmaceutical product and which does not necessarily have a causal relationship with this treatment. An AE could therefore have been any unfavorable or unintended sign (including a clinically significant abnormal laboratory finding), symptom, or disease temporally associated with the use of a medicinal (investigational) product. Medical conditions present at baseline that worsened in severity or frequency after exposure to study drug were considered TEAEs. A TEAE was any condition that was not present prior to treatment with the study drug but appeared following treatment, was present at treatment initiation but worsened during treatment, or was present at treatment initiation but resolved and then reappeared while the individual was on treatment (regardless of the intensity of the AE when the treatment was initiated).",
+          "populationDescription": "Safety Analysis Set: all participants who were randomized and took at least 1 dose of randomized study drug. Safety analyses were based upon treatment actually received.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "up to 81 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Participants received matching placebo once daily for 6 weeks."
+            },
+            {
+              "id": "OG001",
+              "title": "EP262 50 mg",
+              "description": "Participants received oral EP262 50 milligrams (mg) once daily for 6 weeks."
+            },
+            {
+              "id": "OG002",
+              "title": "EP262 150 mg",
+              "description": "Participants received oral EP262 150 mg once daily for 6 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "37"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "38"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "19"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Any \u2265Grade 3 TEAE",
+          "description": "An AE was any untoward medical occurrence in a participant administered a pharmaceutical product and which does not necessarily have a causal relationship with this treatment. An AE could therefore have been any unfavorable or unintended sign (including a clinically significant abnormal laboratory finding), symptom, or disease temporally associated with the use of a medicinal (investigational) product. Medical conditions present at baseline that worsened in severity or frequency after exposure to study drug were considered TEAEs. TEAEs were graded for severity (i.e., intensity) using Common Terminology Criteria for Adverse Events (CTCAE), version 5.0. Grade 1: mild; asymptomatic or mild symptoms; intervention not indicated. Grade 2: moderate; minimal, local or noninvasive intervention indicated. Grade 3: severe or medically significant, but not immediately life-threatening. Grade 4: life-threatening consequences; urgent intervention indicated. Grade 5: death related to TEAE.",
+          "populationDescription": "Safety Analysis Set",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "up to 81 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Participants received matching placebo once daily for 6 weeks."
+            },
+            {
+              "id": "OG001",
+              "title": "EP262 50 mg",
+              "description": "Participants received oral EP262 50 milligrams (mg) once daily for 6 weeks."
+            },
+            {
+              "id": "OG002",
+              "title": "EP262 150 mg",
+              "description": "Participants received oral EP262 150 mg once daily for 6 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "37"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "38"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Any Clinically Meaningful Change From Baseline in Electrocardiogram Parameters",
+          "description": "Clinically meaningful changes were determined by the investigator.",
+          "populationDescription": "Safety Analysis Set",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "up to 81 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Participants received matching placebo once daily for 6 weeks."
+            },
+            {
+              "id": "OG001",
+              "title": "EP262 50 mg",
+              "description": "Participants received oral EP262 50 milligrams (mg) once daily for 6 weeks."
+            },
+            {
+              "id": "OG002",
+              "title": "EP262 150 mg",
+              "description": "Participants received oral EP262 150 mg once daily for 6 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "37"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "38"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Any Clinically Meaningful Change From Baseline in Vital Sign Measurements",
+          "description": "Clinically meaningful changes were determined by the investigator.",
+          "populationDescription": "Safety Analysis Set",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "up to 81 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Participants received matching placebo once daily for 6 weeks."
+            },
+            {
+              "id": "OG001",
+              "title": "EP262 50 mg",
+              "description": "Participants received oral EP262 50 milligrams (mg) once daily for 6 weeks."
+            },
+            {
+              "id": "OG002",
+              "title": "EP262 150 mg",
+              "description": "Participants received oral EP262 150 mg once daily for 6 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "37"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "38"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Any Clinically Meaningful Change From Baseline in Clinical Laboratory Test Results",
+          "description": "Clinically meaningful changes were determined by the investigator.",
+          "populationDescription": "Safety Analysis Set",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "up to 81 days",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Participants received matching placebo once daily for 6 weeks."
+            },
+            {
+              "id": "OG001",
+              "title": "EP262 50 mg",
+              "description": "Participants received oral EP262 50 milligrams (mg) once daily for 6 weeks."
+            },
+            {
+              "id": "OG002",
+              "title": "EP262 150 mg",
+              "description": "Participants received oral EP262 150 mg once daily for 6 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "37"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "38"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline to Visit 4 (Week 6) in the Itch Severity Score Over a 7-day Period (ISS7)",
+          "description": "The ISS is part of the UAS, a CSU-specific, 24-hour self-evaluation, patient-reported outcome measure based on the assessment of key CSU symptoms: intensity of itch (assessed as the ISS) and number of wheals (assessed as the HSS). The UAS scale for itch is recorded as a score from 0 to 3, with 0 representing no itch to 3 representing intense itch. ISS scores are summed over 7 consecutive days to create the ISS7 score, which ranges from 0 to 21. Higher scores indicate greater disease severity. The 7 daily ISS scores prior to or on the nominal Visit 4 (Week 6) date (including the nominal Week 6 visit date ISS score) were summed. Change from Baseline was calculated as the post-Baseline value minus the Baseline value.",
+          "populationDescription": "Full Analysis Set. Only participants with available data were analyzed.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "scores on a scale",
+          "timeFrame": "Baseline; Week 6",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Participants received matching placebo once daily for 6 weeks."
+            },
+            {
+              "id": "OG001",
+              "title": "EP262 50 mg",
+              "description": "Participants received oral EP262 50 milligrams (mg) once daily for 6 weeks."
+            },
+            {
+              "id": "OG002",
+              "title": "EP262 150 mg",
+              "description": "Participants received oral EP262 150 mg once daily for 6 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "37"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "38"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "38"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "37"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "38"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "15.57",
+                      "spread": "3.918"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "13.55",
+                      "spread": "3.483"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "13.91",
+                      "spread": "4.016"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change from Baseline at Week 6",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "35"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "36"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "34"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-7.12",
+                      "spread": "6.058"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-4.89",
+                      "spread": "5.895"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "-7.19",
+                      "spread": "5.631"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline to Visit 4 (Week 6) in the Hive Severity Score Over a 7-day Period (HSS7)",
+          "description": "The HSS is part of the UAS, a CSU-specific, 24-hour self-evaluation, patient-reported outcome measure based on the assessment of key CSU symptoms: intensity of itch (assessed as the ISS) and number of wheals (assessed as the HSS). The UAS scale for wheal assessment is recorded as a score from 0 to 3, with 0 representing no hives to 3 representing intense hives. HSS scores are summed over 7 consecutive days to create the HSS7 score, which ranges from 0 to 21. Higher scores indicate greater disease severity. The 7 daily HSS scores prior to or on the nominal Visit 4 (Week 6) date (including the nominal Week 6 visit date HSS score) were summed. Change from Baseline was calculated as the post-Baseline value minus the Baseline value.",
+          "populationDescription": "Full Analysis Set. Only participants with available data were analyzed.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "scores on a scale",
+          "timeFrame": "Baseline; Week 6",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Placebo",
+              "description": "Participants received matching placebo once daily for 6 weeks."
+            },
+            {
+              "id": "OG001",
+              "title": "EP262 50 mg",
+              "description": "Participants received oral EP262 50 milligrams (mg) once daily for 6 weeks."
+            },
+            {
+              "id": "OG002",
+              "title": "EP262 150 mg",
+              "description": "Participants received oral EP262 150 mg once daily for 6 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "38"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "37"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "38"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "38"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "37"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "38"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "13.95",
+                      "spread": "4.620"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "12.33",
+                      "spread": "4.331"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "12.04",
+                      "spread": "5.295"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Change from Baseline at Week 6",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "35"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "36"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "34"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-5.71",
+                      "spread": "5.355"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "-4.45",
+                      "spread": "5.584"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "-5.66",
+                      "spread": "4.998"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "up to 81 days",
+      "description": "Adverse events have been reported for the Safety Analysis Set, comprised of all participants who were randomized and took at least 1 dose of randomized study drug.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Placebo",
+          "description": "Participants received matching placebo once daily for 6 weeks.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 38,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 38,
+          "otherNumAffected": 6,
+          "otherNumAtRisk": 38
+        },
+        {
+          "id": "EG001",
+          "title": "EP262 Pooled",
+          "description": "Participants received oral EP262 50 milligrams (mg) or 150 mg once daily for 6 weeks.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 75,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 75,
+          "otherNumAffected": 14,
+          "otherNumAtRisk": 75
+        },
+        {
+          "id": "EG002",
+          "title": "EP262 50 mg",
+          "description": "Participants received oral EP262 50 mg once daily for 6 weeks.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 37,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 37,
+          "otherNumAffected": 6,
+          "otherNumAtRisk": 37
+        },
+        {
+          "id": "EG003",
+          "title": "EP262 150 mg",
+          "description": "Participants received oral EP262 150 mg once daily for 6 weeks.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 38,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 38,
+          "otherNumAffected": 8,
+          "otherNumAtRisk": 38
+        },
+        {
+          "id": "EG004",
+          "title": "Total",
+          "description": "Total",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 113,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 113,
+          "otherNumAffected": 20,
+          "otherNumAtRisk": 113
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Blood creatine phosphokinase increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 26.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 38
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 75
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 37
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 38
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 5,
+              "numAffected": 5,
+              "numAtRisk": 113
+            }
+          ]
+        },
+        {
+          "term": "Bronchitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 38
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 75
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 37
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 38
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 113
+            }
+          ]
+        },
+        {
+          "term": "Headache",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 26.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 3,
+              "numAffected": 2,
+              "numAtRisk": 38
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 3,
+              "numAffected": 3,
+              "numAtRisk": 75
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 37
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 38
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 6,
+              "numAffected": 5,
+              "numAtRisk": 113
+            }
+          ]
+        },
+        {
+          "term": "Hyperlipidaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA 26.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 38
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 75
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 37
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 38
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 113
+            }
+          ]
+        },
+        {
+          "term": "Nasopharyngitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 38
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 4,
+              "numAffected": 3,
+              "numAtRisk": 75
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 2,
+              "numAffected": 1,
+              "numAtRisk": 37
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 38
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 5,
+              "numAffected": 4,
+              "numAtRisk": 113
+            }
+          ]
+        },
+        {
+          "term": "Nausea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 26.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 38
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 75
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 37
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 38
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 113
+            }
+          ]
+        },
+        {
+          "term": "Urinary tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 26.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 38
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 75
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 37
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 38
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 113
+            }
+          ]
+        },
+        {
+          "term": "Vomiting",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 26.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 38
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 3,
+              "numAffected": 2,
+              "numAtRisk": 75
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 37
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 3,
+              "numAffected": 2,
+              "numAtRisk": 38
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 3,
+              "numAffected": 2,
+              "numAtRisk": 113
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "limitationsAndCaveats": {
+        "description": "The study was terminated following the completion of Part 1 due to business reasons; Part 2 was not enrolled."
+      },
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "The only disclosure restriction on the PI is that the sponsor can review results communications prior to public release and can embargo communications regarding trial results for a period that is less than or equal to 60 days from the time submitted to the sponsor for review. The sponsor cannot require changes to the communication and cannot extend the embargo."
+      },
+      "pointOfContact": {
+        "title": "Study Director",
+        "organization": "Incyte Corporation",
+        "email": "medinfo@incyte.com",
+        "phone": "1-855-463-3463"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2024-07-26",
+          "uploadDate": "2025-11-18T13:37",
+          "filename": "Prot_000.pdf",
+          "size": 1121882
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2025-01-31",
+          "uploadDate": "2025-11-18T13:39",
+          "filename": "SAP_001.pdf",
+          "size": 1021839
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-04-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000080223",
+          "term": "Chronic Urticaria"
+        },
+        {
+          "id": "D014581",
+          "term": "Urticaria"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D017445",
+          "term": "Skin Diseases, Vascular"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D006969",
+          "term": "Hypersensitivity, Immediate"
+        },
+        {
+          "id": "D006967",
+          "term": "Hypersensitivity"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": true,
+  "_meta": {
+    "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT06077773",
+    "fetched_at": "2026-04-09T00:59:09.835590+00:00"
+  }
+}

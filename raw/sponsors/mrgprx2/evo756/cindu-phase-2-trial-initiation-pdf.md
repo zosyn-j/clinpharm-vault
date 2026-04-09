@@ -1,0 +1,82 @@
+# CIndU Phase 2 trial initiation PDF
+
+- Program: evo756
+- Priority class: MRGPRX2
+- Sponsor: Evommune
+- Source URL: https://www.evommune.com/wp-content/uploads/2024/09/21_Evommune_EVO756_CindU_Phase_2_Trial.pdf
+- Fetched at: 2026-04-09T01:06:40.549706+00:00
+- Raw PDF: cindu-phase-2-trial-initiation-pdf.pdf
+- Extracted text: cindu-phase-2-trial-initiation-pdf.txt
+
+## Extracted PDF text
+
+```text
+Evommune Initiates Phase 2 Trial of EVO756, an Oral MRGPRX2 Antagonist, in
+ Chronic Inducible Urticaria
+ • First of two near-term Phase 2 clinical trials to be initiated in Chronic Urticaria
+ • Chronic Inducible Urticaria (CIndU) trial will evaluate EVO756 in approximately 30
+ patients with symptomatic dermographism and cold urticaria
+Palo Alto, Calif., September 3, 2024 – Evommune, Inc., a clinical stage biotechnology company
+discovering and developing new ways to treat immune-mediated inflammatory diseases, today
+announced the enrollment of the first patient in a Phase 2 trial of EVO756 in adults with CIndU.
+EVO756 is a potent, highly selective small molecule antagonist of mas-related G-protein coupled
+receptor X2 (MRGPRX2) and represents a new, targeted approach with the potential for once-
+daily oral administration without the serious side effects observed with other therapies.
+
+ “As we continue to execute on our clinical development plans for EVO756, we are
+commencing this Phase 2 trial in 15 study sites across the United States. CIndU patients have
+limited treatment options, and we believe a novel, highly potent, selective agent, that can be
+orally administered once daily, could provide patients with major therapeutic benefit,” said J.
+Mark Jackson, MD, Vice President, Clinical Development at Evommune.
+
+ The multi-center trial is designed to evaluate the safety and efficacy of EVO756 in
+approximately 30 patients with either symptomatic dermographism or cold urticaria, the two
+most common forms of CIndU. Efficacy endpoints include changes from baseline in disease
+specific provocation thresholds that are used as objective markers to quantify disease severity
+and response to treatment. EVO756 will be administered orally, once daily, for four weeks, and
+will be evaluated for safety and efficacy at weekly visits during treatment, with patients serving
+as their own control.
+
+ "Initiation of this trial marks another important milestone in dedication to delivering the
+therapeutic potential of MRGPRX2 antagonism to patients in a broad range of mast cell-
+mediated disorders," said Daniel J. Burge, M.D., Senior Vice President, Clinical Development at
+Evommune. "Following the success of our proof-of-concept study with EVO756 earlier this year,
+we are also on track to initiate a Phase 2b trial in chronic spontaneous urticaria in the second
+quarter of 2025."
+About Chronic Urticaria
+ Chronic urticaria, defined as urticaria persisting for more than 6 weeks, is a substantial
+burden for patients, their families and careers, the healthcare system, and society. Chronic
+urticaria manifests with very itchy hives that may vary in size and can result in sleep deprivation,
+anxiety, depression, lack of energy, and social isolation which can result in a significant
+deterioration in the quality of life. Some patients with chronic urticaria may also develop swelling
+deeper under the skin or in other tissues (angioedema). There are two main forms of chronic
+urticaria. In chronic spontaneous urticaria (CSU), hives occur spontaneously, without known
+triggers. In chronic inducible urticaria (CIndU), hives are induced by specific triggers such as cold
+exposure (cold urticaria) or touch (symptomatic dermographism), among others.
+ Chronic urticaria is a mast cell-driven disease. Activated mast cells release histamine along
+with other mediators, such as platelet-activating factor and cytokines, resulting in
+sensory nerve activation, vasodilation, plasma extravasation, and recruitment of cells to
+the urticarial lesion.
+
+About EVO756
+ EVO756 is a potent, highly selective small molecule antagonist of mas-related G-protein
+coupled receptor X2 (MRGPRX2). MRGPRX2 is most abundantly found on mast cells and
+peripheral sensory neurons. MRGPRX2 can trigger IgE-independent activation (degranulation)
+via multiple ligands, which can lead to a variety of symptoms depending on the tissue that is
+affected. Evommune’s pre-clinical data demonstrates that by blocking activation of MRGPRX2
+via all disease relevant ligand categories, EVO756 can prevent the degranulation of mast cells.
+EVO756 has the potential to be a first-in-class oral treatment for a variety of mast cell mediated
+diseases. In addition, due to its unique function on peripheral sensory neurons, EVO756 could
+provide fast relief of itch associated with inflammatory diseases, such as atopic dermatitis.
+
+About Evommune, Inc.
+ Evommune, Inc., a Palo Alto based biotech company, is creating game-changing science
+to treat immune-mediated inflammatory diseases by discovering, developing, and delivering
+therapies that address symptoms and halt progressive disease. For more information, please
+visit www.evommune.com.
+
+Contact:
+Paul Laland
+Paul.laland@evommune.com
+
+```

@@ -1,0 +1,18 @@
+{
+  "priority_class": "BTK",
+  "program": "Rilzabrutinib",
+  "term": "PRN1008",
+  "url": "https://clinicaltrials.gov/api/v2/studies?query.cond=urticaria&query.term=PRN1008&pageSize=100",
+  "fetched_at": "2026-04-09T00:59:09.835590+00:00",
+  "study_count": 1,
+  "studies": [
+    {
+      "nct_id": "NCT05107115",
+      "brief_title": "Rilzabrutinib for the Treatment of Chronic Spontaneous Urticaria in Patients Who Remain Symptomatic Despite the Use of H1 Antihistamine",
+      "official_title": "A Randomized, Double-blind, Placebo-controlled, Multi-center, Dose-ranging Phase 2 Study of Rilzabrutinib Followed by an Open-label Extension Phase in Patients With Moderate-to-severe Chronic Spontaneous Urticaria (CSU) Who Remain Symptomatic Despite the Use of H1 Antihistamine Treatment",
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06162728",
+      "orgStudyIdInfo": {
+        "id": "JSP-CP-011"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2023-505446-25",
+          "type": "EUDRACT_NUMBER"
+        }
+      ],
+      "organization": {
+        "fullName": "Jasper Therapeutics, Inc.",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Dose Escalation Trial Of Safety, Pharmacokinetic/Pharmacodynamic And Preliminary Clinical Activity of Briquilimab In Adult Patients With Chronic Spontaneous Urticaria (CSU)",
+      "officialTitle": "A Phase 1b/2a, Dose Escalation Trial of Safety, Pharmacokinetic/Pharmacodynamic and Preliminary Clinical Activity of Briquilimab in Adult Patients With Chronic Spontaneous Urticaria (CSU) Who Remain Symptomatic Despite Treatment With H1 Antihistamines and/or Omalizumab, or Who Cannot Tolerate Omalizumab",
+      "acronym": "BEACON"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-01",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-11-29",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2026-10-31",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2026-10-31",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2023-11-21",
+      "studyFirstSubmitQcDate": "2023-12-07",
+      "studyFirstPostDateStruct": {
+        "date": "2023-12-08",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-01-21",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-01-22",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Jasper Therapeutics, Inc.",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This trial will be performed as a three-part dose escalating clinical trial where Parts 1 is open label and Parts 2 and 3 are randomized, double-blinded, and placebo-controlled.\n\nThe trial is intended to determine the safety and tolerability and assess the preliminary efficacy of briquilimab in adult participants with chronic spontaneous urticaria (CSU), who remain symptomatic despite treatment with H1 antihistamines and omalizumab. Additionally, pharmacokinetic (PK) properties of briquilimab, and other pharmacodynamic (PD) parameters (such as effects on mast cells (MC), serum tryptase levels, and on allergic skin reactivity) will be investigated."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ],
+      "keywords": [
+        "Urticaria",
+        "Skin Diseases, Vascular",
+        "Skin Diseases",
+        "Immune System Diseases",
+        "Chronic Urticaria",
+        "Pathologic Processes",
+        "Chronic Disease",
+        "Itch",
+        "Hives",
+        "Wheals"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "SEQUENTIAL",
+        "interventionModelDescription": "Part 1: Cohorts 1 and 2, 3+3 dose escalation design\n\nCohorts 1 through 9 will be enrolled sequentially in a dose escalating fashion starting from the lowest dose proposed.\n\nThe Treatment Period in Part 2 (Cohorts 3, 4, 5, 8, and 9) and Part 3 (Cohort 6 and 7) will be performed in a double-blind, placebo-controlled manner.",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "maskingDescription": "This trial will be performed as a three-part dose escalating clinical trial where Part 1 is open label and Parts 2 and 3 are randomized, double-blinded, and placebo-controlled.",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 88,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Briquilimab",
+          "type": "EXPERIMENTAL",
+          "description": "This trial will be performed as a three-part dose escalating clinical trial where Parts 1 is open label and Parts 2 and 3 are randomized, double-blinded, and placebo-controlled.",
+          "interventionNames": [
+            "Drug: Briquilimab"
+          ]
+        },
+        {
+          "label": "Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Placebo Comparator",
+          "interventionNames": [
+            "Other: Placebo"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Briquilimab",
+          "description": "Subcutaneous Administration",
+          "armGroupLabels": [
+            "Briquilimab"
+          ],
+          "otherNames": [
+            "JSP191"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Placebo",
+          "description": "Placebo Comparator",
+          "armGroupLabels": [
+            "Placebo"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Evaluate the safety and tolerability of briquilimab",
+          "description": "Incidence and severity of treatment emergent AEs/SAEs",
+          "timeFrame": "From signing the informed consent form (ICF) through end of trial (EOT) visit (up to 48 weeks)"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Evaluate the preliminary efficacy of briquilimab-- UAS7 Score",
+          "description": "UAS7 is the sum of the daily Hives Severity Score (HSS) and the daily Itch Severity Score (ISS) for seven consecutive days. The possible range of the weekly UAS7 score is 0 - 42.",
+          "timeFrame": "Change from baseline to Week 12 and all assessment time points through Week 48"
+        },
+        {
+          "measure": "Evaluate the preliminary efficacy of briquilimab - Urticaria Control Test (UCT)",
+          "description": "The UCT score is derived by adding up the scores from each of the four questions. A total score from 0 (no control) to 16 points (complete control) is derived, with a score of \u2265 12 indicating well-controlled disease.",
+          "timeFrame": "Change from baseline to Week 12 and all assessment time points through Week 48"
+        },
+        {
+          "measure": "Maximum serum concentration (Cmax)",
+          "description": "Maximum serum concentration (Cmax) following a single dose of briquilimab.",
+          "timeFrame": "Up to 12 weeks"
+        },
+        {
+          "measure": "Time of maximum serum concentration (Tmax)",
+          "description": "Time of maximum serum concentration (Tmax) following a single dose of briquilimab",
+          "timeFrame": "Up to 12 weeks"
+        },
+        {
+          "measure": "Minimum plasma concentration (Cmin)",
+          "description": "Minimum serum concentration (Cmin) following a single dose of briquilimab",
+          "timeFrame": "Up to 12 weeks"
+        },
+        {
+          "measure": "Area under the time-concentration curve from time zero to the last quantifiable concentration (AUClast)",
+          "description": "Area under the time-concentration curve from time zero to the last quantifiable concentration (AUClast) following a single dose of briquilimab",
+          "timeFrame": "Up to 12 weeks"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Written informed consent after the nature of the trial has been fully explained and before performing any trial related assessments\n2. Males and females, \u226518 years old\n3. i. For Cohorts 1, 2, 3, 4a, 4b, 5, 5b, 6 and 7: Diagnosis of symptomatic CSU despite treatment as defined by:\n\n   1. Diagnosis of CSU for \u2265 6 months\n   2. The presence of itch and hives for \u2265 8 consecutive weeks at any time prior to Screening despite current use of H1-antihistamines (as reported by the participant)\n   3. The presence of itch and hives for \u2265 8 consecutive weeks at any time prior to Screening despite treatment with omalizumab or intolerance to omalizumab (as reported by the participant)\n   4. UAS7 of \u2265 16 and ISS7 of \u2265 8 on 7 consecutive days between Day -10 through Day-1 of Screening\n\n   ii. For Cohorts 8 and 9: Diagnosis of symptomatic CSU despite treatment as defined by:\n   1. Diagnosis of CSU for \u2265 6 months (as per local and international guidance)\n   2. The presence of itch and hives for \u2265 8 consecutive weeks at any time prior to Screening despite current use of H1-antihistamines (as reported by the participant)\n   3. Participants may be omalizumab na\u00efve or have been previously exposed to omalizumab independent of treatment duration or response\n   4. UAS7 of \u2265 16 and ISS7 of \u2265 8 on 7 consecutive days between Day -10 through Day -1 of Screening\n4. Use of H1-antihistamines on stable dose up to four-fold of the approved dose since Screening and not expected to change during first 12 weeks of the trial\n5. Blood counts at Screening with:\n\n   1. Hemoglobin: \u2265 11 g/dl\n   2. Platelets: \u2265 100,000/mm3\n   3. Leucocytes: \u2265 3,000/mm3\n   4. Neutrophils: \u2265 2,000/mm3\n6. Willing and able to complete a daily diary for the duration of the trial and adhere to the trial visit schedule\n\nExclusion Criteria:\n\n1. Women who are pregnant or nursing or intend to become pregnant during the course of the trial\n2. Dominant comorbid chronic urticaria with a clearly defined predominant or sole trigger (chronic inducible urticaria) including urticaria factitia (symptomatic dermographism), cold-, heat-, solar-, pressure-, delayed pressure-, aquagenic-, cholinergic-, or contact urticaria\n3. Other active diseases with possible symptoms of urticaria, wheals or angioedema, including urticarial vasculitis, erythema multiforme, cutaneous mastocytosis (urticaria pigmentosa), and hereditary or acquired angioedema (e.g., due to C1 inhibitor deficiency)\n4. Any other active skin disease associated with chronic itching that might confound the trial evaluations and results, in the opinion of the Investigator (e.g., atopic dermatitis, bullous pemphigoid, dermatitis herpetiformis, senile pruritus, etc.)\n5. History of anaphylaxis\n6. Any H2 antihistamine, leukotriene receptor antagonist or tricyclic antidepressant use within 3 days prior to Screening\n7. Experimental monoclonal antibody therapy (e.g., dupilumab, ligelizumab, etc.) within 6 months or Janus kinase (JAK) inhibitors within 5 half-lives prior to first IP dosing\n8. Immunosuppressive therapy (e.g., systemic corticosteroids, cyclosporine, methotrexate, dapsone, cyclophosphamide, tacrolimus and mycophenolate mofetil, hydroxychloroquine, etc.) within 4 weeks (or 5 half-lives, whichever is longer) prior to first IP dosing\n9. Electrocardiogram (ECG) findings at Screening that are considered clinically significant\n10. Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) \\> 1.5 x Upper limit of normal (ULN) at Screening\n11. Serum total bilirubin \\>1.5 x ULN, unless attributable to Gilbert's syndrome\n12. Estimated creatinine clearance (eCrCl) by Cockcroft-Gault equation using total body weight \\< 60 mL/min\n13. Known HIV+, active hepatitis B or hepatitis C infection, or acute/long-COVID\n14. Major abdominal or thoracic surgery within 8 weeks prior to Screening or planned surgery during trial participation\n15. Male participants (who are not vasectomized) who are not willing to use highly effective contraceptive methods (when having sexual intercourse with a female partner of childbearing potential, Section 8.2) and who are not willing to abstain from sperm donation during the trial and for at least 150 days after last IP dosing. A male participant is considered vasectomized if he had a vasectomy at least 4 months prior to Screening and if he has received post-surgical medical assessment of the surgical success of the vasectomy.\n16. Female participants of childbearing potential not willing to use highly effective contraceptive methods (Section 8.2) during the trial and for at least 150 days after last IP dosing. Women of nonchildbearing potential, must be surgically sterile (i.e., had undergone complete hysterectomy, bilateral oophorectomy, or tubal ligation) or be in menopausal state (at least 1 year without menses).\n17. Participation in another research trial involving the use of an IP within the last 30 days (or 5 halflives of IP, whichever is longer) prior to Screening\n18. Any known contraindications or hypersensitivity to any component of the IP, drugs of similar chemical classes (i.e., to murine, chimeric or human antibodies) or antihistamines or leukotrienes\n19. Any other acute or chronic medical or psychiatric condition or laboratory abnormality that could increase the risk associated with trial participation or IP administration or could interfere with the interpretation of trial results and, in the judgment of the Investigator, would make the participant inappropriate for entry into the trial\n20. Participants not willing to abstain from blood donations while being on the trial (until EOT Visit)\n21. Close affiliation with the Investigator (e.g., a close relative, financially dependent on the trial site) or participant who is an employee of the Sponsor's company",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Medical Director",
+          "affiliation": "Jasper Therapeutics",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Site 118",
+          "city": "Birmingham",
+          "state": "Alabama",
+          "zip": "35244",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.52066,
+            "lon": -86.80249
+          }
+        },
+        {
+          "facility": "Site 108",
+          "city": "Little Rock",
+          "state": "Arkansas",
+          "zip": "72205",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.74648,
+            "lon": -92.28959
+          }
+        },
+        {
+          "facility": "Site 105",
+          "city": "San Diego",
+          "state": "California",
+          "zip": "92123",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.71571,
+            "lon": -117.16472
+          }
+        },
+        {
+          "facility": "Site 113",
+          "city": "Miami",
+          "state": "Florida",
+          "zip": "33165",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.77427,
+            "lon": -80.19366
+          }
+        },
+        {
+          "facility": "Site 116",
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33613",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.94752,
+            "lon": -82.45843
+          }
+        },
+        {
+          "facility": "Site 109",
+          "city": "Boise",
+          "state": "Idaho",
+          "zip": "83706",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.6135,
+            "lon": -116.20345
+          }
+        },
+        {
+          "facility": "Site 124",
+          "city": "Springfield",
+          "state": "Illinois",
+          "zip": "61761",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.80172,
+            "lon": -89.64371
+          }
+        },
+        {
+          "facility": "Site 110",
+          "city": "Indianapolis",
+          "state": "Indiana",
+          "zip": "46250",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.76838,
+            "lon": -86.15804
+          }
+        },
+        {
+          "facility": "Site 122",
+          "city": "Overland Park",
+          "state": "Kansas",
+          "zip": "66210",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.98223,
+            "lon": -94.67079
+          }
+        },
+        {
+          "facility": "Site 123",
+          "city": "Lafayette",
+          "state": "Louisiana",
+          "zip": "70508",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 30.22409,
+            "lon": -92.01984
+          }
+        },
+        {
+          "facility": "Site 101",
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21224",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.29038,
+            "lon": -76.61219
+          }
+        },
+        {
+          "facility": "Site 104",
+          "city": "Chevy Chase",
+          "state": "Maryland",
+          "zip": "20815",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.00287,
+            "lon": -77.07115
+          }
+        },
+        {
+          "facility": "Site 121",
+          "city": "White Marsh",
+          "state": "Maryland",
+          "zip": "21162",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.38372,
+            "lon": -76.43218
+          }
+        },
+        {
+          "facility": "Site 103",
+          "city": "Cincinnati",
+          "state": "Ohio",
+          "zip": "45236",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.12711,
+            "lon": -84.51439
+          }
+        },
+        {
+          "facility": "Site 111",
+          "city": "Murray",
+          "state": "Utah",
+          "zip": "84107",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.66689,
+            "lon": -111.88799
+          }
+        },
+        {
+          "facility": "Site 115",
+          "city": "Seattle",
+          "state": "Washington",
+          "zip": "98101",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 47.60621,
+            "lon": -122.33207
+          }
+        },
+        {
+          "facility": "Site 201",
+          "city": "Berlin",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 52.52437,
+            "lon": 13.41053
+          }
+        },
+        {
+          "facility": "Site 211",
+          "city": "Buxtehude",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 53.46994,
+            "lon": 9.68968
+          }
+        },
+        {
+          "facility": "Site 209",
+          "city": "Dresden",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.05089,
+            "lon": 13.73832
+          }
+        },
+        {
+          "facility": "Site 206",
+          "city": "L\u00fcbeck",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 53.86893,
+            "lon": 10.68729
+          }
+        },
+        {
+          "facility": "Site 202",
+          "city": "Marburg",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 50.80904,
+            "lon": 8.77069
+          }
+        },
+        {
+          "facility": "Site 210",
+          "city": "M\u00fcnchen",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.60698,
+            "lon": 13.31243
+          }
+        },
+        {
+          "facility": "Site 204",
+          "city": "M\u00fcnster",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.96236,
+            "lon": 7.62571
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-04-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000080223",
+          "term": "Chronic Urticaria"
+        },
+        {
+          "id": "D014581",
+          "term": "Urticaria"
+        },
+        {
+          "id": "D017445",
+          "term": "Skin Diseases, Vascular"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        },
+        {
+          "id": "D011537",
+          "term": "Pruritus"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D006969",
+          "term": "Hypersensitivity, Immediate"
+        },
+        {
+          "id": "D006967",
+          "term": "Hypersensitivity"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D012877",
+          "term": "Skin Manifestations"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": false,
+  "_meta": {
+    "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT06162728",
+    "fetched_at": "2026-04-09T00:59:09.835590+00:00"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "priority_class": "KIT",
+  "program": "Briquilimab",
+  "term": "briquilimab",
+  "url": "https://clinicaltrials.gov/api/v2/studies?query.cond=urticaria&query.term=briquilimab&pageSize=100",
+  "fetched_at": "2026-04-09T00:59:09.835590+00:00",
+  "study_count": 3,
+  "studies": [
+    {
+      "nct_id": "NCT06162728",
+      "brief_title": "Dose Escalation Trial Of Safety, Pharmacokinetic/Pharmacodynamic And Preliminary Clinical Activity of Briquilimab In Adult Patients With Chronic Spontaneous Urticaria (CSU)",
+      "official_title": "A Phase 1b/2a, Dose Escalation Trial of Safety, Pharmacokinetic/Pharmacodynamic and Preliminary Clinical Activity of Briquilimab in Adult Patients With Chronic Spontaneous Urticaria (CSU) Who Remain Symptomatic Despite Treatment With H1 Antihistamines and/or Omalizumab, or Who Cannot Tolerate Omalizumab",
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ]
+    },
+    {
+      "nct_id": "NCT06353971",
+      "brief_title": "A Dose Escalation Trial of Safety, Pharmacokinetic/Pharmacodynamic and Preliminary Clinical Activity of Briquilimab in Adult Patients With Chronic Inducible Urticaria (CIndU) Who Remain Symptomatic Despite Treatment With H1- Antihistamines",
+      "official_title": "A Phase 1b/2a, Dose Escalation Trial of Safety, Pharmacokinetic/Pharmacodynamic and Preliminary Clinical Activity of Briquilimab in Adult Patients With Chronic Inducible Urticaria (CIndU) Who Remain Symptomatic Despite Treatment With H1- Antihistamines",
+      "conditions": [
+        "Chronic Inducible Urticaria"
+      ]
+    },
+    {
+      "nct_id": "NCT06736262",
+      "brief_title": "A Phase 2, Open-Label, Extension Study to Evaluate Long Term Safety and Clinical Activity of Briquilimab in Participants From Jasper-Sponsored Chronic Urticaria Trials",
+      "official_title": "Open-Label Extension Study to Evaluate Long Term Safety and Clinical Activity of Briquilimab in Chronic Urticaria",
+      "conditions": [
+        "Urticaria Chronic"
+      ]
+    }
+  ]
+}

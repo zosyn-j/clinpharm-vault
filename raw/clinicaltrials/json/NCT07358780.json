@@ -1,0 +1,385 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT07358780",
+      "orgStudyIdInfo": {
+        "id": "CLOU064AUS04"
+      },
+      "organization": {
+        "fullName": "Novartis",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Remibrutinib in Real-world Clinical Practice - a US Sub-study",
+      "officialTitle": "Remibrutinib in Real-world Clinical Practice: a Prospective, Multi-country, Non-interventional, Effectiveness and Safety Study - a US Sub-study",
+      "acronym": "REASSERT"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-02",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2026-02-02",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2029-09-30",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2029-09-30",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2026-01-13",
+      "studyFirstSubmitQcDate": "2026-01-13",
+      "studyFirstPostDateStruct": {
+        "date": "2026-01-22",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-02-10",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-02-13",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Novartis Pharmaceuticals",
+        "class": "INDUSTRY"
+      }
+    },
+    "descriptionModule": {
+      "briefSummary": "Prospective, non-interventional study in patients with CSU where the treatment decision prior enrolment has been made to either escalate current sgH1-AHs treatment or escalate/switch current treatment to remibrutinib. The primary aim of this study is to gather real-world effectiveness and safety data for remibrutinib, a new treatment option, covering a broader, real-world clinical practice population.",
+      "detailedDescription": "This is a prospective, non-interventional study in patients with CSU where the treatment decision prior enrolment has been made to either escalate current sgH1-AHs treatment or escalate/switch current treatment to remibrutinib. The primary aim of this study is to gather real-world effectiveness and safety data for remibrutinib, covering a broader, real-world clinical practice population. This local US study is part of an umbrella design which brings the evidence needs from multiple countries under the REASSERT global program (CLOU064A2402)."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ],
+      "keywords": [
+        "Remibrutinib",
+        "Non-Interventional Study",
+        "Chronic Spontaneous Urticaria",
+        "Second-generation H1 antihistamine"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "patientRegistry": false,
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "enrollmentInfo": {
+        "count": 505,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Cohort 1",
+          "description": "Inadequate control of CSU despite licensed dose of sgH1-AH (no other pre-treatments permitted) and decision to escalate sgH1-AH treatment"
+        },
+        {
+          "label": "Cohort 2",
+          "description": "Inadequate control of CSU despite licensed dose or escalated sgH1-AH(s) (no other pre-treatment with exception of first generation H1-AH permitted) with decision to switch to remibrutinib treatment as per local label"
+        },
+        {
+          "label": "Cohort 3",
+          "description": "Any other treatment received in addition to H1-AH, any time during patients' CSU treatment history, with decision to switch to remibrutinib treatment as per local label"
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "UAS7 score",
+          "description": "Urticaria Activity Score over 7 days UAS7 is based on 2 daily questions scored 0-3 per day, ranging from 0 (complete control) to 42 (poor control)",
+          "timeFrame": "12 weeks after initiating remibrutinib treatment"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "UCT7 score",
+          "description": "Urticaria Control Test is looking retrospectively for 7 days (UCT7) and consists of 4 questions. Each question is scored 0-4, with a total score range of 0 (poor control) to 16 (well controlled).",
+          "timeFrame": "12 weeks after initiating remibrutinib treatment"
+        },
+        {
+          "measure": "Number and proportion of participants with well-controlled disease and complete disease",
+          "description": "Proportion of patients with UCT score \u226512 and UAS7 score \u22646. Urticaria Control Test (UCT) consists of 4 questions scored 0 (very much) to 4 (not at all), with a total score range of 0 to 16. High scores indicates better disease control. Urticaria Activity Score over 7 days (UAS7) is based on 2 daily questions, with daily score of 0 to 6 and weekly score of 0 to 42. Lower scores suggests urticaria free and well controlled urticaria.",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Change from baseline (CFB) in UCT score",
+          "description": "Change in UCT score over time. Urticaria Control Test (UCT) consists of 4 questions scored 0 (very much) to 4 (not at all), with a total score range of 0 to 16. Highest scores indicates better disease control. The study is not powered to detect any specific difference and the purpose is to estimate any observed difference descriptively.",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Change from Baseline in UAS7 score \u2265 minimal important difference",
+          "description": "Urticaria Activity Score over 7 days (UAS7) is based on 2 daily questions, with daily score of 0 to 6 and weekly score of 0 to 42. Lower scores suggests urticaria free and well controlled urticaria. The study is not powered to detect any specific difference and the purpose is to estimate any observed difference descriptively.",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Change in angioedema activity score (AAS7) from baseline",
+          "description": "Angioedema Activity Score (AAS7) is assessing disease activity over 7 days in patients with urticaria. The score is based on 5 daily questions scored 0 (no discomfort) to 3 (severe discomfort), with weekly score ranging from 0 to 15. Higher scores indicates greater severity of angioedema.",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Number of weeks without angioedema",
+          "description": "Number of weeks without angioedema evaluated using application entries.",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Number of participants with rescue medication requirement",
+          "description": "Number of participants with rescue medication requirement",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Characterize CSU relapse",
+          "description": "CSU relapse by frequency and presentation",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "UCT score",
+          "description": "Urticaria Control Test (UCT) consists of 4 questions scored 0 (very much) to 4 (not at all), with a total score range of 0 to 16. High scores indicates better disease control. The study is not powered to detect any specific difference and the purpose is to estimate any observed difference descriptively.",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "UAS7 score",
+          "description": "Urticaria Activity Score over 7 days (UAS7) is based on 2 daily questions, with daily score of 0 to 6 and weekly score of 0 to 42. Lower scores suggests urticaria free and well controlled urticaria. The study is not powered to detect any specific difference, descriptive analysis of difference over time will be presented.",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Number of participants with administration of remibrutinib as monotherapy",
+          "description": "Number of participants with remibrutinib as monotherapy in cohort 2 and 3",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Monotherapy duration",
+          "description": "Duration of remibrutinib as monotherapy expressed by days, weeks or months in cohort 2 and 3",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Number of participants with Administration of remibrutinib as monotherapy with \"on demand\" sgH1-AH",
+          "description": "Number of participants with Administration of remibrutinib as monotherapy with \"on demand\" sgH1-AH in cohort 2 and 3",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Duration of monotherapy with \"on demand\" sgH1-AH",
+          "description": "Duration of remibrutinib therapy with \"on demand\" sgH1-AH expressed by days, weeks or months in cohort 2 and 3",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Number of participants with usage of concomitant sgH1-AHs and additional prescribed CSU treatments",
+          "description": "Descriptive analysis of concomitant sgH1-AHs",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Number of participants with administration of CSU-related treatment(s) outside of local and/or international guidelines",
+          "description": "Number of participants with administration of CSU-related treatment(s) outside of local and/or international guidelines",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Demonstrate relationship between non-adherence to local/international guidelines and impact on patient, disease control, treatment patterns and HCRU during early and long-term follow-up",
+          "description": "Demonstrate relationship between non-adherence to local/international guidelines and impact on patient, disease control, treatment patterns and HCRU during early and long-term follow-up",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Delay of treatment escalation contrary to local and/or international guidelines when UCT <12 or UAS>6",
+          "description": "Delay of treatment escalation contrary within 2-4 weeks from up-dosed sgH1-AH when UCT \\<12 or UAS\\>6 at time points measuring UCT7 (early) / UCT (month 3 onwards) / UAS7 group.\n\nThis will be measured by time in days/months without escalation, with UCT\\<12 or UAS7\\>6 at time points measuring UCT7 / UCT (month 3 onwards) / UAS7 group",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Time without escalation, with UCT<12 or UAS7>6",
+          "description": "Time in days/months without escalation while UCT score is below 12 OR UAS7 score above 6. Urticaria Control Test consists of 4 questions, score below 12 indicates poor disease control. Urticaria Activity Score over 7 days is based on 2 daily questions with a maximum daily score of 6 and weekly total score up to 42. Lower scores indicates better urticaria control.",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Number of participants with escalation to remibrutinib",
+          "description": "Number of patients with escalation to remibrutinib (cohort 1), time to escalate, prior medications/escalations, and disease control at time of escalation will be presented.",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Number of participants with administration of above the licensed dose of sgH1-AH prior to remibrutinib switch",
+          "description": "Number of participants receiving escalated doses of sgH1-AH above the licensed dose (2 times, 3 times, 4 times, \\>4 times) prior to remibrutinib switch. This will be presented for cohort 1 and 2.",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Number of sgH1-AH treatment escalations and switches prior to remibrutinib escalation",
+          "description": "Number of sgH1-AH treatment escalations and switches prior to remibrutinib escalation",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Demonstrate benefit of early vs late treatment escalation to remibrutinib",
+          "description": "Demonstrate benefit of early vs late treatment escalation to remibrutinib",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Proportion of patients with uncontrolled angioedema escalated to remibrutinib",
+          "description": "Presence of angioedema will be reported through App and/or derived from AAS scores",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Proportion of patients requiring corticosteroids prior to switch to remibrutinib",
+          "description": "Proportion of patients requiring corticosteroids for disease control prior to switch to remibrutinib (cohort 1 and 2)",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Quality of life measured through DLQI score",
+          "description": "Dermatology Life Quality Index (DLQI) score consists of 10 questions scored from 0 (no impact at all) to 3 (very much). Total score ranges from 0 to 30, with lower scores showing lowest impact of disease on quality of life.",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Quality of life evaluated through Chronic Urticaria Quality of Life Questionnaire (CU-Q2oL) questionnaire scores",
+          "description": "Change over time in Chronic Urticaria Quality of Life Questionnaire (CU-Q2oL) questionnaire. CU-Q2oL consists of 20 items rated from 0 (never) to 5 (very often). Total score ranges from 0 to 25, with lower scores showing better urticaria control. The study is not powered to detect any specific difference, descriptive analysis of difference over time will be presented.",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Quality of life measured through Sleep interference score",
+          "description": "Sleep interference will be evaluated though bespoke question. Maximum score along 7 days ranges from 0 to 21, lower scores showing lowest interference of CSU with sleep.",
+          "timeFrame": "Up to week 12"
+        },
+        {
+          "measure": "Quality of life measured through Hospital anxiety and depression scale (HADS)",
+          "description": "Quality of life will be evaluated through HADS measuring anxiety and depression components, as well as change from baseline in HADS score. Hospital Anxiety and Depression Score (HADS) is a 14 item questionnaire, 7 item rating anxiety and 7 depression. Responses are rated from 0 (never) to 3 (almost all time) at each question. Total score for anxiety and total score for depression range from 0 to 21, higher scores showing higher anxious/depressive symptomatology. Descriptive analysis will be presented.",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Number of events related to CSU or Health Care Resource utilisation",
+          "description": "Health Care resource utilisation (HCRU) will be evaluated based on quarterly and annualized number of health care resource utilisation related to CSU.",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Work productivity and activity impairment (WPAI-CU) score",
+          "description": "Work productivity assessed through WPAI questionnaire which consists of 6 questions, used to calculate 4 types of scores, absenteeism (work time missed), presenteeism (impairment at work/reduced on the job effectiveness), work productivity loss (overall work impairment), and activity impairment. The scores are expressed in percentage with higher numbers indicating greater impairment and less productivity at work.",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Incidence of AEs",
+          "description": "Incidence of AEs, including serious AEs in patients who initiated remibrutinib and in patients with sgH1-AH treatment alone",
+          "timeFrame": "Up to 24 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with a confirmed diagnosis of primary CSU by the treating physician.\n* Aged at least 18 years on the date of enrolment.\n* Written informed consent of the patient to participate in the study (according to country specifications) and willingness to complete full follow-up period of 24 months.\n* Cohort-specific observational inclusion criteria:\n\n  * Cohort 1: Inadequate control of CSU despite licensed dose of sgH1-AH (no other pre-treatments permitted) and decision (independent of study enrolment) to escalate sgH1-AH treatment.\n  * Cohort 2: Inadequate control of CSU despite licensed dose or escalated sgH1-AH(s) (no other pre-treatment with exception of first generation H1-AH permitted) with decision (independent of study enrolment) to switch to remibrutinib treatment as per local label.\n  * Cohort 3: Any other treatment received in addition to H1-AH, any time during patients' CSU treatment history, with decision (independent of study enrolment) to switch to remibrutinib treatment as per local label. Note, occasional steroid rescue medication is out of scope for cohort definition. If a patient had been on continuous steroids for at least three weeks during treatment history, they will be included in cohort 3.\n\nNote: Candidate patients must not have initiated the next escalated treatment step (i.e. up dosed AH for cohort 1, or remibrutinib for cohorts 2 and 3) prior to their enrolment to ensure the baseline visit captures their clinical status before treatment escalation.\n\nExclusion Criteria:\n\n* Currently enrolled in a clinical trial or on any experimental treatment.\n* Patients within the safety follow-up phase of a previous interventional or non-interventional study.\n* Patients who received remibrutinib as an investigational medical product during a remibrutinib interventional study or MAP/PSDS at any time in the past.\n* Patients not capable or willing to continuously provide ePRO/eDiary data via electronic means throughout the duration of the study.\n* Patients who are treated with remibrutinib outside of the local label.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "100 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Patients with CSU where the treatment decision prior enrolment has been made to either escalate current sgH1-AHs treatment or escalate/switch current treatment to remibrutinib",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Novartis Pharmaceuticals",
+          "role": "CONTACT",
+          "phone": "+41613241111",
+          "email": "novartis.email@novartis.com"
+        },
+        {
+          "name": "Novartis Pharmaceuticals",
+          "role": "CONTACT"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Novartis Pharmaceuticals",
+          "affiliation": "Novartis Pharmaceuticals",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Cleaver Dermatology",
+          "status": "RECRUITING",
+          "city": "Kirksville",
+          "state": "Missouri",
+          "zip": "63501",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.19475,
+            "lon": -92.58325
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-04-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000080223",
+          "term": "Chronic Urticaria"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014581",
+          "term": "Urticaria"
+        },
+        {
+          "id": "D017445",
+          "term": "Skin Diseases, Vascular"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D006969",
+          "term": "Hypersensitivity, Immediate"
+        },
+        {
+          "id": "D006967",
+          "term": "Hypersensitivity"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": false,
+  "_meta": {
+    "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT07358780",
+    "fetched_at": "2026-04-09T00:59:09.835590+00:00"
+  }
+}

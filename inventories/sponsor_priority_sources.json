@@ -1,0 +1,355 @@
+{
+  "fetched_at": "2026-04-09T01:06:40.549706+00:00",
+  "results": [
+    {
+      "program": "remibrutinib",
+      "priority_class": "BTK",
+      "sponsor": "Novartis",
+      "kind": "html",
+      "label": "2023 Phase III primary endpoints press release",
+      "url": "https://www.novartis.com/news/media-releases/novartis-remibrutinib-phase-iii-trials-met-their-primary-endpoints-and-showed-rapid-symptom-control-chronic-spontaneous-urticaria",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/btk/remibrutinib/2023-phase-iii-primary-endpoints-press-release.html",
+        "raw/sponsors/btk/remibrutinib/2023-phase-iii-primary-endpoints-press-release.md"
+      ]
+    },
+    {
+      "program": "remibrutinib",
+      "priority_class": "BTK",
+      "sponsor": "Novartis",
+      "kind": "html",
+      "label": "2024 sustained efficacy and safety press release",
+      "url": "https://www.novartis.com/news/media-releases/novartis-phase-iii-data-confirm-sustained-efficacy-and-long-term-safety-oral-remibrutinib-chronic-spontaneous-urticaria",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/btk/remibrutinib/2024-sustained-efficacy-and-safety-press-release.html",
+        "raw/sponsors/btk/remibrutinib/2024-sustained-efficacy-and-safety-press-release.md"
+      ]
+    },
+    {
+      "program": "remibrutinib",
+      "priority_class": "BTK",
+      "sponsor": "Novartis",
+      "kind": "html",
+      "label": "2026 CIndU Phase III RemIND press release",
+      "url": "https://www.novartis.com/news/media-releases/novartis-remibrutinib-first-therapy-achieve-phase-iii-primary-endpoint-chronic-inducible-urticaria-cindu",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/btk/remibrutinib/2026-cindu-phase-iii-remind-press-release.html",
+        "raw/sponsors/btk/remibrutinib/2026-cindu-phase-iii-remind-press-release.md"
+      ]
+    },
+    {
+      "program": "remibrutinib",
+      "priority_class": "BTK",
+      "sponsor": "Novartis",
+      "kind": "html",
+      "label": "Novartis trial page NCT06865651",
+      "url": "https://www.novartis.com/clinicaltrials/study/nct06865651",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/btk/remibrutinib/novartis-trial-page-nct06865651.html",
+        "raw/sponsors/btk/remibrutinib/novartis-trial-page-nct06865651.md"
+      ]
+    },
+    {
+      "program": "rilzabrutinib",
+      "priority_class": "BTK",
+      "sponsor": "Sanofi",
+      "kind": "html",
+      "label": "Sanofi pipeline page",
+      "url": "https://www.sanofi.com/en/our-science/our-pipeline",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/btk/rilzabrutinib/sanofi-pipeline-page.html",
+        "raw/sponsors/btk/rilzabrutinib/sanofi-pipeline-page.md"
+      ]
+    },
+    {
+      "program": "barzolvolimab",
+      "priority_class": "KIT",
+      "sponsor": "Celldex",
+      "kind": "html",
+      "label": "IR press release positive results",
+      "url": "https://ir.celldex.com/news-releases/news-release-details/celldex-therapeutics-presents-positive-results-barzolvolimab",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/kit/barzolvolimab/ir-press-release-positive-results.html",
+        "raw/sponsors/kit/barzolvolimab/ir-press-release-positive-results.md"
+      ]
+    },
+    {
+      "program": "barzolvolimab",
+      "priority_class": "KIT",
+      "sponsor": "Celldex",
+      "kind": "html",
+      "label": "IR press release additional positive data",
+      "url": "https://ir.celldex.com/news-releases/news-release-details/celldex-presents-additional-positive-data-demonstrating",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/kit/barzolvolimab/ir-press-release-additional-positive-data.html",
+        "raw/sponsors/kit/barzolvolimab/ir-press-release-additional-positive-data.md"
+      ]
+    },
+    {
+      "program": "barzolvolimab",
+      "priority_class": "KIT",
+      "sponsor": "Celldex",
+      "kind": "pdf",
+      "label": "AAAAI 2025 CSU poster",
+      "url": "https://celldex.com/wp-content/uploads/2025/06/AAAAI-2025-CSU-posterL11.pdf",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/kit/barzolvolimab/aaaai-2025-csu-poster.pdf",
+        "raw/sponsors/kit/barzolvolimab/aaaai-2025-csu-poster.txt",
+        "raw/sponsors/kit/barzolvolimab/aaaai-2025-csu-poster.md"
+      ]
+    },
+    {
+      "program": "barzolvolimab",
+      "priority_class": "KIT",
+      "sponsor": "Celldex",
+      "kind": "pdf",
+      "label": "Phase 2 CIndU ACAAI poster",
+      "url": "https://celldex.com/wp-content/uploads/2025/06/Barzolvolimab_Phase-2-ClndU_ACAAI_FINAL.pdf",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/kit/barzolvolimab/phase-2-cindu-acaai-poster.pdf",
+        "raw/sponsors/kit/barzolvolimab/phase-2-cindu-acaai-poster.txt",
+        "raw/sponsors/kit/barzolvolimab/phase-2-cindu-acaai-poster.md"
+      ]
+    },
+    {
+      "program": "barzolvolimab",
+      "priority_class": "KIT",
+      "sponsor": "Celldex",
+      "kind": "pdf",
+      "label": "EADV 2024 congress presentation",
+      "url": "https://celldex.com/wp-content/uploads/2025/06/CLDX_EADV2024_Congress_Presentation.pdf",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/kit/barzolvolimab/eadv-2024-congress-presentation.pdf",
+        "raw/sponsors/kit/barzolvolimab/eadv-2024-congress-presentation.txt",
+        "raw/sponsors/kit/barzolvolimab/eadv-2024-congress-presentation.md"
+      ]
+    },
+    {
+      "program": "barzolvolimab",
+      "priority_class": "KIT",
+      "sponsor": "Celldex",
+      "kind": "pdf",
+      "label": "IR press release PDF additional data",
+      "url": "https://ir.celldex.com/node/16446/pdf",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/kit/barzolvolimab/ir-press-release-pdf-additional-data.pdf",
+        "raw/sponsors/kit/barzolvolimab/ir-press-release-pdf-additional-data.txt",
+        "raw/sponsors/kit/barzolvolimab/ir-press-release-pdf-additional-data.md"
+      ]
+    },
+    {
+      "program": "blu-808",
+      "priority_class": "KIT",
+      "sponsor": "Blueprint Medicines",
+      "kind": "html",
+      "label": "Core programs page",
+      "url": "https://www.blueprintmedicines.com/pipeline/core-programs/",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/kit/blu-808/core-programs-page.html",
+        "raw/sponsors/kit/blu-808/core-programs-page.md"
+      ]
+    },
+    {
+      "program": "blu-808",
+      "priority_class": "KIT",
+      "sponsor": "Blueprint Medicines",
+      "kind": "html",
+      "label": "AAAAI WAO 2025 publications page",
+      "url": "https://www.blueprintmedicines.com/publications/2025-american-academy-of-allergy-asthma-immunology-aaaai-world-allergy-organization-wao-joint-congress-10/",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/kit/blu-808/aaaai-wao-2025-publications-page.html",
+        "raw/sponsors/kit/blu-808/aaaai-wao-2025-publications-page.md"
+      ]
+    },
+    {
+      "program": "blu-808",
+      "priority_class": "KIT",
+      "sponsor": "Blueprint Medicines",
+      "kind": "pdf",
+      "label": "AAAAI WAO 2025 BLU-808 WT KIT poster",
+      "url": "https://www.blueprintmedicines.com/wp-content/uploads/2025/02/Blueprint-Medicines-AAAAI-WAO-2025-BLU-808-Wild-Type-KIT-Inhibitor-Poster.pdf",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/kit/blu-808/aaaai-wao-2025-blu-808-wt-kit-poster.pdf",
+        "raw/sponsors/kit/blu-808/aaaai-wao-2025-blu-808-wt-kit-poster.txt",
+        "raw/sponsors/kit/blu-808/aaaai-wao-2025-blu-808-wt-kit-poster.md"
+      ]
+    },
+    {
+      "program": "blu-808",
+      "priority_class": "KIT",
+      "sponsor": "Blueprint Medicines",
+      "kind": "pdf",
+      "label": "AAAAI 2024 BLU-808 WT KIT poster",
+      "url": "https://www.blueprintmedicines.com/wp-content/uploads/2024/02/Blueprint-Medicines-AAAAI-2024-BLU-808-Wild-Type-KIT-Mast-Cell-Disorders-Poster.pdf",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/kit/blu-808/aaaai-2024-blu-808-wt-kit-poster.pdf",
+        "raw/sponsors/kit/blu-808/aaaai-2024-blu-808-wt-kit-poster.txt",
+        "raw/sponsors/kit/blu-808/aaaai-2024-blu-808-wt-kit-poster.md"
+      ]
+    },
+    {
+      "program": "briquilimab",
+      "priority_class": "KIT",
+      "sponsor": "Jasper Therapeutics",
+      "kind": "html",
+      "label": "Briquilimab program page",
+      "url": "https://jaspertx.com/briquilimab/",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/kit/briquilimab/briquilimab-program-page.html",
+        "raw/sponsors/kit/briquilimab/briquilimab-program-page.md"
+      ]
+    },
+    {
+      "program": "evo756",
+      "priority_class": "MRGPRX2",
+      "sponsor": "Evommune",
+      "kind": "html",
+      "label": "MRGPRX2 antagonist program page",
+      "url": "https://www.evommune.com/mrgprx2-antagonist/",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/mrgprx2/evo756/mrgprx2-antagonist-program-page.html",
+        "raw/sponsors/mrgprx2/evo756/mrgprx2-antagonist-program-page.md"
+      ]
+    },
+    {
+      "program": "evo756",
+      "priority_class": "MRGPRX2",
+      "sponsor": "Evommune",
+      "kind": "html",
+      "label": "Clinical trials page",
+      "url": "https://www.evommune.com/clinical-trials/",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/mrgprx2/evo756/clinical-trials-page.html",
+        "raw/sponsors/mrgprx2/evo756/clinical-trials-page.md"
+      ]
+    },
+    {
+      "program": "evo756",
+      "priority_class": "MRGPRX2",
+      "sponsor": "Evommune",
+      "kind": "pdf",
+      "label": "CIndU Phase 2 trial initiation PDF",
+      "url": "https://www.evommune.com/wp-content/uploads/2024/09/21_Evommune_EVO756_CindU_Phase_2_Trial.pdf",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/mrgprx2/evo756/cindu-phase-2-trial-initiation-pdf.pdf",
+        "raw/sponsors/mrgprx2/evo756/cindu-phase-2-trial-initiation-pdf.txt",
+        "raw/sponsors/mrgprx2/evo756/cindu-phase-2-trial-initiation-pdf.md"
+      ]
+    },
+    {
+      "program": "evo756",
+      "priority_class": "MRGPRX2",
+      "sponsor": "Evommune",
+      "kind": "pdf",
+      "label": "GA2LEN 2024 trial results presentation PDF",
+      "url": "https://www.evommune.com/wp-content/uploads/2024/12/23_Evommune_EVO756_Trial_Results_Preso.pdf",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/mrgprx2/evo756/ga2len-2024-trial-results-presentation-pdf.pdf",
+        "raw/sponsors/mrgprx2/evo756/ga2len-2024-trial-results-presentation-pdf.txt",
+        "raw/sponsors/mrgprx2/evo756/ga2len-2024-trial-results-presentation-pdf.md"
+      ]
+    },
+    {
+      "program": "evo756",
+      "priority_class": "MRGPRX2",
+      "sponsor": "Evommune",
+      "kind": "pdf",
+      "label": "CSU Phase 2b trial initiation PDF",
+      "url": "https://www.evommune.com/wp-content/uploads/2025/04/25_Evommune_756_CSU_Phase_2_Trial_Initiation.pdf",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/mrgprx2/evo756/csu-phase-2b-trial-initiation-pdf.pdf",
+        "raw/sponsors/mrgprx2/evo756/csu-phase-2b-trial-initiation-pdf.txt",
+        "raw/sponsors/mrgprx2/evo756/csu-phase-2b-trial-initiation-pdf.md"
+      ]
+    },
+    {
+      "program": "evo756",
+      "priority_class": "MRGPRX2",
+      "sponsor": "Evommune",
+      "kind": "pdf",
+      "label": "CIndU top-line press release PDF",
+      "url": "https://www.evommune.com/wp-content/uploads/2025/05/26b_Evommune_CIndU_Press_Release.pdf",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/mrgprx2/evo756/cindu-top-line-press-release-pdf.pdf",
+        "raw/sponsors/mrgprx2/evo756/cindu-top-line-press-release-pdf.txt",
+        "raw/sponsors/mrgprx2/evo756/cindu-top-line-press-release-pdf.md"
+      ]
+    },
+    {
+      "program": "evo756",
+      "priority_class": "MRGPRX2",
+      "sponsor": "Evommune",
+      "kind": "pdf",
+      "label": "EADV 2025 CIndU presentation PDF",
+      "url": "https://www.evommune.com/wp-content/uploads/2025/09/29b_Evommune_EADV_CIndU_091925.pdf",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/mrgprx2/evo756/eadv-2025-cindu-presentation-pdf.pdf",
+        "raw/sponsors/mrgprx2/evo756/eadv-2025-cindu-presentation-pdf.txt",
+        "raw/sponsors/mrgprx2/evo756/eadv-2025-cindu-presentation-pdf.md"
+      ]
+    },
+    {
+      "program": "sep-631",
+      "priority_class": "MRGPRX2",
+      "sponsor": "Septerna",
+      "kind": "html",
+      "label": "Pipeline page",
+      "url": "https://septerna.com/pipeline/",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/mrgprx2/sep-631/pipeline-page.html",
+        "raw/sponsors/mrgprx2/sep-631/pipeline-page.md"
+      ]
+    },
+    {
+      "program": "sep-631",
+      "priority_class": "MRGPRX2",
+      "sponsor": "Septerna",
+      "kind": "pdf",
+      "label": "AAAAI 2026 poster PDF",
+      "url": "https://www.septerna.com/wp-content/uploads/2026.03.01_SEP-631-AAAAI-2026-Poster_FINAL.pdf",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/mrgprx2/sep-631/aaaai-2026-poster-pdf.pdf",
+        "raw/sponsors/mrgprx2/sep-631/aaaai-2026-poster-pdf.txt",
+        "raw/sponsors/mrgprx2/sep-631/aaaai-2026-poster-pdf.md"
+      ]
+    },
+    {
+      "program": "ep262",
+      "priority_class": "MRGPRX2",
+      "sponsor": "Escient Pharmaceuticals",
+      "kind": "html",
+      "label": "Pipeline page",
+      "url": "https://www.escientpharma.com/programs/pipeline/",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/mrgprx2/ep262/pipeline-page.html",
+        "raw/sponsors/mrgprx2/ep262/pipeline-page.md"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2227 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04109313",
+      "orgStudyIdInfo": {
+        "id": "CLOU064A2201E1"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2019-001074-29",
+          "type": "EUDRACT_NUMBER"
+        }
+      ],
+      "organization": {
+        "fullName": "Novartis",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "An Open-label Extension Study to Evaluate the Long-term Safety and Tolerability of LOU064 in Subjects With CSU",
+      "officialTitle": "An Open-label, Multicenter, Extension Study to Evaluate the Long-term Safety and Tolerability of LOU064 in Eligible Subjects With CSU Who Have Participated in CLOU064A2201"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-06",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2019-10-24",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2022-09-09",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2022-09-09",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2019-09-27",
+      "studyFirstSubmitQcDate": "2019-09-27",
+      "studyFirstPostDateStruct": {
+        "date": "2019-09-30",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2023-09-05",
+      "resultsFirstSubmitQcDate": "2023-09-05",
+      "resultsFirstPostDateStruct": {
+        "date": "2023-09-29",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-06-17",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-06-20",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Novartis Pharmaceuticals",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The main objective to assess the long-term safety and tolerability of LOU064 in patients with chronic spontaneous urticaria (CSU) who have participated in study CLOU064A2201 (NCT03926611)",
+      "detailedDescription": "This was an open-label, single-arm, multicenter, long-term safety and tolerability extension study for CSU patients rolling over from study CLOU064A2201 (NCT03926611).\n\nSubjects rolling over from CLOU064A2201 with a weekly Urticaria Activity Score (UAS7)\\<16 after the follow-up period at Week 16 were further followed up without receiving LOU064 for up to 12 weeks (observational period). If there was a relapse (UAS7\u226516 at least once), the 12-week observational period was terminated, and subjects entered the treatment period. Subjects who never relapsed within 12 weeks completed the study after the observational period without treatment.\n\nSubjects who rolled over from CLOU064A2201 with a UAS7\u226516 at Week 12 or Week 16, as well as those subjects who relapsed during the 12-week observational period, were treated with 100 mg LOU064 twice a day (b.i.d.) open-label for 52 weeks. No background medication with a second-generation H1-antihistamine was permitted up to Week 4 of the treatment period. Subjects who completed the treatment period or who discontinued treatment early were followed-up for a minimum duration of 4 weeks. Subjects who had a UAS7\u22646 at Week 52 of the treatment period had their follow-up period extended until relapse (UAS7\u226516) for up to a total of 16 weeks."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ],
+      "keywords": [
+        "Chronic spontaneous urticaria",
+        "BTK Inhibitor",
+        "Long term safety",
+        "Urticaria activity score"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 229,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "All participants",
+          "type": "EXPERIMENTAL",
+          "description": "Participants with UAS7\\<16 at Week 16 of CLOU064A2201 were followed up to 12 weeks without receiving treatment (observational period). If participants relapsed (UAS7\u226516 at least once), they were transitioned to the treatment period. Otherwise, they were discontinued from the study.\n\nParticipants with a UAS7\u226516 at Week 12 or Week 16 in the CLOU064A2201, as well as participants who experienced a relapse during the 12-week observational period, were administered 100 mg of LOU064 b.i.d. open-label for up to 52 weeks.",
+          "interventionNames": [
+            "Drug: LOU064"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "LOU064",
+          "description": "Participants with a UAS7\u226516 at Week 12 or Week 16 in the CLOU064A2201, as well as participants who experienced a relapse during the 12-week observational period, were administered LOU064 50mg capsules b.i.d. (i.e. two capsules of LOU064 50mg in the morning and two capsules of LOU064 50mg in the evening) from Day 1 up to Week 52 of the Treatment period.",
+          "armGroupLabels": [
+            "All participants"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Number of Participants With Treatment-emergent Adverse Events (AEs)",
+          "description": "An AE refers to any undesirable medical occurrence, such as an unintended sign (including abnormal laboratory findings), symptom, or disease, experienced by a participant. Serious AEs (SAEs) is defined as any AE that results in death, is life-threatening, requires hospitalization or prolongation of existing hospitalization, results in persistent or significant disability/incapacity, results in a congenital anomaly/birth defect, or any other medically significant condition.\n\nTreatment-emergent AEs were defined as AEs that either begin on the same day or after the first dose of study medication during the treatment period in the extension study or worsen on the same day or after the first dose of study medication in the extension study and within the minimum of either 28 days post last dose or the end of the study visit. The number of participants with treatment-emergent AEs was summarized.",
+          "timeFrame": "From first dose of treatment up to 28 days after last dose, assessed up to 56 weeks"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change From Baseline in Weekly Urticaria Activity Score (UAS7) at Week 4 of the Treatment Period",
+          "description": "The Urticaria Activity Score (UAS) is a composite, diary-recorded score with numeric severity intensity ratings (0=none to 3=intense/severe) for the number of wheals (hives) and the intensity of the pruritus (itch) over the past 12 hours (twice daily). The daily UAS is calculated as the average of the morning and evening scores. The UAS7 is the weekly sum of the daily UAS, which is the composite score of the intensity of pruritus and the number of wheals. UAS7 scores ranged from 0 to 42. A higher UAS7 indicated greater urticaria disease activity. A minimum of 4 out of 7 daily scores were needed to calculate the UAS7 values. Otherwise, the weekly score was missing for that week.\n\nThe change from baseline in UAS7 at Week 4 of the treatment period was calculated. A negative change score from baseline indicates improvement. The UAS7 at baseline was considered as the UAS7 derived over the last 7 days before day 1 of the treatment period.",
+          "timeFrame": "Baseline, Week 4 of treatment period"
+        },
+        {
+          "measure": "Percentage of Participants With Well-controlled Disease (UAS7\u22646) at Week 4 of the Treatment Period",
+          "description": "The Urticaria Activity Score (UAS) is a composite, diary-recorded score with numeric severity intensity ratings (0=none to 3=intense/severe) for the number of wheals (hives) and the intensity of the pruritus (itch) over the past 12 hours (twice daily). The daily UAS is calculated as the average of the morning and evening scores. The UAS7 is the weekly sum of the daily UAS, which is the composite score of the intensity of pruritus and the number of wheals. UAS7 scores ranged from 0 to 42. A higher UAS7 indicated greater urticaria disease activity.\n\nA minimum of 4 out of 7 daily scores were needed to calculate the UAS7 values. Otherwise, the weekly score was missing for that week. Missing values were imputed by non-responder imputation method regardless of the reason for missingness.\n\nThe percentage of subjects with UAS7\u2264 6 at Week 4 of the treatment period was calculated. The 90% confidence interval was derived based on the score method with continuity correction.",
+          "timeFrame": "Week 4 of the treatment period"
+        },
+        {
+          "measure": "Percentage of Participants With Complete Response (UAS7=0) at Week 4 of the Treatment Period",
+          "description": "The Urticaria Activity Score (UAS) is a composite, diary-recorded score with numeric severity intensity ratings (0=none to 3=intense/severe) for the number of wheals (hives) and the intensity of the pruritus (itch) over the past 12 hours (twice daily). The daily UAS is calculated as the average of the morning and evening scores. The UAS7 is the weekly sum of the daily UAS, which is the composite score of the intensity of pruritus and the number of wheals. UAS7 scores ranged from 0 to 42. A higher UAS7 indicated greater urticaria disease activity.\n\nA minimum of 4 out of 7 daily scores were needed to calculate the UAS7 values. Otherwise, the weekly score was missing for that week. Missing values were imputed by non-responder imputation method regardless of the reason for missingness.\n\nThe percentage of subjects with UAS7= 0 at Week 4 of the treatment period was calculated. The 90% confidence interval was derived based on the score method with continuity correction.",
+          "timeFrame": "Week 4 of the treatment period"
+        },
+        {
+          "measure": "Percentage of Participants With Well-controlled Disease (UAS7\u2264 6) Overtime",
+          "description": "The Urticaria Activity Score (UAS) is a composite, diary-recorded score with numeric severity intensity ratings (0=none to 3=intense/severe) for the number of wheals (hives) and the intensity of the pruritus (itch) over the past 12 hours (twice daily). The daily UAS is calculated as the average of the morning and evening scores. The UAS7 is the weekly sum of the daily UAS, which is the composite score of the intensity of pruritus and the number of wheals. UAS7 scores ranged from 0 to 42. A higher UAS7 indicated greater urticaria disease activity.\n\nA minimum of 4 out of 7 daily scores were needed to calculate the UAS7 values. Otherwise, the weekly score was missing for that week.\n\nThe percentage of subjects with UAS7\u2264 6 during the treatment period was calculated. The 90% confidence interval was derived based on the score method with continuity correction. The UAS7 at baseline was considered as the UAS7 derived over the last 7 days before day 1 of the treatment period.",
+          "timeFrame": "From baseline until Week 52 of the treatment period"
+        },
+        {
+          "measure": "Change From Baseline in UAS7 Overtime",
+          "description": "The Urticaria Activity Score (UAS) is a composite, diary-recorded score with numeric severity intensity ratings (0=none to 3=intense/severe) for the number of wheals (hives) and the intensity of the pruritus (itch) over the past 12 hours (twice daily). The daily UAS is calculated as the average of the morning and evening scores. The UAS7 is the weekly sum of the daily UAS, which is the composite score of the intensity of pruritus and the number of wheals. UAS7 scores ranged from 0 to 42. A higher UAS7 indicated greater urticaria disease activity.\n\nA minimum of 4 out of 7 daily scores were needed to calculate the UAS7 values. Otherwise, the weekly score was missing for that week.\n\nThe change from baseline in UAS7 during the treatment period was calculated. A negative change score from baseline indicates improvement. The UAS7 at baseline was considered as the UAS7 derived over the last 7 days before day 1 of the treatment period.",
+          "timeFrame": "From baseline until Week 52 of the treatment period"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Key Inclusion Criteria:\n\n* Participants must provide written informed consent prior to any assessments.\n* Participants must be willing and able to complete a daily symptom eDiary throughout the study and adhere to the study visit schedules.\n* Participants transitioning from the CLOU064A2201 trial must have completed either the Week 12 visit (end of treatment period) or the Week 16 visit (end of follow-up period). They will be assigned to either the treatment period or the observational period based on their UAS7 score (average score from the 7 days prior to the respective visit) as follows:\n\n  1. Participants transitioning at Week 12 of CLOU064A2201 with a UAS7 score of \u226516 will be allocated to the treatment period.\n  2. Participants transitioning at Week 16 of CLOU064A2201 with a UAS7 score of \u226516 will be allocated to the treatment period.\n  3. Participants transitioning at Week 16 of CLOU064A2201 with a UAS7 score of \\<16 will be allocated to the observational period.\n\nKey Exclusion Criteria:\n\n* Participants with a clearly defined predominant or sole trigger for their chronic urticaria, such as chronic inducible urticaria (including symptomatic dermographism, cold-induced, heat-induced, solar-induced, pressure-induced, delayed pressure-induced, aquagenic-induced, cholinergic-induced, or contact-induced urticaria).\n* Participants with other diseases presenting with urticaria or angioedema symptoms, including but not limited to urticaria vasculitis, urticarial pigmentosa, erythema multiforme, mastocytosis, hereditary urticaria, or acquired/drug-induced urticaria.\n* Participants with any other skin disease associated with chronic itching that, in the opinion of the investigator, could affect the study evaluations and results, such as atopic dermatitis, bullous pemphigoid, dermatitis herpetiformis, senile pruritus, or psoriasis.\n* Participants with a history or current diagnosis of ECG abnormalities that indicate a significant safety risk for their participation in the study, including:\n* Concomitant clinically significant cardiac arrhythmias (e.g., sustained ventricular tachycardia) and clinically significant second or third-degree AV block without a pacemaker.\n* History of familiar long QT syndrome or a known family history of Torsades de Pointes.\n* Resting heart rate (as determined by physical exam or 12-lead ECG) below 50 bpm.\n* Resting QTcF interval \u2265450 msec (in males) or \u2265460 msec (in females) at day 1 of the treatment period or inability to determine the QTcF interval.\n* Use of agents known to prolong the QT interval, unless they can be permanently discontinued for the duration of the study.\n* Participants with a significant risk of bleeding or coagulation disorders.\n* Participants with a known or suspected history of an ongoing, chronic, or recurrent infectious disease, including but not limited to opportunistic infections (e.g., tuberculosis, atypical mycobacterioses, listeriosis, or aspergillosis), HIV, or Hepatitis B/C.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "99 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Novartis Pharmaceutical",
+          "affiliation": "Novartis Pharmaceutical",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Litchfield Park",
+          "state": "Arizona",
+          "zip": "85340",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.49337,
+            "lon": -112.35794
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Little Rock",
+          "state": "Arkansas",
+          "zip": "72205",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.74648,
+            "lon": -92.28959
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Mission Viejo",
+          "state": "California",
+          "zip": "92691",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.60002,
+            "lon": -117.672
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "San Diego",
+          "state": "California",
+          "zip": "92123",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.71571,
+            "lon": -117.16472
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Walnut Creek",
+          "state": "California",
+          "zip": "94598",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.90631,
+            "lon": -122.06496
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Pembroke Pines",
+          "state": "Florida",
+          "zip": "33028",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.00315,
+            "lon": -80.22394
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Owensboro",
+          "state": "Kentucky",
+          "zip": "42301",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.77422,
+            "lon": -87.11333
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Ypsilanti",
+          "state": "Michigan",
+          "zip": "48197",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.24115,
+            "lon": -83.61299
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "St Louis",
+          "state": "Missouri",
+          "zip": "63141",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.62727,
+            "lon": -90.19789
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Grove City",
+          "state": "Ohio",
+          "zip": "43123",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.88145,
+            "lon": -83.09296
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "CABA",
+          "state": "Buenos Aires",
+          "zip": "C1414AIF",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "La Plata",
+          "state": "Buenos Aires",
+          "zip": "B1902COS",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -34.92126,
+            "lon": -57.95442
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Mendoza",
+          "state": "Mendoza Province",
+          "zip": "M5500AWD",
+          "country": "Argentina",
+          "geoPoint": {
+            "lat": -32.88946,
+            "lon": -68.84582
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "CABA",
+          "zip": "1035",
+          "country": "Argentina"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Edegem",
+          "state": "Antwerpen",
+          "zip": "2650",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 51.15662,
+            "lon": 4.44504
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Li\u00e8ge",
+          "zip": "4000",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 50.63373,
+            "lon": 5.56749
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Edmonton",
+          "state": "Alberta",
+          "zip": "T5K 1X3",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 53.55014,
+            "lon": -113.46871
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "London",
+          "state": "Ontario",
+          "zip": "N6H 5L5",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 42.98339,
+            "lon": -81.23304
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Niagara Falls",
+          "state": "Ontario",
+          "zip": "L2H 1H5",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.10012,
+            "lon": -79.06627
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Ottawa",
+          "state": "Ontario",
+          "zip": "K1G 6C6",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 45.41117,
+            "lon": -75.69812
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Qu\u00e9bec",
+          "state": "Quebec",
+          "zip": "G1V 4W2",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 46.81228,
+            "lon": -71.21454
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Verdun",
+          "state": "Quebec",
+          "zip": "H4G 3E7",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 45.46005,
+            "lon": -73.57058
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Prague",
+          "state": "Czech Republic",
+          "zip": "180 00",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 50.08804,
+            "lon": 14.42076
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Prague",
+          "state": "Prague 1",
+          "zip": "11000",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 50.08804,
+            "lon": 14.42076
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "T\u00e1bor",
+          "zip": "390 01",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 49.41441,
+            "lon": 14.6578
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Arhus C",
+          "zip": "DK 8000",
+          "country": "Denmark"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Copenhagen NV",
+          "zip": "2400",
+          "country": "Denmark"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Lille",
+          "zip": "59037",
+          "country": "France",
+          "geoPoint": {
+            "lat": 50.63391,
+            "lon": 3.05512
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Nantes",
+          "zip": "44093",
+          "country": "France",
+          "geoPoint": {
+            "lat": 47.21725,
+            "lon": -1.55336
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Nice",
+          "zip": "06202",
+          "country": "France",
+          "geoPoint": {
+            "lat": 43.70313,
+            "lon": 7.26608
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Orosh\u00e1za",
+          "state": "Bekes County",
+          "zip": "5900",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 46.56667,
+            "lon": 20.66667
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Budapest",
+          "zip": "1085",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 47.49835,
+            "lon": 19.04045
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Debrecen",
+          "zip": "4032",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 47.53167,
+            "lon": 21.62444
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "P\u00e9cs",
+          "zip": "7632",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 46.07617,
+            "lon": 18.22814
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Szolnok",
+          "zip": "5000",
+          "country": "Hungary",
+          "geoPoint": {
+            "lat": 47.18066,
+            "lon": 20.19835
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Ichinomiya",
+          "state": "Aichi-ken",
+          "zip": "491-0041",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 35.3,
+            "lon": 136.8
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Funabashi",
+          "state": "Chiba",
+          "zip": "273-0031",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 35.70129,
+            "lon": 139.98648
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Hiroshima",
+          "state": "Hiroshima",
+          "zip": "734-8551",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 34.4,
+            "lon": 132.45
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Obihiro",
+          "state": "Hokkaido",
+          "zip": "080 0013",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 42.91722,
+            "lon": 143.20444
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Yokohama",
+          "state": "Kanagawa",
+          "zip": "220-6208",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 35.43333,
+            "lon": 139.65
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Yokohama",
+          "state": "Kanagawa",
+          "zip": "221-0825",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 35.43333,
+            "lon": 139.65
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Yokohama",
+          "state": "Kanagawa",
+          "zip": "240-0013",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 35.43333,
+            "lon": 139.65
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Itabashi-ku",
+          "state": "Tokyo",
+          "zip": "173-8610",
+          "country": "Japan"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Takaoka",
+          "state": "Toyama",
+          "zip": "933-0871",
+          "country": "Japan",
+          "geoPoint": {
+            "lat": 36.75,
+            "lon": 137.01667
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Gdansk",
+          "zip": "80 803",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 54.35227,
+            "lon": 18.64912
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Lodz",
+          "zip": "90-265",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 51.77058,
+            "lon": 19.47395
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Lodz",
+          "zip": "90-436",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 51.77058,
+            "lon": 19.47395
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Rzesz\u00f3w",
+          "zip": "35 055",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 50.04132,
+            "lon": 21.99901
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Warsaw",
+          "zip": "02 777",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 52.22977,
+            "lon": 21.01178
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Moscow",
+          "zip": "123182",
+          "country": "Russia",
+          "geoPoint": {
+            "lat": 55.75204,
+            "lon": 37.61781
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Saint Petersburg",
+          "zip": "194354",
+          "country": "Russia",
+          "geoPoint": {
+            "lat": 59.93863,
+            "lon": 30.31413
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Saint Petersburg",
+          "zip": "195112",
+          "country": "Russia",
+          "geoPoint": {
+            "lat": 59.93863,
+            "lon": 30.31413
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Stavropol",
+          "zip": "355000",
+          "country": "Russia",
+          "geoPoint": {
+            "lat": 45.03442,
+            "lon": 41.9642
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Ko\u0161ice",
+          "state": "Slovak Republic",
+          "zip": "040 15",
+          "country": "Slovakia",
+          "geoPoint": {
+            "lat": 48.71441,
+            "lon": 21.25802
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Nov\u00e9 Z\u00e1mky",
+          "zip": "940 34",
+          "country": "Slovakia",
+          "geoPoint": {
+            "lat": 47.98544,
+            "lon": 18.16195
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Svidn\u00edk",
+          "zip": "08901",
+          "country": "Slovakia",
+          "geoPoint": {
+            "lat": 49.30819,
+            "lon": 21.5703
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Barcelona",
+          "state": "Catalonia",
+          "zip": "08003",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Barcelona",
+          "state": "Catalonia",
+          "zip": "08035",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Barcelona",
+          "state": "Catalonia",
+          "zip": "08036",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Alicante",
+          "state": "Valencia",
+          "zip": "03010",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 38.34517,
+            "lon": -0.48149
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Madrid",
+          "zip": "28006",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Madrid",
+          "zip": "28046",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Istanbul",
+          "state": "TUR",
+          "zip": "34098",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 41.01384,
+            "lon": 28.94966
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Denizli",
+          "zip": "20070",
+          "country": "Turkey (T\u00fcrkiye)",
+          "geoPoint": {
+            "lat": 37.77417,
+            "lon": 29.0875
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Talas / Kayseri",
+          "zip": "38039",
+          "country": "Turkey (T\u00fcrkiye)"
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Leeds",
+          "zip": "LS9 7TF",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 53.79648,
+            "lon": -1.54785
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "London",
+          "zip": "SE1 9RT",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.50853,
+            "lon": -0.12574
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Oxford",
+          "zip": "OX3 7LJ",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.75222,
+            "lon": -1.25596
+          }
+        },
+        {
+          "facility": "Novartis Investigative Site",
+          "city": "Plymouth",
+          "zip": "PL6 8DH",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 50.37153,
+            "lon": -4.14305
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "37866460",
+          "type": "DERIVED",
+          "citation": "Jain V, Gimenez-Arnau A, Hayama K, Reich A, Carr W, Tillinghast J, Dahale S, Lheritier K, Walsh P, Zharkov A, Hugot S, Haemmerle S. Remibrutinib demonstrates favorable safety profile and sustained efficacy in chronic spontaneous urticaria over 52 weeks. J Allergy Clin Immunol. 2024 Feb;153(2):479-486.e4. doi: 10.1016/j.jaci.2023.10.007. Epub 2023 Oct 20."
+        }
+      ],
+      "seeAlsoLinks": [
+        {
+          "label": "Patient Lay Trial Summary",
+          "url": "https://www.novctrd.com/ctrdweb/patientsummary/patientsummaries?patientSummaryId=1569"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Novartis is committed to sharing access to patient-level data and supporting clinical documents from eligible studies with qualified external researchers. Requests are reviewed and approved by an independent review panel on the basis of scientific merit. All data provided is anonymized to protect the privacy of patients who have participated in the trial in line with applicable laws and regulations.\n\nThis trial data availability is according to the criteria and process described on www.clinicalstudydatarequest.com"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "Participants with UAS7\\<16 at Week 16 of CLOU064A2201 (NCT03926611) entered a 12-week observational period.\n\nParticipants with UAS7\u226516 at Week 12 or Week 16 of CLOU064A2201, as well as those who relapsed during the observational period, entered the treatment period.",
+      "recruitmentDetails": "229 subjects were enrolled in the observational period or the treatment period across 72 sites in 15 countries.\n\nOne subject was a screening failure and, as a result, was not enrolled in either the observational or treatment period.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "All Participants",
+          "description": "Participants with UAS7\\<16 at Week 16 of CLOU064A2201 were followed up to 12 weeks without receiving treatment (observational period). If participants relapsed (UAS7\u226516 at least once), they were transitioned to the treatment period.\n\nParticipants with a UAS7\u226516 at Week 12 or Week 16 in the CLOU064A2201, as well as participants who experienced a relapse during the 12-week observational period, were administered 100 mg of LOU064 b.i.d. open-label for up to 52 weeks."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "229"
+                }
+              ]
+            },
+            {
+              "type": "Treatment-free Cohort",
+              "comment": "Participants with UAS7\\<16 at Week 16 of CLOU064A2201 were followed up to 12 weeks without receiving treatment (observational period). If participants relapsed (UAS7\u226516 at least once), they were transitioned to the treatment period. Otherwise, the",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "68"
+                }
+              ]
+            },
+            {
+              "type": "Treatment Cohort",
+              "comment": "Participants with a UAS7\u226516 at Week 12 or Week 16 in the CLOU064A2201, as well as participants who experienced a relapse during the 12-week observational period, were administered 100 mg of LOU064 b.i.d. open-label for up to 52 weeks.",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "194"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "188"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "41"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Pregnancy",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "11"
+                }
+              ]
+            },
+            {
+              "type": "Lack of Efficacy",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "11"
+                }
+              ]
+            },
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Physician Decision",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "Subject Decision",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "13"
+                }
+              ]
+            },
+            {
+              "type": "Covid-19 situation",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "All Participants",
+          "description": "Participants with UAS7\\<16 at Week 16 of CLOU064A2201 were followed up to 12 weeks without receiving treatment (observational period). If participants relapsed (UAS7\u226516 at least once), they were transitioned to the treatment period.\n\nParticipants with a UAS7\u226516 at Week 12 or Week 16 in the CLOU064A2201, as well as participants who experienced a relapse during the 12-week observational period, were administered 100 mg of LOU064 b.i.d. open-label for up to 52 weeks."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "229"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEDIAN",
+          "dispersionType": "FULL_RANGE",
+          "unitOfMeasure": "Years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45",
+                      "lowerLimit": "18",
+                      "upperLimit": "77"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "165"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "64"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race/Ethnicity, Customized",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "181"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "44"
+                    }
+                  ]
+                },
+                {
+                  "title": "Multiple",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Number of Participants With Treatment-emergent Adverse Events (AEs)",
+          "description": "An AE refers to any undesirable medical occurrence, such as an unintended sign (including abnormal laboratory findings), symptom, or disease, experienced by a participant. Serious AEs (SAEs) is defined as any AE that results in death, is life-threatening, requires hospitalization or prolongation of existing hospitalization, results in persistent or significant disability/incapacity, results in a congenital anomaly/birth defect, or any other medically significant condition.\n\nTreatment-emergent AEs were defined as AEs that either begin on the same day or after the first dose of study medication during the treatment period in the extension study or worsen on the same day or after the first dose of study medication in the extension study and within the minimum of either 28 days post last dose or the end of the study visit. The number of participants with treatment-emergent AEs was summarized.",
+          "populationDescription": "All subjects who received at least one dose of study treatment during the treatment period of this extension study.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "From first dose of treatment up to 28 days after last dose, assessed up to 56 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treated Cohort",
+              "description": "Participants with a UAS7\u226516 at Week 12 or Week 16 in the CLOU064A2201, as well as participants who experienced a relapse during the 12-week observational period, were administered 100 mg of LOU064 b.i.d. open-label for up to 52 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "194"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "AEs",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "139"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Deaths",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Non-fatal Serious AEs (SAEs)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "SAE(s)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Discontinued treatment due to any AE(s)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "11"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Discontinued treatment due to any SAE(s)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Treatment interruption due to AE(s)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "13"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Treatment interruption due to SAE(s)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in Weekly Urticaria Activity Score (UAS7) at Week 4 of the Treatment Period",
+          "description": "The Urticaria Activity Score (UAS) is a composite, diary-recorded score with numeric severity intensity ratings (0=none to 3=intense/severe) for the number of wheals (hives) and the intensity of the pruritus (itch) over the past 12 hours (twice daily). The daily UAS is calculated as the average of the morning and evening scores. The UAS7 is the weekly sum of the daily UAS, which is the composite score of the intensity of pruritus and the number of wheals. UAS7 scores ranged from 0 to 42. A higher UAS7 indicated greater urticaria disease activity. A minimum of 4 out of 7 daily scores were needed to calculate the UAS7 values. Otherwise, the weekly score was missing for that week.\n\nThe change from baseline in UAS7 at Week 4 of the treatment period was calculated. A negative change score from baseline indicates improvement. The UAS7 at baseline was considered as the UAS7 derived over the last 7 days before day 1 of the treatment period.",
+          "populationDescription": "All subjects who received at least one dose of study treatment during the treatment period of this extension study with a value at both baseline and Week 4 of the treatment period.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Score on a Scale",
+          "timeFrame": "Baseline, Week 4 of treatment period",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treated Cohort",
+              "description": "Participants with a UAS7\u226516 at Week 12 or Week 16 in the CLOU064A2201, as well as participants who experienced a relapse during the 12-week observational period, were administered 100 mg of LOU064 b.i.d. open-label for up to 52 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "187"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-17.58",
+                      "spread": "13.400"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Participants With Well-controlled Disease (UAS7\u22646) at Week 4 of the Treatment Period",
+          "description": "The Urticaria Activity Score (UAS) is a composite, diary-recorded score with numeric severity intensity ratings (0=none to 3=intense/severe) for the number of wheals (hives) and the intensity of the pruritus (itch) over the past 12 hours (twice daily). The daily UAS is calculated as the average of the morning and evening scores. The UAS7 is the weekly sum of the daily UAS, which is the composite score of the intensity of pruritus and the number of wheals. UAS7 scores ranged from 0 to 42. A higher UAS7 indicated greater urticaria disease activity.\n\nA minimum of 4 out of 7 daily scores were needed to calculate the UAS7 values. Otherwise, the weekly score was missing for that week. Missing values were imputed by non-responder imputation method regardless of the reason for missingness.\n\nThe percentage of subjects with UAS7\u2264 6 at Week 4 of the treatment period was calculated. The 90% confidence interval was derived based on the score method with continuity correction.",
+          "populationDescription": "All subjects who received at least one dose of study treatment during the treatment period of this extension study.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "90% Confidence Interval",
+          "unitOfMeasure": "Percentage of participants",
+          "timeFrame": "Week 4 of the treatment period",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treated Cohort",
+              "description": "Participants with a UAS7\u226516 at Week 12 or Week 16 in the CLOU064A2201, as well as participants who experienced a relapse during the 12-week observational period, were administered 100 mg of LOU064 b.i.d. open-label for up to 52 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "194"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "51.0",
+                      "lowerLimit": "44.9",
+                      "upperLimit": "57.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Participants With Complete Response (UAS7=0) at Week 4 of the Treatment Period",
+          "description": "The Urticaria Activity Score (UAS) is a composite, diary-recorded score with numeric severity intensity ratings (0=none to 3=intense/severe) for the number of wheals (hives) and the intensity of the pruritus (itch) over the past 12 hours (twice daily). The daily UAS is calculated as the average of the morning and evening scores. The UAS7 is the weekly sum of the daily UAS, which is the composite score of the intensity of pruritus and the number of wheals. UAS7 scores ranged from 0 to 42. A higher UAS7 indicated greater urticaria disease activity.\n\nA minimum of 4 out of 7 daily scores were needed to calculate the UAS7 values. Otherwise, the weekly score was missing for that week. Missing values were imputed by non-responder imputation method regardless of the reason for missingness.\n\nThe percentage of subjects with UAS7= 0 at Week 4 of the treatment period was calculated. The 90% confidence interval was derived based on the score method with continuity correction.",
+          "populationDescription": "All subjects who received at least one dose of study treatment during the treatment period of this extension study.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "90% Confidence Interval",
+          "unitOfMeasure": "Percentage of participants",
+          "timeFrame": "Week 4 of the treatment period",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treated Cohort",
+              "description": "Participants with a UAS7\u226516 at Week 12 or Week 16 in the CLOU064A2201, as well as participants who experienced a relapse during the 12-week observational period, were administered 100 mg of LOU064 b.i.d. open-label for up to 52 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "194"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "27.3",
+                      "lowerLimit": "22.2",
+                      "upperLimit": "33.1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Participants With Well-controlled Disease (UAS7\u2264 6) Overtime",
+          "description": "The Urticaria Activity Score (UAS) is a composite, diary-recorded score with numeric severity intensity ratings (0=none to 3=intense/severe) for the number of wheals (hives) and the intensity of the pruritus (itch) over the past 12 hours (twice daily). The daily UAS is calculated as the average of the morning and evening scores. The UAS7 is the weekly sum of the daily UAS, which is the composite score of the intensity of pruritus and the number of wheals. UAS7 scores ranged from 0 to 42. A higher UAS7 indicated greater urticaria disease activity.\n\nA minimum of 4 out of 7 daily scores were needed to calculate the UAS7 values. Otherwise, the weekly score was missing for that week.\n\nThe percentage of subjects with UAS7\u2264 6 during the treatment period was calculated. The 90% confidence interval was derived based on the score method with continuity correction. The UAS7 at baseline was considered as the UAS7 derived over the last 7 days before day 1 of the treatment period.",
+          "populationDescription": "All subjects who received at least one dose of study treatment during the treatment period of this extension study. Number analyzed refers to the number of participants with an evaluable value at the specified time points.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "90% Confidence Interval",
+          "unitOfMeasure": "Percentage of participants",
+          "timeFrame": "From baseline until Week 52 of the treatment period",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treated Cohort",
+              "description": "Participants with a UAS7\u226516 at Week 12 or Week 16 in the CLOU064A2201, as well as participants who experienced a relapse during the 12-week observational period, were administered 100 mg of LOU064 b.i.d. open-label for up to 52 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "194"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "193"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1.0",
+                      "lowerLimit": "0.2",
+                      "upperLimit": "3.5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "179"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "37.4",
+                      "lowerLimit": "31.4",
+                      "upperLimit": "43.8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "188"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "52.7",
+                      "lowerLimit": "46.4",
+                      "upperLimit": "58.8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 12",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "173"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "56.6",
+                      "lowerLimit": "50.1",
+                      "upperLimit": "63.0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 20",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "169"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "62.7",
+                      "lowerLimit": "56.1",
+                      "upperLimit": "68.9"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 28",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "162"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "68.5",
+                      "lowerLimit": "61.9",
+                      "upperLimit": "74.5"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 40",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "155"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "66.5",
+                      "lowerLimit": "59.6",
+                      "upperLimit": "72.7"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 52",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "147"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "68.0",
+                      "lowerLimit": "61.1",
+                      "upperLimit": "74.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline in UAS7 Overtime",
+          "description": "The Urticaria Activity Score (UAS) is a composite, diary-recorded score with numeric severity intensity ratings (0=none to 3=intense/severe) for the number of wheals (hives) and the intensity of the pruritus (itch) over the past 12 hours (twice daily). The daily UAS is calculated as the average of the morning and evening scores. The UAS7 is the weekly sum of the daily UAS, which is the composite score of the intensity of pruritus and the number of wheals. UAS7 scores ranged from 0 to 42. A higher UAS7 indicated greater urticaria disease activity.\n\nA minimum of 4 out of 7 daily scores were needed to calculate the UAS7 values. Otherwise, the weekly score was missing for that week.\n\nThe change from baseline in UAS7 during the treatment period was calculated. A negative change score from baseline indicates improvement. The UAS7 at baseline was considered as the UAS7 derived over the last 7 days before day 1 of the treatment period.",
+          "populationDescription": "Subjects who received at least one dose of study treatment during the treatment period of this extension study and did not have missing values at the specified time points. Number analyzed refers to the number of participants with an evaluable value at the specified time points.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Standard Deviation",
+          "unitOfMeasure": "Score on a Scale",
+          "timeFrame": "From baseline until Week 52 of the treatment period",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Treated Cohort",
+              "description": "Participants with a UAS7\u226516 at Week 12 or Week 16 in the CLOU064A2201, as well as participants who experienced a relapse during the 12-week observational period, were administered 100 mg of LOU064 b.i.d. open-label for up to 52 weeks."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "193"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Week 1",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "178"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-14.76",
+                      "spread": "11.502"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 4",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "187"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-17.58",
+                      "spread": "13.400"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 12",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "172"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-19.37",
+                      "spread": "12.502"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 20",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "168"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-20.61",
+                      "spread": "11.634"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 28",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "161"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-21.54",
+                      "spread": "11.525"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 40",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "154"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-21.25",
+                      "spread": "11.400"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 52",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "OG000",
+                      "value": "146"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "-21.82",
+                      "spread": "10.699"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "In the Treated cohort, treatment-emergent AEs were collected from first dose of treatment up to 28 days post last dose, up to 56 weeks; and deaths were collected from first dose of treatment until end of study, assessed up to 68 weeks. In the Treatment-free cohort, AEs and deaths were collected from start of observation period until relapse (UAS7\u226516) or end of observation period, up to 12 weeks.",
+      "description": "An AE refers to any undesirable medical occurrence, such as an unintended sign (including abnormal laboratory findings), symptom, or disease, experienced by a participant.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Treatment-free Cohort (Observational Period)",
+          "description": "Participants with UAS7\\<16 at Week 16 of CLOU064A2201 were followed up to 12 weeks without receiving treatment (observational period). If participants relapsed (UAS7\u226516 at least once), they were transitioned to the treatment period (treated cohort).",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 68,
+          "seriousNumAffected": 1,
+          "seriousNumAtRisk": 68,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 68
+        },
+        {
+          "id": "EG001",
+          "title": "Treated Cohort (Treatment+Follow-up Period)",
+          "description": "Participants with a UAS7\u226516 at Week 12 or Week 16 in the CLOU064A2201, as well as participants who experienced a relapse during the 12-week observational period, were administered 100 mg of LOU064 b.i.d. open-label for up to 52 weeks.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 194,
+          "seriousNumAffected": 6,
+          "seriousNumAtRisk": 194,
+          "otherNumAffected": 56,
+          "otherNumAtRisk": 194
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Melaena",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (25.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 68
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 194
+            }
+          ]
+        },
+        {
+          "term": "Chest pain",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA (25.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 68
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 194
+            }
+          ]
+        },
+        {
+          "term": "Appendicitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (25.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 68
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 194
+            }
+          ]
+        },
+        {
+          "term": "COVID-19 pneumonia",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (25.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 68
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 2,
+              "numAtRisk": 194
+            }
+          ]
+        },
+        {
+          "term": "Tibia fracture",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA (25.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 68
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 194
+            }
+          ]
+        },
+        {
+          "term": "Ovarian cyst",
+          "organSystem": "Reproductive system and breast disorders",
+          "sourceVocabulary": "MedDRA (25.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 0,
+              "numAtRisk": 68
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 194
+            }
+          ]
+        },
+        {
+          "term": "Superficial spreading melanoma stage unspecified",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "MedDRA (25.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 68
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 0,
+              "numAtRisk": 194
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "COVID-19",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (25.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAtRisk": 68
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 16,
+              "numAtRisk": 194
+            }
+          ]
+        },
+        {
+          "term": "Headache",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA (25.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAtRisk": 68
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 13,
+              "numAtRisk": 194
+            }
+          ]
+        },
+        {
+          "term": "Chronic spontaneous urticaria",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA (25.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAtRisk": 68
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 22,
+              "numAtRisk": 194
+            }
+          ]
+        },
+        {
+          "term": "Eczema",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA (25.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAtRisk": 68
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 10,
+              "numAtRisk": 194
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "The terms and conditions of Novartis' agreements with its investigators may vary. However, Novartis does not prohibit any investigator from publishing. Any publications from a single-site are postponed until the publication of the pooled data (i.e., data from all sites) in the clinical trial."
+      },
+      "pointOfContact": {
+        "title": "Study Director",
+        "organization": "Novartis Pharmaceuticals",
+        "email": "Novartis.email@Novartis.com",
+        "phone": "+ 1 862 778 8300"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2021-09-08",
+          "uploadDate": "2023-09-05T02:54",
+          "filename": "Prot_000.pdf",
+          "size": 3796333
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2022-10-13",
+          "uploadDate": "2023-09-05T02:54",
+          "filename": "SAP_001.pdf",
+          "size": 1452250
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-04-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000080223",
+          "term": "Chronic Urticaria"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D014581",
+          "term": "Urticaria"
+        },
+        {
+          "id": "D017445",
+          "term": "Skin Diseases, Vascular"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D006969",
+          "term": "Hypersensitivity, Immediate"
+        },
+        {
+          "id": "D006967",
+          "term": "Hypersensitivity"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C000722911",
+          "term": "remibrutinib"
+        }
+      ]
+    }
+  },
+  "hasResults": true,
+  "_meta": {
+    "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT04109313",
+    "fetched_at": "2026-04-09T00:59:09.835590+00:00"
+  }
+}

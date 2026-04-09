@@ -1,0 +1,2699 @@
+{
+  "generated_at": "2026-04-09T01:51:34.339991+00:00",
+  "built_from": {
+    "ctgov": "inventories/ctgov_priority_trials.json",
+    "sponsor": "inventories/sponsor_priority_sources.json",
+    "publication_curation": "inventories/publication_priority_curation.json"
+  },
+  "programs": [
+    {
+      "program_key": "barzolvolimab",
+      "display_name": "Barzolvolimab",
+      "priority_classes": [
+        "KIT"
+      ],
+      "ctgov_trials": [
+        {
+          "trial_id": "NCT04538794",
+          "brief_title": "A Study of CDX-0159 in Patients With Chronic Spontaneous Urticaria",
+          "official_title": "A Randomized, Double-Blind, Placebo-Controlled, Phase 1 Multiple Ascending Dose Study to Assess the Safety, Pharmacokinetics, and Pharmacodynamics of CDX-0159 as Add-on Therapy in Patients With Chronic Spontaneous Urticaria",
+          "phase": [
+            "PHASE1"
+          ],
+          "status": "COMPLETED",
+          "conditions": [
+            "Chronic Spontaneous Urticaria"
+          ],
+          "lead_sponsor": "Celldex Therapeutics",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT04538794",
+          "local_json": "raw/clinicaltrials/json/NCT04538794.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT04538794.md"
+        },
+        {
+          "trial_id": "NCT04548869",
+          "brief_title": "A Single Dose Study of the Safety, Pharmacokinetics and Pharmacodynamics of CDX-0159 in Patients With Cold Contact Urticaria, Symptomatic Dermographism, or Cholinergic Urticaria",
+          "official_title": "An Open Label, Phase 1 Single Dose Study to Assess the Safety, Pharmacokinetics, and Pharmacodynamics of CDX-0159 as Add on Therapy in Patients With Cold Contact Urticaria, Symptomatic Dermographism and Cholinergic Urticaria",
+          "phase": [
+            "PHASE1"
+          ],
+          "status": "COMPLETED",
+          "conditions": [
+            "Cold Urticaria",
+            "Cold Contact Urticaria",
+            "Symptomatic Dermographism",
+            "Symptomatic Dermatographism",
+            "Cholinergic Urticaria"
+          ],
+          "lead_sponsor": "Celldex Therapeutics",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT04548869",
+          "local_json": "raw/clinicaltrials/json/NCT04548869.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT04548869.md"
+        },
+        {
+          "trial_id": "NCT05368285",
+          "brief_title": "A Phase 2 Study of CDX-0159 in Patients With Chronic Spontaneous Urticaria",
+          "official_title": "A Phase 2 Randomized, Double-Blind, Placebo-Controlled, Dose-finding Study to Assess the Efficacy and Safety of CDX-0159 in Patients With Chronic Spontaneous Urticaria",
+          "phase": [
+            "PHASE2"
+          ],
+          "status": "COMPLETED",
+          "conditions": [
+            "Chronic Spontaneous Urticaria"
+          ],
+          "lead_sponsor": "Celldex Therapeutics",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT05368285",
+          "local_json": "raw/clinicaltrials/json/NCT05368285.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT05368285.md"
+        },
+        {
+          "trial_id": "NCT05405660",
+          "brief_title": "A Study of CDX-0159 in Patients With Chronic Inducible Urticaria",
+          "official_title": ": A Phase 2 Randomized, Double-Blind, Placebo-Controlled, Dose-ranging Study to Assess the Efficacy and Safety of CDX-0159 in Patients With Chronic Inducible Urticaria",
+          "phase": [
+            "PHASE2"
+          ],
+          "status": "COMPLETED",
+          "conditions": [
+            "Chronic Inducible Urticaria"
+          ],
+          "lead_sponsor": "Celldex Therapeutics",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT05405660",
+          "local_json": "raw/clinicaltrials/json/NCT05405660.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT05405660.md"
+        },
+        {
+          "trial_id": "NCT06445023",
+          "brief_title": "A Phase 3 Study of Barzolvolimab in Participants With Chronic Spontaneous Urticaria",
+          "official_title": "A Phase 3 Randomized, Double-Blind, Placebo-Controlled Study to Assess the Efficacy and Safety of Barzolvolimab in Patients With Chronic Spontaneous Urticaria Who Remain Symptomatic Despite H1 Antihistamine Treatment (EMBARQ-CSU1)",
+          "phase": [
+            "PHASE3"
+          ],
+          "status": "ACTIVE_NOT_RECRUITING",
+          "conditions": [
+            "Chronic Spontaneous Urticaria"
+          ],
+          "lead_sponsor": "Celldex Therapeutics",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT06445023",
+          "local_json": "raw/clinicaltrials/json/NCT06445023.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT06445023.md"
+        },
+        {
+          "trial_id": "NCT06455202",
+          "brief_title": "A Phase 3 Study of Barzolvolimab in Participants With Chronic Spontaneous Urticaria (CSU)",
+          "official_title": "A Phase 3 Randomized, Double-Blind, Placebo-Controlled Study to Assess the Efficacy and Safety of Barzolvolimab in Patients With Chronic Spontaneous Urticaria Who Remain Symptomatic Despite H1 Antihistamine Treatment (EMBARQ-CSU2)",
+          "phase": [
+            "PHASE3"
+          ],
+          "status": "ACTIVE_NOT_RECRUITING",
+          "conditions": [
+            "Chronic Spontaneous Urticaria"
+          ],
+          "lead_sponsor": "Celldex Therapeutics",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT06455202",
+          "local_json": "raw/clinicaltrials/json/NCT06455202.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT06455202.md"
+        },
+        {
+          "trial_id": "NCT07256392",
+          "brief_title": "Long-term Efficacy and Safety Extension (LTE) Study of Barzolvolimab in Participants With Chronic Spontaneous Urticaria",
+          "official_title": "A Phase 3b Long-term Efficacy and Safety Extension Study of Barzolvolimab in Participants With Chronic Spontaneous Urticaria Who Have Completed CDX0159-12 or CDX0159-13",
+          "phase": [
+            "PHASE3"
+          ],
+          "status": "RECRUITING",
+          "conditions": [
+            "Chronic Spontaneous Urticaria"
+          ],
+          "lead_sponsor": "Celldex Therapeutics",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT07256392",
+          "local_json": "raw/clinicaltrials/json/NCT07256392.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT07256392.md"
+        },
+        {
+          "trial_id": "NCT07266402",
+          "brief_title": "A Study to Investigate Efficacy, Safety and Tolerability of Barzolvolimab Versus Placebo in Adults With Cold Induced Urticaria and Symptomatic Dermographism Inadequately Controlled by H1-antihistamines (EMBARQ - ColdU and SD)",
+          "official_title": "A Phase 3 Randomized, Double-Blind, Placebo-Controlled, Multi-Center, Parallel-Group Study of Barzolvolimab in Participants With Cold Induced Urticaria and Symptomatic Dermographism (EMBARQ-COLDU and SD)",
+          "phase": [
+            "PHASE3"
+          ],
+          "status": "RECRUITING",
+          "conditions": [
+            "Chronic Inducible Urticaria",
+            "Cold Urticaria",
+            "Cold-Induced Urticaria",
+            "Symptomatic Dermographism"
+          ],
+          "lead_sponsor": "Celldex Therapeutics",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT07266402",
+          "local_json": "raw/clinicaltrials/json/NCT07266402.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT07266402.md"
+        }
+      ],
+      "sponsor_artifacts": [
+        {
+          "label": "IR press release positive results",
+          "sponsor": "Celldex",
+          "kind": "html",
+          "status": "ok",
+          "url": "https://ir.celldex.com/news-releases/news-release-details/celldex-therapeutics-presents-positive-results-barzolvolimab",
+          "saved_files": [
+            "raw/sponsors/kit/barzolvolimab/ir-press-release-positive-results.html",
+            "raw/sponsors/kit/barzolvolimab/ir-press-release-positive-results.md"
+          ],
+          "explicit_trial_ids": []
+        },
+        {
+          "label": "IR press release additional positive data",
+          "sponsor": "Celldex",
+          "kind": "html",
+          "status": "ok",
+          "url": "https://ir.celldex.com/news-releases/news-release-details/celldex-presents-additional-positive-data-demonstrating",
+          "saved_files": [
+            "raw/sponsors/kit/barzolvolimab/ir-press-release-additional-positive-data.html",
+            "raw/sponsors/kit/barzolvolimab/ir-press-release-additional-positive-data.md"
+          ],
+          "explicit_trial_ids": []
+        },
+        {
+          "label": "AAAAI 2025 CSU poster",
+          "sponsor": "Celldex",
+          "kind": "pdf",
+          "status": "ok",
+          "url": "https://celldex.com/wp-content/uploads/2025/06/AAAAI-2025-CSU-posterL11.pdf",
+          "saved_files": [
+            "raw/sponsors/kit/barzolvolimab/aaaai-2025-csu-poster.pdf",
+            "raw/sponsors/kit/barzolvolimab/aaaai-2025-csu-poster.txt",
+            "raw/sponsors/kit/barzolvolimab/aaaai-2025-csu-poster.md"
+          ],
+          "explicit_trial_ids": []
+        },
+        {
+          "label": "Phase 2 CIndU ACAAI poster",
+          "sponsor": "Celldex",
+          "kind": "pdf",
+          "status": "ok",
+          "url": "https://celldex.com/wp-content/uploads/2025/06/Barzolvolimab_Phase-2-ClndU_ACAAI_FINAL.pdf",
+          "saved_files": [
+            "raw/sponsors/kit/barzolvolimab/phase-2-cindu-acaai-poster.pdf",
+            "raw/sponsors/kit/barzolvolimab/phase-2-cindu-acaai-poster.txt",
+            "raw/sponsors/kit/barzolvolimab/phase-2-cindu-acaai-poster.md"
+          ],
+          "explicit_trial_ids": []
+        },
+        {
+          "label": "EADV 2024 congress presentation",
+          "sponsor": "Celldex",
+          "kind": "pdf",
+          "status": "ok",
+          "url": "https://celldex.com/wp-content/uploads/2025/06/CLDX_EADV2024_Congress_Presentation.pdf",
+          "saved_files": [
+            "raw/sponsors/kit/barzolvolimab/eadv-2024-congress-presentation.pdf",
+            "raw/sponsors/kit/barzolvolimab/eadv-2024-congress-presentation.txt",
+            "raw/sponsors/kit/barzolvolimab/eadv-2024-congress-presentation.md"
+          ],
+          "explicit_trial_ids": []
+        },
+        {
+          "label": "IR press release PDF additional data",
+          "sponsor": "Celldex",
+          "kind": "pdf",
+          "status": "ok",
+          "url": "https://ir.celldex.com/node/16446/pdf",
+          "saved_files": [
+            "raw/sponsors/kit/barzolvolimab/ir-press-release-pdf-additional-data.pdf",
+            "raw/sponsors/kit/barzolvolimab/ir-press-release-pdf-additional-data.txt",
+            "raw/sponsors/kit/barzolvolimab/ir-press-release-pdf-additional-data.md"
+          ],
+          "explicit_trial_ids": []
+        }
+      ],
+      "publication_status": "primary_manuscripts_found",
+      "publication_summary": "Strong manuscript coverage across early CIndU proof-of-concept, CSU phase 1b MAD, and CSU phase 2 dose-finding.",
+      "publication_search_term": "(barzolvolimab OR CDX-0159) AND urticaria",
+      "publication_search_manifest": "raw/publications/searches/kit__barzolvolimab.json",
+      "primary_publications": [
+        {
+          "pmid": "36385701",
+          "title": "Anti-KIT antibody, barzolvolimab, reduces skin mast cells and disease activity in chronic inducible urticaria.",
+          "journal": "Allergy",
+          "pub_year": "2023",
+          "doi": "10.1111/all.15585",
+          "pmcid": null,
+          "pubmed_markdown": "raw/publications/pubmed/markdown/PMID36385701.md",
+          "pubmed_xml": "raw/publications/pubmed/xml/PMID36385701.xml",
+          "pmc_markdown": null,
+          "pmc_xml": null,
+          "linked_trial_ids": [],
+          "role": "cindu_open_label_proof_of_concept",
+          "evidence_note": "Abstract describes the open-label single-dose CIndU study but does not state a registration identifier in the saved abstract text."
+        },
+        {
+          "pmid": "40415544",
+          "title": "Anti-KIT Barzolvolimab for Chronic Spontaneous Urticaria.",
+          "journal": "Allergy",
+          "pub_year": "2025",
+          "doi": "10.1111/all.16598",
+          "pmcid": "PMC12368744",
+          "pubmed_markdown": "raw/publications/pubmed/markdown/PMID40415544.md",
+          "pubmed_xml": "raw/publications/pubmed/xml/PMID40415544.xml",
+          "pmc_markdown": "raw/publications/pmc/markdown/PMC12368744.md",
+          "pmc_xml": "raw/publications/pmc/xml/PMC12368744.xml",
+          "linked_trial_ids": [
+            "NCT04538794"
+          ],
+          "role": "csu_phase_1b_mad",
+          "evidence_note": "Abstract explicitly cites NCT04538794."
+        },
+        {
+          "pmid": "41747871",
+          "title": "Randomized dose-finding study of anti-KIT barzolvolimab in patients with chronic spontaneous urticaria.",
+          "journal": "The Journal of allergy and clinical immunology",
+          "pub_year": "2026",
+          "doi": "10.1016/j.jaci.2026.02.018",
+          "pmcid": null,
+          "pubmed_markdown": "raw/publications/pubmed/markdown/PMID41747871.md",
+          "pubmed_xml": "raw/publications/pubmed/xml/PMID41747871.xml",
+          "pmc_markdown": null,
+          "pmc_xml": null,
+          "linked_trial_ids": [
+            "NCT05368285"
+          ],
+          "role": "csu_phase_2_core",
+          "evidence_note": "Abstract explicitly cites NCT05368285."
+        }
+      ],
+      "supporting_publications": [
+        {
+          "pmid": "37897679",
+          "title": "Inhibition of KIT for chronic urticaria: a status update on drugs in early clinical development.",
+          "journal": "Expert opinion on investigational drugs",
+          "pub_year": "2023",
+          "doi": "10.1080/13543784.2023.2277385",
+          "pmcid": null,
+          "pubmed_markdown": "raw/publications/pubmed/markdown/PMID37897679.md",
+          "pubmed_xml": "raw/publications/pubmed/xml/PMID37897679.xml",
+          "pmc_markdown": null,
+          "pmc_xml": null,
+          "linked_trial_ids": [],
+          "role": "review",
+          "note": "KIT-inhibition status update covering barzolvolimab and related programs."
+        },
+        {
+          "pmid": "38937013",
+          "title": "Emerging Therapeutics in Chronic Urticaria.",
+          "journal": "Immunology and allergy clinics of North America",
+          "pub_year": "2024",
+          "doi": "10.1016/j.iac.2024.03.008",
+          "pmcid": null,
+          "pubmed_markdown": "raw/publications/pubmed/markdown/PMID38937013.md",
+          "pubmed_xml": "raw/publications/pubmed/xml/PMID38937013.xml",
+          "pmc_markdown": null,
+          "pmc_xml": null,
+          "linked_trial_ids": [],
+          "role": "review",
+          "note": "Broad chronic urticaria emerging-therapeutics review."
+        }
+      ],
+      "excluded_or_nonprimary_publications": [
+        {
+          "pmid": "41535531",
+          "title": "Improvement of Chronic Spontaneous Urticaria After Glucagon-Like Peptide\u00a01 Receptor Agonist Therapy: Report of Two Cases.",
+          "journal": "Dermatology and therapy",
+          "pub_year": "2026",
+          "reason": "Case report on GLP-1 receptor agonist therapy, not a barzolvolimab trial manuscript.",
+          "pubmed_markdown": "raw/publications/pubmed/markdown/PMID41535531.md"
+        },
+        {
+          "pmid": "41877821",
+          "title": "Challenges in Differentiating Chronic Inducible Urticaria from Chronic Spontaneous Urticaria.",
+          "journal": "Journal of inflammation research",
+          "pub_year": "2026",
+          "reason": "Differential-diagnosis review, not a barzolvolimab trial manuscript.",
+          "pubmed_markdown": "raw/publications/pubmed/markdown/PMID41877821.md"
+        }
+      ],
+      "unclassified_query_pmids": [
+        "40074986",
+        "39598410",
+        "40747638",
+        "35166638",
+        "36719690",
+        "40702781",
+        "41654334",
+        "41270830",
+        "33685605"
+      ],
+      "trial_registry": [
+        {
+          "trial_id": "NCT04538794",
+          "ctgov_record": {
+            "trial_id": "NCT04538794",
+            "brief_title": "A Study of CDX-0159 in Patients With Chronic Spontaneous Urticaria",
+            "official_title": "A Randomized, Double-Blind, Placebo-Controlled, Phase 1 Multiple Ascending Dose Study to Assess the Safety, Pharmacokinetics, and Pharmacodynamics of CDX-0159 as Add-on Therapy in Patients With Chronic Spontaneous Urticaria",
+            "phase": [
+              "PHASE1"
+            ],
+            "status": "COMPLETED",
+            "conditions": [
+              "Chronic Spontaneous Urticaria"
+            ],
+            "lead_sponsor": "Celldex Therapeutics",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT04538794",
+            "local_json": "raw/clinicaltrials/json/NCT04538794.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT04538794.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [
+            {
+              "pmid": "40415544",
+              "title": "Anti-KIT Barzolvolimab for Chronic Spontaneous Urticaria.",
+              "journal": "Allergy",
+              "pub_year": "2025",
+              "doi": "10.1111/all.16598",
+              "pmcid": "PMC12368744",
+              "pubmed_markdown": "raw/publications/pubmed/markdown/PMID40415544.md",
+              "pubmed_xml": "raw/publications/pubmed/xml/PMID40415544.xml",
+              "pmc_markdown": "raw/publications/pmc/markdown/PMC12368744.md",
+              "pmc_xml": "raw/publications/pmc/xml/PMC12368744.xml",
+              "linked_trial_ids": [
+                "NCT04538794"
+              ],
+              "role": "csu_phase_1b_mad",
+              "evidence_note": "Abstract explicitly cites NCT04538794."
+            }
+          ],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": true,
+            "publication_supporting": false
+          }
+        },
+        {
+          "trial_id": "NCT04548869",
+          "ctgov_record": {
+            "trial_id": "NCT04548869",
+            "brief_title": "A Single Dose Study of the Safety, Pharmacokinetics and Pharmacodynamics of CDX-0159 in Patients With Cold Contact Urticaria, Symptomatic Dermographism, or Cholinergic Urticaria",
+            "official_title": "An Open Label, Phase 1 Single Dose Study to Assess the Safety, Pharmacokinetics, and Pharmacodynamics of CDX-0159 as Add on Therapy in Patients With Cold Contact Urticaria, Symptomatic Dermographism and Cholinergic Urticaria",
+            "phase": [
+              "PHASE1"
+            ],
+            "status": "COMPLETED",
+            "conditions": [
+              "Cold Urticaria",
+              "Cold Contact Urticaria",
+              "Symptomatic Dermographism",
+              "Symptomatic Dermatographism",
+              "Cholinergic Urticaria"
+            ],
+            "lead_sponsor": "Celldex Therapeutics",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT04548869",
+            "local_json": "raw/clinicaltrials/json/NCT04548869.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT04548869.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        },
+        {
+          "trial_id": "NCT05368285",
+          "ctgov_record": {
+            "trial_id": "NCT05368285",
+            "brief_title": "A Phase 2 Study of CDX-0159 in Patients With Chronic Spontaneous Urticaria",
+            "official_title": "A Phase 2 Randomized, Double-Blind, Placebo-Controlled, Dose-finding Study to Assess the Efficacy and Safety of CDX-0159 in Patients With Chronic Spontaneous Urticaria",
+            "phase": [
+              "PHASE2"
+            ],
+            "status": "COMPLETED",
+            "conditions": [
+              "Chronic Spontaneous Urticaria"
+            ],
+            "lead_sponsor": "Celldex Therapeutics",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT05368285",
+            "local_json": "raw/clinicaltrials/json/NCT05368285.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT05368285.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [
+            {
+              "pmid": "41747871",
+              "title": "Randomized dose-finding study of anti-KIT barzolvolimab in patients with chronic spontaneous urticaria.",
+              "journal": "The Journal of allergy and clinical immunology",
+              "pub_year": "2026",
+              "doi": "10.1016/j.jaci.2026.02.018",
+              "pmcid": null,
+              "pubmed_markdown": "raw/publications/pubmed/markdown/PMID41747871.md",
+              "pubmed_xml": "raw/publications/pubmed/xml/PMID41747871.xml",
+              "pmc_markdown": null,
+              "pmc_xml": null,
+              "linked_trial_ids": [
+                "NCT05368285"
+              ],
+              "role": "csu_phase_2_core",
+              "evidence_note": "Abstract explicitly cites NCT05368285."
+            }
+          ],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": true,
+            "publication_supporting": false
+          }
+        },
+        {
+          "trial_id": "NCT05405660",
+          "ctgov_record": {
+            "trial_id": "NCT05405660",
+            "brief_title": "A Study of CDX-0159 in Patients With Chronic Inducible Urticaria",
+            "official_title": ": A Phase 2 Randomized, Double-Blind, Placebo-Controlled, Dose-ranging Study to Assess the Efficacy and Safety of CDX-0159 in Patients With Chronic Inducible Urticaria",
+            "phase": [
+              "PHASE2"
+            ],
+            "status": "COMPLETED",
+            "conditions": [
+              "Chronic Inducible Urticaria"
+            ],
+            "lead_sponsor": "Celldex Therapeutics",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT05405660",
+            "local_json": "raw/clinicaltrials/json/NCT05405660.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT05405660.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        },
+        {
+          "trial_id": "NCT06445023",
+          "ctgov_record": {
+            "trial_id": "NCT06445023",
+            "brief_title": "A Phase 3 Study of Barzolvolimab in Participants With Chronic Spontaneous Urticaria",
+            "official_title": "A Phase 3 Randomized, Double-Blind, Placebo-Controlled Study to Assess the Efficacy and Safety of Barzolvolimab in Patients With Chronic Spontaneous Urticaria Who Remain Symptomatic Despite H1 Antihistamine Treatment (EMBARQ-CSU1)",
+            "phase": [
+              "PHASE3"
+            ],
+            "status": "ACTIVE_NOT_RECRUITING",
+            "conditions": [
+              "Chronic Spontaneous Urticaria"
+            ],
+            "lead_sponsor": "Celldex Therapeutics",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT06445023",
+            "local_json": "raw/clinicaltrials/json/NCT06445023.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT06445023.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        },
+        {
+          "trial_id": "NCT06455202",
+          "ctgov_record": {
+            "trial_id": "NCT06455202",
+            "brief_title": "A Phase 3 Study of Barzolvolimab in Participants With Chronic Spontaneous Urticaria (CSU)",
+            "official_title": "A Phase 3 Randomized, Double-Blind, Placebo-Controlled Study to Assess the Efficacy and Safety of Barzolvolimab in Patients With Chronic Spontaneous Urticaria Who Remain Symptomatic Despite H1 Antihistamine Treatment (EMBARQ-CSU2)",
+            "phase": [
+              "PHASE3"
+            ],
+            "status": "ACTIVE_NOT_RECRUITING",
+            "conditions": [
+              "Chronic Spontaneous Urticaria"
+            ],
+            "lead_sponsor": "Celldex Therapeutics",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT06455202",
+            "local_json": "raw/clinicaltrials/json/NCT06455202.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT06455202.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        },
+        {
+          "trial_id": "NCT07256392",
+          "ctgov_record": {
+            "trial_id": "NCT07256392",
+            "brief_title": "Long-term Efficacy and Safety Extension (LTE) Study of Barzolvolimab in Participants With Chronic Spontaneous Urticaria",
+            "official_title": "A Phase 3b Long-term Efficacy and Safety Extension Study of Barzolvolimab in Participants With Chronic Spontaneous Urticaria Who Have Completed CDX0159-12 or CDX0159-13",
+            "phase": [
+              "PHASE3"
+            ],
+            "status": "RECRUITING",
+            "conditions": [
+              "Chronic Spontaneous Urticaria"
+            ],
+            "lead_sponsor": "Celldex Therapeutics",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT07256392",
+            "local_json": "raw/clinicaltrials/json/NCT07256392.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT07256392.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        },
+        {
+          "trial_id": "NCT07266402",
+          "ctgov_record": {
+            "trial_id": "NCT07266402",
+            "brief_title": "A Study to Investigate Efficacy, Safety and Tolerability of Barzolvolimab Versus Placebo in Adults With Cold Induced Urticaria and Symptomatic Dermographism Inadequately Controlled by H1-antihistamines (EMBARQ - ColdU and SD)",
+            "official_title": "A Phase 3 Randomized, Double-Blind, Placebo-Controlled, Multi-Center, Parallel-Group Study of Barzolvolimab in Participants With Cold Induced Urticaria and Symptomatic Dermographism (EMBARQ-COLDU and SD)",
+            "phase": [
+              "PHASE3"
+            ],
+            "status": "RECRUITING",
+            "conditions": [
+              "Chronic Inducible Urticaria",
+              "Cold Urticaria",
+              "Cold-Induced Urticaria",
+              "Symptomatic Dermographism"
+            ],
+            "lead_sponsor": "Celldex Therapeutics",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT07266402",
+            "local_json": "raw/clinicaltrials/json/NCT07266402.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT07266402.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        }
+      ],
+      "source_layer_counts": {
+        "ctgov_trials": 8,
+        "sponsor_artifacts": 6,
+        "primary_publications": 3,
+        "supporting_publications": 2
+      }
+    },
+    {
+      "program_key": "blu-808",
+      "display_name": "BLU-808",
+      "priority_classes": [
+        "KIT"
+      ],
+      "ctgov_trials": [
+        {
+          "trial_id": "NCT06931405",
+          "brief_title": "Study of BLU-808 in Chronic Inducible Urticaria (CIndU) and Chronic Spontaneous Urticaria (CSU)",
+          "official_title": "A Phase 2 Study to Evaluate the Safety, Tolerability, and Clinical Activity of BLU-808, a Wild Type KIT Inhibitor, in Chronic Inducible Urticaria and Chronic Spontaneous Urticaria",
+          "phase": [
+            "PHASE2"
+          ],
+          "status": "RECRUITING",
+          "conditions": [
+            "Chronic Inducible Urticaria",
+            "Chronic Spontaneous Urticaria"
+          ],
+          "lead_sponsor": "Blueprint Medicines Corporation",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT06931405",
+          "local_json": "raw/clinicaltrials/json/NCT06931405.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT06931405.md"
+        }
+      ],
+      "sponsor_artifacts": [
+        {
+          "label": "Core programs page",
+          "sponsor": "Blueprint Medicines",
+          "kind": "html",
+          "status": "ok",
+          "url": "https://www.blueprintmedicines.com/pipeline/core-programs/",
+          "saved_files": [
+            "raw/sponsors/kit/blu-808/core-programs-page.html",
+            "raw/sponsors/kit/blu-808/core-programs-page.md"
+          ],
+          "explicit_trial_ids": []
+        },
+        {
+          "label": "AAAAI WAO 2025 publications page",
+          "sponsor": "Blueprint Medicines",
+          "kind": "html",
+          "status": "ok",
+          "url": "https://www.blueprintmedicines.com/publications/2025-american-academy-of-allergy-asthma-immunology-aaaai-world-allergy-organization-wao-joint-congress-10/",
+          "saved_files": [
+            "raw/sponsors/kit/blu-808/aaaai-wao-2025-publications-page.html",
+            "raw/sponsors/kit/blu-808/aaaai-wao-2025-publications-page.md"
+          ],
+          "explicit_trial_ids": []
+        },
+        {
+          "label": "AAAAI WAO 2025 BLU-808 WT KIT poster",
+          "sponsor": "Blueprint Medicines",
+          "kind": "pdf",
+          "status": "ok",
+          "url": "https://www.blueprintmedicines.com/wp-content/uploads/2025/02/Blueprint-Medicines-AAAAI-WAO-2025-BLU-808-Wild-Type-KIT-Inhibitor-Poster.pdf",
+          "saved_files": [
+            "raw/sponsors/kit/blu-808/aaaai-wao-2025-blu-808-wt-kit-poster.pdf",
+            "raw/sponsors/kit/blu-808/aaaai-wao-2025-blu-808-wt-kit-poster.txt",
+            "raw/sponsors/kit/blu-808/aaaai-wao-2025-blu-808-wt-kit-poster.md"
+          ],
+          "explicit_trial_ids": []
+        },
+        {
+          "label": "AAAAI 2024 BLU-808 WT KIT poster",
+          "sponsor": "Blueprint Medicines",
+          "kind": "pdf",
+          "status": "ok",
+          "url": "https://www.blueprintmedicines.com/wp-content/uploads/2024/02/Blueprint-Medicines-AAAAI-2024-BLU-808-Wild-Type-KIT-Mast-Cell-Disorders-Poster.pdf",
+          "saved_files": [
+            "raw/sponsors/kit/blu-808/aaaai-2024-blu-808-wt-kit-poster.pdf",
+            "raw/sponsors/kit/blu-808/aaaai-2024-blu-808-wt-kit-poster.txt",
+            "raw/sponsors/kit/blu-808/aaaai-2024-blu-808-wt-kit-poster.md"
+          ],
+          "explicit_trial_ids": []
+        }
+      ],
+      "publication_status": "no_pubmed_hits",
+      "publication_summary": "No PubMed hits were returned for BLU-808 AND urticaria in this pass.",
+      "publication_search_term": "BLU-808 AND urticaria",
+      "publication_search_manifest": "raw/publications/searches/kit__blu-808.json",
+      "primary_publications": [],
+      "supporting_publications": [],
+      "excluded_or_nonprimary_publications": [],
+      "unclassified_query_pmids": [],
+      "trial_registry": [
+        {
+          "trial_id": "NCT06931405",
+          "ctgov_record": {
+            "trial_id": "NCT06931405",
+            "brief_title": "Study of BLU-808 in Chronic Inducible Urticaria (CIndU) and Chronic Spontaneous Urticaria (CSU)",
+            "official_title": "A Phase 2 Study to Evaluate the Safety, Tolerability, and Clinical Activity of BLU-808, a Wild Type KIT Inhibitor, in Chronic Inducible Urticaria and Chronic Spontaneous Urticaria",
+            "phase": [
+              "PHASE2"
+            ],
+            "status": "RECRUITING",
+            "conditions": [
+              "Chronic Inducible Urticaria",
+              "Chronic Spontaneous Urticaria"
+            ],
+            "lead_sponsor": "Blueprint Medicines Corporation",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT06931405",
+            "local_json": "raw/clinicaltrials/json/NCT06931405.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT06931405.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        }
+      ],
+      "source_layer_counts": {
+        "ctgov_trials": 1,
+        "sponsor_artifacts": 4,
+        "primary_publications": 0,
+        "supporting_publications": 0
+      }
+    },
+    {
+      "program_key": "briquilimab",
+      "display_name": "Briquilimab",
+      "priority_classes": [
+        "KIT"
+      ],
+      "ctgov_trials": [
+        {
+          "trial_id": "NCT06162728",
+          "brief_title": "Dose Escalation Trial Of Safety, Pharmacokinetic/Pharmacodynamic And Preliminary Clinical Activity of Briquilimab In Adult Patients With Chronic Spontaneous Urticaria (CSU)",
+          "official_title": "A Phase 1b/2a, Dose Escalation Trial of Safety, Pharmacokinetic/Pharmacodynamic and Preliminary Clinical Activity of Briquilimab in Adult Patients With Chronic Spontaneous Urticaria (CSU) Who Remain Symptomatic Despite Treatment With H1 Antihistamines and/or Omalizumab, or Who Cannot Tolerate Omalizumab",
+          "phase": [
+            "PHASE1",
+            "PHASE2"
+          ],
+          "status": "ACTIVE_NOT_RECRUITING",
+          "conditions": [
+            "Chronic Spontaneous Urticaria"
+          ],
+          "lead_sponsor": "Jasper Therapeutics, Inc.",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT06162728",
+          "local_json": "raw/clinicaltrials/json/NCT06162728.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT06162728.md"
+        },
+        {
+          "trial_id": "NCT06353971",
+          "brief_title": "A Dose Escalation Trial of Safety, Pharmacokinetic/Pharmacodynamic and Preliminary Clinical Activity of Briquilimab in Adult Patients With Chronic Inducible Urticaria (CIndU) Who Remain Symptomatic Despite Treatment With H1- Antihistamines",
+          "official_title": "A Phase 1b/2a, Dose Escalation Trial of Safety, Pharmacokinetic/Pharmacodynamic and Preliminary Clinical Activity of Briquilimab in Adult Patients With Chronic Inducible Urticaria (CIndU) Who Remain Symptomatic Despite Treatment With H1- Antihistamines",
+          "phase": [
+            "PHASE1",
+            "PHASE2"
+          ],
+          "status": "TERMINATED",
+          "conditions": [
+            "Chronic Inducible Urticaria"
+          ],
+          "lead_sponsor": "Jasper Therapeutics, Inc.",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT06353971",
+          "local_json": "raw/clinicaltrials/json/NCT06353971.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT06353971.md"
+        },
+        {
+          "trial_id": "NCT06736262",
+          "brief_title": "A Phase 2, Open-Label, Extension Study to Evaluate Long Term Safety and Clinical Activity of Briquilimab in Participants From Jasper-Sponsored Chronic Urticaria Trials",
+          "official_title": "Open-Label Extension Study to Evaluate Long Term Safety and Clinical Activity of Briquilimab in Chronic Urticaria",
+          "phase": [
+            "PHASE2"
+          ],
+          "status": "ACTIVE_NOT_RECRUITING",
+          "conditions": [
+            "Urticaria Chronic"
+          ],
+          "lead_sponsor": "Jasper Therapeutics, Inc.",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT06736262",
+          "local_json": "raw/clinicaltrials/json/NCT06736262.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT06736262.md"
+        }
+      ],
+      "sponsor_artifacts": [
+        {
+          "label": "Briquilimab program page",
+          "sponsor": "Jasper Therapeutics",
+          "kind": "html",
+          "status": "ok",
+          "url": "https://jaspertx.com/briquilimab/",
+          "saved_files": [
+            "raw/sponsors/kit/briquilimab/briquilimab-program-page.html",
+            "raw/sponsors/kit/briquilimab/briquilimab-program-page.md"
+          ],
+          "explicit_trial_ids": []
+        }
+      ],
+      "publication_status": "supporting_only",
+      "publication_summary": "No briquilimab-specific urticaria trial manuscript was identified in this PubMed pass. One broad KIT review hit was captured.",
+      "publication_search_term": "(briquilimab OR JSP191) AND urticaria",
+      "publication_search_manifest": "raw/publications/searches/kit__briquilimab.json",
+      "primary_publications": [],
+      "supporting_publications": [
+        {
+          "pmid": "37897679",
+          "title": "Inhibition of KIT for chronic urticaria: a status update on drugs in early clinical development.",
+          "journal": "Expert opinion on investigational drugs",
+          "pub_year": "2023",
+          "doi": "10.1080/13543784.2023.2277385",
+          "pmcid": null,
+          "pubmed_markdown": "raw/publications/pubmed/markdown/PMID37897679.md",
+          "pubmed_xml": "raw/publications/pubmed/xml/PMID37897679.xml",
+          "pmc_markdown": null,
+          "pmc_xml": null,
+          "linked_trial_ids": [],
+          "role": "review",
+          "note": "Broad KIT-inhibition review that may mention briquilimab/JSP191, but not a primary urticaria manuscript."
+        }
+      ],
+      "excluded_or_nonprimary_publications": [],
+      "unclassified_query_pmids": [],
+      "trial_registry": [
+        {
+          "trial_id": "NCT06162728",
+          "ctgov_record": {
+            "trial_id": "NCT06162728",
+            "brief_title": "Dose Escalation Trial Of Safety, Pharmacokinetic/Pharmacodynamic And Preliminary Clinical Activity of Briquilimab In Adult Patients With Chronic Spontaneous Urticaria (CSU)",
+            "official_title": "A Phase 1b/2a, Dose Escalation Trial of Safety, Pharmacokinetic/Pharmacodynamic and Preliminary Clinical Activity of Briquilimab in Adult Patients With Chronic Spontaneous Urticaria (CSU) Who Remain Symptomatic Despite Treatment With H1 Antihistamines and/or Omalizumab, or Who Cannot Tolerate Omalizumab",
+            "phase": [
+              "PHASE1",
+              "PHASE2"
+            ],
+            "status": "ACTIVE_NOT_RECRUITING",
+            "conditions": [
+              "Chronic Spontaneous Urticaria"
+            ],
+            "lead_sponsor": "Jasper Therapeutics, Inc.",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT06162728",
+            "local_json": "raw/clinicaltrials/json/NCT06162728.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT06162728.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        },
+        {
+          "trial_id": "NCT06353971",
+          "ctgov_record": {
+            "trial_id": "NCT06353971",
+            "brief_title": "A Dose Escalation Trial of Safety, Pharmacokinetic/Pharmacodynamic and Preliminary Clinical Activity of Briquilimab in Adult Patients With Chronic Inducible Urticaria (CIndU) Who Remain Symptomatic Despite Treatment With H1- Antihistamines",
+            "official_title": "A Phase 1b/2a, Dose Escalation Trial of Safety, Pharmacokinetic/Pharmacodynamic and Preliminary Clinical Activity of Briquilimab in Adult Patients With Chronic Inducible Urticaria (CIndU) Who Remain Symptomatic Despite Treatment With H1- Antihistamines",
+            "phase": [
+              "PHASE1",
+              "PHASE2"
+            ],
+            "status": "TERMINATED",
+            "conditions": [
+              "Chronic Inducible Urticaria"
+            ],
+            "lead_sponsor": "Jasper Therapeutics, Inc.",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT06353971",
+            "local_json": "raw/clinicaltrials/json/NCT06353971.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT06353971.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        },
+        {
+          "trial_id": "NCT06736262",
+          "ctgov_record": {
+            "trial_id": "NCT06736262",
+            "brief_title": "A Phase 2, Open-Label, Extension Study to Evaluate Long Term Safety and Clinical Activity of Briquilimab in Participants From Jasper-Sponsored Chronic Urticaria Trials",
+            "official_title": "Open-Label Extension Study to Evaluate Long Term Safety and Clinical Activity of Briquilimab in Chronic Urticaria",
+            "phase": [
+              "PHASE2"
+            ],
+            "status": "ACTIVE_NOT_RECRUITING",
+            "conditions": [
+              "Urticaria Chronic"
+            ],
+            "lead_sponsor": "Jasper Therapeutics, Inc.",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT06736262",
+            "local_json": "raw/clinicaltrials/json/NCT06736262.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT06736262.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        }
+      ],
+      "source_layer_counts": {
+        "ctgov_trials": 3,
+        "sponsor_artifacts": 1,
+        "primary_publications": 0,
+        "supporting_publications": 1
+      }
+    },
+    {
+      "program_key": "ep262",
+      "display_name": "EP262",
+      "priority_classes": [
+        "MRGPRX2"
+      ],
+      "ctgov_trials": [
+        {
+          "trial_id": "NCT06050928",
+          "brief_title": "Phase 1b, Open-Label Study to Evaluate the Safety, Tolerability, and Pharmacodynamics of EP262 in Subjects With Chronic Inducible Urticaria",
+          "official_title": "Phase 1b, Open-Label Study to Evaluate the Safety, Tolerability, and Pharmacodynamics of EP262 in Subjects With Chronic Inducible Urticaria (CALM-CIndU)",
+          "phase": [
+            "PHASE1"
+          ],
+          "status": "COMPLETED",
+          "conditions": [
+            "Chronic Inducible Urticaria"
+          ],
+          "lead_sponsor": "Escient Pharmaceuticals, Inc",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT06050928",
+          "local_json": "raw/clinicaltrials/json/NCT06050928.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT06050928.md"
+        },
+        {
+          "trial_id": "NCT06077773",
+          "brief_title": "Phase 2, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Effects of EP262 in Subjects With Chronic Spontaneous Urticaria",
+          "official_title": "Phase 2, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Effects of EP262 in Subjects With Chronic Spontaneous Urticaria (CALM-CSU)",
+          "phase": [
+            "PHASE2"
+          ],
+          "status": "TERMINATED",
+          "conditions": [
+            "Chronic Spontaneous Urticaria"
+          ],
+          "lead_sponsor": "Escient Pharmaceuticals, Inc",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT06077773",
+          "local_json": "raw/clinicaltrials/json/NCT06077773.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT06077773.md"
+        }
+      ],
+      "sponsor_artifacts": [
+        {
+          "label": "Pipeline page",
+          "sponsor": "Escient Pharmaceuticals",
+          "kind": "html",
+          "status": "ok",
+          "url": "https://www.escientpharma.com/programs/pipeline/",
+          "saved_files": [
+            "raw/sponsors/mrgprx2/ep262/pipeline-page.html",
+            "raw/sponsors/mrgprx2/ep262/pipeline-page.md"
+          ],
+          "explicit_trial_ids": []
+        }
+      ],
+      "publication_status": "search_collisions_only",
+      "publication_summary": "The PubMed search returned 3 hits, but title-level review suggests they are broad chronic urticaria reviews rather than direct EP262 manuscripts.",
+      "publication_search_term": "EP262 AND urticaria",
+      "publication_search_manifest": "raw/publications/searches/mrgprx2__ep262.json",
+      "primary_publications": [],
+      "supporting_publications": [],
+      "excluded_or_nonprimary_publications": [
+        {
+          "pmid": "40747638",
+          "title": "Biologic and small molecule therapies in chronic spontaneous urticaria: an update.",
+          "journal": "Current opinion in allergy and clinical immunology",
+          "pub_year": "2025",
+          "reason": "Broad biologic/small-molecule CSU update, not an EP262 primary manuscript.",
+          "pubmed_markdown": "raw/publications/pubmed/markdown/PMID40747638.md"
+        },
+        {
+          "pmid": "41270830",
+          "title": "Emerging IgE and non-IgE targeted therapies for chronic urticaria.",
+          "journal": "Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology",
+          "pub_year": "2026",
+          "reason": "Emerging chronic urticaria therapy review, not an EP262 primary manuscript.",
+          "pubmed_markdown": "raw/publications/pubmed/markdown/PMID41270830.md"
+        },
+        {
+          "pmid": "41654334",
+          "title": "Systemic Treatments for Chronic Spontaneous Urticaria: Anti-IgE and Beyond.",
+          "journal": "The journal of allergy and clinical immunology. In practice",
+          "pub_year": "2026",
+          "reason": "Systemic CSU treatment review, not an EP262 primary manuscript.",
+          "pubmed_markdown": "raw/publications/pubmed/markdown/PMID41654334.md"
+        }
+      ],
+      "unclassified_query_pmids": [],
+      "trial_registry": [
+        {
+          "trial_id": "NCT06050928",
+          "ctgov_record": {
+            "trial_id": "NCT06050928",
+            "brief_title": "Phase 1b, Open-Label Study to Evaluate the Safety, Tolerability, and Pharmacodynamics of EP262 in Subjects With Chronic Inducible Urticaria",
+            "official_title": "Phase 1b, Open-Label Study to Evaluate the Safety, Tolerability, and Pharmacodynamics of EP262 in Subjects With Chronic Inducible Urticaria (CALM-CIndU)",
+            "phase": [
+              "PHASE1"
+            ],
+            "status": "COMPLETED",
+            "conditions": [
+              "Chronic Inducible Urticaria"
+            ],
+            "lead_sponsor": "Escient Pharmaceuticals, Inc",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT06050928",
+            "local_json": "raw/clinicaltrials/json/NCT06050928.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT06050928.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        },
+        {
+          "trial_id": "NCT06077773",
+          "ctgov_record": {
+            "trial_id": "NCT06077773",
+            "brief_title": "Phase 2, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Effects of EP262 in Subjects With Chronic Spontaneous Urticaria",
+            "official_title": "Phase 2, Multicenter, Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Effects of EP262 in Subjects With Chronic Spontaneous Urticaria (CALM-CSU)",
+            "phase": [
+              "PHASE2"
+            ],
+            "status": "TERMINATED",
+            "conditions": [
+              "Chronic Spontaneous Urticaria"
+            ],
+            "lead_sponsor": "Escient Pharmaceuticals, Inc",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT06077773",
+            "local_json": "raw/clinicaltrials/json/NCT06077773.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT06077773.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        }
+      ],
+      "source_layer_counts": {
+        "ctgov_trials": 2,
+        "sponsor_artifacts": 1,
+        "primary_publications": 0,
+        "supporting_publications": 0
+      }
+    },
+    {
+      "program_key": "evo756",
+      "display_name": "EVO756",
+      "priority_classes": [
+        "MRGPRX2"
+      ],
+      "ctgov_trials": [
+        {
+          "trial_id": "NCT06603220",
+          "brief_title": "A Study Evaluating the Safety, Tolerability, and Efficacy of EVO756 in Adults With Chronic Inducible Urticaria",
+          "official_title": "An Open Label Study Evaluating the Safety, Tolerability, and Efficacy of EVO756 in Adults With Chronic Inducible Urticaria",
+          "phase": [
+            "PHASE2"
+          ],
+          "status": "COMPLETED",
+          "conditions": [
+            "Chronic Inducible Urticaria"
+          ],
+          "lead_sponsor": "Evommune, Inc.",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT06603220",
+          "local_json": "raw/clinicaltrials/json/NCT06603220.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT06603220.md"
+        },
+        {
+          "trial_id": "NCT06873516",
+          "brief_title": "Phase 2b Study of EVO756 in Adults With Moderate to Severe Chronic Spontaneous Urticaria (CSU)",
+          "official_title": "A Randomized, Double-Blind, Placebo Controlled, Dose-Ranging Study Evaluating the Efficacy and Safety of EVO756 in Adults With Moderate to Severe Chronic Spontaneous Urticaria",
+          "phase": [
+            "PHASE2"
+          ],
+          "status": "RECRUITING",
+          "conditions": [
+            "Chronic Spontaneous Urticaria"
+          ],
+          "lead_sponsor": "Evommune, Inc.",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT06873516",
+          "local_json": "raw/clinicaltrials/json/NCT06873516.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT06873516.md"
+        }
+      ],
+      "sponsor_artifacts": [
+        {
+          "label": "MRGPRX2 antagonist program page",
+          "sponsor": "Evommune",
+          "kind": "html",
+          "status": "ok",
+          "url": "https://www.evommune.com/mrgprx2-antagonist/",
+          "saved_files": [
+            "raw/sponsors/mrgprx2/evo756/mrgprx2-antagonist-program-page.html",
+            "raw/sponsors/mrgprx2/evo756/mrgprx2-antagonist-program-page.md"
+          ],
+          "explicit_trial_ids": []
+        },
+        {
+          "label": "Clinical trials page",
+          "sponsor": "Evommune",
+          "kind": "html",
+          "status": "ok",
+          "url": "https://www.evommune.com/clinical-trials/",
+          "saved_files": [
+            "raw/sponsors/mrgprx2/evo756/clinical-trials-page.html",
+            "raw/sponsors/mrgprx2/evo756/clinical-trials-page.md"
+          ],
+          "explicit_trial_ids": []
+        },
+        {
+          "label": "CIndU Phase 2 trial initiation PDF",
+          "sponsor": "Evommune",
+          "kind": "pdf",
+          "status": "ok",
+          "url": "https://www.evommune.com/wp-content/uploads/2024/09/21_Evommune_EVO756_CindU_Phase_2_Trial.pdf",
+          "saved_files": [
+            "raw/sponsors/mrgprx2/evo756/cindu-phase-2-trial-initiation-pdf.pdf",
+            "raw/sponsors/mrgprx2/evo756/cindu-phase-2-trial-initiation-pdf.txt",
+            "raw/sponsors/mrgprx2/evo756/cindu-phase-2-trial-initiation-pdf.md"
+          ],
+          "explicit_trial_ids": []
+        },
+        {
+          "label": "GA2LEN 2024 trial results presentation PDF",
+          "sponsor": "Evommune",
+          "kind": "pdf",
+          "status": "ok",
+          "url": "https://www.evommune.com/wp-content/uploads/2024/12/23_Evommune_EVO756_Trial_Results_Preso.pdf",
+          "saved_files": [
+            "raw/sponsors/mrgprx2/evo756/ga2len-2024-trial-results-presentation-pdf.pdf",
+            "raw/sponsors/mrgprx2/evo756/ga2len-2024-trial-results-presentation-pdf.txt",
+            "raw/sponsors/mrgprx2/evo756/ga2len-2024-trial-results-presentation-pdf.md"
+          ],
+          "explicit_trial_ids": []
+        },
+        {
+          "label": "CSU Phase 2b trial initiation PDF",
+          "sponsor": "Evommune",
+          "kind": "pdf",
+          "status": "ok",
+          "url": "https://www.evommune.com/wp-content/uploads/2025/04/25_Evommune_756_CSU_Phase_2_Trial_Initiation.pdf",
+          "saved_files": [
+            "raw/sponsors/mrgprx2/evo756/csu-phase-2b-trial-initiation-pdf.pdf",
+            "raw/sponsors/mrgprx2/evo756/csu-phase-2b-trial-initiation-pdf.txt",
+            "raw/sponsors/mrgprx2/evo756/csu-phase-2b-trial-initiation-pdf.md"
+          ],
+          "explicit_trial_ids": []
+        },
+        {
+          "label": "CIndU top-line press release PDF",
+          "sponsor": "Evommune",
+          "kind": "pdf",
+          "status": "ok",
+          "url": "https://www.evommune.com/wp-content/uploads/2025/05/26b_Evommune_CIndU_Press_Release.pdf",
+          "saved_files": [
+            "raw/sponsors/mrgprx2/evo756/cindu-top-line-press-release-pdf.pdf",
+            "raw/sponsors/mrgprx2/evo756/cindu-top-line-press-release-pdf.txt",
+            "raw/sponsors/mrgprx2/evo756/cindu-top-line-press-release-pdf.md"
+          ],
+          "explicit_trial_ids": []
+        },
+        {
+          "label": "EADV 2025 CIndU presentation PDF",
+          "sponsor": "Evommune",
+          "kind": "pdf",
+          "status": "ok",
+          "url": "https://www.evommune.com/wp-content/uploads/2025/09/29b_Evommune_EADV_CIndU_091925.pdf",
+          "saved_files": [
+            "raw/sponsors/mrgprx2/evo756/eadv-2025-cindu-presentation-pdf.pdf",
+            "raw/sponsors/mrgprx2/evo756/eadv-2025-cindu-presentation-pdf.txt",
+            "raw/sponsors/mrgprx2/evo756/eadv-2025-cindu-presentation-pdf.md"
+          ],
+          "explicit_trial_ids": []
+        }
+      ],
+      "publication_status": "no_pubmed_hits",
+      "publication_summary": "No PubMed hits were returned for EVO756 AND urticaria in this pass.",
+      "publication_search_term": "EVO756 AND urticaria",
+      "publication_search_manifest": "raw/publications/searches/mrgprx2__evo756.json",
+      "primary_publications": [],
+      "supporting_publications": [],
+      "excluded_or_nonprimary_publications": [],
+      "unclassified_query_pmids": [],
+      "trial_registry": [
+        {
+          "trial_id": "NCT06603220",
+          "ctgov_record": {
+            "trial_id": "NCT06603220",
+            "brief_title": "A Study Evaluating the Safety, Tolerability, and Efficacy of EVO756 in Adults With Chronic Inducible Urticaria",
+            "official_title": "An Open Label Study Evaluating the Safety, Tolerability, and Efficacy of EVO756 in Adults With Chronic Inducible Urticaria",
+            "phase": [
+              "PHASE2"
+            ],
+            "status": "COMPLETED",
+            "conditions": [
+              "Chronic Inducible Urticaria"
+            ],
+            "lead_sponsor": "Evommune, Inc.",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT06603220",
+            "local_json": "raw/clinicaltrials/json/NCT06603220.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT06603220.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        },
+        {
+          "trial_id": "NCT06873516",
+          "ctgov_record": {
+            "trial_id": "NCT06873516",
+            "brief_title": "Phase 2b Study of EVO756 in Adults With Moderate to Severe Chronic Spontaneous Urticaria (CSU)",
+            "official_title": "A Randomized, Double-Blind, Placebo Controlled, Dose-Ranging Study Evaluating the Efficacy and Safety of EVO756 in Adults With Moderate to Severe Chronic Spontaneous Urticaria",
+            "phase": [
+              "PHASE2"
+            ],
+            "status": "RECRUITING",
+            "conditions": [
+              "Chronic Spontaneous Urticaria"
+            ],
+            "lead_sponsor": "Evommune, Inc.",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT06873516",
+            "local_json": "raw/clinicaltrials/json/NCT06873516.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT06873516.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        }
+      ],
+      "source_layer_counts": {
+        "ctgov_trials": 2,
+        "sponsor_artifacts": 7,
+        "primary_publications": 0,
+        "supporting_publications": 0
+      }
+    },
+    {
+      "program_key": "fenebrutinib",
+      "display_name": "Fenebrutinib",
+      "priority_classes": [
+        "BTK"
+      ],
+      "ctgov_trials": [
+        {
+          "trial_id": "NCT03137069",
+          "brief_title": "A Study of GDC-0853 in Participants With Refractory Chronic Spontaneous Urticaria (CSU).",
+          "official_title": "A Phase II, Multicenter, Randomized, Double-Blind, Placebo-Controlled Pilot and Dose-Ranging Study of GDC-0853 in Patients With Refractory Chronic Spontaneous Urticaria (CSU).",
+          "phase": [
+            "PHASE2"
+          ],
+          "status": "COMPLETED",
+          "conditions": [
+            "Urticaria"
+          ],
+          "lead_sponsor": "Genentech, Inc.",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT03137069",
+          "local_json": "raw/clinicaltrials/json/NCT03137069.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT03137069.md"
+        },
+        {
+          "trial_id": "NCT03693625",
+          "brief_title": "A Study to Evaluate the Long-term Safety and Efficacy of Fenebrutinib in Participants Previously Enrolled in a Fenebrutinib Chronic Spontaneous Urticaria (CSU) Study",
+          "official_title": "A Phase II Open-Label Extension Study To Evaluate The Long-Term Safety And Efficacy Of Fenebrutinib In Patients Previously Enrolled In A Fenebrutinib Chronic Spontaneous Urticaria Study",
+          "phase": [
+            "PHASE2"
+          ],
+          "status": "TERMINATED",
+          "conditions": [
+            "Urticaria"
+          ],
+          "lead_sponsor": "Genentech, Inc.",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT03693625",
+          "local_json": "raw/clinicaltrials/json/NCT03693625.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT03693625.md"
+        }
+      ],
+      "sponsor_artifacts": [],
+      "publication_status": "primary_manuscripts_found",
+      "publication_summary": "One clear primary CSU efficacy manuscript was identified. Remaining hits are mostly reviews, mechanistic/background papers, or search collisions.",
+      "publication_search_term": "(fenebrutinib OR GDC-0853) AND urticaria",
+      "publication_search_manifest": "raw/publications/searches/btk__fenebrutinib.json",
+      "primary_publications": [
+        {
+          "pmid": "34750553",
+          "title": "Fenebrutinib in H1 antihistamine-refractory chronic spontaneous urticaria: a randomized phase 2 trial.",
+          "journal": "Nature medicine",
+          "pub_year": "2021",
+          "doi": "10.1038/s41591-021-01537-w",
+          "pmcid": "PMC8604722",
+          "pubmed_markdown": "raw/publications/pubmed/markdown/PMID34750553.md",
+          "pubmed_xml": "raw/publications/pubmed/xml/PMID34750553.xml",
+          "pmc_markdown": "raw/publications/pmc/markdown/PMC8604722.md",
+          "pmc_xml": "raw/publications/pmc/xml/PMC8604722.xml",
+          "linked_trial_ids": [
+            "EudraCT 2016-004624-35"
+          ],
+          "role": "phase_2_core",
+          "evidence_note": "Abstract explicitly cites EudraCT 2016-004624-35."
+        }
+      ],
+      "supporting_publications": [
+        {
+          "pmid": "29457982",
+          "title": "Discovery of GDC-0853: A Potent, Selective, and Noncovalent Bruton's Tyrosine Kinase Inhibitor in Early Clinical Development.",
+          "journal": "Journal of medicinal chemistry",
+          "pub_year": "2018",
+          "doi": "10.1021/acs.jmedchem.7b01712",
+          "pmcid": null,
+          "pubmed_markdown": "raw/publications/pubmed/markdown/PMID29457982.md",
+          "pubmed_xml": "raw/publications/pubmed/xml/PMID29457982.xml",
+          "pmc_markdown": null,
+          "pmc_xml": null,
+          "linked_trial_ids": [],
+          "role": "discovery_background",
+          "note": "Medicinal chemistry discovery paper for GDC-0853/fenebrutinib."
+        },
+        {
+          "pmid": "36420759",
+          "title": "Fenebrutinib and BTK inhibition: Unveiling a new target for the treatment of chronic spontaneous urticaria.",
+          "journal": "Allergy",
+          "pub_year": "2023",
+          "doi": "10.1111/all.15592",
+          "pmcid": null,
+          "pubmed_markdown": "raw/publications/pubmed/markdown/PMID36420759.md",
+          "pubmed_xml": "raw/publications/pubmed/xml/PMID36420759.xml",
+          "pmc_markdown": null,
+          "pmc_xml": null,
+          "linked_trial_ids": [],
+          "role": "review",
+          "note": "Fenebrutinib-focused review article in CSU."
+        },
+        {
+          "pmid": "40326848",
+          "title": "Biological and target synthetic treatments for chronic spontaneous urticaria: A systematic review and network meta-analysis.",
+          "journal": "Clinical and translational allergy",
+          "pub_year": "2025",
+          "doi": "10.1002/clt2.70052",
+          "pmcid": "PMC12053928",
+          "pubmed_markdown": "raw/publications/pubmed/markdown/PMID40326848.md",
+          "pubmed_xml": "raw/publications/pubmed/xml/PMID40326848.xml",
+          "pmc_markdown": "raw/publications/pmc/markdown/PMC12053928.md",
+          "pmc_xml": "raw/publications/pmc/xml/PMC12053928.xml",
+          "linked_trial_ids": [],
+          "role": "meta_analysis",
+          "note": "Network meta-analysis including fenebrutinib among CSU therapies."
+        }
+      ],
+      "excluded_or_nonprimary_publications": [
+        {
+          "pmid": "34650565",
+          "title": "What Basophil Testing Tells Us About CSU Patients - Results of the CORSA Study.",
+          "journal": "Frontiers in immunology",
+          "pub_year": "2021",
+          "reason": "CORSA basophil-testing study, not a fenebrutinib trial manuscript.",
+          "pubmed_markdown": "raw/publications/pubmed/markdown/PMID34650565.md"
+        }
+      ],
+      "unclassified_query_pmids": [
+        "35667749",
+        "38141832",
+        "35175630",
+        "31446134",
+        "35166638",
+        "35569949",
+        "30015639",
+        "31494233",
+        "41270830",
+        "41654334"
+      ],
+      "trial_registry": [
+        {
+          "trial_id": "NCT03137069",
+          "ctgov_record": {
+            "trial_id": "NCT03137069",
+            "brief_title": "A Study of GDC-0853 in Participants With Refractory Chronic Spontaneous Urticaria (CSU).",
+            "official_title": "A Phase II, Multicenter, Randomized, Double-Blind, Placebo-Controlled Pilot and Dose-Ranging Study of GDC-0853 in Patients With Refractory Chronic Spontaneous Urticaria (CSU).",
+            "phase": [
+              "PHASE2"
+            ],
+            "status": "COMPLETED",
+            "conditions": [
+              "Urticaria"
+            ],
+            "lead_sponsor": "Genentech, Inc.",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT03137069",
+            "local_json": "raw/clinicaltrials/json/NCT03137069.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT03137069.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        },
+        {
+          "trial_id": "NCT03693625",
+          "ctgov_record": {
+            "trial_id": "NCT03693625",
+            "brief_title": "A Study to Evaluate the Long-term Safety and Efficacy of Fenebrutinib in Participants Previously Enrolled in a Fenebrutinib Chronic Spontaneous Urticaria (CSU) Study",
+            "official_title": "A Phase II Open-Label Extension Study To Evaluate The Long-Term Safety And Efficacy Of Fenebrutinib In Patients Previously Enrolled In A Fenebrutinib Chronic Spontaneous Urticaria Study",
+            "phase": [
+              "PHASE2"
+            ],
+            "status": "TERMINATED",
+            "conditions": [
+              "Urticaria"
+            ],
+            "lead_sponsor": "Genentech, Inc.",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT03693625",
+            "local_json": "raw/clinicaltrials/json/NCT03693625.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT03693625.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        }
+      ],
+      "source_layer_counts": {
+        "ctgov_trials": 2,
+        "sponsor_artifacts": 0,
+        "primary_publications": 1,
+        "supporting_publications": 3
+      }
+    },
+    {
+      "program_key": "remibrutinib",
+      "display_name": "Remibrutinib",
+      "priority_classes": [
+        "BTK"
+      ],
+      "ctgov_trials": [
+        {
+          "trial_id": "NCT03926611",
+          "brief_title": "This Was a Dose-finding Study to Evaluate Efficacy and Safety of LOU064 in Patients With CSU Inadequately Controlled by H1-antihistamines",
+          "official_title": "A Multicenter, Randomized, Double-blind, Placebo- Controlled Phase 2b Dose-finding Study to Investigate the Efficacy, Safety and Tolerability of LOU064 in Adult Chronic Spontaneous Urticaria (CSU) Patients Inadequately Controlled by H1-antihistamines",
+          "phase": [
+            "PHASE2"
+          ],
+          "status": "COMPLETED",
+          "conditions": [
+            "Chronic Spontaneous Urticaria"
+          ],
+          "lead_sponsor": "Novartis Pharmaceuticals",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT03926611",
+          "local_json": "raw/clinicaltrials/json/NCT03926611.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT03926611.md"
+        },
+        {
+          "trial_id": "NCT04109313",
+          "brief_title": "An Open-label Extension Study to Evaluate the Long-term Safety and Tolerability of LOU064 in Subjects With CSU",
+          "official_title": "An Open-label, Multicenter, Extension Study to Evaluate the Long-term Safety and Tolerability of LOU064 in Eligible Subjects With CSU Who Have Participated in CLOU064A2201",
+          "phase": [
+            "PHASE2"
+          ],
+          "status": "COMPLETED",
+          "conditions": [
+            "Chronic Spontaneous Urticaria"
+          ],
+          "lead_sponsor": "Novartis Pharmaceuticals",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT04109313",
+          "local_json": "raw/clinicaltrials/json/NCT04109313.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT04109313.md"
+        },
+        {
+          "trial_id": "NCT05030311",
+          "brief_title": "A Phase 3 Study of Efficacy and Safety of Remibrutinib in the Treatment of CSU in Adults Inadequately Controlled by H1 Antihistamines",
+          "official_title": "A Multicenter, Randomized, Double-blind, Placebo-controlled Phase 3 Study of Remibrutinib (LOU064) to Investigate the Efficacy, Safety and Tolerability for 52 Weeks in Adult Chronic Spontaneous Urticaria (CSU) Patients Inadequately Controlled by H1-antihistamines",
+          "phase": [
+            "PHASE3"
+          ],
+          "status": "COMPLETED",
+          "conditions": [
+            "Chronic Spontaneous Urticaria"
+          ],
+          "lead_sponsor": "Novartis Pharmaceuticals",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT05030311",
+          "local_json": "raw/clinicaltrials/json/NCT05030311.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT05030311.md"
+        },
+        {
+          "trial_id": "NCT05032157",
+          "brief_title": "A Phase 3 Study of Efficacy and Safety of Remibrutinib in the Treatment of CSU in Adults Inadequately Controlled by H1-antihistamines",
+          "official_title": "A Multicenter, Randomized, Double-blind, Placebo-controlled Phase 3 Study of Remibrutinib (LOU064) to Investigate the Efficacy, Safety and Tolerability for 52 Weeks in Adult Chronic Spontaneous Urticaria (CSU) Patients Inadequately Controlled by H1-antihistamines",
+          "phase": [
+            "PHASE3"
+          ],
+          "status": "COMPLETED",
+          "conditions": [
+            "Chronic Spontaneous Urticaria"
+          ],
+          "lead_sponsor": "Novartis Pharmaceuticals",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT05032157",
+          "local_json": "raw/clinicaltrials/json/NCT05032157.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT05032157.md"
+        },
+        {
+          "trial_id": "NCT05048342",
+          "brief_title": "A Safety and Efficacy Study of Remibrutinib in the Treatment of CSU in Japanese Adults Inadequately Controlled by H1-antihistamines",
+          "official_title": "A Multicenter, Open-label Phase 3 Study of Remibrutinib (LOU064) to Investigate the Safety, Tolerability and Efficacy for 52 Weeks in Adult Japanese Chronic Spontaneous Urticaria Patients Inadequately Controlled by H1-antihistamines",
+          "phase": [
+            "PHASE3"
+          ],
+          "status": "COMPLETED",
+          "conditions": [
+            "Chronic Spontaneous Urticaria"
+          ],
+          "lead_sponsor": "Novartis Pharmaceuticals",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT05048342",
+          "local_json": "raw/clinicaltrials/json/NCT05048342.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT05048342.md"
+        },
+        {
+          "trial_id": "NCT05170724",
+          "brief_title": "Global Managed Access Program Cohort for Remibrutinib in Adult Patients With Chronic Spontaneous Urticaria",
+          "official_title": "Managed Access Program (MAP) Cohort Treatment Plan CLOU064A2002M to Provide Access to Remibrutinib for Adult Patients With Chronic Spontaneous Urticaria (CSU)",
+          "phase": [],
+          "status": "AVAILABLE",
+          "conditions": [
+            "Chronic Spontaneous Urticaria"
+          ],
+          "lead_sponsor": "Novartis Pharmaceuticals",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT05170724",
+          "local_json": "raw/clinicaltrials/json/NCT05170724.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT05170724.md"
+        },
+        {
+          "trial_id": "NCT05513001",
+          "brief_title": "An Extension Study of Long-term Efficacy, Safety and Tolerability of Remibrutinib in Chronic Spontaneous Urticaria Patients Who Completed Preceding Studies With Remibrutinib",
+          "official_title": "A Multicenter, Double-blind, Placebo-controlled, Randomized Withdrawal and Open-label Extension Study Followed by Long-term Open-label Treatment Cycles to Assess the Efficacy, Safety and Tolerability of Remibrutinib (LOU064) in Adult Chronic Spontaneous Urticaria Patients Who Completed the Preceding Remibrutinib Phase 3 Studies",
+          "phase": [
+            "PHASE3"
+          ],
+          "status": "ACTIVE_NOT_RECRUITING",
+          "conditions": [
+            "Chronic Spontaneous Urticaria"
+          ],
+          "lead_sponsor": "Novartis Pharmaceuticals",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT05513001",
+          "local_json": "raw/clinicaltrials/json/NCT05513001.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT05513001.md"
+        },
+        {
+          "trial_id": "NCT05677451",
+          "brief_title": "24 Weeks Double-blind Randomized Placebo-controlled Trial to Evaluate Efficacy, PK, Safety of LOU064 in Adolescents (12 - <18) With CSU and Inadequate Response to H1-antihistamine Followed by Optional 3 Years Open-label Extension and an Optional 3 Years Safety Long-term Treatment-free Follow-up",
+          "official_title": "A Double-blind, Randomized, Placebo-controlled Trial to Evaluate the Efficacy, Pharmacokinetics and Safety of Remibrutinib (LOU064) for 24 Weeks in Adolescents From 12 to Less Than 18 Years of Age With Chronic Spontaneous Urticaria Inadequately Controlled by H1-antihistamines Followed by an Optional Open-label Extension for up to Another 3 Years and an Optional Safety Long-term Treatment-free Follow-up Period for up to an Additional 3 Years",
+          "phase": [
+            "PHASE3"
+          ],
+          "status": "RECRUITING",
+          "conditions": [
+            "Chronic Spontaneous Urticaria"
+          ],
+          "lead_sponsor": "Novartis Pharmaceuticals",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT05677451",
+          "local_json": "raw/clinicaltrials/json/NCT05677451.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT05677451.md"
+        },
+        {
+          "trial_id": "NCT05795153",
+          "brief_title": "A Multicenter, Open-label Phase 3 Study: Ambulatory Blood Pressure Monitoring in Adult Patients With Chronic Spontaneous Urticaria Inadequately Controlled by H1-antihistamines Treated With Remibrutinib up to 12 Weeks.",
+          "official_title": "A Multicenter, Open-label Phase 3 Study: Ambulatory Blood Pressure Monitoring in Adult Patients With Chronic Spontaneous Urticaria Inadequately Controlled by H1-antihistamines Treated With Remibrutinib up to 12 Weeks.",
+          "phase": [
+            "PHASE3"
+          ],
+          "status": "COMPLETED",
+          "conditions": [
+            "Chronic Spontaneous Urticaria"
+          ],
+          "lead_sponsor": "Novartis Pharmaceuticals",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT05795153",
+          "local_json": "raw/clinicaltrials/json/NCT05795153.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT05795153.md"
+        },
+        {
+          "trial_id": "NCT05976243",
+          "brief_title": "A Study to Investigate Efficacy, Safety, and Tolerability of Remibrutinib Compared With Placebo in Adults With CINDU Inadequately Controlled by H1-antihistamines",
+          "official_title": "A 52-week Multi-center, Randomized, Double-blind, Placebo Controlled, Basket Study With an Open-label Extension to Investigate the Efficacy, Safety, and Tolerability of Remibrutinib (LOU064) in Chronic Inducible Urticaria (CINDU) in Adults Inadequately Controlled by H1-antihistamines",
+          "phase": [
+            "PHASE3"
+          ],
+          "status": "ACTIVE_NOT_RECRUITING",
+          "conditions": [
+            "Chronic Inducible Urticaria"
+          ],
+          "lead_sponsor": "Novartis Pharmaceuticals",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT05976243",
+          "local_json": "raw/clinicaltrials/json/NCT05976243.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT05976243.md"
+        },
+        {
+          "trial_id": "NCT06042478",
+          "brief_title": "Phase 3b Study to Assess the Efficacy, Safety, and Tolerability of Remibrutinib in Comparison to Placebo, With Omalizumab as Active Control, in Adult CSU Patients, Followed by an Open-label 52-week Optional Extension.",
+          "official_title": "A Global, Multicenter, Randomized, Double-blind, Double-dummy, Parallel-group, Phase 3b Study to Assess the Efficacy, Safety, and Tolerability of Remibrutinib 25 mg b.i.d. in Comparison to Placebo With Omalizumab 300 mg Every 4 Weeks as Active Control Over 52 Weeks in Adult Patients With Chronic Spontaneous Urticaria Inadequately Controlled by Second Generation H1-antihistamines and an Open-label 52-week Optional Extension to Assess Long-term Efficacy, Safety and Tolerability of Remibrutinib 25 mg b.i.d.",
+          "phase": [
+            "PHASE3"
+          ],
+          "status": "ACTIVE_NOT_RECRUITING",
+          "conditions": [
+            "Chronic Spontaneous Urticaria"
+          ],
+          "lead_sponsor": "Novartis Pharmaceuticals",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT06042478",
+          "local_json": "raw/clinicaltrials/json/NCT06042478.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT06042478.md"
+        },
+        {
+          "trial_id": "NCT06865651",
+          "brief_title": "Study of Remibrutinib (LOU064) Efficacy and Safety and Exploration of Its Mechanism of Action in Participants With Chronic Urticaria",
+          "official_title": "A 12-week Randomized, Participant and Investigator-blinded, Placebo-controlled, Exploratory Study in Adult Participants With Chronic Urticaria to Assess the Efficacy and Safety and Explore the Mechanism of Action of Remibrutinib (LOU064)",
+          "phase": [
+            "PHASE2"
+          ],
+          "status": "RECRUITING",
+          "conditions": [
+            "Chronic Urticaria (CU): Chronic Inducible Urticaria (CINDU) and Chronic Spontaneous Urticaria (CSU)"
+          ],
+          "lead_sponsor": "Novartis Pharmaceuticals",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT06865651",
+          "local_json": "raw/clinicaltrials/json/NCT06865651.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT06865651.md"
+        },
+        {
+          "trial_id": "NCT06868212",
+          "brief_title": "A Study to Evaluate Efficacy of Remibrutinib Compared to Dupilumab at Early Timepoints in Adults With Chronic Spontaneous Urticaria Inadequately Controlled by Second Generation H1-antihistamines",
+          "official_title": "A US Phase 3b, Multi-center, Randomized, Double-blind, Double-Dummy Study to Evaluate Efficacy of Remibrutinib Compared to Dupilumab at Early Timepoints in Adults With Chronic Spontaneous Urticaria Inadequately Controlled by Second Generation H1-Antihistamines",
+          "phase": [
+            "PHASE3"
+          ],
+          "status": "RECRUITING",
+          "conditions": [
+            "Chronic Spontaneous Urticaria (CSU)"
+          ],
+          "lead_sponsor": "Novartis Pharmaceuticals",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT06868212",
+          "local_json": "raw/clinicaltrials/json/NCT06868212.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT06868212.md"
+        },
+        {
+          "trial_id": "NCT07358364",
+          "brief_title": "Remibrutinib in Real-world Clinical Practice",
+          "official_title": "Remibrutinib in Real-world Clinical Practice: a Prospective, Multi-country, Non-interventional, Effectiveness and Safety Study",
+          "phase": [],
+          "status": "RECRUITING",
+          "conditions": [
+            "Chronic Spontaneous Urticaria"
+          ],
+          "lead_sponsor": "Novartis Pharmaceuticals",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT07358364",
+          "local_json": "raw/clinicaltrials/json/NCT07358364.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT07358364.md"
+        },
+        {
+          "trial_id": "NCT07358780",
+          "brief_title": "Remibrutinib in Real-world Clinical Practice - a US Sub-study",
+          "official_title": "Remibrutinib in Real-world Clinical Practice: a Prospective, Multi-country, Non-interventional, Effectiveness and Safety Study - a US Sub-study",
+          "phase": [],
+          "status": "RECRUITING",
+          "conditions": [
+            "Chronic Spontaneous Urticaria"
+          ],
+          "lead_sponsor": "Novartis Pharmaceuticals",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT07358780",
+          "local_json": "raw/clinicaltrials/json/NCT07358780.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT07358780.md"
+        },
+        {
+          "trial_id": "NCT07408219",
+          "brief_title": "A Real-world Study of Remibrutinib in Chronic Spontaneous Urticaria Patients",
+          "official_title": "RELIEF: Remibrutinib in Chronic Spontaneous Urticaria: Early Real World Effectiveness and Satisfaction Survey",
+          "phase": [],
+          "status": "RECRUITING",
+          "conditions": [
+            "Chronic Spontaneous Urticaria"
+          ],
+          "lead_sponsor": "Novartis Pharmaceuticals",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT07408219",
+          "local_json": "raw/clinicaltrials/json/NCT07408219.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT07408219.md"
+        }
+      ],
+      "sponsor_artifacts": [
+        {
+          "label": "2023 Phase III primary endpoints press release",
+          "sponsor": "Novartis",
+          "kind": "html",
+          "status": "ok",
+          "url": "https://www.novartis.com/news/media-releases/novartis-remibrutinib-phase-iii-trials-met-their-primary-endpoints-and-showed-rapid-symptom-control-chronic-spontaneous-urticaria",
+          "saved_files": [
+            "raw/sponsors/btk/remibrutinib/2023-phase-iii-primary-endpoints-press-release.html",
+            "raw/sponsors/btk/remibrutinib/2023-phase-iii-primary-endpoints-press-release.md"
+          ],
+          "explicit_trial_ids": []
+        },
+        {
+          "label": "2024 sustained efficacy and safety press release",
+          "sponsor": "Novartis",
+          "kind": "html",
+          "status": "ok",
+          "url": "https://www.novartis.com/news/media-releases/novartis-phase-iii-data-confirm-sustained-efficacy-and-long-term-safety-oral-remibrutinib-chronic-spontaneous-urticaria",
+          "saved_files": [
+            "raw/sponsors/btk/remibrutinib/2024-sustained-efficacy-and-safety-press-release.html",
+            "raw/sponsors/btk/remibrutinib/2024-sustained-efficacy-and-safety-press-release.md"
+          ],
+          "explicit_trial_ids": []
+        },
+        {
+          "label": "2026 CIndU Phase III RemIND press release",
+          "sponsor": "Novartis",
+          "kind": "html",
+          "status": "ok",
+          "url": "https://www.novartis.com/news/media-releases/novartis-remibrutinib-first-therapy-achieve-phase-iii-primary-endpoint-chronic-inducible-urticaria-cindu",
+          "saved_files": [
+            "raw/sponsors/btk/remibrutinib/2026-cindu-phase-iii-remind-press-release.html",
+            "raw/sponsors/btk/remibrutinib/2026-cindu-phase-iii-remind-press-release.md"
+          ],
+          "explicit_trial_ids": []
+        },
+        {
+          "label": "Novartis trial page NCT06865651",
+          "sponsor": "Novartis",
+          "kind": "html",
+          "status": "ok",
+          "url": "https://www.novartis.com/clinicaltrials/study/nct06865651",
+          "saved_files": [
+            "raw/sponsors/btk/remibrutinib/novartis-trial-page-nct06865651.html",
+            "raw/sponsors/btk/remibrutinib/novartis-trial-page-nct06865651.md"
+          ],
+          "explicit_trial_ids": [
+            "NCT06865651"
+          ]
+        }
+      ],
+      "publication_status": "primary_manuscripts_found",
+      "publication_summary": "Strong manuscript coverage. Original CSU clinical data are available for phase 2b, phase 2b extension, phase 3 REMIX week-12/24 results, and 52-week REMIX follow-up.",
+      "publication_search_term": "(remibrutinib OR LOU064) AND urticaria",
+      "publication_search_manifest": "raw/publications/searches/btk__remibrutinib.json",
+      "primary_publications": [
+        {
+          "pmid": "36096203",
+          "title": "Remibrutinib, a novel BTK inhibitor, demonstrates promising efficacy and safety in chronic spontaneous urticaria.",
+          "journal": "The Journal of allergy and clinical immunology",
+          "pub_year": "2022",
+          "doi": "10.1016/j.jaci.2022.08.027",
+          "pmcid": null,
+          "pubmed_markdown": "raw/publications/pubmed/markdown/PMID36096203.md",
+          "pubmed_xml": "raw/publications/pubmed/xml/PMID36096203.xml",
+          "pmc_markdown": null,
+          "pmc_xml": null,
+          "linked_trial_ids": [
+            "NCT03926611"
+          ],
+          "role": "phase_2b_core",
+          "evidence_note": "Abstract explicitly cites NCT03926611."
+        },
+        {
+          "pmid": "37866460",
+          "title": "Remibrutinib demonstrates favorable safety profile and sustained efficacy in chronic spontaneous urticaria over 52 weeks.",
+          "journal": "The Journal of allergy and clinical immunology",
+          "pub_year": "2024",
+          "doi": "10.1016/j.jaci.2023.10.007",
+          "pmcid": null,
+          "pubmed_markdown": "raw/publications/pubmed/markdown/PMID37866460.md",
+          "pubmed_xml": "raw/publications/pubmed/xml/PMID37866460.xml",
+          "pmc_markdown": null,
+          "pmc_xml": null,
+          "linked_trial_ids": [
+            "NCT03926611"
+          ],
+          "role": "phase_2b_extension",
+          "evidence_note": "Abstract describes a phase 2b extension study following the remibrutinib core CSU trial; registration not explicitly repeated in the abstract text saved here."
+        },
+        {
+          "pmid": "40043237",
+          "title": "Remibrutinib in Chronic Spontaneous Urticaria.",
+          "journal": "The New England journal of medicine",
+          "pub_year": "2025",
+          "doi": "10.1056/NEJMoa2408792",
+          "pmcid": null,
+          "pubmed_markdown": "raw/publications/pubmed/markdown/PMID40043237.md",
+          "pubmed_xml": "raw/publications/pubmed/xml/PMID40043237.xml",
+          "pmc_markdown": null,
+          "pmc_xml": null,
+          "linked_trial_ids": [
+            "NCT05030311",
+            "NCT05032157"
+          ],
+          "role": "phase_3_core",
+          "evidence_note": "Abstract explicitly cites REMIX-1 NCT05030311 and REMIX-2 NCT05032157."
+        },
+        {
+          "pmid": "41115533",
+          "title": "Remibrutinib in chronic spontaneous urticaria: 52-week results from two phase 3 studies.",
+          "journal": "The Journal of allergy and clinical immunology",
+          "pub_year": "2026",
+          "doi": "10.1016/j.jaci.2025.09.028",
+          "pmcid": null,
+          "pubmed_markdown": "raw/publications/pubmed/markdown/PMID41115533.md",
+          "pubmed_xml": "raw/publications/pubmed/xml/PMID41115533.xml",
+          "pmc_markdown": null,
+          "pmc_xml": null,
+          "linked_trial_ids": [
+            "NCT05030311",
+            "NCT05032157"
+          ],
+          "role": "phase_3_long_term",
+          "evidence_note": "Abstract explicitly cites REMIX-1 NCT05030311 and REMIX-2 NCT05032157."
+        }
+      ],
+      "supporting_publications": [
+        {
+          "pmid": "33834628",
+          "title": "Remibrutinib (LOU064): A selective potent oral BTK inhibitor with promising clinical safety and pharmacodynamics in a randomized phase I trial.",
+          "journal": "Clinical and translational science",
+          "pub_year": "2021",
+          "doi": "10.1111/cts.13005",
+          "pmcid": "PMC8504815",
+          "pubmed_markdown": "raw/publications/pubmed/markdown/PMID33834628.md",
+          "pubmed_xml": "raw/publications/pubmed/xml/PMID33834628.xml",
+          "pmc_markdown": "raw/publications/pmc/markdown/PMC8504815.md",
+          "pmc_xml": "raw/publications/pmc/xml/PMC8504815.xml",
+          "linked_trial_ids": [],
+          "role": "phase_1_background",
+          "note": "Healthy-volunteer phase 1 safety/pharmacodynamics paper, useful background but not a urticaria efficacy manuscript."
+        },
+        {
+          "pmid": "40455080",
+          "title": "Evaluating remibrutinib in the treatment of chronic spontaneous urticaria.",
+          "journal": "Immunotherapy",
+          "pub_year": "2025",
+          "doi": "10.1080/1750743X.2025.2510892",
+          "pmcid": "PMC12506734",
+          "pubmed_markdown": "raw/publications/pubmed/markdown/PMID40455080.md",
+          "pubmed_xml": "raw/publications/pubmed/xml/PMID40455080.xml",
+          "pmc_markdown": "raw/publications/pmc/markdown/PMC12506734.md",
+          "pmc_xml": "raw/publications/pmc/xml/PMC12506734.xml",
+          "linked_trial_ids": [],
+          "role": "review",
+          "note": "Narrative review summarizing remibrutinib CSU data."
+        }
+      ],
+      "excluded_or_nonprimary_publications": [
+        {
+          "pmid": "40435483",
+          "title": "Remibrutinib in Chronic Spontaneous Urticaria.",
+          "journal": "The New England journal of medicine",
+          "pub_year": "2025",
+          "reason": "Letter/comment on the NEJM phase 3 paper, not an original trial report.",
+          "pubmed_markdown": "raw/publications/pubmed/markdown/PMID40435483.md"
+        }
+      ],
+      "unclassified_query_pmids": [
+        "35667749",
+        "32083858",
+        "41186128",
+        "38141832",
+        "35175630",
+        "40074986",
+        "40663028",
+        "39598410",
+        "40911497",
+        "40747638",
+        "31446134",
+        "41105846",
+        "40682317"
+      ],
+      "trial_registry": [
+        {
+          "trial_id": "NCT03926611",
+          "ctgov_record": {
+            "trial_id": "NCT03926611",
+            "brief_title": "This Was a Dose-finding Study to Evaluate Efficacy and Safety of LOU064 in Patients With CSU Inadequately Controlled by H1-antihistamines",
+            "official_title": "A Multicenter, Randomized, Double-blind, Placebo- Controlled Phase 2b Dose-finding Study to Investigate the Efficacy, Safety and Tolerability of LOU064 in Adult Chronic Spontaneous Urticaria (CSU) Patients Inadequately Controlled by H1-antihistamines",
+            "phase": [
+              "PHASE2"
+            ],
+            "status": "COMPLETED",
+            "conditions": [
+              "Chronic Spontaneous Urticaria"
+            ],
+            "lead_sponsor": "Novartis Pharmaceuticals",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT03926611",
+            "local_json": "raw/clinicaltrials/json/NCT03926611.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT03926611.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [
+            {
+              "pmid": "36096203",
+              "title": "Remibrutinib, a novel BTK inhibitor, demonstrates promising efficacy and safety in chronic spontaneous urticaria.",
+              "journal": "The Journal of allergy and clinical immunology",
+              "pub_year": "2022",
+              "doi": "10.1016/j.jaci.2022.08.027",
+              "pmcid": null,
+              "pubmed_markdown": "raw/publications/pubmed/markdown/PMID36096203.md",
+              "pubmed_xml": "raw/publications/pubmed/xml/PMID36096203.xml",
+              "pmc_markdown": null,
+              "pmc_xml": null,
+              "linked_trial_ids": [
+                "NCT03926611"
+              ],
+              "role": "phase_2b_core",
+              "evidence_note": "Abstract explicitly cites NCT03926611."
+            },
+            {
+              "pmid": "37866460",
+              "title": "Remibrutinib demonstrates favorable safety profile and sustained efficacy in chronic spontaneous urticaria over 52 weeks.",
+              "journal": "The Journal of allergy and clinical immunology",
+              "pub_year": "2024",
+              "doi": "10.1016/j.jaci.2023.10.007",
+              "pmcid": null,
+              "pubmed_markdown": "raw/publications/pubmed/markdown/PMID37866460.md",
+              "pubmed_xml": "raw/publications/pubmed/xml/PMID37866460.xml",
+              "pmc_markdown": null,
+              "pmc_xml": null,
+              "linked_trial_ids": [
+                "NCT03926611"
+              ],
+              "role": "phase_2b_extension",
+              "evidence_note": "Abstract describes a phase 2b extension study following the remibrutinib core CSU trial; registration not explicitly repeated in the abstract text saved here."
+            }
+          ],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": true,
+            "publication_supporting": false
+          }
+        },
+        {
+          "trial_id": "NCT04109313",
+          "ctgov_record": {
+            "trial_id": "NCT04109313",
+            "brief_title": "An Open-label Extension Study to Evaluate the Long-term Safety and Tolerability of LOU064 in Subjects With CSU",
+            "official_title": "An Open-label, Multicenter, Extension Study to Evaluate the Long-term Safety and Tolerability of LOU064 in Eligible Subjects With CSU Who Have Participated in CLOU064A2201",
+            "phase": [
+              "PHASE2"
+            ],
+            "status": "COMPLETED",
+            "conditions": [
+              "Chronic Spontaneous Urticaria"
+            ],
+            "lead_sponsor": "Novartis Pharmaceuticals",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT04109313",
+            "local_json": "raw/clinicaltrials/json/NCT04109313.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT04109313.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        },
+        {
+          "trial_id": "NCT05030311",
+          "ctgov_record": {
+            "trial_id": "NCT05030311",
+            "brief_title": "A Phase 3 Study of Efficacy and Safety of Remibrutinib in the Treatment of CSU in Adults Inadequately Controlled by H1 Antihistamines",
+            "official_title": "A Multicenter, Randomized, Double-blind, Placebo-controlled Phase 3 Study of Remibrutinib (LOU064) to Investigate the Efficacy, Safety and Tolerability for 52 Weeks in Adult Chronic Spontaneous Urticaria (CSU) Patients Inadequately Controlled by H1-antihistamines",
+            "phase": [
+              "PHASE3"
+            ],
+            "status": "COMPLETED",
+            "conditions": [
+              "Chronic Spontaneous Urticaria"
+            ],
+            "lead_sponsor": "Novartis Pharmaceuticals",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT05030311",
+            "local_json": "raw/clinicaltrials/json/NCT05030311.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT05030311.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [
+            {
+              "pmid": "40043237",
+              "title": "Remibrutinib in Chronic Spontaneous Urticaria.",
+              "journal": "The New England journal of medicine",
+              "pub_year": "2025",
+              "doi": "10.1056/NEJMoa2408792",
+              "pmcid": null,
+              "pubmed_markdown": "raw/publications/pubmed/markdown/PMID40043237.md",
+              "pubmed_xml": "raw/publications/pubmed/xml/PMID40043237.xml",
+              "pmc_markdown": null,
+              "pmc_xml": null,
+              "linked_trial_ids": [
+                "NCT05030311",
+                "NCT05032157"
+              ],
+              "role": "phase_3_core",
+              "evidence_note": "Abstract explicitly cites REMIX-1 NCT05030311 and REMIX-2 NCT05032157."
+            },
+            {
+              "pmid": "41115533",
+              "title": "Remibrutinib in chronic spontaneous urticaria: 52-week results from two phase 3 studies.",
+              "journal": "The Journal of allergy and clinical immunology",
+              "pub_year": "2026",
+              "doi": "10.1016/j.jaci.2025.09.028",
+              "pmcid": null,
+              "pubmed_markdown": "raw/publications/pubmed/markdown/PMID41115533.md",
+              "pubmed_xml": "raw/publications/pubmed/xml/PMID41115533.xml",
+              "pmc_markdown": null,
+              "pmc_xml": null,
+              "linked_trial_ids": [
+                "NCT05030311",
+                "NCT05032157"
+              ],
+              "role": "phase_3_long_term",
+              "evidence_note": "Abstract explicitly cites REMIX-1 NCT05030311 and REMIX-2 NCT05032157."
+            }
+          ],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": true,
+            "publication_supporting": false
+          }
+        },
+        {
+          "trial_id": "NCT05032157",
+          "ctgov_record": {
+            "trial_id": "NCT05032157",
+            "brief_title": "A Phase 3 Study of Efficacy and Safety of Remibrutinib in the Treatment of CSU in Adults Inadequately Controlled by H1-antihistamines",
+            "official_title": "A Multicenter, Randomized, Double-blind, Placebo-controlled Phase 3 Study of Remibrutinib (LOU064) to Investigate the Efficacy, Safety and Tolerability for 52 Weeks in Adult Chronic Spontaneous Urticaria (CSU) Patients Inadequately Controlled by H1-antihistamines",
+            "phase": [
+              "PHASE3"
+            ],
+            "status": "COMPLETED",
+            "conditions": [
+              "Chronic Spontaneous Urticaria"
+            ],
+            "lead_sponsor": "Novartis Pharmaceuticals",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT05032157",
+            "local_json": "raw/clinicaltrials/json/NCT05032157.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT05032157.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [
+            {
+              "pmid": "40043237",
+              "title": "Remibrutinib in Chronic Spontaneous Urticaria.",
+              "journal": "The New England journal of medicine",
+              "pub_year": "2025",
+              "doi": "10.1056/NEJMoa2408792",
+              "pmcid": null,
+              "pubmed_markdown": "raw/publications/pubmed/markdown/PMID40043237.md",
+              "pubmed_xml": "raw/publications/pubmed/xml/PMID40043237.xml",
+              "pmc_markdown": null,
+              "pmc_xml": null,
+              "linked_trial_ids": [
+                "NCT05030311",
+                "NCT05032157"
+              ],
+              "role": "phase_3_core",
+              "evidence_note": "Abstract explicitly cites REMIX-1 NCT05030311 and REMIX-2 NCT05032157."
+            },
+            {
+              "pmid": "41115533",
+              "title": "Remibrutinib in chronic spontaneous urticaria: 52-week results from two phase 3 studies.",
+              "journal": "The Journal of allergy and clinical immunology",
+              "pub_year": "2026",
+              "doi": "10.1016/j.jaci.2025.09.028",
+              "pmcid": null,
+              "pubmed_markdown": "raw/publications/pubmed/markdown/PMID41115533.md",
+              "pubmed_xml": "raw/publications/pubmed/xml/PMID41115533.xml",
+              "pmc_markdown": null,
+              "pmc_xml": null,
+              "linked_trial_ids": [
+                "NCT05030311",
+                "NCT05032157"
+              ],
+              "role": "phase_3_long_term",
+              "evidence_note": "Abstract explicitly cites REMIX-1 NCT05030311 and REMIX-2 NCT05032157."
+            }
+          ],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": true,
+            "publication_supporting": false
+          }
+        },
+        {
+          "trial_id": "NCT05048342",
+          "ctgov_record": {
+            "trial_id": "NCT05048342",
+            "brief_title": "A Safety and Efficacy Study of Remibrutinib in the Treatment of CSU in Japanese Adults Inadequately Controlled by H1-antihistamines",
+            "official_title": "A Multicenter, Open-label Phase 3 Study of Remibrutinib (LOU064) to Investigate the Safety, Tolerability and Efficacy for 52 Weeks in Adult Japanese Chronic Spontaneous Urticaria Patients Inadequately Controlled by H1-antihistamines",
+            "phase": [
+              "PHASE3"
+            ],
+            "status": "COMPLETED",
+            "conditions": [
+              "Chronic Spontaneous Urticaria"
+            ],
+            "lead_sponsor": "Novartis Pharmaceuticals",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT05048342",
+            "local_json": "raw/clinicaltrials/json/NCT05048342.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT05048342.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        },
+        {
+          "trial_id": "NCT05170724",
+          "ctgov_record": {
+            "trial_id": "NCT05170724",
+            "brief_title": "Global Managed Access Program Cohort for Remibrutinib in Adult Patients With Chronic Spontaneous Urticaria",
+            "official_title": "Managed Access Program (MAP) Cohort Treatment Plan CLOU064A2002M to Provide Access to Remibrutinib for Adult Patients With Chronic Spontaneous Urticaria (CSU)",
+            "phase": [],
+            "status": "AVAILABLE",
+            "conditions": [
+              "Chronic Spontaneous Urticaria"
+            ],
+            "lead_sponsor": "Novartis Pharmaceuticals",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT05170724",
+            "local_json": "raw/clinicaltrials/json/NCT05170724.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT05170724.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        },
+        {
+          "trial_id": "NCT05513001",
+          "ctgov_record": {
+            "trial_id": "NCT05513001",
+            "brief_title": "An Extension Study of Long-term Efficacy, Safety and Tolerability of Remibrutinib in Chronic Spontaneous Urticaria Patients Who Completed Preceding Studies With Remibrutinib",
+            "official_title": "A Multicenter, Double-blind, Placebo-controlled, Randomized Withdrawal and Open-label Extension Study Followed by Long-term Open-label Treatment Cycles to Assess the Efficacy, Safety and Tolerability of Remibrutinib (LOU064) in Adult Chronic Spontaneous Urticaria Patients Who Completed the Preceding Remibrutinib Phase 3 Studies",
+            "phase": [
+              "PHASE3"
+            ],
+            "status": "ACTIVE_NOT_RECRUITING",
+            "conditions": [
+              "Chronic Spontaneous Urticaria"
+            ],
+            "lead_sponsor": "Novartis Pharmaceuticals",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT05513001",
+            "local_json": "raw/clinicaltrials/json/NCT05513001.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT05513001.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        },
+        {
+          "trial_id": "NCT05677451",
+          "ctgov_record": {
+            "trial_id": "NCT05677451",
+            "brief_title": "24 Weeks Double-blind Randomized Placebo-controlled Trial to Evaluate Efficacy, PK, Safety of LOU064 in Adolescents (12 - <18) With CSU and Inadequate Response to H1-antihistamine Followed by Optional 3 Years Open-label Extension and an Optional 3 Years Safety Long-term Treatment-free Follow-up",
+            "official_title": "A Double-blind, Randomized, Placebo-controlled Trial to Evaluate the Efficacy, Pharmacokinetics and Safety of Remibrutinib (LOU064) for 24 Weeks in Adolescents From 12 to Less Than 18 Years of Age With Chronic Spontaneous Urticaria Inadequately Controlled by H1-antihistamines Followed by an Optional Open-label Extension for up to Another 3 Years and an Optional Safety Long-term Treatment-free Follow-up Period for up to an Additional 3 Years",
+            "phase": [
+              "PHASE3"
+            ],
+            "status": "RECRUITING",
+            "conditions": [
+              "Chronic Spontaneous Urticaria"
+            ],
+            "lead_sponsor": "Novartis Pharmaceuticals",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT05677451",
+            "local_json": "raw/clinicaltrials/json/NCT05677451.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT05677451.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        },
+        {
+          "trial_id": "NCT05795153",
+          "ctgov_record": {
+            "trial_id": "NCT05795153",
+            "brief_title": "A Multicenter, Open-label Phase 3 Study: Ambulatory Blood Pressure Monitoring in Adult Patients With Chronic Spontaneous Urticaria Inadequately Controlled by H1-antihistamines Treated With Remibrutinib up to 12 Weeks.",
+            "official_title": "A Multicenter, Open-label Phase 3 Study: Ambulatory Blood Pressure Monitoring in Adult Patients With Chronic Spontaneous Urticaria Inadequately Controlled by H1-antihistamines Treated With Remibrutinib up to 12 Weeks.",
+            "phase": [
+              "PHASE3"
+            ],
+            "status": "COMPLETED",
+            "conditions": [
+              "Chronic Spontaneous Urticaria"
+            ],
+            "lead_sponsor": "Novartis Pharmaceuticals",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT05795153",
+            "local_json": "raw/clinicaltrials/json/NCT05795153.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT05795153.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        },
+        {
+          "trial_id": "NCT05976243",
+          "ctgov_record": {
+            "trial_id": "NCT05976243",
+            "brief_title": "A Study to Investigate Efficacy, Safety, and Tolerability of Remibrutinib Compared With Placebo in Adults With CINDU Inadequately Controlled by H1-antihistamines",
+            "official_title": "A 52-week Multi-center, Randomized, Double-blind, Placebo Controlled, Basket Study With an Open-label Extension to Investigate the Efficacy, Safety, and Tolerability of Remibrutinib (LOU064) in Chronic Inducible Urticaria (CINDU) in Adults Inadequately Controlled by H1-antihistamines",
+            "phase": [
+              "PHASE3"
+            ],
+            "status": "ACTIVE_NOT_RECRUITING",
+            "conditions": [
+              "Chronic Inducible Urticaria"
+            ],
+            "lead_sponsor": "Novartis Pharmaceuticals",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT05976243",
+            "local_json": "raw/clinicaltrials/json/NCT05976243.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT05976243.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        },
+        {
+          "trial_id": "NCT06042478",
+          "ctgov_record": {
+            "trial_id": "NCT06042478",
+            "brief_title": "Phase 3b Study to Assess the Efficacy, Safety, and Tolerability of Remibrutinib in Comparison to Placebo, With Omalizumab as Active Control, in Adult CSU Patients, Followed by an Open-label 52-week Optional Extension.",
+            "official_title": "A Global, Multicenter, Randomized, Double-blind, Double-dummy, Parallel-group, Phase 3b Study to Assess the Efficacy, Safety, and Tolerability of Remibrutinib 25 mg b.i.d. in Comparison to Placebo With Omalizumab 300 mg Every 4 Weeks as Active Control Over 52 Weeks in Adult Patients With Chronic Spontaneous Urticaria Inadequately Controlled by Second Generation H1-antihistamines and an Open-label 52-week Optional Extension to Assess Long-term Efficacy, Safety and Tolerability of Remibrutinib 25 mg b.i.d.",
+            "phase": [
+              "PHASE3"
+            ],
+            "status": "ACTIVE_NOT_RECRUITING",
+            "conditions": [
+              "Chronic Spontaneous Urticaria"
+            ],
+            "lead_sponsor": "Novartis Pharmaceuticals",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT06042478",
+            "local_json": "raw/clinicaltrials/json/NCT06042478.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT06042478.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        },
+        {
+          "trial_id": "NCT06865651",
+          "ctgov_record": {
+            "trial_id": "NCT06865651",
+            "brief_title": "Study of Remibrutinib (LOU064) Efficacy and Safety and Exploration of Its Mechanism of Action in Participants With Chronic Urticaria",
+            "official_title": "A 12-week Randomized, Participant and Investigator-blinded, Placebo-controlled, Exploratory Study in Adult Participants With Chronic Urticaria to Assess the Efficacy and Safety and Explore the Mechanism of Action of Remibrutinib (LOU064)",
+            "phase": [
+              "PHASE2"
+            ],
+            "status": "RECRUITING",
+            "conditions": [
+              "Chronic Urticaria (CU): Chronic Inducible Urticaria (CINDU) and Chronic Spontaneous Urticaria (CSU)"
+            ],
+            "lead_sponsor": "Novartis Pharmaceuticals",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT06865651",
+            "local_json": "raw/clinicaltrials/json/NCT06865651.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT06865651.md"
+          },
+          "sponsor_artifacts": [
+            {
+              "label": "Novartis trial page NCT06865651",
+              "sponsor": "Novartis",
+              "kind": "html",
+              "status": "ok",
+              "url": "https://www.novartis.com/clinicaltrials/study/nct06865651",
+              "saved_files": [
+                "raw/sponsors/btk/remibrutinib/novartis-trial-page-nct06865651.html",
+                "raw/sponsors/btk/remibrutinib/novartis-trial-page-nct06865651.md"
+              ],
+              "explicit_trial_ids": [
+                "NCT06865651"
+              ]
+            }
+          ],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": true,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        },
+        {
+          "trial_id": "NCT06868212",
+          "ctgov_record": {
+            "trial_id": "NCT06868212",
+            "brief_title": "A Study to Evaluate Efficacy of Remibrutinib Compared to Dupilumab at Early Timepoints in Adults With Chronic Spontaneous Urticaria Inadequately Controlled by Second Generation H1-antihistamines",
+            "official_title": "A US Phase 3b, Multi-center, Randomized, Double-blind, Double-Dummy Study to Evaluate Efficacy of Remibrutinib Compared to Dupilumab at Early Timepoints in Adults With Chronic Spontaneous Urticaria Inadequately Controlled by Second Generation H1-Antihistamines",
+            "phase": [
+              "PHASE3"
+            ],
+            "status": "RECRUITING",
+            "conditions": [
+              "Chronic Spontaneous Urticaria (CSU)"
+            ],
+            "lead_sponsor": "Novartis Pharmaceuticals",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT06868212",
+            "local_json": "raw/clinicaltrials/json/NCT06868212.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT06868212.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        },
+        {
+          "trial_id": "NCT07358364",
+          "ctgov_record": {
+            "trial_id": "NCT07358364",
+            "brief_title": "Remibrutinib in Real-world Clinical Practice",
+            "official_title": "Remibrutinib in Real-world Clinical Practice: a Prospective, Multi-country, Non-interventional, Effectiveness and Safety Study",
+            "phase": [],
+            "status": "RECRUITING",
+            "conditions": [
+              "Chronic Spontaneous Urticaria"
+            ],
+            "lead_sponsor": "Novartis Pharmaceuticals",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT07358364",
+            "local_json": "raw/clinicaltrials/json/NCT07358364.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT07358364.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        },
+        {
+          "trial_id": "NCT07358780",
+          "ctgov_record": {
+            "trial_id": "NCT07358780",
+            "brief_title": "Remibrutinib in Real-world Clinical Practice - a US Sub-study",
+            "official_title": "Remibrutinib in Real-world Clinical Practice: a Prospective, Multi-country, Non-interventional, Effectiveness and Safety Study - a US Sub-study",
+            "phase": [],
+            "status": "RECRUITING",
+            "conditions": [
+              "Chronic Spontaneous Urticaria"
+            ],
+            "lead_sponsor": "Novartis Pharmaceuticals",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT07358780",
+            "local_json": "raw/clinicaltrials/json/NCT07358780.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT07358780.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        },
+        {
+          "trial_id": "NCT07408219",
+          "ctgov_record": {
+            "trial_id": "NCT07408219",
+            "brief_title": "A Real-world Study of Remibrutinib in Chronic Spontaneous Urticaria Patients",
+            "official_title": "RELIEF: Remibrutinib in Chronic Spontaneous Urticaria: Early Real World Effectiveness and Satisfaction Survey",
+            "phase": [],
+            "status": "RECRUITING",
+            "conditions": [
+              "Chronic Spontaneous Urticaria"
+            ],
+            "lead_sponsor": "Novartis Pharmaceuticals",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT07408219",
+            "local_json": "raw/clinicaltrials/json/NCT07408219.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT07408219.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": false,
+            "publication_supporting": false
+          }
+        }
+      ],
+      "source_layer_counts": {
+        "ctgov_trials": 16,
+        "sponsor_artifacts": 4,
+        "primary_publications": 4,
+        "supporting_publications": 2
+      }
+    },
+    {
+      "program_key": "rilzabrutinib",
+      "display_name": "Rilzabrutinib",
+      "priority_classes": [
+        "BTK"
+      ],
+      "ctgov_trials": [
+        {
+          "trial_id": "NCT05107115",
+          "brief_title": "Rilzabrutinib for the Treatment of Chronic Spontaneous Urticaria in Patients Who Remain Symptomatic Despite the Use of H1 Antihistamine",
+          "official_title": "A Randomized, Double-blind, Placebo-controlled, Multi-center, Dose-ranging Phase 2 Study of Rilzabrutinib Followed by an Open-label Extension Phase in Patients With Moderate-to-severe Chronic Spontaneous Urticaria (CSU) Who Remain Symptomatic Despite the Use of H1 Antihistamine Treatment",
+          "phase": [
+            "PHASE2"
+          ],
+          "status": "COMPLETED",
+          "conditions": [
+            "Chronic Spontaneous Urticaria"
+          ],
+          "lead_sponsor": "Sanofi",
+          "ctgov_url": "https://clinicaltrials.gov/study/NCT05107115",
+          "local_json": "raw/clinicaltrials/json/NCT05107115.json",
+          "local_markdown": "raw/clinicaltrials/markdown/NCT05107115.md"
+        }
+      ],
+      "sponsor_artifacts": [
+        {
+          "label": "Sanofi pipeline page",
+          "sponsor": "Sanofi",
+          "kind": "html",
+          "status": "ok",
+          "url": "https://www.sanofi.com/en/our-science/our-pipeline",
+          "saved_files": [
+            "raw/sponsors/btk/rilzabrutinib/sanofi-pipeline-page.html",
+            "raw/sponsors/btk/rilzabrutinib/sanofi-pipeline-page.md"
+          ],
+          "explicit_trial_ids": []
+        }
+      ],
+      "publication_status": "primary_manuscripts_found",
+      "publication_summary": "One clear primary CSU efficacy manuscript was identified, plus later non-primary drug-review coverage.",
+      "publication_search_term": "(rilzabrutinib OR PRN1008) AND urticaria",
+      "publication_search_manifest": "raw/publications/searches/btk__rilzabrutinib.json",
+      "primary_publications": [
+        {
+          "pmid": "40266575",
+          "title": "Rilzabrutinib in Antihistamine-Refractory Chronic Spontaneous Urticaria: The RILECSU Phase 2 Randomized Clinical Trial.",
+          "journal": "JAMA dermatology",
+          "pub_year": "2025",
+          "doi": "10.1001/jamadermatol.2025.0733",
+          "pmcid": "PMC12019677",
+          "pubmed_markdown": "raw/publications/pubmed/markdown/PMID40266575.md",
+          "pubmed_xml": "raw/publications/pubmed/xml/PMID40266575.xml",
+          "pmc_markdown": "raw/publications/pmc/markdown/PMC12019677.md",
+          "pmc_xml": "raw/publications/pmc/xml/PMC12019677.xml",
+          "linked_trial_ids": [
+            "NCT05107115"
+          ],
+          "role": "phase_2_core",
+          "evidence_note": "Abstract explicitly cites NCT05107115."
+        }
+      ],
+      "supporting_publications": [
+        {
+          "pmid": "41359083",
+          "title": "Rilzabrutinib: First Approval.",
+          "journal": "Drugs",
+          "pub_year": "2026",
+          "doi": "10.1007/s40265-025-02259-w",
+          "pmcid": null,
+          "pubmed_markdown": "raw/publications/pubmed/markdown/PMID41359083.md",
+          "pubmed_xml": "raw/publications/pubmed/xml/PMID41359083.xml",
+          "pmc_markdown": null,
+          "pmc_xml": null,
+          "linked_trial_ids": [],
+          "role": "approval_review",
+          "note": "First-approval review article, useful for context but not a primary urticaria trial manuscript."
+        }
+      ],
+      "excluded_or_nonprimary_publications": [],
+      "unclassified_query_pmids": [
+        "38141832",
+        "35175630",
+        "40074986",
+        "39598410",
+        "40326848",
+        "35166638",
+        "41587611",
+        "41937093"
+      ],
+      "trial_registry": [
+        {
+          "trial_id": "NCT05107115",
+          "ctgov_record": {
+            "trial_id": "NCT05107115",
+            "brief_title": "Rilzabrutinib for the Treatment of Chronic Spontaneous Urticaria in Patients Who Remain Symptomatic Despite the Use of H1 Antihistamine",
+            "official_title": "A Randomized, Double-blind, Placebo-controlled, Multi-center, Dose-ranging Phase 2 Study of Rilzabrutinib Followed by an Open-label Extension Phase in Patients With Moderate-to-severe Chronic Spontaneous Urticaria (CSU) Who Remain Symptomatic Despite the Use of H1 Antihistamine Treatment",
+            "phase": [
+              "PHASE2"
+            ],
+            "status": "COMPLETED",
+            "conditions": [
+              "Chronic Spontaneous Urticaria"
+            ],
+            "lead_sponsor": "Sanofi",
+            "ctgov_url": "https://clinicaltrials.gov/study/NCT05107115",
+            "local_json": "raw/clinicaltrials/json/NCT05107115.json",
+            "local_markdown": "raw/clinicaltrials/markdown/NCT05107115.md"
+          },
+          "sponsor_artifacts": [],
+          "primary_publications": [
+            {
+              "pmid": "40266575",
+              "title": "Rilzabrutinib in Antihistamine-Refractory Chronic Spontaneous Urticaria: The RILECSU Phase 2 Randomized Clinical Trial.",
+              "journal": "JAMA dermatology",
+              "pub_year": "2025",
+              "doi": "10.1001/jamadermatol.2025.0733",
+              "pmcid": "PMC12019677",
+              "pubmed_markdown": "raw/publications/pubmed/markdown/PMID40266575.md",
+              "pubmed_xml": "raw/publications/pubmed/xml/PMID40266575.xml",
+              "pmc_markdown": "raw/publications/pmc/markdown/PMC12019677.md",
+              "pmc_xml": "raw/publications/pmc/xml/PMC12019677.xml",
+              "linked_trial_ids": [
+                "NCT05107115"
+              ],
+              "role": "phase_2_core",
+              "evidence_note": "Abstract explicitly cites NCT05107115."
+            }
+          ],
+          "supporting_publications": [],
+          "evidence_layers": {
+            "ctgov": true,
+            "sponsor": false,
+            "publication_primary": true,
+            "publication_supporting": false
+          }
+        }
+      ],
+      "source_layer_counts": {
+        "ctgov_trials": 1,
+        "sponsor_artifacts": 1,
+        "primary_publications": 1,
+        "supporting_publications": 1
+      }
+    },
+    {
+      "program_key": "sep-631",
+      "display_name": "SEP-631",
+      "priority_classes": [
+        "MRGPRX2"
+      ],
+      "ctgov_trials": [],
+      "sponsor_artifacts": [
+        {
+          "label": "Pipeline page",
+          "sponsor": "Septerna",
+          "kind": "html",
+          "status": "ok",
+          "url": "https://septerna.com/pipeline/",
+          "saved_files": [
+            "raw/sponsors/mrgprx2/sep-631/pipeline-page.html",
+            "raw/sponsors/mrgprx2/sep-631/pipeline-page.md"
+          ],
+          "explicit_trial_ids": []
+        },
+        {
+          "label": "AAAAI 2026 poster PDF",
+          "sponsor": "Septerna",
+          "kind": "pdf",
+          "status": "ok",
+          "url": "https://www.septerna.com/wp-content/uploads/2026.03.01_SEP-631-AAAAI-2026-Poster_FINAL.pdf",
+          "saved_files": [
+            "raw/sponsors/mrgprx2/sep-631/aaaai-2026-poster-pdf.pdf",
+            "raw/sponsors/mrgprx2/sep-631/aaaai-2026-poster-pdf.txt",
+            "raw/sponsors/mrgprx2/sep-631/aaaai-2026-poster-pdf.md"
+          ],
+          "explicit_trial_ids": []
+        }
+      ],
+      "publication_status": "no_pubmed_hits",
+      "publication_summary": "No PubMed hits were returned for SEP-631 AND urticaria in this pass.",
+      "publication_search_term": "SEP-631 AND urticaria",
+      "publication_search_manifest": "raw/publications/searches/mrgprx2__sep-631.json",
+      "primary_publications": [],
+      "supporting_publications": [],
+      "excluded_or_nonprimary_publications": [],
+      "unclassified_query_pmids": [],
+      "trial_registry": [],
+      "source_layer_counts": {
+        "ctgov_trials": 0,
+        "sponsor_artifacts": 2,
+        "primary_publications": 0,
+        "supporting_publications": 0
+      }
+    }
+  ]
+}

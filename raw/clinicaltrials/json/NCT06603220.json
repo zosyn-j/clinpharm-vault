@@ -1,0 +1,427 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06603220",
+      "orgStudyIdInfo": {
+        "id": "EVO756-CIU001"
+      },
+      "organization": {
+        "fullName": "Evommune, Inc.",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study Evaluating the Safety, Tolerability, and Efficacy of EVO756 in Adults With Chronic Inducible Urticaria",
+      "officialTitle": "An Open Label Study Evaluating the Safety, Tolerability, and Efficacy of EVO756 in Adults With Chronic Inducible Urticaria"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-06",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2024-08-14",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2025-05-08",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2025-05-08",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2024-09-17",
+      "studyFirstSubmitQcDate": "2024-09-17",
+      "studyFirstPostDateStruct": {
+        "date": "2024-09-19",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-06-13",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-06-18",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Evommune, Inc.",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This phase 2a trial will evaluate the safety and efficacy of EVO756 in subjects with chronic inducible urticaria, including symptomatic dermographism and cold urticaria."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Chronic Inducible Urticaria"
+      ],
+      "keywords": [
+        "chronic inducible urticaria",
+        "inducible urticaria"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 30,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "EVO756",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Drug: Oral EVO756"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Oral EVO756",
+          "description": "Oral EVO756, once daily",
+          "armGroupLabels": [
+            "EVO756"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Safety and tolerability",
+          "description": "Safety will be assessed through an evaluation of treatment emergent adverse events, physical exams, vital signs, laboratory tests, and 12-lead ECGs.",
+          "timeFrame": "Day 1 to Week 6"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change in Total Fric Score (TFS)",
+          "description": "Changes in the number of prongs that elicit a wheal response using a FricTest for subjects with symptomatic dermographism.",
+          "timeFrame": "Day 1 to Week 4"
+        },
+        {
+          "measure": "Change in Critical Temperature Threshold (CTT)",
+          "description": "Changes in the highest temperature that elicits a wheal response using a TempTest for subjects with cold urticaria.",
+          "timeFrame": "Day 1 to Week 4"
+        },
+        {
+          "measure": "Change in pruritus severity at the provocation test site",
+          "description": "Changes in the severity of pruritus at the provocation test site using an 11-point numerical rating scale.",
+          "timeFrame": "Day 1 to Week 4"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Confirmed diagnosis of chronic inducible urticaria for at least 3 months.\n* Positive response following provocation using the TempTest or FricTest at Screening and Day 1.\n\nExclusion Criteria:\n\n* History of diseases other than chronic inducible urticaria or chronic spontaneous urticaria with urticaria or angioedema symptoms, such as urticarial vasculitis, erythema multiforme, cutaneous mastocytosis (urticaria pigmentosa), and hereditary or acquired angioedema.\n* Concurrent use of certain medications, including antihistamines.\n* Any clinically significant disease, or other skin disease or skin markings (e.g., extensive scarring, tattoos), that might confound the evaluation of safety or efficacy.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "65 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Cahaba Dermatology & Skin Health Center, LLC",
+          "city": "Birmingham",
+          "state": "Alabama",
+          "zip": "35244",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.52066,
+            "lon": -86.80249
+          }
+        },
+        {
+          "facility": "California Allergy and Asthma Medical Group",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90025",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.05223,
+            "lon": -118.24368
+          }
+        },
+        {
+          "facility": "Integrative Skin Science and Research",
+          "city": "Sacramento",
+          "state": "California",
+          "zip": "95815",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.58157,
+            "lon": -121.4944
+          }
+        },
+        {
+          "facility": "West Dermatology Research Center",
+          "city": "San Diego",
+          "state": "California",
+          "zip": "92121",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.71571,
+            "lon": -117.16472
+          }
+        },
+        {
+          "facility": "Advanced Clinical Research Institute",
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33607",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.94752,
+            "lon": -82.45843
+          }
+        },
+        {
+          "facility": "Aeroallergy Research Laboratories of Savannah, Inc.",
+          "city": "Savannah",
+          "state": "Georgia",
+          "zip": "31406",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.08354,
+            "lon": -81.09983
+          }
+        },
+        {
+          "facility": "Treasure Valley Medical Research",
+          "city": "Boise",
+          "state": "Idaho",
+          "zip": "83706",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.6135,
+            "lon": -116.20345
+          }
+        },
+        {
+          "facility": "Dawes Fretzin Clinical Research Group, LLC",
+          "city": "Indianapolis",
+          "state": "Indiana",
+          "zip": "46250",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.76838,
+            "lon": -86.15804
+          }
+        },
+        {
+          "facility": "Southern Indiana Clinical Trials",
+          "city": "New Albany",
+          "state": "Indiana",
+          "zip": "47150",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.28562,
+            "lon": -85.82413
+          }
+        },
+        {
+          "facility": "Indiana Clinical Trials Center, P.C.",
+          "city": "Plainfield",
+          "state": "Indiana",
+          "zip": "46168",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.70421,
+            "lon": -86.39944
+          }
+        },
+        {
+          "facility": "DelRicht Research",
+          "city": "Baton Rouge",
+          "state": "Louisiana",
+          "zip": "70809",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 30.44332,
+            "lon": -91.18747
+          }
+        },
+        {
+          "facility": "Chesapeake Clinical Research, Inc",
+          "city": "White Marsh",
+          "state": "Maryland",
+          "zip": "21162",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.38372,
+            "lon": -76.43218
+          }
+        },
+        {
+          "facility": "OptiSkin Medical",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10128",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        },
+        {
+          "facility": "Red River Research Partners",
+          "city": "Fargo",
+          "state": "North Dakota",
+          "zip": "58013",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 46.87719,
+            "lon": -96.7898
+          }
+        },
+        {
+          "facility": "Bexley Dermatology Research",
+          "city": "Bexley",
+          "state": "Ohio",
+          "zip": "43209",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.96895,
+            "lon": -82.93768
+          }
+        },
+        {
+          "facility": "Allergy, Asthma, and Clinical Research Center",
+          "city": "Oklahoma City",
+          "state": "Oklahoma",
+          "zip": "73120",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.46756,
+            "lon": -97.51643
+          }
+        },
+        {
+          "facility": "Allergy and Clinical Immunology Associates",
+          "city": "Pittsburgh",
+          "state": "Pennsylvania",
+          "zip": "15241",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.44062,
+            "lon": -79.99589
+          }
+        },
+        {
+          "facility": "Austin Institute for Clinical Research",
+          "city": "Pflugerville",
+          "state": "Texas",
+          "zip": "78660",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 30.43937,
+            "lon": -97.62
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-04-08",
+      "submissionTracking": {
+        "estimatedResultsFirstSubmitDate": "2026-03-30",
+        "submissionInfos": [
+          {
+            "releaseDate": "2026-03-30"
+          }
+        ]
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000094482",
+          "term": "Chronic Inducible Urticaria"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000080223",
+          "term": "Chronic Urticaria"
+        },
+        {
+          "id": "D014581",
+          "term": "Urticaria"
+        },
+        {
+          "id": "D017445",
+          "term": "Skin Diseases, Vascular"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D006969",
+          "term": "Hypersensitivity, Immediate"
+        },
+        {
+          "id": "D006967",
+          "term": "Hypersensitivity"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": false,
+  "_meta": {
+    "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT06603220",
+    "fetched_at": "2026-04-09T00:59:09.835590+00:00"
+  }
+}

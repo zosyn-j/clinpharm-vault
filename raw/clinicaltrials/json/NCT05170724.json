@@ -1,0 +1,184 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05170724",
+      "orgStudyIdInfo": {
+        "id": "CLOU064A2002M"
+      },
+      "organization": {
+        "fullName": "Novartis",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Global Managed Access Program Cohort for Remibrutinib in Adult Patients With Chronic Spontaneous Urticaria",
+      "officialTitle": "Managed Access Program (MAP) Cohort Treatment Plan CLOU064A2002M to Provide Access to Remibrutinib for Adult Patients With Chronic Spontaneous Urticaria (CSU)"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-12",
+      "overallStatus": "AVAILABLE",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "studyFirstSubmitDate": "2021-12-09",
+      "studyFirstSubmitQcDate": "2021-12-09",
+      "studyFirstPostDateStruct": {
+        "date": "2021-12-28",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-12-01",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-12-05",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Novartis Pharmaceuticals",
+        "class": "INDUSTRY"
+      }
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this Managed Access Program (MAP) Cohort Treatment Plan is to provide access to remibrutinib for adult patients with chronic spontaneous urticaria (CSU)"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Chronic Spontaneous Urticaria"
+      ],
+      "keywords": [
+        "Chronic Spontaneous Urticaria",
+        "CSU",
+        "MAP",
+        "Managed Access Program",
+        "Remibrutinib",
+        "Early Access",
+        "Expanded Access",
+        "LOU064",
+        "Urticaria",
+        "Skin Disease",
+        "Cohort MAP"
+      ]
+    },
+    "designModule": {
+      "studyType": "EXPANDED_ACCESS",
+      "nPtrsToThisExpAccNctId": 2,
+      "expandedAccessTypes": {
+        "intermediate": true
+      }
+    },
+    "armsInterventionsModule": {
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Remibrutinib",
+          "description": "Remibrutinib should be taken in accordance with the recommendations in the treatment plan."
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\nPatients eligible for inclusion in this Treatment Plan have to meet all of the following criteria:\n\n1. Adult male and female subjects (\u2265 18 years) who are able and willing to provide written informed consent prior to enrolling in the cohort.\n2. CSU diagnosis for \u2265 6 months (defined as onset of CSU with supporting documentation).\n3. Diagnosis of CSU refractory to H1-AH at locally label approved doses and to omalizumab (where applicable), as assessed by the treating physician, using one of the following tools: UAS7, UCT or DLQI\n4. Not eligible or able to enroll in a clinical trial or no relevant clinical trials available\n\nExclusion Criteria:\n\nPatients eligible for this Treatment Plan must not meet any of the following criteria:\n\n1. Previous premature discontinuation from a remibrutinib clinical trial for any reason\n2. History of hypersensitivity to remibrutinib or its excipients or to other BTK inhibitors\n3. Participants having a clearly defined predominant or sole trigger of their chronic urticaria (chronic inducible urticaria) including urticaria factitia (symptomatic dermographism), cold-, heat-, solar-, pressure-, delayed pressure-, aquagenic-, cholinergic-, or contact-urticaria\n4. Other diseases with symptoms of urticaria or angioedema, including but not limited to urticaria vasculitis, urticaria pigmentosa, erythema multiforme, mastocytosis, hereditary urticaria, or drug-induced urticaria\n5. Any other skin disease associated with chronic itching that might influence in the physician's opinion the treatment effect, e.g. atopic dermatitis, bullous pemphigoid, dermatitis herpetiformis, senile pruritus or psoriasis\n6. Use of prohibited concomitant treatment\n7. Known history or evidence of ongoing alcohol or drug abuse within the last 6 months before treatment start\n8. History of malignancy of any organ system (other than localized basal cell carcinoma of the skin or in situ cervical cancer), treated or untreated, within the past 5 years, regardless of whether there is evidence of local recurrence or metastases\n9. Pregnant or nursing (lactating) women\n10. Women of child-bearing potential (WoCBP), defined as all women physiologically capable of becoming pregnant, unless they are using highly effective methods of contraception during dosing and for 7 days after stopping of program treatment. Highly effective contraception methods include:\n\n    * Total abstinence (when this is in line with the preferred and usual lifestyle of the participant). Periodic abstinence (e.g. calendar, ovulation, symptothermal, post-ovulation methods) and withdrawal are not acceptable methods of contraception\n    * Female sterilization (have had surgical bilateral oophorectomy with or without hysterectomy) total hysterectomy or bilateral tubal ligation at least six weeks before taking investigational drug. In case of oophorectomy alone, only when the reproductive status of the woman has been confirmed by follow up hormone level assessment\n    * Male sterilization (at least 6 months prior to screening). For female participants in the program, the vasectomized male partner should be the sole partner for that participant\n    * Use of oral, (estrogen and progesterone), injected or implanted hormonal methods of contraception or other forms of hormonal contraception that have comparable efficacy (failure rate \\<1%), for example hormone vaginal ring or transdermal hormone contraception or placement of an intrauterine device (IUD) or intrauterine system (IUS) In case of use of oral contraception women should have been stable on the same pill for a minimum of 3 months before taking investigational drug.\n\n    Women are considered post-menopausal if they have had 12 months of natural (spontaneous) amenorrhea with an appropriate clinical profile (e.g. age appropriate, history of vasomotor symptoms). Women are considered not of child-bearing potential if they are post-menopausal or have had surgical bilateral oophorectomy (with or without hysterectomy), total hysterectomy or bilateral tubal ligation at least six weeks ago. In the case of oophorectomy alone, only when the reproductive status of the woman has been confirmed by follow-up hormone level assessment is she considered not of child-bearing potential.\n11. History of live attenuated vaccine within 6 weeks prior to treatment start or requirement to receive these vaccinations at any time during treatment with remibrutinib\n12. Evidence of clinically significant cardiovascular (such as but not limited to myocardial infarction, unstable ischemic heart disease, NYHA Class III/IV left ventricular failure, arrhythmia and uncontrolled hypertension within 12 months prior to Visit 1), neurological, psychiatric, pulmonary, renal, hepatic, endocrine, metabolic, hematological disorders, gastrointestinal disease or immunodeficiency that, in the physician's opinion, would compromise the safety of the participant, or otherwise preclude adherence to the treatment plan\n13. Uncontrolled disease states, such as asthma, or inflammatory bowel disease, where flares are commonly treated with oral or parenteral corticosteroids\n14. Hematology parameters before treatment start:\n\n    * Hemoglobin: \\< 10 g/dl\n    * Platelets: \\< 100 000/mm3\n    * Leucocytes: \\< 3 000/mm3\n    * Neutrophils: \\< 1 500/mm3\n15. Significant bleeding risk or coagulation disorders\n16. History of gastrointestinal bleeding, e.g. in association with use of nonsteroidal anti-inflammatory drugs (NSAID), that was clinically relevant (e.g. requiring hospitalization or blood transfusion)\n17. Requirement for anti-platelet medication, except for acetylsalicylic acid up to 100 mg/d or clopidogrel. The use of dual anti-platelet therapy (e.g. acetylsalicylic acid + clopidogrel) is prohibited.\n18. Requirement for anticoagulant medication (for example, warfarin or Novel Oral Anti-Coagulants (NOAC))\n19. History or current hepatic disease including but not limited to acute or chronic hepatitis, cirrhosis or hepatic failure or Aspartate Aminotransferase (AST)/ Alanine Aminotransferase (ALT) levels of more than 1.5 x upper limit of normal (ULN) or International Normalized Ratio (INR) of more than 1.5 before treatment start\n20. History of renal disease, creatinine level above 1.5x ULN, or estimated Glomerular Filtration Rate (eGFR) \\<45ml/min (using the Cockcroft-Gault equation) before treatment start\n21. Evidence of an ongoing Hepatitis C infection (e.g. defined by the detection of hepatitis C-ribonucleic acid (HCV-RNA) at screening) and/or an ongoing Hepatitis B infection (defined by the detection of Hepatitis B virus surface antigen (HBsAg) and/or hepatitis B virus (HBV)-DNA at screening; participants who are positive for anti-hepatits B core (HBc) antibodies but who are negative for antibodies against HBsAg and HBV-DNA can be included into the program if they agree to monitoring for HBsAg and HBV-DNA re-activation)\n22. Known or suspected ongoing, chronic or recurrent infectious disease including but not limited to opportunistic infections (e.g. tuberculosis, atypical mycobacterioses, listeriosis or aspergillosis) and/or known positivity for Human Immunodeficiency Virus (HIV) infection. HIV antigen/antibody tests will be performed to determine HIV status if required according to local regulations.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "99 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "MAP requests are initiated by a licensed physician.https:// www.novart is.com/healthcare-professionals/managed-access-programs",
+          "role": "CONTACT",
+          "phone": "1-888-669-6682",
+          "email": "novartis.email@novartis.com"
+        },
+        {
+          "name": "Novartis Pharmaceuticals",
+          "role": "CONTACT"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Novartis Pharmaceuticals",
+          "affiliation": "Novartis Pharmaceuticals",
+          "role": "STUDY_DIRECTOR"
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-04-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000080223",
+          "term": "Chronic Urticaria"
+        },
+        {
+          "id": "D014581",
+          "term": "Urticaria"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D017445",
+          "term": "Skin Diseases, Vascular"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D006969",
+          "term": "Hypersensitivity, Immediate"
+        },
+        {
+          "id": "D006967",
+          "term": "Hypersensitivity"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D002908",
+          "term": "Chronic Disease"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C000722911",
+          "term": "remibrutinib"
+        }
+      ]
+    }
+  },
+  "hasResults": false,
+  "_meta": {
+    "source_url": "https://clinicaltrials.gov/api/v2/studies/NCT05170724",
+    "fetched_at": "2026-04-09T00:59:09.835590+00:00"
+  }
+}
