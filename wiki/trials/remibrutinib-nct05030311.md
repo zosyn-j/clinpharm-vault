@@ -1,14 +1,15 @@
 ---
-title: "A Phase 3 Study of Efficacy and Safety of Remibrutinib in the Treatment of CSU in Adults Inadequately Controlled by H1 Antihistamines"
+title: "REMIX-1 remibrutinib pivotal Phase 3 CSU study (NCT05030311)"
 trial_id: NCT05030311
 program_key: remibrutinib
 status: COMPLETED
+study_family: "Pivotal CSU program"
 tags:
   - type/trial
   - program/remibrutinib
   - phase/phase3
 ---
-# A Phase 3 Study of Efficacy and Safety of Remibrutinib in the Treatment of CSU in Adults Inadequately Controlled by H1 Antihistamines
+# REMIX-1 remibrutinib pivotal Phase 3 CSU study (NCT05030311)
 
 ## Study Snapshot
 - Program: Remibrutinib
@@ -17,6 +18,7 @@ tags:
 - Indication: Chronic Spontaneous Urticaria
 - Status: Completed
 - Sponsor: Novartis Pharmaceuticals
+- Study family: Pivotal CSU program
 
 ## Design
 - Study type: INTERVENTIONAL
@@ -38,6 +40,11 @@ tags:
 |---|---|---|---:|---|
 | LOU064 25mg b.i.d. | EXPERIMENTAL | Patients initially randomized to Remibrutinib during the Double-blind treatment period and continued Remibrutinib during the Open-label treatment period (Up to Week 52) | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
 | Placebo | PLACEBO_COMPARATOR | Patients initially randomized to Placebo (Up to Week 24) | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+
+## Key source-backed points
+- PMID 40043237 explicitly identifies this as REMIX-1 and reports 470 randomized patients, with 313 assigned to remibrutinib and 157 to placebo.
+- The week-12 UAS7 least-squares mean change was -20.0 with remibrutinib versus -13.8 with placebo.
+- PMID 41115533 reports sustained week-52 UAS7 improvement for patients originally randomized to remibrutinib and rapid improvement after placebo-to-remibrutinib transition at week 24.
 
 ## Endpoints
 - Primary outcomes:

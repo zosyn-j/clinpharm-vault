@@ -1,13 +1,14 @@
 ---
-title: "Global Managed Access Program Cohort for Remibrutinib in Adult Patients With Chronic Spontaneous Urticaria"
+title: "Remibrutinib managed access program for CSU (NCT05170724)"
 trial_id: NCT05170724
 program_key: remibrutinib
 status: AVAILABLE
+study_family: "Access / post-development pathway"
 tags:
   - type/trial
   - program/remibrutinib
 ---
-# Global Managed Access Program Cohort for Remibrutinib in Adult Patients With Chronic Spontaneous Urticaria
+# Remibrutinib managed access program for CSU (NCT05170724)
 
 ## Study Snapshot
 - Program: Remibrutinib
@@ -16,6 +17,7 @@ tags:
 - Indication: Chronic Spontaneous Urticaria
 - Status: Available
 - Sponsor: Novartis Pharmaceuticals
+- Study family: Access / post-development pathway
 
 ## Design
 - Study type: EXPANDED_ACCESS
@@ -36,6 +38,10 @@ tags:
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
 | NR | NR | No arm-group details parsed into current inventory | NR | NR |
+
+## Key source-backed points
+- CT.gov identifies this as a managed access program cohort treatment plan for adult CSU patients.
+- This record should be interpreted separately from the registrational efficacy studies.
 
 ## Endpoints
 - Primary outcomes: NR

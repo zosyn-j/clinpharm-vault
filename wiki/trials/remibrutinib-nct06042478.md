@@ -1,14 +1,15 @@
 ---
-title: "Phase 3b Study to Assess the Efficacy, Safety, and Tolerability of Remibrutinib in Comparison to Placebo, With Omalizumab as Active Control, in Adult CSU Patients, Followed by an Open-label 52-week Optional Extension."
+title: "Remibrutinib Phase 3b omalizumab-controlled CSU study (NCT06042478)"
 trial_id: NCT06042478
 program_key: remibrutinib
 status: ACTIVE_NOT_RECRUITING
+study_family: "Comparator / positioning program"
 tags:
   - type/trial
   - program/remibrutinib
   - phase/phase3
 ---
-# Phase 3b Study to Assess the Efficacy, Safety, and Tolerability of Remibrutinib in Comparison to Placebo, With Omalizumab as Active Control, in Adult CSU Patients, Followed by an Open-label 52-week Optional Extension.
+# Remibrutinib Phase 3b omalizumab-controlled CSU study (NCT06042478)
 
 ## Study Snapshot
 - Program: Remibrutinib
@@ -17,6 +18,7 @@ tags:
 - Indication: Chronic Spontaneous Urticaria
 - Status: Active Not Recruiting
 - Sponsor: Novartis Pharmaceuticals
+- Study family: Comparator / positioning program
 
 ## Design
 - Study type: INTERVENTIONAL
@@ -42,6 +44,10 @@ The purpose of the open-label extension phase is to assess efficacy, safety and 
 | Placebo to remibrutinib | PLACEBO_COMPARATOR | Participants will receive placebo for remibrutinib 25 mg b.i.d. and placebo for omalizumab q4w for 24 weeks. From Week 24 to Week 52 participants will receive remibrutinib 25 mg b.i.d. and placebo for omalizumab q4w. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
 | Placebo to omalizumab | PLACEBO_COMPARATOR | Participants will receive placebo for remibrutinib 25 mg b.i.d. and placebo for omalizumab q4w for 24 weeks. From Week 24 to Week 52 participants will receive omalizumab 300 mg q4w and placebo for remibrutinib b.i.d. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
 | Omalizumab | ACTIVE_COMPARATOR | participants will receive omalizumab 300 mg q4w and placebo for remibrutinib b.i.d. for 52 weeks. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+
+## Key source-backed points
+- CT.gov lists a four-arm double-dummy design including remibrutinib, omalizumab, and two placebo-to-active transition arms.
+- The primary endpoint is absolute change from baseline in UAS7 at week 12.
 
 ## Endpoints
 - Primary outcomes:

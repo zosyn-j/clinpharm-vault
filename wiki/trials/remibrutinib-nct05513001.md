@@ -1,14 +1,15 @@
 ---
-title: "An Extension Study of Long-term Efficacy, Safety and Tolerability of Remibrutinib in Chronic Spontaneous Urticaria Patients Who Completed Preceding Studies With Remibrutinib"
+title: "Remibrutinib long-term extension and randomized-withdrawal CSU study (NCT05513001)"
 trial_id: NCT05513001
 program_key: remibrutinib
 status: ACTIVE_NOT_RECRUITING
+study_family: "Lifecycle CSU extension program"
 tags:
   - type/trial
   - program/remibrutinib
   - phase/phase3
 ---
-# An Extension Study of Long-term Efficacy, Safety and Tolerability of Remibrutinib in Chronic Spontaneous Urticaria Patients Who Completed Preceding Studies With Remibrutinib
+# Remibrutinib long-term extension and randomized-withdrawal CSU study (NCT05513001)
 
 ## Study Snapshot
 - Program: Remibrutinib
@@ -17,6 +18,7 @@ tags:
 - Indication: Chronic Spontaneous Urticaria
 - Status: Active Not Recruiting
 - Sponsor: Novartis Pharmaceuticals
+- Study family: Lifecycle CSU extension program
 
 ## Design
 - Study type: INTERVENTIONAL
@@ -41,6 +43,10 @@ This study will also fulfill the Novartis commitment to provide post-trial acces
 | Arm 1: LOU064 (blinded) | EXPERIMENTAL | LOU064 (blinded) taken orally for 24 weeks, followed by cycles of either LOU064 (open-label) taken orally for a maximum of 5 cycles of 24 weeks each OR treatment-free observation cycles. Randomized in a 1:1 ratio (arm 1:arm 2) | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
 | Arm 2: LOU064 Placebo (blinded) | PLACEBO_COMPARATOR | LOU064 placebo (blinded) taken orally for 24 weeks, followed by cycles of either LOU064 (open-label) taken orally for a maximum of 5 cycles of 24 weeks each OR treatment-free observation cycles. Randomized in a 1:1 ratio (arm 1:arm 2) | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
 | Arm 3: LOU064 (Open Label) | EXPERIMENTAL | LOU064 (open-label) taken orally for 24 weeks per treatment cycle (Arm 3) | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+
+## Key source-backed points
+- CT.gov lists 696 actual participants and describes a randomized-withdrawal epoch followed by repeated open-label treatment cycles.
+- The primary endpoint is time to first composite relapse/discontinuation/confounding-medication event over 24 weeks.
 
 ## Endpoints
 - Primary outcomes:

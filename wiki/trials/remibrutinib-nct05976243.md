@@ -1,14 +1,15 @@
 ---
-title: "A Study to Investigate Efficacy, Safety, and Tolerability of Remibrutinib Compared With Placebo in Adults With CINDU Inadequately Controlled by H1-antihistamines"
+title: "Remibrutinib Phase 3 CIndU basket study (NCT05976243)"
 trial_id: NCT05976243
 program_key: remibrutinib
 status: ACTIVE_NOT_RECRUITING
+study_family: "CIndU expansion program"
 tags:
   - type/trial
   - program/remibrutinib
   - phase/phase3
 ---
-# A Study to Investigate Efficacy, Safety, and Tolerability of Remibrutinib Compared With Placebo in Adults With CINDU Inadequately Controlled by H1-antihistamines
+# Remibrutinib Phase 3 CIndU basket study (NCT05976243)
 
 ## Study Snapshot
 - Program: Remibrutinib
@@ -17,6 +18,7 @@ tags:
 - Indication: Chronic Inducible Urticaria
 - Status: Active Not Recruiting
 - Sponsor: Novartis Pharmaceuticals
+- Study family: CIndU expansion program
 
 ## Design
 - Study type: INTERVENTIONAL
@@ -46,6 +48,11 @@ The purpose of the OLE period is to collect long-term efficacy, safety, and tole
 | Placebo, cold urticaria group | PLACEBO_COMPARATOR | Placebo oral twice daily, cold urticaria | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
 | Remibrutinib, cholinergic urticaria group | EXPERIMENTAL | Remibrutinib oral twice daily, cholinergic urticaria | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
 | Placebo, cholinergic urticaria | PLACEBO_COMPARATOR | Placebo oral twice daily, cholinergic urticaria | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+
+## Key source-backed points
+- CT.gov lists 362 actual participants in a 52-week randomized double-blind placebo-controlled basket study with open-label extension.
+- Primary endpoints are subtype-specific complete-response measures at week 12 for symptomatic dermographism, cold urticaria, and cholinergic urticaria.
+- This is the main late-stage CIndU branch currently visible in the remibrutinib raw-source layer.
 
 ## Endpoints
 - Primary outcomes:

@@ -1,14 +1,15 @@
 ---
-title: "A Phase 3 Study of Efficacy and Safety of Remibrutinib in the Treatment of CSU in Adults Inadequately Controlled by H1-antihistamines"
+title: "REMIX-2 remibrutinib pivotal Phase 3 CSU study (NCT05032157)"
 trial_id: NCT05032157
 program_key: remibrutinib
 status: COMPLETED
+study_family: "Pivotal CSU program"
 tags:
   - type/trial
   - program/remibrutinib
   - phase/phase3
 ---
-# A Phase 3 Study of Efficacy and Safety of Remibrutinib in the Treatment of CSU in Adults Inadequately Controlled by H1-antihistamines
+# REMIX-2 remibrutinib pivotal Phase 3 CSU study (NCT05032157)
 
 ## Study Snapshot
 - Program: Remibrutinib
@@ -17,6 +18,7 @@ tags:
 - Indication: Chronic Spontaneous Urticaria
 - Status: Completed
 - Sponsor: Novartis Pharmaceuticals
+- Study family: Pivotal CSU program
 
 ## Design
 - Study type: INTERVENTIONAL
@@ -38,6 +40,11 @@ tags:
 |---|---|---|---:|---|
 | LOU064 25mg b.i.d. | EXPERIMENTAL | LOU064A (blinded) taken orally b.i.d. for 24 weeks, followed by LOU064 (open- label) taken orally b.i.d. for 28 weeks. Randomised in 2:1 ratio (active vs placebo) | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
 | Placebo | PLACEBO_COMPARATOR | LOU064A placebo (blinded) taken orally for 24 weeks, followed by LOU064 (open-label) taken orally b.i.d. for 28 weeks. Randomised in 2:1 ratio (active vs placebo) | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+
+## Key source-backed points
+- PMID 40043237 explicitly identifies this as REMIX-2 and reports 455 randomized patients, with 300 assigned to remibrutinib and 155 to placebo.
+- The week-12 UAS7 least-squares mean change was -19.4 with remibrutinib versus -11.7 with placebo.
+- PMID 41115533 reports sustained week-52 benefit and consistent long-term safety across the REMIX phase 3 program.
 
 ## Endpoints
 - Primary outcomes:

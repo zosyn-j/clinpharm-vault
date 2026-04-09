@@ -1,13 +1,14 @@
 ---
-title: "Remibrutinib in Real-world Clinical Practice"
+title: "Remibrutinib real-world multi-country effectiveness study (NCT07358364)"
 trial_id: NCT07358364
 program_key: remibrutinib
 status: RECRUITING
+study_family: "Real-world evidence program"
 tags:
   - type/trial
   - program/remibrutinib
 ---
-# Remibrutinib in Real-world Clinical Practice
+# Remibrutinib real-world multi-country effectiveness study (NCT07358364)
 
 ## Study Snapshot
 - Program: Remibrutinib
@@ -16,6 +17,7 @@ tags:
 - Indication: Chronic Spontaneous Urticaria
 - Status: Recruiting
 - Sponsor: Novartis Pharmaceuticals
+- Study family: Real-world evidence program
 
 ## Design
 - Study type: OBSERVATIONAL
@@ -38,6 +40,10 @@ tags:
 | Cohort 1 | NR | Inadequate control of CSU despite licensed dose of sgH1-AH (no other pre-treatments permitted) and decision to escalate sgH1-AH treatment | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
 | Cohort 2 | NR | Inadequate control of CSU despite licensed dose or escalated sgH1-AH(s) (no other pre-treatment with exception of first generation H1-AH permitted) with decision to switch to remibrutinib treatment as per local label | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
 | Cohort 3 | NR | Any other treatment received in addition to H1-AH, any time during patients' CSU treatment history, with decision to switch to remibrutinib treatment as per local label | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+
+## Key source-backed points
+- CT.gov lists an estimated enrollment of 3280 and three real-world cohorts defined by prior treatment pathway before remibrutinib use.
+- Primary outcomes include UCT7 and UAS7 at 12 weeks after initiating remibrutinib.
 
 ## Endpoints
 - Primary outcomes:

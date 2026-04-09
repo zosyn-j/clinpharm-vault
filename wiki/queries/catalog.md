@@ -53,22 +53,22 @@ tags:
 - [NCT03693625](../trials/fenebrutinib-nct03693625.md) - A Study to Evaluate the Long-term Safety and Efficacy of Fenebrutinib in Participants Previously Enrolled in a Fenebrutinib Chronic Spontaneous Urticaria (CSU) Study
 
 ### Remibrutinib
-- [NCT03926611](../trials/remibrutinib-nct03926611-phase-2b.md) - This Was a Dose-finding Study to Evaluate Efficacy and Safety of LOU064 in Patients With CSU Inadequately Controlled by H1-antihistamines
-- [NCT04109313](../trials/remibrutinib-nct04109313.md) - An Open-label Extension Study to Evaluate the Long-term Safety and Tolerability of LOU064 in Subjects With CSU
-- [NCT05030311](../trials/remibrutinib-nct05030311.md) - A Phase 3 Study of Efficacy and Safety of Remibrutinib in the Treatment of CSU in Adults Inadequately Controlled by H1 Antihistamines
-- [NCT05032157](../trials/remibrutinib-nct05032157.md) - A Phase 3 Study of Efficacy and Safety of Remibrutinib in the Treatment of CSU in Adults Inadequately Controlled by H1-antihistamines
-- [NCT05048342](../trials/remibrutinib-nct05048342.md) - A Safety and Efficacy Study of Remibrutinib in the Treatment of CSU in Japanese Adults Inadequately Controlled by H1-antihistamines
-- [NCT05170724](../trials/remibrutinib-nct05170724.md) - Global Managed Access Program Cohort for Remibrutinib in Adult Patients With Chronic Spontaneous Urticaria
-- [NCT05513001](../trials/remibrutinib-nct05513001.md) - An Extension Study of Long-term Efficacy, Safety and Tolerability of Remibrutinib in Chronic Spontaneous Urticaria Patients Who Completed Preceding Studies With Remibrutinib
-- [NCT05677451](../trials/remibrutinib-nct05677451.md) - 24 Weeks Double-blind Randomized Placebo-controlled Trial to Evaluate Efficacy, PK, Safety of LOU064 in Adolescents (12 - <18) With CSU and Inadequate Response to H1-antihistamine Followed by Optional 3 Years Open-label Extension and an Optional 3 Years Safety Long-term Treatment-free Follow-up
-- [NCT05795153](../trials/remibrutinib-nct05795153.md) - A Multicenter, Open-label Phase 3 Study: Ambulatory Blood Pressure Monitoring in Adult Patients With Chronic Spontaneous Urticaria Inadequately Controlled by H1-antihistamines Treated With Remibrutinib up to 12 Weeks.
-- [NCT05976243](../trials/remibrutinib-nct05976243.md) - A Study to Investigate Efficacy, Safety, and Tolerability of Remibrutinib Compared With Placebo in Adults With CINDU Inadequately Controlled by H1-antihistamines
-- [NCT06042478](../trials/remibrutinib-nct06042478.md) - Phase 3b Study to Assess the Efficacy, Safety, and Tolerability of Remibrutinib in Comparison to Placebo, With Omalizumab as Active Control, in Adult CSU Patients, Followed by an Open-label 52-week Optional Extension.
-- [NCT06865651](../trials/remibrutinib-nct06865651.md) - Study of Remibrutinib (LOU064) Efficacy and Safety and Exploration of Its Mechanism of Action in Participants With Chronic Urticaria
-- [NCT06868212](../trials/remibrutinib-nct06868212.md) - A Study to Evaluate Efficacy of Remibrutinib Compared to Dupilumab at Early Timepoints in Adults With Chronic Spontaneous Urticaria Inadequately Controlled by Second Generation H1-antihistamines
-- [NCT07358364](../trials/remibrutinib-nct07358364.md) - Remibrutinib in Real-world Clinical Practice
-- [NCT07358780](../trials/remibrutinib-nct07358780.md) - Remibrutinib in Real-world Clinical Practice - a US Sub-study
-- [NCT07408219](../trials/remibrutinib-nct07408219.md) - A Real-world Study of Remibrutinib in Chronic Spontaneous Urticaria Patients
+- [NCT03926611](../trials/remibrutinib-nct03926611-phase-2b.md) - Remibrutinib Phase 2b dose-finding CSU study (NCT03926611)
+- [NCT04109313](../trials/remibrutinib-nct04109313.md) - Remibrutinib CSU phase 2 open-label extension (NCT04109313)
+- [NCT05030311](../trials/remibrutinib-nct05030311.md) - REMIX-1 remibrutinib pivotal Phase 3 CSU study (NCT05030311)
+- [NCT05032157](../trials/remibrutinib-nct05032157.md) - REMIX-2 remibrutinib pivotal Phase 3 CSU study (NCT05032157)
+- [NCT05048342](../trials/remibrutinib-nct05048342.md) - Remibrutinib Japanese open-label Phase 3 CSU study (NCT05048342)
+- [NCT05170724](../trials/remibrutinib-nct05170724.md) - Remibrutinib managed access program for CSU (NCT05170724)
+- [NCT05513001](../trials/remibrutinib-nct05513001.md) - Remibrutinib long-term extension and randomized-withdrawal CSU study (NCT05513001)
+- [NCT05677451](../trials/remibrutinib-nct05677451.md) - Remibrutinib adolescent Phase 3 CSU study (NCT05677451)
+- [NCT05795153](../trials/remibrutinib-nct05795153.md) - Remibrutinib ambulatory blood pressure monitoring Phase 3 study (NCT05795153)
+- [NCT05976243](../trials/remibrutinib-nct05976243.md) - Remibrutinib Phase 3 CIndU basket study (NCT05976243)
+- [NCT06042478](../trials/remibrutinib-nct06042478.md) - Remibrutinib Phase 3b omalizumab-controlled CSU study (NCT06042478)
+- [NCT06865651](../trials/remibrutinib-nct06865651.md) - Remibrutinib exploratory mixed chronic urticaria study (NCT06865651)
+- [NCT06868212](../trials/remibrutinib-nct06868212.md) - Remibrutinib versus dupilumab Phase 3b CSU study (NCT06868212)
+- [NCT07358364](../trials/remibrutinib-nct07358364.md) - Remibrutinib real-world multi-country effectiveness study (NCT07358364)
+- [NCT07358780](../trials/remibrutinib-nct07358780.md) - Remibrutinib US real-world sub-study (NCT07358780)
+- [NCT07408219](../trials/remibrutinib-nct07408219.md) - RELIEF remibrutinib early real-world effectiveness survey (NCT07408219)
 
 ### Rilzabrutinib
 - [NCT05107115](../trials/rilzabrutinib-nct05107115.md) - Rilzabrutinib for the Treatment of Chronic Spontaneous Urticaria in Patients Who Remain Symptomatic Despite the Use of H1 Antihistamine

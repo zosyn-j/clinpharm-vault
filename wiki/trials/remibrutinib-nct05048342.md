@@ -1,14 +1,15 @@
 ---
-title: "A Safety and Efficacy Study of Remibrutinib in the Treatment of CSU in Japanese Adults Inadequately Controlled by H1-antihistamines"
+title: "Remibrutinib Japanese open-label Phase 3 CSU study (NCT05048342)"
 trial_id: NCT05048342
 program_key: remibrutinib
 status: COMPLETED
+study_family: "Regional CSU expansion"
 tags:
   - type/trial
   - program/remibrutinib
   - phase/phase3
 ---
-# A Safety and Efficacy Study of Remibrutinib in the Treatment of CSU in Japanese Adults Inadequately Controlled by H1-antihistamines
+# Remibrutinib Japanese open-label Phase 3 CSU study (NCT05048342)
 
 ## Study Snapshot
 - Program: Remibrutinib
@@ -17,6 +18,7 @@ tags:
 - Indication: Chronic Spontaneous Urticaria
 - Status: Completed
 - Sponsor: Novartis Pharmaceuticals
+- Study family: Regional CSU expansion
 
 ## Design
 - Study type: INTERVENTIONAL
@@ -37,6 +39,10 @@ tags:
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
 | LOU064 25 mg b.i.d. | EXPERIMENTAL | Patients were treated with remibrutinib 25 mg bis in die/twice a day (b.i.d.). LOU064 open-label treatment taken orally for 52 weeks. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+
+## Key source-backed points
+- CT.gov lists 71 actual participants in this adult Japanese CSU study.
+- The trial is open-label and evaluates remibrutinib 25 mg twice daily over 52 weeks.
 
 ## Endpoints
 - Primary outcomes:

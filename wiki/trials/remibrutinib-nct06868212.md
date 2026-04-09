@@ -1,14 +1,15 @@
 ---
-title: "A Study to Evaluate Efficacy of Remibrutinib Compared to Dupilumab at Early Timepoints in Adults With Chronic Spontaneous Urticaria Inadequately Controlled by Second Generation H1-antihistamines"
+title: "Remibrutinib versus dupilumab Phase 3b CSU study (NCT06868212)"
 trial_id: NCT06868212
 program_key: remibrutinib
 status: RECRUITING
+study_family: "Comparator / positioning program"
 tags:
   - type/trial
   - program/remibrutinib
   - phase/phase3
 ---
-# A Study to Evaluate Efficacy of Remibrutinib Compared to Dupilumab at Early Timepoints in Adults With Chronic Spontaneous Urticaria Inadequately Controlled by Second Generation H1-antihistamines
+# Remibrutinib versus dupilumab Phase 3b CSU study (NCT06868212)
 
 ## Study Snapshot
 - Program: Remibrutinib
@@ -17,6 +18,7 @@ tags:
 - Indication: Chronic Spontaneous Urticaria (CSU)
 - Status: Recruiting
 - Sponsor: Novartis Pharmaceuticals
+- Study family: Comparator / positioning program
 
 ## Design
 - Study type: INTERVENTIONAL
@@ -38,6 +40,10 @@ tags:
 |---|---|---|---:|---|
 | Treatment group 1: Remibrutinib + Placebo | EXPERIMENTAL | Remibrutinib tablet (25 mg b.i.d. p.o.) + placebo solution for injection in pre-filled syringe (2 s.c. injections at baseline and then 1 s.c. injection every other week \[Weeks 2-10\]) | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
 | Treatment group 2: Dupilumab + remibrutinib matching placebo | ACTIVE_COMPARATOR | Dupilumab pre-filled syringe (600 mg loading dose \[2 x 300 mg dupilumab s.c. injection\] at baseline visit followed by dupilumab 300 mg s.c. injection every other week \[Weeks 2-10\]) + remibrutinib matching placebo tablet (1 tablet b.i.d. p.o.) | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+
+## Key source-backed points
+- CT.gov describes a double-blind double-dummy study comparing remibrutinib against dupilumab in inadequately controlled adult CSU.
+- The primary endpoint is absolute change from baseline in UAS7 at week 4, emphasizing early efficacy differentiation.
 
 ## Endpoints
 - Primary outcomes:

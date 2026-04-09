@@ -1,14 +1,15 @@
 ---
-title: "This Was a Dose-finding Study to Evaluate Efficacy and Safety of LOU064 in Patients With CSU Inadequately Controlled by H1-antihistamines"
+title: "Remibrutinib Phase 2b dose-finding CSU study (NCT03926611)"
 trial_id: NCT03926611
 program_key: remibrutinib
 status: COMPLETED
+study_family: "Foundational CSU efficacy program"
 tags:
   - type/trial
   - program/remibrutinib
   - phase/phase2
 ---
-# This Was a Dose-finding Study to Evaluate Efficacy and Safety of LOU064 in Patients With CSU Inadequately Controlled by H1-antihistamines
+# Remibrutinib Phase 2b dose-finding CSU study (NCT03926611)
 
 ## Study Snapshot
 - Program: Remibrutinib
@@ -17,6 +18,7 @@ tags:
 - Indication: Chronic Spontaneous Urticaria
 - Status: Completed
 - Sponsor: Novartis Pharmaceuticals
+- Study family: Foundational CSU efficacy program
 
 ## Design
 - Study type: INTERVENTIONAL
@@ -43,6 +45,11 @@ tags:
 | LOU064 Arm 5 | EXPERIMENTAL | 25 mg capsule LOU064 bid | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
 | LOU064 Arm 6 | EXPERIMENTAL | 100 mg capsule LOU064 bid | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
 | Placebo Arm | PLACEBO_COMPARATOR | Participants took matching placebo twice daily | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+
+## Key source-backed points
+- PMID 36096203 identifies this as the randomized phase 2b CSU dose-finding trial and reports 311 randomized patients across 6 remibrutinib regimens plus placebo.
+- The manuscript reports week-4 UAS7 change from baseline ranging from -14.7 to -20.0 across active doses versus -5.4 for placebo.
+- The saved abstract describes rapid onset of action with symptom reduction from week 1 through week 12.
 
 ## Endpoints
 - Primary outcomes:

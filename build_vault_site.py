@@ -115,6 +115,19 @@ def md_to_html(md_text: str, current_md: Path) -> str:
     return markdown.markdown(md_text, extensions=['tables', 'fenced_code'])
 
 
+def display_name_for_md(path: Path) -> str:
+    text = path.read_text(errors='ignore')
+    lines = text.splitlines()
+    if lines and lines[0].strip() == '---':
+        for line in lines[1:40]:
+            if line.startswith('title:'):
+                return line.split(':', 1)[1].strip().strip('"')
+    for line in lines:
+        if line.startswith('# '):
+            return line[2:].strip()
+    return path.stem.replace('-', ' ').title()
+
+
 def nav_html() -> str:
     sections = {
         'Programs': sorted((WIKI / 'programs').glob('*.md')),
@@ -129,7 +142,7 @@ def nav_html() -> str:
         for f in files:
             rel = f.relative_to(WIKI)
             href = str(rel).replace('.md', '.html')
-            name = f.stem.replace('-', ' ').title()
+            name = display_name_for_md(f)
             out.append(f"<li><a href='{site_href(href)}'>{html.escape(name)}</a></li>")
         out.append("</ul>")
     return ''.join(out)

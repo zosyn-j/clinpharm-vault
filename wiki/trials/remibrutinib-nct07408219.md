@@ -1,13 +1,14 @@
 ---
-title: "A Real-world Study of Remibrutinib in Chronic Spontaneous Urticaria Patients"
+title: "RELIEF remibrutinib early real-world effectiveness survey (NCT07408219)"
 trial_id: NCT07408219
 program_key: remibrutinib
 status: RECRUITING
+study_family: "Real-world evidence program"
 tags:
   - type/trial
   - program/remibrutinib
 ---
-# A Real-world Study of Remibrutinib in Chronic Spontaneous Urticaria Patients
+# RELIEF remibrutinib early real-world effectiveness survey (NCT07408219)
 
 ## Study Snapshot
 - Program: Remibrutinib
@@ -16,6 +17,7 @@ tags:
 - Indication: Chronic Spontaneous Urticaria
 - Status: Recruiting
 - Sponsor: Novartis Pharmaceuticals
+- Study family: Real-world evidence program
 
 ## Design
 - Study type: OBSERVATIONAL
@@ -37,6 +39,10 @@ tags:
 |---|---|---|---:|---|
 | Remibrutinib Cohort | NR | Adult patients with CSU who are prescribed and initiating treatment with remibrutinib. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
 | Dupilumab Cohort | NR | Adult patients with CSU who are prescribed and initiating treatment with dupilumab. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+
+## Key source-backed points
+- CT.gov identifies this as RELIEF, a real-world study in patients initiating remibrutinib or dupilumab.
+- The primary outcome is change from baseline in UCT-7 at week 4.
 
 ## Endpoints
 - Primary outcomes:

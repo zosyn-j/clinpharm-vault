@@ -1,14 +1,15 @@
 ---
-title: "An Open-label Extension Study to Evaluate the Long-term Safety and Tolerability of LOU064 in Subjects With CSU"
+title: "Remibrutinib CSU phase 2 open-label extension (NCT04109313)"
 trial_id: NCT04109313
 program_key: remibrutinib
 status: COMPLETED
+study_family: "Foundational CSU extension program"
 tags:
   - type/trial
   - program/remibrutinib
   - phase/phase2
 ---
-# An Open-label Extension Study to Evaluate the Long-term Safety and Tolerability of LOU064 in Subjects With CSU
+# Remibrutinib CSU phase 2 open-label extension (NCT04109313)
 
 ## Study Snapshot
 - Program: Remibrutinib
@@ -17,6 +18,7 @@ tags:
 - Indication: Chronic Spontaneous Urticaria
 - Status: Completed
 - Sponsor: Novartis Pharmaceuticals
+- Study family: Foundational CSU extension program
 
 ## Design
 - Study type: INTERVENTIONAL
@@ -37,6 +39,11 @@ tags:
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
 | All participants | EXPERIMENTAL | Participants with UAS7\<16 at Week 16 of CLOU064A2201 were followed up to 12 weeks without receiving treatment (observational period). If participants relapsed (UAS7≥16 at least once), they were transitioned to the treatment period. Otherwise, they were discontinued from the study.  Participants with a UAS7≥16 at Week 12 or Week 16 in the CLOU064A2201, as well as participants who experienced a relapse during the 12-week observational period, were administered 100 mg of LOU064 b.i.d. open-label for up to 52 weeks. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+
+## Key source-backed points
+- CT.gov describes this as an open-label multicenter extension for eligible participants from CLOU064A2201.
+- Participants with UAS7 <16 at Week 16 of the prior study could enter an observational period before treatment restart if they relapsed.
+- Participants with persistent activity or relapse could receive open-label remibrutinib 100 mg twice daily for up to 52 weeks.
 
 ## Endpoints
 - Primary outcomes:

@@ -1,14 +1,15 @@
 ---
-title: "24 Weeks Double-blind Randomized Placebo-controlled Trial to Evaluate Efficacy, PK, Safety of LOU064 in Adolescents (12 - <18) With CSU and Inadequate Response to H1-antihistamine Followed by Optional 3 Years Open-label Extension and an Optional 3 Years Safety Long-term Treatment-free Follow-up"
+title: "Remibrutinib adolescent Phase 3 CSU study (NCT05677451)"
 trial_id: NCT05677451
 program_key: remibrutinib
 status: RECRUITING
+study_family: "Pediatric / adolescent expansion"
 tags:
   - type/trial
   - program/remibrutinib
   - phase/phase3
 ---
-# 24 Weeks Double-blind Randomized Placebo-controlled Trial to Evaluate Efficacy, PK, Safety of LOU064 in Adolescents (12 - <18) With CSU and Inadequate Response to H1-antihistamine Followed by Optional 3 Years Open-label Extension and an Optional 3 Years Safety Long-term Treatment-free Follow-up
+# Remibrutinib adolescent Phase 3 CSU study (NCT05677451)
 
 ## Study Snapshot
 - Program: Remibrutinib
@@ -17,6 +18,7 @@ tags:
 - Indication: Chronic Spontaneous Urticaria
 - Status: Recruiting
 - Sponsor: Novartis Pharmaceuticals
+- Study family: Pediatric / adolescent expansion
 
 ## Design
 - Study type: INTERVENTIONAL
@@ -42,6 +44,10 @@ tags:
 |---|---|---|---:|---|
 | Arm 1: LOU064 (blinded) | EXPERIMENTAL | LOU064 (blinded) taken orally b.i.d. for 24 weeks, followed by LOU064 (open-label) taken orally b.i.d. for up to 6 cycles of 24 weeks. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
 | Arm 2: LOU064 placebo (blinded) | PLACEBO_COMPARATOR | LOU064 placebo (blinded) taken orally b.i.d. for 24 weeks (randomized in a 2:1 ratio arm 1: arm 2) | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+
+## Key source-backed points
+- CT.gov describes 24-week double-blind placebo-controlled treatment followed by optional open-label extension and long-term treatment-free follow-up.
+- This record explicitly includes pharmacokinetics as part of the study objectives.
 
 ## Endpoints
 - Primary outcomes:

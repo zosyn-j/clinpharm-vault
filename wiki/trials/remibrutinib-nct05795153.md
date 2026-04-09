@@ -1,14 +1,15 @@
 ---
-title: "A Multicenter, Open-label Phase 3 Study: Ambulatory Blood Pressure Monitoring in Adult Patients With Chronic Spontaneous Urticaria Inadequately Controlled by H1-antihistamines Treated With Remibrutinib up to 12 Weeks."
+title: "Remibrutinib ambulatory blood pressure monitoring Phase 3 study (NCT05795153)"
 trial_id: NCT05795153
 program_key: remibrutinib
 status: COMPLETED
+study_family: "Focused safety characterization"
 tags:
   - type/trial
   - program/remibrutinib
   - phase/phase3
 ---
-# A Multicenter, Open-label Phase 3 Study: Ambulatory Blood Pressure Monitoring in Adult Patients With Chronic Spontaneous Urticaria Inadequately Controlled by H1-antihistamines Treated With Remibrutinib up to 12 Weeks.
+# Remibrutinib ambulatory blood pressure monitoring Phase 3 study (NCT05795153)
 
 ## Study Snapshot
 - Program: Remibrutinib
@@ -17,6 +18,7 @@ tags:
 - Indication: Chronic Spontaneous Urticaria
 - Status: Completed
 - Sponsor: Novartis Pharmaceuticals
+- Study family: Focused safety characterization
 
 ## Design
 - Study type: INTERVENTIONAL
@@ -37,6 +39,10 @@ tags:
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
 | LOU064 (remibrutinib) | EXPERIMENTAL | All participants were assigned to remibrutinib 25 mg b.i.d. for 12 weeks. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+
+## Key source-backed points
+- CT.gov lists 144 actual participants in this 12-week ABPM study.
+- The primary endpoint is estimated mean change in 24-hour systolic blood pressure at week 4 by ambulatory blood pressure monitoring.
 
 ## Endpoints
 - Primary outcomes:

@@ -1,14 +1,15 @@
 ---
-title: "Study of Remibrutinib (LOU064) Efficacy and Safety and Exploration of Its Mechanism of Action in Participants With Chronic Urticaria"
+title: "Remibrutinib exploratory mixed chronic urticaria study (NCT06865651)"
 trial_id: NCT06865651
 program_key: remibrutinib
 status: RECRUITING
+study_family: "Mechanistic / exploratory CU program"
 tags:
   - type/trial
   - program/remibrutinib
   - phase/phase2
 ---
-# Study of Remibrutinib (LOU064) Efficacy and Safety and Exploration of Its Mechanism of Action in Participants With Chronic Urticaria
+# Remibrutinib exploratory mixed chronic urticaria study (NCT06865651)
 
 ## Study Snapshot
 - Program: Remibrutinib
@@ -17,6 +18,7 @@ tags:
 - Indication: Chronic Urticaria (CU): Chronic Inducible Urticaria (CINDU) and Chronic Spontaneous Urticaria (CSU)
 - Status: Recruiting
 - Sponsor: Novartis Pharmaceuticals
+- Study family: Mechanistic / exploratory CU program
 
 ## Design
 - Study type: INTERVENTIONAL
@@ -40,6 +42,11 @@ tags:
 | LOU064-CSU | EXPERIMENTAL | Diagnosis of Chronic Spontaneous Urticaria (CSU) not adequately controlled | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
 | Placebo-CINDU | PLACEBO_COMPARATOR | Diagnosis of Chronic Inducible Urticaria (CINDU), symptoms of symptomatic dermographism urticaria, cold urticaria, cholinergic urticaria, heat urticaria, solar urticaria, urticaria as diagnosed by pressure, evidence of urticaria after exposure to water, evidence of urticaria following contact to identified material causing urticaria symptoms. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
 | Placebo-CSU | PLACEBO_COMPARATOR | Diagnosis of Chronic Spontaneous Urticaria (CSU) not adequately controlled | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+
+## Key source-backed points
+- CT.gov lists this as a 12-week randomized participant- and investigator-blinded placebo-controlled exploratory study in chronic urticaria.
+- A linked Novartis trial page is cached locally and explicitly tied to this NCT identifier.
+- Primary outcomes include weekly most-bothersome-symptom NRS and UCT7 weekly scores at week 6.
 
 ## Endpoints
 - Primary outcomes:
