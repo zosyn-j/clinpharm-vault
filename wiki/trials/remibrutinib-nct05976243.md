@@ -39,15 +39,21 @@ The purpose of the core period (52 weeks of treatment) of this study is to evalu
 
 The purpose of the OLE period is to collect long-term efficacy, safety, and tolerability data on remibrutinib in participants after having completed the Core period
 
+## Operational design summary
+- Arms represented in current CT.gov export: 6
+- Active dose levels represented in current local source layer: 3
+- Total study enrollment in CT.gov: 362 (ACTUAL)
+- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+
 ## Arms
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
-| Remibrutinib, symptomatic dermographism group | EXPERIMENTAL | Remibrutinib oral twice daily in participants with symptomatic dermographism | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Placebo, symptomatic dermographism group | PLACEBO_COMPARATOR | Placebo oral twice daily, symptomatic dermographism | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Remibrutinib, cold urticaria group | EXPERIMENTAL | Remibrutinib oral twice daily, cold urticaria | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Placebo, cold urticaria group | PLACEBO_COMPARATOR | Placebo oral twice daily, cold urticaria | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Remibrutinib, cholinergic urticaria group | EXPERIMENTAL | Remibrutinib oral twice daily, cholinergic urticaria | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Placebo, cholinergic urticaria | PLACEBO_COMPARATOR | Placebo oral twice daily, cholinergic urticaria | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| Remibrutinib, symptomatic dermographism group | EXPERIMENTAL | Remibrutinib oral twice daily in participants with symptomatic dermographism | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Placebo, symptomatic dermographism group | PLACEBO_COMPARATOR | Placebo oral twice daily, symptomatic dermographism | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Remibrutinib, cold urticaria group | EXPERIMENTAL | Remibrutinib oral twice daily, cold urticaria | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Placebo, cold urticaria group | PLACEBO_COMPARATOR | Placebo oral twice daily, cold urticaria | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Remibrutinib, cholinergic urticaria group | EXPERIMENTAL | Remibrutinib oral twice daily, cholinergic urticaria | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Placebo, cholinergic urticaria | PLACEBO_COMPARATOR | Placebo oral twice daily, cholinergic urticaria | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
 
 ## Key source-backed points
 - CT.gov lists 362 actual participants in a 52-week randomized double-blind placebo-controlled basket study with open-label extension.

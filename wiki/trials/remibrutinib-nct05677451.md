@@ -39,11 +39,17 @@ tags:
 2. to collect long-term efficacy, safety and tolerability data on remibrutinib in adolescents after having completed 24 weeks of treatment
 3. to collect safety data in this population for up to three years after the last dose of study treatment
 
+## Operational design summary
+- Arms represented in current CT.gov export: 2
+- Active dose levels represented in current local source layer: 1
+- Total study enrollment in CT.gov: 100 (ESTIMATED)
+- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+
 ## Arms
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
-| Arm 1: LOU064 (blinded) | EXPERIMENTAL | LOU064 (blinded) taken orally b.i.d. for 24 weeks, followed by LOU064 (open-label) taken orally b.i.d. for up to 6 cycles of 24 weeks. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Arm 2: LOU064 placebo (blinded) | PLACEBO_COMPARATOR | LOU064 placebo (blinded) taken orally b.i.d. for 24 weeks (randomized in a 2:1 ratio arm 1: arm 2) | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| Arm 1: LOU064 (blinded) | EXPERIMENTAL | LOU064 (blinded) taken orally b.i.d. for 24 weeks, followed by LOU064 (open-label) taken orally b.i.d. for up to 6 cycles of 24 weeks. | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Arm 2: LOU064 placebo (blinded) | PLACEBO_COMPARATOR | LOU064 placebo (blinded) taken orally b.i.d. for 24 weeks (randomized in a 2:1 ratio arm 1: arm 2) | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
 
 ## Key source-backed points
 - CT.gov describes 24-week double-blind placebo-controlled treatment followed by optional open-label extension and long-term treatment-free follow-up.

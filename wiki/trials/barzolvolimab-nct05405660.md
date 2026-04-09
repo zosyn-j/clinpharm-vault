@@ -33,15 +33,21 @@ tags:
 - Healthy volunteers: False
 - Summary: The purpose of this study is to assess the clinical effect, the pharmacodynamics, the safety, and the pharmacokinetics of barzolvolimab (CDX-0159) in patients with Chronic Inducible Urticaria who remain symptomatic despite the use of H1-antihistamines.
 
+## Operational design summary
+- Arms represented in current CT.gov export: 6
+- Active dose levels represented in current local source layer: 4
+- Total study enrollment in CT.gov: 196 (ACTUAL)
+- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+
 ## Arms
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
-| barzolvolimab 150 mg in patients with Symptomatic Dermographism | EXPERIMENTAL | barzolvolimab 150 mg injection subcutaneous every 4 weeks for 20 weeks | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| barzolvolimab 300 mg in patients with Symptomatic Dermographism | EXPERIMENTAL | barzolvolimab 300 mg injection subcutaneous every 8 weeks for 20 weeks | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Placebo Comparator in patients with Symptomatic Dermographism | PLACEBO_COMPARATOR | Placebo injection subcutaneous every 4 weeks for 20 weeks | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| barzolvolimab 150 mg in patients with Chronic Inducible Cold Urticaria | EXPERIMENTAL | barzolvolimab 150 mg injection subcutaneous every 4 weeks for 20 weeks | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| barzolvolimab 300 mg in patients with Chronic Inducible Cold Urticaria | EXPERIMENTAL | barzolvolimab 300 mg injection subcutaneous every 8 weeks for 20 weeks | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Placebo Comparator in patients with Chronic Inducible Cold Urticaria | PLACEBO_COMPARATOR | Placebo injection subcutaneous every 4 weeks for 20 weeks | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| barzolvolimab 150 mg in patients with Symptomatic Dermographism | EXPERIMENTAL | barzolvolimab 150 mg injection subcutaneous every 4 weeks for 20 weeks | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| barzolvolimab 300 mg in patients with Symptomatic Dermographism | EXPERIMENTAL | barzolvolimab 300 mg injection subcutaneous every 8 weeks for 20 weeks | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Placebo Comparator in patients with Symptomatic Dermographism | PLACEBO_COMPARATOR | Placebo injection subcutaneous every 4 weeks for 20 weeks | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| barzolvolimab 150 mg in patients with Chronic Inducible Cold Urticaria | EXPERIMENTAL | barzolvolimab 150 mg injection subcutaneous every 4 weeks for 20 weeks | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| barzolvolimab 300 mg in patients with Chronic Inducible Cold Urticaria | EXPERIMENTAL | barzolvolimab 300 mg injection subcutaneous every 8 weeks for 20 weeks | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Placebo Comparator in patients with Chronic Inducible Cold Urticaria | PLACEBO_COMPARATOR | Placebo injection subcutaneous every 4 weeks for 20 weeks | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
 
 ## Endpoints
 - Primary outcomes:

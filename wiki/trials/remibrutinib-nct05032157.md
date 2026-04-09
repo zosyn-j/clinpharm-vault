@@ -35,11 +35,19 @@ tags:
 - Healthy volunteers: False
 - Summary: The purpose of this study was to establish the efficacy, safety, and tolerability of Remibrutinib 25 mg b.i.d. in adult patients suffering from chronic spontaneous urticaria (CSU) inadequately controlled by second generation H1-antihistamines (H1-AHs) in comparison to placebo.
 
+## Operational design summary
+- Arms represented in current CT.gov export: 2
+- Active dose levels represented in current local source layer: 1
+- Total study enrollment in CT.gov: 455 (ACTUAL)
+- Design interpretation: 2-arm placebo-controlled pivotal REMIX-2 study with remibrutinib 25 mg twice daily versus placebo.
+- Per-arm sample size summary: 300 remibrutinib, 155 placebo.
+- Arm-size evidence source: PMID 40043237 abstract.
+
 ## Arms
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
-| LOU064 25mg b.i.d. | EXPERIMENTAL | LOU064A (blinded) taken orally b.i.d. for 24 weeks, followed by LOU064 (open- label) taken orally b.i.d. for 28 weeks. Randomised in 2:1 ratio (active vs placebo) | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Placebo | PLACEBO_COMPARATOR | LOU064A placebo (blinded) taken orally for 24 weeks, followed by LOU064 (open-label) taken orally b.i.d. for 28 weeks. Randomised in 2:1 ratio (active vs placebo) | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| LOU064 25mg b.i.d. | EXPERIMENTAL | LOU064A (blinded) taken orally b.i.d. for 24 weeks, followed by LOU064 (open- label) taken orally b.i.d. for 28 weeks. Randomised in 2:1 ratio (active vs placebo) | 300 | Directly supported by linked local publication/source text |
+| Placebo | PLACEBO_COMPARATOR | LOU064A placebo (blinded) taken orally for 24 weeks, followed by LOU064 (open-label) taken orally b.i.d. for 28 weeks. Randomised in 2:1 ratio (active vs placebo) | 155 | Directly supported by linked local publication/source text |
 
 ## Key source-backed points
 - PMID 40043237 explicitly identifies this as REMIX-2 and reports 455 randomized patients, with 300 assigned to remibrutinib and 155 to placebo.

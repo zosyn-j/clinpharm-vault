@@ -35,11 +35,17 @@ tags:
 
 This study will also fulfill the Celldex commitment to provide post-trial access to participants who have completed the phase 3 studies, where applicable.
 
+## Operational design summary
+- Arms represented in current CT.gov export: 2
+- Active dose levels represented in current local source layer: 2
+- Total study enrollment in CT.gov: 1370 (ESTIMATED)
+- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+
 ## Arms
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
-| Group 1 Observation Group | EXPERIMENTAL | Standard of care treatment (at least 2nd generation Type 1 antihistamines \[H1AH\] with or without other permitted background medications) for 52 weeks.  For participants with worsening disease (UAS7 score of 16 or greater at any time between Weeks 0-24), barzolvolimab will be administered once as a 300 mg subcutaneous injection followed by 150 mg every 4 weeks for up to 52 weeks. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Group 2 Barzolvolimab Retreatment Group | EXPERIMENTAL | Barzolvolimab given once as a 300 mg subcutaneous injection followed by 150 mg administered every 4 weeks for 52 weeks | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| Group 1 Observation Group | EXPERIMENTAL | Standard of care treatment (at least 2nd generation Type 1 antihistamines \[H1AH\] with or without other permitted background medications) for 52 weeks.  For participants with worsening disease (UAS7 score of 16 or greater at any time between Weeks 0-24), barzolvolimab will be administered once as a 300 mg subcutaneous injection followed by 150 mg every 4 weeks for up to 52 weeks. | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Group 2 Barzolvolimab Retreatment Group | EXPERIMENTAL | Barzolvolimab given once as a 300 mg subcutaneous injection followed by 150 mg administered every 4 weeks for 52 weeks | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
 
 ## Endpoints
 - Primary outcomes:

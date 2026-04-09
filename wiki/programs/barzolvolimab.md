@@ -39,6 +39,18 @@ indications:
 - How the sponsor differentiates the CSU pair versus the CIndU phase 3 branch in eventual positioning and labeling logic.
 - Whether later derived pages can tie sponsor posters and press releases more tightly to explicit trial IDs.
 
+## Operational study design view
+| Trial | Arms in registry | Active dose levels | Total enrollment | Per-arm sample size summary |
+|---|---:|---:|---:|---|
+| [NCT04538794](../trials/barzolvolimab-nct04538794.md) | 2 | 4 | 45 | 45 randomized total, with 35 barzolvolimab-treated and 10 placebo-treated overall; publication abstract also lists four dose cohorts (0.5 mg/kg Q4W, 1.5 mg/kg Q4W, 3 mg/kg Q8W, 4.5 mg/kg Q8W). |
+| [NCT04548869](../trials/barzolvolimab-nct04548869.md) | 1 | 1 | 41 | ClinicalTrials.gov arm description states planned enrollment of 20 Cold Contact Urticaria, 10 Symptomatic Dermographism, and 10 Cholinergic Urticaria patients; CT.gov lists 41 actual participants overall. |
+| [NCT05368285](../trials/barzolvolimab-nct05368285.md) | 6 | 3 | 208 | Publication abstract supports placebo-controlled core randomization of 75 mg Q4W (n=53), 150 mg Q4W (n=52), 300 mg Q8W (n=51), and placebo (n=51). |
+| [NCT05405660](../trials/barzolvolimab-nct05405660.md) | 6 | 4 | 196 | Direct per-arm N has not yet been promoted from the current local source layer. |
+| [NCT06445023](../trials/barzolvolimab-nct06445023.md) | 4 | 4 | 963 | Direct per-arm N has not yet been promoted from the current local source layer. |
+| [NCT06455202](../trials/barzolvolimab-nct06455202.md) | 4 | 4 | 976 | Direct per-arm N has not yet been promoted from the current local source layer. |
+| [NCT07256392](../trials/barzolvolimab-nct07256392.md) | 2 | 2 | 1370 | Direct per-arm N has not yet been promoted from the current local source layer. |
+| [NCT07266402](../trials/barzolvolimab-nct07266402.md) | 4 | 2 | 240 | Direct per-arm N has not yet been promoted from the current local source layer. |
+
 ## Study Inventory
 
 ### Completed / historical studies

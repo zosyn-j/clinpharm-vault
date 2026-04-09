@@ -37,13 +37,19 @@ tags:
 
 The purpose of the open-label extension phase is to assess efficacy, safety and tolerability up to two years for patients treated with remibrutinib and patients transitioned from omalizumab to remibrutinib at Week 52. In the extension phase, treatment will be with remibrutinib only (i.e., no background therapy). The extension phase will also fulfill the Novartis commitment to provide post-trial access to participants of the previous core phase.
 
+## Operational design summary
+- Arms represented in current CT.gov export: 4
+- Active dose levels represented in current local source layer: 2
+- Total study enrollment in CT.gov: 470 (ACTUAL)
+- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+
 ## Arms
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
-| Remibrutinib | EXPERIMENTAL | Participants will receive remibrutinib 25 mg b.i.d. and placebo for omalizumab q4w for 52 weeks. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Placebo to remibrutinib | PLACEBO_COMPARATOR | Participants will receive placebo for remibrutinib 25 mg b.i.d. and placebo for omalizumab q4w for 24 weeks. From Week 24 to Week 52 participants will receive remibrutinib 25 mg b.i.d. and placebo for omalizumab q4w. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Placebo to omalizumab | PLACEBO_COMPARATOR | Participants will receive placebo for remibrutinib 25 mg b.i.d. and placebo for omalizumab q4w for 24 weeks. From Week 24 to Week 52 participants will receive omalizumab 300 mg q4w and placebo for remibrutinib b.i.d. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Omalizumab | ACTIVE_COMPARATOR | participants will receive omalizumab 300 mg q4w and placebo for remibrutinib b.i.d. for 52 weeks. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| Remibrutinib | EXPERIMENTAL | Participants will receive remibrutinib 25 mg b.i.d. and placebo for omalizumab q4w for 52 weeks. | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Placebo to remibrutinib | PLACEBO_COMPARATOR | Participants will receive placebo for remibrutinib 25 mg b.i.d. and placebo for omalizumab q4w for 24 weeks. From Week 24 to Week 52 participants will receive remibrutinib 25 mg b.i.d. and placebo for omalizumab q4w. | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Placebo to omalizumab | PLACEBO_COMPARATOR | Participants will receive placebo for remibrutinib 25 mg b.i.d. and placebo for omalizumab q4w for 24 weeks. From Week 24 to Week 52 participants will receive omalizumab 300 mg q4w and placebo for remibrutinib b.i.d. | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Omalizumab | ACTIVE_COMPARATOR | participants will receive omalizumab 300 mg q4w and placebo for remibrutinib b.i.d. for 52 weeks. | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
 
 ## Key source-backed points
 - CT.gov lists a four-arm double-dummy design including remibrutinib, omalizumab, and two placebo-to-active transition arms.

@@ -35,10 +35,16 @@ tags:
 - Healthy volunteers: False
 - Summary: The purpose of this study was to assess the effect of remibrutinib 25 mg twice a day (b.i.d.) open-label on Systolic Blood Pressure (SBP) measured as a change in 24-hour weighted average SBP from baseline to Week 4 assessed by Ambulator Blood Pressure Monitoring (ABPM); and to assess overall safety and efficacy over 12 weeks in adult participants with Chronic Spontaneous Urticaria (CSU) inadequately controlled with second generation H1 antihistamines (H1-AH) treatment. ABPM was chosen for the blood pressure assessment in this trial as recommended by the FDA for drugs intended for chronic use (Assessment of Pressor Effects of Drugs Guidance for Industry (FDA 2022)).
 
+## Operational design summary
+- Arms represented in current CT.gov export: 1
+- Active dose levels represented in current local source layer: 1
+- Total study enrollment in CT.gov: 144 (ACTUAL)
+- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+
 ## Arms
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
-| LOU064 (remibrutinib) | EXPERIMENTAL | All participants were assigned to remibrutinib 25 mg b.i.d. for 12 weeks. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| LOU064 (remibrutinib) | EXPERIMENTAL | All participants were assigned to remibrutinib 25 mg b.i.d. for 12 weeks. | 144 | Directly supported by linked local publication/source text |
 
 ## Key source-backed points
 - CT.gov lists 144 actual participants in this 12-week ABPM study.

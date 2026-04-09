@@ -33,11 +33,17 @@ tags:
 - Healthy volunteers: False
 - Summary: This is a Phase II, multicenter, open-label extension (OLE) study to evaluate the long-term safety and efficacy of fenebrutinib in participants with Chronic Spontaneous Urticaria (CSU) who have completed the treatment period in a fenebrutinib CSU parent study. Participants may enroll in this OLE study at any time after completing the treatment period of the parent study. Participants will receive open-label fenebrutinib at a dose of 200 milligram (mg) orally twice a day. Treatment may continue until the end of the study.
 
+## Operational design summary
+- Arms represented in current CT.gov export: 2
+- Active dose levels represented in current local source layer: 1
+- Total study enrollment in CT.gov: 31 (ACTUAL)
+- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+
 ## Arms
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
-| Parent Study: GDC-0853 | EXPERIMENTAL | Participants (who had received 50, 150 and 200mg GDC-0853 in Cohort 2 of the Parent GS39684 Study) received open-label fenebrutinib/GDC-0853 at a dose of 200mg orally twice a day. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Parent Study: Placebo | PLACEBO_COMPARATOR | Participants (who had received Placebo in Cohort 2 of the Parent GS39684 Study) received open-label fenebrutinib/GDC-0853 at a dose of 200mg orally twice a day. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| Parent Study: GDC-0853 | EXPERIMENTAL | Participants (who had received 50, 150 and 200mg GDC-0853 in Cohort 2 of the Parent GS39684 Study) received open-label fenebrutinib/GDC-0853 at a dose of 200mg orally twice a day. | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Parent Study: Placebo | PLACEBO_COMPARATOR | Participants (who had received Placebo in Cohort 2 of the Parent GS39684 Study) received open-label fenebrutinib/GDC-0853 at a dose of 200mg orally twice a day. | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
 
 ## Endpoints
 - Primary outcomes:

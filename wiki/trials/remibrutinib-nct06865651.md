@@ -35,13 +35,19 @@ tags:
 - Healthy volunteers: False
 - Summary: The purpose of this study is to explore the effect and Mechanism of Action (MoA) of remibrutinib (LOU064) vs. placebo on clinical outcomes in participants with Chronic Urticaria (CU), including both Chronic Spontaneous Urticaria (CSU) and Chronic Inducible Urticaria (CINDU).
 
+## Operational design summary
+- Arms represented in current CT.gov export: 4
+- Active dose levels represented in current local source layer: 2
+- Total study enrollment in CT.gov: 44 (ESTIMATED)
+- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+
 ## Arms
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
-| LOU064-CINDU | EXPERIMENTAL | Diagnosis of Chronic Inducible Urticaria (CINDU), symptoms of symptomatic dermographism urticaria, cold urticaria, cholinergic urticaria, heat urticaria, solar urticaria, urticaria as diagnosed by pressure, evidence of urticaria after exposure to water, evidence of urticaria following contact to identified material causing urticaria symptoms. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| LOU064-CSU | EXPERIMENTAL | Diagnosis of Chronic Spontaneous Urticaria (CSU) not adequately controlled | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Placebo-CINDU | PLACEBO_COMPARATOR | Diagnosis of Chronic Inducible Urticaria (CINDU), symptoms of symptomatic dermographism urticaria, cold urticaria, cholinergic urticaria, heat urticaria, solar urticaria, urticaria as diagnosed by pressure, evidence of urticaria after exposure to water, evidence of urticaria following contact to identified material causing urticaria symptoms. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Placebo-CSU | PLACEBO_COMPARATOR | Diagnosis of Chronic Spontaneous Urticaria (CSU) not adequately controlled | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| LOU064-CINDU | EXPERIMENTAL | Diagnosis of Chronic Inducible Urticaria (CINDU), symptoms of symptomatic dermographism urticaria, cold urticaria, cholinergic urticaria, heat urticaria, solar urticaria, urticaria as diagnosed by pressure, evidence of urticaria after exposure to water, evidence of urticaria following contact to identified material causing urticaria symptoms. | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| LOU064-CSU | EXPERIMENTAL | Diagnosis of Chronic Spontaneous Urticaria (CSU) not adequately controlled | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Placebo-CINDU | PLACEBO_COMPARATOR | Diagnosis of Chronic Inducible Urticaria (CINDU), symptoms of symptomatic dermographism urticaria, cold urticaria, cholinergic urticaria, heat urticaria, solar urticaria, urticaria as diagnosed by pressure, evidence of urticaria after exposure to water, evidence of urticaria following contact to identified material causing urticaria symptoms. | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Placebo-CSU | PLACEBO_COMPARATOR | Diagnosis of Chronic Spontaneous Urticaria (CSU) not adequately controlled | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
 
 ## Key source-backed points
 - CT.gov lists this as a 12-week randomized participant- and investigator-blinded placebo-controlled exploratory study in chronic urticaria.

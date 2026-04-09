@@ -34,11 +34,17 @@ tags:
 - Healthy volunteers: False
 - Summary: This is a United States (US) based, prospective, non-interventional, provider-referral study to evaluate the real-world effectiveness and patient-centered outcomes of remibrutinib in chronic spontaneous urticaria (CSU) patients using validated patient reported outcome (PRO) tools.
 
+## Operational design summary
+- Arms represented in current CT.gov export: 2
+- Active dose levels represented in current local source layer: 2
+- Total study enrollment in CT.gov: 350 (ESTIMATED)
+- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+
 ## Arms
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
-| Remibrutinib Cohort | NR | Adult patients with CSU who are prescribed and initiating treatment with remibrutinib. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Dupilumab Cohort | NR | Adult patients with CSU who are prescribed and initiating treatment with dupilumab. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| Remibrutinib Cohort | NR | Adult patients with CSU who are prescribed and initiating treatment with remibrutinib. | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Dupilumab Cohort | NR | Adult patients with CSU who are prescribed and initiating treatment with dupilumab. | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
 
 ## Key source-backed points
 - CT.gov identifies this as RELIEF, a real-world study in patients initiating remibrutinib or dupilumab.

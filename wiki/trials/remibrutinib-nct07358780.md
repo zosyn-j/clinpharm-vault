@@ -34,12 +34,18 @@ tags:
 - Healthy volunteers: False
 - Summary: Prospective, non-interventional study in patients with CSU where the treatment decision prior enrolment has been made to either escalate current sgH1-AHs treatment or escalate/switch current treatment to remibrutinib. The primary aim of this study is to gather real-world effectiveness and safety data for remibrutinib, a new treatment option, covering a broader, real-world clinical practice population.
 
+## Operational design summary
+- Arms represented in current CT.gov export: 3
+- Active dose levels represented in current local source layer: 3
+- Total study enrollment in CT.gov: 505 (ESTIMATED)
+- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+
 ## Arms
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
-| Cohort 1 | NR | Inadequate control of CSU despite licensed dose of sgH1-AH (no other pre-treatments permitted) and decision to escalate sgH1-AH treatment | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Cohort 2 | NR | Inadequate control of CSU despite licensed dose or escalated sgH1-AH(s) (no other pre-treatment with exception of first generation H1-AH permitted) with decision to switch to remibrutinib treatment as per local label | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Cohort 3 | NR | Any other treatment received in addition to H1-AH, any time during patients' CSU treatment history, with decision to switch to remibrutinib treatment as per local label | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| Cohort 1 | NR | Inadequate control of CSU despite licensed dose of sgH1-AH (no other pre-treatments permitted) and decision to escalate sgH1-AH treatment | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Cohort 2 | NR | Inadequate control of CSU despite licensed dose or escalated sgH1-AH(s) (no other pre-treatment with exception of first generation H1-AH permitted) with decision to switch to remibrutinib treatment as per local label | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Cohort 3 | NR | Any other treatment received in addition to H1-AH, any time during patients' CSU treatment history, with decision to switch to remibrutinib treatment as per local label | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
 
 ## Key source-backed points
 - CT.gov lists an estimated enrollment of 505 and mirrors the cohort structure of the broader real-world study.

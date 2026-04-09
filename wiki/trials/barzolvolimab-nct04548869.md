@@ -33,10 +33,18 @@ tags:
 - Healthy volunteers: False
 - Summary: This is a study to determine the safety of CDX-0159 in patients with Cold Contact Urticaria, Symptomatic Dermographism, or Cholinergic Urticaria.
 
+## Operational design summary
+- Arms represented in current CT.gov export: 1
+- Active dose levels represented in current local source layer: 1
+- Total study enrollment in CT.gov: 41 (ACTUAL)
+- Design interpretation: Single-dose open-label CIndU study using one active barzolvolimab regimen.
+- Per-arm sample size summary: ClinicalTrials.gov arm description states planned enrollment of 20 Cold Contact Urticaria, 10 Symptomatic Dermographism, and 10 Cholinergic Urticaria patients; CT.gov lists 41 actual participants overall.
+- Arm-size evidence source: ClinicalTrials.gov markdown arm description.
+
 ## Arms
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
-| CDX-0159 | EXPERIMENTAL | 20 patients with Cold Contact Urticaria, 10 patients with Symptomatic Dermographism, and 10 patients with Cholinergic Urticaria will be enrolled and treated with a single dose of CDX-0159 | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| CDX-0159 | EXPERIMENTAL | 20 patients with Cold Contact Urticaria, 10 patients with Symptomatic Dermographism, and 10 patients with Cholinergic Urticaria will be enrolled and treated with a single dose of CDX-0159 | 41 | Directly supported by linked local publication/source text |
 
 ## Endpoints
 - Primary outcomes:

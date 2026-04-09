@@ -34,10 +34,16 @@ tags:
 - Healthy volunteers: False
 - Summary: This is an open-label, single ascending dose Phase 1b/2a trial to determine the safety and tolerability and assess the preliminary efficacy of briquilimab in adult participants with Cold Urticaria (ColdU) or Symptomatic Dermographism (SD), who remain symptomatic despite treatment with H1 antihistamines. The trial will explore three ascending dose levels which will be tested in three sequential cohorts.
 
+## Operational design summary
+- Arms represented in current CT.gov export: 1
+- Active dose levels represented in current local source layer: 1
+- Total study enrollment in CT.gov: 27 (ACTUAL)
+- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+
 ## Arms
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
-| Briquilimab | EXPERIMENTAL | Cohort 1: Participants will be treated at the trial site with 40 mg briquilimab (Subcutaneous Injection) Cohort 2: Participants will be treated at the trial site with 120 mg briquilimab (Subcutaneous Injection) Cohort 3: Participants will be treated at the trial site with 180 mg briqulimab (Subcutaneous Injection) | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| Briquilimab | EXPERIMENTAL | Cohort 1: Participants will be treated at the trial site with 40 mg briquilimab (Subcutaneous Injection) Cohort 2: Participants will be treated at the trial site with 120 mg briquilimab (Subcutaneous Injection) Cohort 3: Participants will be treated at the trial site with 180 mg briqulimab (Subcutaneous Injection) | 27 | Directly supported by linked local publication/source text |
 
 ## Endpoints
 - Primary outcomes:

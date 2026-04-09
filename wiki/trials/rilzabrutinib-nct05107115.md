@@ -35,13 +35,21 @@ tags:
 
 After completion of the double-blind phase of the study, participants will be given the option of enrolling in the 40-week open label extension (OLE) phase of the study. Participants will receive open-label rilzabrutinib at dose C (the dose may be modified based on the 12-week safety and efficacy data). Due to the fact that some participants may be receiving rilzabrutinib for the first time, all participants will be monitored at Week 14, Week 16, Week 20, and Week 24. Afterwards, participants will be monitored at Week 36 and Week 52.
 
+## Operational design summary
+- Arms represented in current CT.gov export: 4
+- Active dose levels represented in current local source layer: 3
+- Total study enrollment in CT.gov: 161 (ACTUAL)
+- Design interpretation: 4-arm phase 2 dose-ranging study with three oral rilzabrutinib regimens plus placebo.
+- Per-arm sample size summary: PMCID full text directly supports randomized sizes of 400 mg/d n=38, 800 mg/d n=41, 1200 mg/d n=41, and placebo n=40 overall; it also reports primary-analysis sample sizes of placebo n=36, 400 mg/d n=37, 800 mg/d n=35, and 1200 mg/d n=35.
+- Arm-size evidence source: PMID 40266575 abstract plus PMCID PMC12019677 full text.
+
 ## Arms
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
-| Rilzabrutinib dose A | EXPERIMENTAL | dose A | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Rilzabrutinib dose B | EXPERIMENTAL | dose B | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Rilzabrutinib dose C | EXPERIMENTAL | dose C | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Placebo | PLACEBO_COMPARATOR | Matching placebo | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| Rilzabrutinib dose A | EXPERIMENTAL | dose A | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Rilzabrutinib dose B | EXPERIMENTAL | dose B | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Rilzabrutinib dose C | EXPERIMENTAL | dose C | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Placebo | PLACEBO_COMPARATOR | Matching placebo | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
 
 ## Endpoints
 - Primary outcomes:

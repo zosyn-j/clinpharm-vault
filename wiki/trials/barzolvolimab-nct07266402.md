@@ -33,13 +33,19 @@ tags:
 - Healthy volunteers: False
 - Summary: The purpose of this Phase 3, randomized, double-blind, placebo-controlled study is to assess the activity and safety of barzolvolimab compared to placebo in participants with cold induced urticaria or symptomatic dermographism who remain symptomatic despite the use of H1-antihistamines.
 
+## Operational design summary
+- Arms represented in current CT.gov export: 4
+- Active dose levels represented in current local source layer: 2
+- Total study enrollment in CT.gov: 240 (ESTIMATED)
+- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+
 ## Arms
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
-| barzolvolimab 450mg loading dose followed by 150mg in patients with Cold Induced Urticaria | EXPERIMENTAL | barzolvolimab 450mg injection subcutaneously at randomization , then 150mg injection subcutaneously every 4 weeks for 24 weeks | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Placebo comparator in patients with Cold Induced Urticaria | PLACEBO_COMPARATOR | Placebo injection subcutaneously every 4 weeks for 24 weeks | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| barzolvolimab 450mg loading dose followed by 150mg in patients with Symptomatic Dermographism | EXPERIMENTAL | barzolvolimab 450mg injection subcutaneously at randomization, then 150mg injection subcutaneously every 4 weeks for 24 weeks | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Placebo comparator in patients with Symptomatic Dermographism | PLACEBO_COMPARATOR | Placebo injection subcutaneously every 4 weeks for 24 weeks | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| barzolvolimab 450mg loading dose followed by 150mg in patients with Cold Induced Urticaria | EXPERIMENTAL | barzolvolimab 450mg injection subcutaneously at randomization , then 150mg injection subcutaneously every 4 weeks for 24 weeks | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Placebo comparator in patients with Cold Induced Urticaria | PLACEBO_COMPARATOR | Placebo injection subcutaneously every 4 weeks for 24 weeks | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| barzolvolimab 450mg loading dose followed by 150mg in patients with Symptomatic Dermographism | EXPERIMENTAL | barzolvolimab 450mg injection subcutaneously at randomization, then 150mg injection subcutaneously every 4 weeks for 24 weeks | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Placebo comparator in patients with Symptomatic Dermographism | PLACEBO_COMPARATOR | Placebo injection subcutaneously every 4 weeks for 24 weeks | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
 
 ## Endpoints
 - Primary outcomes:

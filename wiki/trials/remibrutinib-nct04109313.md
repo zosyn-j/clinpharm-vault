@@ -35,10 +35,16 @@ tags:
 - Healthy volunteers: False
 - Summary: The main objective to assess the long-term safety and tolerability of LOU064 in patients with chronic spontaneous urticaria (CSU) who have participated in study CLOU064A2201 (NCT03926611)
 
+## Operational design summary
+- Arms represented in current CT.gov export: 1
+- Active dose levels represented in current local source layer: 1
+- Total study enrollment in CT.gov: 229 (ACTUAL)
+- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+
 ## Arms
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
-| All participants | EXPERIMENTAL | Participants with UAS7\<16 at Week 16 of CLOU064A2201 were followed up to 12 weeks without receiving treatment (observational period). If participants relapsed (UAS7≥16 at least once), they were transitioned to the treatment period. Otherwise, they were discontinued from the study.  Participants with a UAS7≥16 at Week 12 or Week 16 in the CLOU064A2201, as well as participants who experienced a relapse during the 12-week observational period, were administered 100 mg of LOU064 b.i.d. open-label for up to 52 weeks. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| All participants | EXPERIMENTAL | Participants with UAS7\<16 at Week 16 of CLOU064A2201 were followed up to 12 weeks without receiving treatment (observational period). If participants relapsed (UAS7≥16 at least once), they were transitioned to the treatment period. Otherwise, they were discontinued from the study.  Participants with a UAS7≥16 at Week 12 or Week 16 in the CLOU064A2201, as well as participants who experienced a relapse during the 12-week observational period, were administered 100 mg of LOU064 b.i.d. open-label for up to 52 weeks. | 229 | Directly supported by linked local publication/source text |
 
 ## Key source-backed points
 - CT.gov describes this as an open-label multicenter extension for eligible participants from CLOU064A2201.

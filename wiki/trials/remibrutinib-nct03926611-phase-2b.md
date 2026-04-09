@@ -35,16 +35,24 @@ tags:
 - Healthy volunteers: False
 - Summary: This was a multicenter, randomized, double-blind and placebo-controlled phase 2b dose-finding study to assess the efficacy and safety of LOU064 in adults chronic spontaneous urticaria (CSU) patients inadequately controlled by H1-antihistamines
 
+## Operational design summary
+- Arms represented in current CT.gov export: 7
+- Active dose levels represented in current local source layer: 6
+- Total study enrollment in CT.gov: 311 (ACTUAL)
+- Design interpretation: 7-arm dose-finding study with 6 active oral remibrutinib regimens plus placebo.
+- Per-arm sample size summary: Publication abstract directly supports 311 total randomized and a 1:1:1:1:1:1:1 design, but the exact realized per-arm N is not stated in the currently saved local excerpt.
+- Arm-size evidence source: ClinicalTrials.gov markdown plus PMID 36096203 abstract.
+
 ## Arms
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
-| LOU064 Arm 1 | EXPERIMENTAL | 10 mg LOU064 qd capsule once daily | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| LOU064 Arm 2 | EXPERIMENTAL | 35 mg capsule qd LOU064 once daily | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| LOU064 Arm 3 | EXPERIMENTAL | 100 mg capsule qd LOU064 once daily | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| LOU064 Arm 4 | EXPERIMENTAL | 10 mg capsule LOU064 bid | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| LOU064 Arm 5 | EXPERIMENTAL | 25 mg capsule LOU064 bid | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| LOU064 Arm 6 | EXPERIMENTAL | 100 mg capsule LOU064 bid | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Placebo Arm | PLACEBO_COMPARATOR | Participants took matching placebo twice daily | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| LOU064 Arm 1 | EXPERIMENTAL | 10 mg LOU064 qd capsule once daily | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| LOU064 Arm 2 | EXPERIMENTAL | 35 mg capsule qd LOU064 once daily | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| LOU064 Arm 3 | EXPERIMENTAL | 100 mg capsule qd LOU064 once daily | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| LOU064 Arm 4 | EXPERIMENTAL | 10 mg capsule LOU064 bid | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| LOU064 Arm 5 | EXPERIMENTAL | 25 mg capsule LOU064 bid | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| LOU064 Arm 6 | EXPERIMENTAL | 100 mg capsule LOU064 bid | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Placebo Arm | PLACEBO_COMPARATOR | Participants took matching placebo twice daily | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
 
 ## Key source-backed points
 - PMID 36096203 identifies this as the randomized phase 2b CSU dose-finding trial and reports 311 randomized patients across 6 remibrutinib regimens plus placebo.

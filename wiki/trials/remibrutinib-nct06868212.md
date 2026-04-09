@@ -35,11 +35,17 @@ tags:
 - Healthy volunteers: False
 - Summary: This is a US, multi-center, randomized, double-blind, double-dummy, Phase 3b study to evaluate efficacy of remibrutinib (25 mg twice daily \[b.i.d.\] by mouth \[p.o.\]) compared to dupilumab (600 mg loading dose administered subcutaneously (s.c.) followed by 300 mg every 2 weeks s.c.) at early timepoints (4 weeks and earlier), when administered as an add-on treatment to second generation H1-antihistamines (sgH1-AH) (standard label dose as background therapy) in adult US participants with moderate to severe chronic spontaneous urticaria (CSU) inadequately controlled by sgH1-AHs.
 
+## Operational design summary
+- Arms represented in current CT.gov export: 2
+- Active dose levels represented in current local source layer: 2
+- Total study enrollment in CT.gov: 400 (ESTIMATED)
+- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+
 ## Arms
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
-| Treatment group 1: Remibrutinib + Placebo | EXPERIMENTAL | Remibrutinib tablet (25 mg b.i.d. p.o.) + placebo solution for injection in pre-filled syringe (2 s.c. injections at baseline and then 1 s.c. injection every other week \[Weeks 2-10\]) | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Treatment group 2: Dupilumab + remibrutinib matching placebo | ACTIVE_COMPARATOR | Dupilumab pre-filled syringe (600 mg loading dose \[2 x 300 mg dupilumab s.c. injection\] at baseline visit followed by dupilumab 300 mg s.c. injection every other week \[Weeks 2-10\]) + remibrutinib matching placebo tablet (1 tablet b.i.d. p.o.) | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| Treatment group 1: Remibrutinib + Placebo | EXPERIMENTAL | Remibrutinib tablet (25 mg b.i.d. p.o.) + placebo solution for injection in pre-filled syringe (2 s.c. injections at baseline and then 1 s.c. injection every other week \[Weeks 2-10\]) | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Treatment group 2: Dupilumab + remibrutinib matching placebo | ACTIVE_COMPARATOR | Dupilumab pre-filled syringe (600 mg loading dose \[2 x 300 mg dupilumab s.c. injection\] at baseline visit followed by dupilumab 300 mg s.c. injection every other week \[Weeks 2-10\]) + remibrutinib matching placebo tablet (1 tablet b.i.d. p.o.) | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
 
 ## Key source-backed points
 - CT.gov describes a double-blind double-dummy study comparing remibrutinib against dupilumab in inadequately controlled adult CSU.

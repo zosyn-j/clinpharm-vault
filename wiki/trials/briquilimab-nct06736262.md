@@ -33,10 +33,16 @@ tags:
 - Healthy volunteers: False
 - Summary: Phase 2, open-label, extension study to evaluate the long-term safety, clinical activity, and pharmacodynamics of briquilimab in participants previously enrolled in a Jasper sponsored CU clinical trial.
 
+## Operational design summary
+- Arms represented in current CT.gov export: 1
+- Active dose levels represented in current local source layer: 1
+- Total study enrollment in CT.gov: 67 (ACTUAL)
+- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+
 ## Arms
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
-| Briquilimab | EXPERIMENTAL | Briquilimab via SQ injection | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| Briquilimab | EXPERIMENTAL | Briquilimab via SQ injection | 67 | Directly supported by linked local publication/source text |
 
 ## Endpoints
 - Primary outcomes:

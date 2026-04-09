@@ -33,15 +33,23 @@ tags:
 - Healthy volunteers: False
 - Summary: The purpose of this study is to evaluate the efficacy, safety and pharmacokinetics of GDC-0853 compared with placebo in participants with Refractory Chronic Spontaneous Urticaria (CSU) already treated with anti-histamines. Participants have the option to enter the Open-Label Extension (OLE) study after completing the 8-week treatment period.
 
+## Operational design summary
+- Arms represented in current CT.gov export: 6
+- Active dose levels represented in current local source layer: 3
+- Total study enrollment in CT.gov: 134 (ACTUAL)
+- Design interpretation: Pilot plus dose-ranging fenebrutinib phase 2 study with separate cohort 1 and cohort 2 structures.
+- Per-arm sample size summary: PMCID full text directly supports cohort 2 randomized sizes of placebo n=23, fenebrutinib 50 mg daily n=23, 150 mg daily n=24, and 200 mg twice daily n=23; CT.gov lists 134 actual participants overall across both cohorts.
+- Arm-size evidence source: PMCID PMC8604722 full text.
+
 ## Arms
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
-| Cohort 1: Placebo | PLACEBO_COMPARATOR | Participants received matching placebo twice daily from Day 1 to 56. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Cohort 1: GDC-0853 200mg BID | EXPERIMENTAL | Participants received GDC-0853 200mg twice daily from Day 1 to 56. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Cohort 2: Placebo | PLACEBO_COMPARATOR | Participants received matching placebo up to twice daily from Day 1 to 56. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Cohort 2: GDC-0853 50mg QD | EXPERIMENTAL | Participants received GDC-0853 50mg once daily from Day 1 to 56. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Cohort 2: GDC-0853 150mg QD | EXPERIMENTAL | Participants received GDC-0853 150mg once daily from Day 1 to 56. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Cohort 2: GDC-0853 200mg BID | EXPERIMENTAL | Participants received GDC-0853 200mg twice daily from Day 1 to 56. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| Cohort 1: Placebo | PLACEBO_COMPARATOR | Participants received matching placebo twice daily from Day 1 to 56. | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Cohort 1: GDC-0853 200mg BID | EXPERIMENTAL | Participants received GDC-0853 200mg twice daily from Day 1 to 56. | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Cohort 2: Placebo | PLACEBO_COMPARATOR | Participants received matching placebo up to twice daily from Day 1 to 56. | 23 | Directly supported by linked local publication/source text |
+| Cohort 2: GDC-0853 50mg QD | EXPERIMENTAL | Participants received GDC-0853 50mg once daily from Day 1 to 56. | 23 | Directly supported by linked local publication/source text |
+| Cohort 2: GDC-0853 150mg QD | EXPERIMENTAL | Participants received GDC-0853 150mg once daily from Day 1 to 56. | 24 | Directly supported by linked local publication/source text |
+| Cohort 2: GDC-0853 200mg BID | EXPERIMENTAL | Participants received GDC-0853 200mg twice daily from Day 1 to 56. | 23 | Directly supported by linked local publication/source text |
 
 ## Endpoints
 - Primary outcomes:

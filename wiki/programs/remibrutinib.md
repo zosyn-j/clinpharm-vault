@@ -35,6 +35,26 @@ indications:
 - How strongly the CIndU branch matures relative to the already dense CSU package.
 - Whether comparator studies become mainly differentiation tools or major label-shaping assets.
 
+## Operational study design view
+| Trial | Arms in registry | Active dose levels | Total enrollment | Per-arm sample size summary |
+|---|---:|---:|---:|---|
+| [NCT03926611](../trials/remibrutinib-nct03926611-phase-2b.md) | 7 | 6 | 311 | Publication abstract directly supports 311 total randomized and a 1:1:1:1:1:1:1 design, but the exact realized per-arm N is not stated in the currently saved local excerpt. |
+| [NCT04109313](../trials/remibrutinib-nct04109313.md) | 1 | 1 | 229 | Direct per-arm N has not yet been promoted from the current local source layer. |
+| [NCT05030311](../trials/remibrutinib-nct05030311.md) | 2 | 1 | 470 | 313 remibrutinib, 157 placebo. |
+| [NCT05032157](../trials/remibrutinib-nct05032157.md) | 2 | 1 | 455 | 300 remibrutinib, 155 placebo. |
+| [NCT05048342](../trials/remibrutinib-nct05048342.md) | 1 | 1 | 71 | Direct per-arm N has not yet been promoted from the current local source layer. |
+| [NCT05170724](../trials/remibrutinib-nct05170724.md) | NR | NR | None | Direct per-arm N has not yet been promoted from the current local source layer. |
+| [NCT05513001](../trials/remibrutinib-nct05513001.md) | 3 | 2 | 696 | Direct per-arm N has not yet been promoted from the current local source layer. |
+| [NCT05677451](../trials/remibrutinib-nct05677451.md) | 2 | 1 | 100 | Direct per-arm N has not yet been promoted from the current local source layer. |
+| [NCT05795153](../trials/remibrutinib-nct05795153.md) | 1 | 1 | 144 | Direct per-arm N has not yet been promoted from the current local source layer. |
+| [NCT05976243](../trials/remibrutinib-nct05976243.md) | 6 | 3 | 362 | Direct per-arm N has not yet been promoted from the current local source layer. |
+| [NCT06042478](../trials/remibrutinib-nct06042478.md) | 4 | 2 | 470 | Direct per-arm N has not yet been promoted from the current local source layer. |
+| [NCT06865651](../trials/remibrutinib-nct06865651.md) | 4 | 2 | 44 | Direct per-arm N has not yet been promoted from the current local source layer. |
+| [NCT06868212](../trials/remibrutinib-nct06868212.md) | 2 | 2 | 400 | Direct per-arm N has not yet been promoted from the current local source layer. |
+| [NCT07358364](../trials/remibrutinib-nct07358364.md) | 3 | 3 | 3280 | Direct per-arm N has not yet been promoted from the current local source layer. |
+| [NCT07358780](../trials/remibrutinib-nct07358780.md) | 3 | 3 | 505 | Direct per-arm N has not yet been promoted from the current local source layer. |
+| [NCT07408219](../trials/remibrutinib-nct07408219.md) | 2 | 2 | 350 | Direct per-arm N has not yet been promoted from the current local source layer. |
+
 ## Program map
 
 ### Early CSU efficacy foundation

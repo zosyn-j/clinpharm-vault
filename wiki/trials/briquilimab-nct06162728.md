@@ -36,11 +36,17 @@ tags:
 
 The trial is intended to determine the safety and tolerability and assess the preliminary efficacy of briquilimab in adult participants with chronic spontaneous urticaria (CSU), who remain symptomatic despite treatment with H1 antihistamines and omalizumab. Additionally, pharmacokinetic (PK) properties of briquilimab, and other pharmacodynamic (PD) parameters (such as effects on mast cells (MC), serum tryptase levels, and on allergic skin reactivity) will be investigated.
 
+## Operational design summary
+- Arms represented in current CT.gov export: 2
+- Active dose levels represented in current local source layer: 1
+- Total study enrollment in CT.gov: 88 (ACTUAL)
+- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+
 ## Arms
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
-| Briquilimab | EXPERIMENTAL | This trial will be performed as a three-part dose escalating clinical trial where Parts 1 is open label and Parts 2 and 3 are randomized, double-blinded, and placebo-controlled. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Placebo | PLACEBO_COMPARATOR | Placebo Comparator | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| Briquilimab | EXPERIMENTAL | This trial will be performed as a three-part dose escalating clinical trial where Parts 1 is open label and Parts 2 and 3 are randomized, double-blinded, and placebo-controlled. | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Placebo | PLACEBO_COMPARATOR | Placebo Comparator | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
 
 ## Endpoints
 - Primary outcomes:

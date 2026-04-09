@@ -37,12 +37,18 @@ tags:
 
 This study will also fulfill the Novartis commitment to provide post-trial access to participants who have completed the preceding Phase 3 studies, where applicable.
 
+## Operational design summary
+- Arms represented in current CT.gov export: 3
+- Active dose levels represented in current local source layer: 2
+- Total study enrollment in CT.gov: 696 (ACTUAL)
+- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+
 ## Arms
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
-| Arm 1: LOU064 (blinded) | EXPERIMENTAL | LOU064 (blinded) taken orally for 24 weeks, followed by cycles of either LOU064 (open-label) taken orally for a maximum of 5 cycles of 24 weeks each OR treatment-free observation cycles. Randomized in a 1:1 ratio (arm 1:arm 2) | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Arm 2: LOU064 Placebo (blinded) | PLACEBO_COMPARATOR | LOU064 placebo (blinded) taken orally for 24 weeks, followed by cycles of either LOU064 (open-label) taken orally for a maximum of 5 cycles of 24 weeks each OR treatment-free observation cycles. Randomized in a 1:1 ratio (arm 1:arm 2) | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Arm 3: LOU064 (Open Label) | EXPERIMENTAL | LOU064 (open-label) taken orally for 24 weeks per treatment cycle (Arm 3) | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| Arm 1: LOU064 (blinded) | EXPERIMENTAL | LOU064 (blinded) taken orally for 24 weeks, followed by cycles of either LOU064 (open-label) taken orally for a maximum of 5 cycles of 24 weeks each OR treatment-free observation cycles. Randomized in a 1:1 ratio (arm 1:arm 2) | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Arm 2: LOU064 Placebo (blinded) | PLACEBO_COMPARATOR | LOU064 placebo (blinded) taken orally for 24 weeks, followed by cycles of either LOU064 (open-label) taken orally for a maximum of 5 cycles of 24 weeks each OR treatment-free observation cycles. Randomized in a 1:1 ratio (arm 1:arm 2) | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Arm 3: LOU064 (Open Label) | EXPERIMENTAL | LOU064 (open-label) taken orally for 24 weeks per treatment cycle (Arm 3) | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
 
 ## Key source-backed points
 - CT.gov lists 696 actual participants and describes a randomized-withdrawal epoch followed by repeated open-label treatment cycles.

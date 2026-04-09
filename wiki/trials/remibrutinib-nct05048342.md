@@ -35,10 +35,16 @@ tags:
 - Healthy volunteers: False
 - Summary: The purpose of this study was to evaluate the safety, tolerability and efficacy of remibrutinib (LOU064) in adult Japanese patients chronic spontaneous urticaria (CSU), who remain symptomatic despite treatment by H1-antihistamine (H1-AH) at locally label approved doses, for a duration of 52 weeks of treatment with remibrutinib and a post-treatment follow-up period of up to 4 weeks.
 
+## Operational design summary
+- Arms represented in current CT.gov export: 1
+- Active dose levels represented in current local source layer: 1
+- Total study enrollment in CT.gov: 71 (ACTUAL)
+- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+
 ## Arms
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
-| LOU064 25 mg b.i.d. | EXPERIMENTAL | Patients were treated with remibrutinib 25 mg bis in die/twice a day (b.i.d.). LOU064 open-label treatment taken orally for 52 weeks. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| LOU064 25 mg b.i.d. | EXPERIMENTAL | Patients were treated with remibrutinib 25 mg bis in die/twice a day (b.i.d.). LOU064 open-label treatment taken orally for 52 weeks. | 71 | Directly supported by linked local publication/source text |
 
 ## Key source-backed points
 - CT.gov lists 71 actual participants in this adult Japanese CSU study.

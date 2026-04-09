@@ -33,13 +33,19 @@ tags:
 - Healthy volunteers: False
 - Summary: The purpose of this study is to establish the efficacy, safety and tolerability of barzolvolimab in adult participants with Chronic Spontaneous Urticaria (CSU) inadequately controlled by non-sedating second generation H1-antihistamines in comparison to placebo.
 
+## Operational design summary
+- Arms represented in current CT.gov export: 4
+- Active dose levels represented in current local source layer: 4
+- Total study enrollment in CT.gov: 963 (ACTUAL)
+- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+
 ## Arms
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
-| barzolvolimab 150 mg | EXPERIMENTAL | barzolvolimab given once as a 300 mg subcutaneous injection followed by 150 mg administered every 4 weeks for 52 weeks | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| barzolvolimab 300 mg | EXPERIMENTAL | barzolvolimab given once as a 450 mg subcutaneous injection followed by 300 mg administered every 8 weeks for 52 weeks | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Placebo then barzolvolimab 150 mg | EXPERIMENTAL | Placebo injection subcutaneous every 4 weeks for 24 weeks and then barzolvolimab 300 mg followed by 150 mg administered every 4 weeks for 28 weeks. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Placebo then barzolvolimab 300 mg | EXPERIMENTAL | Placebo injection subcutaneous every 4 weeks for 24 weeks and then barzolvolimab 450 mg followed by 300 mg administered every 8 weeks for 28 weeks. | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| barzolvolimab 150 mg | EXPERIMENTAL | barzolvolimab given once as a 300 mg subcutaneous injection followed by 150 mg administered every 4 weeks for 52 weeks | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| barzolvolimab 300 mg | EXPERIMENTAL | barzolvolimab given once as a 450 mg subcutaneous injection followed by 300 mg administered every 8 weeks for 52 weeks | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Placebo then barzolvolimab 150 mg | EXPERIMENTAL | Placebo injection subcutaneous every 4 weeks for 24 weeks and then barzolvolimab 300 mg followed by 150 mg administered every 4 weeks for 28 weeks. | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
+| Placebo then barzolvolimab 300 mg | EXPERIMENTAL | Placebo injection subcutaneous every 4 weeks for 24 weeks and then barzolvolimab 450 mg followed by 300 mg administered every 8 weeks for 28 weeks. | NR | Per-arm realized N not directly captured in current promoted local evidence for this arm label |
 
 ## Endpoints
 - Primary outcomes:

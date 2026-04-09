@@ -32,6 +32,13 @@ indications:
 ### What to watch next
 - Whether one phenotype becomes the clear lead path for registrational development.
 
+## Operational study design view
+| Trial | Arms in registry | Active dose levels | Total enrollment | Per-arm sample size summary |
+|---|---:|---:|---:|---|
+| [NCT06162728](../trials/briquilimab-nct06162728.md) | 2 | 1 | 88 | Direct per-arm N has not yet been promoted from the current local source layer. |
+| [NCT06353971](../trials/briquilimab-nct06353971.md) | 1 | 1 | 27 | Direct per-arm N has not yet been promoted from the current local source layer. |
+| [NCT06736262](../trials/briquilimab-nct06736262.md) | 1 | 1 | 67 | Direct per-arm N has not yet been promoted from the current local source layer. |
+
 ## Study Inventory
 
 ### Completed / historical studies

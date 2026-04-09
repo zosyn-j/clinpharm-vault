@@ -14,6 +14,7 @@ REGISTRY_PATH = ROOT / 'inventories' / 'source_registry.json'
 CTGOV_PATH = ROOT / 'inventories' / 'ctgov_priority_trials.json'
 
 NCT_RE = re.compile(r'NCT\d{8}', re.IGNORECASE)
+CTGOV_BY_NCT: dict[str, dict] = {}
 
 CLASS_TO_MECHANISM = {
     'BTK': "Bruton's tyrosine kinase pathway program",
@@ -183,6 +184,75 @@ REMI_PROGRAM_GROUPS = [
     ('CIndU and broader urticaria expansion', ['NCT05976243']),
     ('Access and real-world evidence layer', ['NCT05170724', 'NCT07358364', 'NCT07358780', 'NCT07408219']),
 ]
+
+TRIAL_OPERATIONAL_OVERRIDES = {
+    'NCT03926611': {
+        'active_dose_levels_count': 6,
+        'design_summary': '7-arm dose-finding study with 6 active oral remibrutinib regimens plus placebo.',
+        'per_arm_summary': 'Publication abstract directly supports 311 total randomized and a 1:1:1:1:1:1:1 design, but the exact realized per-arm N is not stated in the currently saved local excerpt.',
+        'source_note': 'ClinicalTrials.gov markdown plus PMID 36096203 abstract.',
+    },
+    'NCT05030311': {
+        'active_dose_levels_count': 1,
+        'design_summary': '2-arm placebo-controlled pivotal REMIX-1 study with remibrutinib 25 mg twice daily versus placebo.',
+        'per_arm_summary': '313 remibrutinib, 157 placebo.',
+        'arm_sizes': {
+            'LOU064 25mg b.i.d.': '313',
+            'Placebo': '157',
+        },
+        'source_note': 'PMID 40043237 abstract.',
+    },
+    'NCT05032157': {
+        'active_dose_levels_count': 1,
+        'design_summary': '2-arm placebo-controlled pivotal REMIX-2 study with remibrutinib 25 mg twice daily versus placebo.',
+        'per_arm_summary': '300 remibrutinib, 155 placebo.',
+        'arm_sizes': {
+            'LOU064 25mg b.i.d.': '300',
+            'Placebo': '155',
+        },
+        'source_note': 'PMID 40043237 abstract.',
+    },
+    'NCT04538794': {
+        'active_dose_levels_count': 4,
+        'design_summary': 'Sequential 4-cohort phase 1b IV multiple-ascending-dose study with pooled placebo control.',
+        'per_arm_summary': '45 randomized total, with 35 barzolvolimab-treated and 10 placebo-treated overall; publication abstract also lists four dose cohorts (0.5 mg/kg Q4W, 1.5 mg/kg Q4W, 3 mg/kg Q8W, 4.5 mg/kg Q8W).',
+        'arm_sizes': {
+            'CDX-0159': '35',
+            'Normal Saline': '10',
+        },
+        'source_note': 'PMID 40415544 abstract plus PMCID PMC12368744 full text.',
+    },
+    'NCT04548869': {
+        'active_dose_levels_count': 1,
+        'design_summary': 'Single-dose open-label CIndU study using one active barzolvolimab regimen.',
+        'per_arm_summary': 'ClinicalTrials.gov arm description states planned enrollment of 20 Cold Contact Urticaria, 10 Symptomatic Dermographism, and 10 Cholinergic Urticaria patients; CT.gov lists 41 actual participants overall.',
+        'source_note': 'ClinicalTrials.gov markdown arm description.',
+    },
+    'NCT05368285': {
+        'active_dose_levels_count': 3,
+        'design_summary': 'Placebo-controlled 16-week core with three active barzolvolimab dose regimens, followed by re-randomized active extension reflected in the 6 CT.gov arm groups.',
+        'per_arm_summary': 'Publication abstract supports placebo-controlled core randomization of 75 mg Q4W (n=53), 150 mg Q4W (n=52), 300 mg Q8W (n=51), and placebo (n=51).',
+        'source_note': 'PMID 41747871 abstract.',
+    },
+    'NCT03137069': {
+        'active_dose_levels_count': 3,
+        'design_summary': 'Pilot plus dose-ranging fenebrutinib phase 2 study with separate cohort 1 and cohort 2 structures.',
+        'per_arm_summary': 'PMCID full text directly supports cohort 2 randomized sizes of placebo n=23, fenebrutinib 50 mg daily n=23, 150 mg daily n=24, and 200 mg twice daily n=23; CT.gov lists 134 actual participants overall across both cohorts.',
+        'arm_sizes': {
+            'Cohort 2: Placebo': '23',
+            'Cohort 2: GDC-0853 50mg QD': '23',
+            'Cohort 2: GDC-0853 150mg QD': '24',
+            'Cohort 2: GDC-0853 200mg BID': '23',
+        },
+        'source_note': 'PMCID PMC8604722 full text.',
+    },
+    'NCT05107115': {
+        'active_dose_levels_count': 3,
+        'design_summary': '4-arm phase 2 dose-ranging study with three oral rilzabrutinib regimens plus placebo.',
+        'per_arm_summary': 'PMCID full text directly supports randomized sizes of 400 mg/d n=38, 800 mg/d n=41, 1200 mg/d n=41, and placebo n=40 overall; it also reports primary-analysis sample sizes of placebo n=36, 400 mg/d n=37, 800 mg/d n=35, and 1200 mg/d n=35.',
+        'source_note': 'PMID 40266575 abstract plus PMCID PMC12019677 full text.',
+    },
+}
 
 PROGRAM_STRATEGY_OVERRIDES = {
     'barzolvolimab': {
@@ -384,6 +454,37 @@ def get_program_strategy(program_entry: dict) -> dict:
     }
 
 
+def get_trial_operational_override(trial_id: str) -> dict:
+    return TRIAL_OPERATIONAL_OVERRIDES.get(trial_id, {})
+
+
+def active_dose_levels_from_ct(ct: dict) -> int | None:
+    experimental = [arm for arm in (ct.get('arm_groups') or []) if (arm.get('type') or '').upper() != 'PLACEBO_COMPARATOR']
+    return len(experimental) or None
+
+
+def trial_operational_snapshot(ct: dict) -> dict:
+    trial_id = ct.get('nct_id') or ct.get('trial_id')
+    override = get_trial_operational_override(trial_id)
+    arm_groups = ct.get('arm_groups') or []
+    arm_count = len(arm_groups) or None
+    active_dose_levels = override.get('active_dose_levels_count') or active_dose_levels_from_ct(ct)
+    arm_sizes = dict(override.get('arm_sizes', {}))
+    enrollment = ct.get('enrollment')
+    if not arm_sizes and len(arm_groups) == 1 and enrollment not in (None, '', 'NR'):
+        label = arm_groups[0].get('label')
+        if label:
+            arm_sizes[label] = str(enrollment)
+    return {
+        'arm_count': arm_count,
+        'active_dose_levels_count': active_dose_levels,
+        'design_summary': override.get('design_summary'),
+        'per_arm_summary': override.get('per_arm_summary'),
+        'source_note': override.get('source_note'),
+        'arm_sizes': arm_sizes,
+    }
+
+
 def append_strategy_section(lines: list[str], program_entry: dict):
     strategy = get_program_strategy(program_entry)
     lines.extend([
@@ -491,6 +592,21 @@ def build_remibrutinib_program_page(program_entry: dict, trial_slug_map: dict[st
     ]
     append_strategy_section(lines, program_entry)
     lines.extend([
+        '## Operational study design view',
+        '| Trial | Arms in registry | Active dose levels | Total enrollment | Per-arm sample size summary |',
+        '|---|---:|---:|---:|---|',
+    ])
+    for trial in program_entry.get('ctgov_trials', []):
+        ct_rec = CTGOV_BY_NCT.get(trial['trial_id'], trial)
+        snap = trial_operational_snapshot(ct_rec)
+        link_name = trial_link_name(program_entry['program_key'], trial['trial_id'], trial_slug_map)
+        arm_count = snap['arm_count'] if snap['arm_count'] is not None else 'NR'
+        dose_count = snap['active_dose_levels_count'] if snap['active_dose_levels_count'] is not None else 'NR'
+        total_enrollment = ct_rec.get('enrollment', trial.get('enrollment', 'NR'))
+        per_arm = snap['per_arm_summary'] or 'Direct per-arm N has not yet been promoted from the current local source layer.'
+        lines.append(f"| [{trial['trial_id']}](../trials/{link_name}) | {arm_count} | {dose_count} | {total_enrollment} | {per_arm} |")
+    lines.extend([
+        '',
         '## Program map',
         '',
     ])
@@ -598,6 +714,21 @@ def build_program_page(program_entry: dict, trial_slug_map: dict[str, str]) -> s
     ]
     append_strategy_section(lines, program_entry)
     lines.extend([
+        '## Operational study design view',
+        '| Trial | Arms in registry | Active dose levels | Total enrollment | Per-arm sample size summary |',
+        '|---|---:|---:|---:|---|',
+    ])
+    for trial in program_entry.get('ctgov_trials', []):
+        ct_rec = CTGOV_BY_NCT.get(trial['trial_id'], trial)
+        snap = trial_operational_snapshot(ct_rec)
+        link_name = trial_link_name(program_entry['program_key'], trial['trial_id'], trial_slug_map)
+        arm_count = snap['arm_count'] if snap['arm_count'] is not None else 'NR'
+        dose_count = snap['active_dose_levels_count'] if snap['active_dose_levels_count'] is not None else 'NR'
+        total_enrollment = ct_rec.get('enrollment', trial.get('enrollment', 'NR'))
+        per_arm = snap['per_arm_summary'] or 'Direct per-arm N has not yet been promoted from the current local source layer.'
+        lines.append(f"| [{trial['trial_id']}](../trials/{link_name}) | {arm_count} | {dose_count} | {total_enrollment} | {per_arm} |")
+    lines.extend([
+        '',
         '## Study Inventory',
         '',
     ])
@@ -712,6 +843,7 @@ def summarize_cp_findings(ct: dict, trial_registry_entry: dict) -> list[str]:
 def build_trial_page(program_entry: dict, ct: dict, trial_registry_entry: dict) -> str:
     title = trial_display_title(program_entry['program_key'], ct)
     override = remi_override(ct['nct_id']) if program_entry['program_key'] == 'remibrutinib' else {}
+    operational = trial_operational_snapshot(ct)
     lines = [
         trial_frontmatter(ct, program_entry['program_key']),
         f"# {title}",
@@ -745,14 +877,35 @@ def build_trial_page(program_entry: dict, ct: dict, trial_registry_entry: dict) 
     if ct.get('brief_summary'):
         lines.append(f"- Summary: {ct['brief_summary']}")
 
+    lines.extend(['', '## Operational design summary'])
+    lines.append(f"- Arms represented in current CT.gov export: {operational['arm_count'] if operational['arm_count'] is not None else 'NR'}")
+    lines.append(f"- Active dose levels represented in current local source layer: {operational['active_dose_levels_count'] if operational['active_dose_levels_count'] is not None else 'NR'}")
+    lines.append(f"- Total study enrollment in CT.gov: {ct.get('enrollment', 'NR')} ({ct.get('enrollment_type', 'NR')})")
+    if operational.get('design_summary'):
+        lines.append(f"- Design interpretation: {operational['design_summary']}")
+    if operational.get('per_arm_summary'):
+        lines.append(f"- Per-arm sample size summary: {operational['per_arm_summary']}")
+    else:
+        lines.append('- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.')
+    if operational.get('source_note'):
+        lines.append(f"- Arm-size evidence source: {operational['source_note']}")
+
     lines.extend(['', '## Arms', '| Arm | Type | Description | N | Evidence status |', '|---|---|---|---:|---|'])
     if ct.get('arm_groups'):
         for arm in ct['arm_groups']:
             desc = (arm.get('description') or 'NR').replace('\n', ' ')
-            label = arm.get('label', 'NR').replace('|', '\\|')
+            raw_label = arm.get('label', 'NR')
+            label = raw_label.replace('|', '\\|')
             atype = (arm.get('type') or 'NR').replace('|', '\\|')
             desc = desc.replace('|', '\\|')
-            lines.append(f"| {label} | {atype} | {desc} | NR | Per-arm realized N not directly captured in current CT.gov inventory export |")
+            exact_n = operational.get('arm_sizes', {}).get(raw_label)
+            if exact_n:
+                evidence_status = 'Directly supported by linked local publication/source text'
+                n_value = exact_n
+            else:
+                evidence_status = 'Per-arm realized N not directly captured in current promoted local evidence for this arm label'
+                n_value = 'NR'
+            lines.append(f"| {label} | {atype} | {desc} | {n_value} | {evidence_status} |")
     else:
         lines.append('| NR | NR | No arm-group details parsed into current inventory | NR | NR |')
 
@@ -911,9 +1064,11 @@ def build_query_pages(registry: dict, trial_slug_map: dict[str, str]):
 
 
 def main():
+    global CTGOV_BY_NCT
     registry = load_json(REGISTRY_PATH)
     ctgov_records = load_json(CTGOV_PATH)
     ct_by_nct = {rec['nct_id']: rec for rec in ctgov_records}
+    CTGOV_BY_NCT = ct_by_nct
     trial_slug_map = existing_trial_slug_map()
     program_slug_map = existing_program_slug_map()
 

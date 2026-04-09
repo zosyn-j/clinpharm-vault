@@ -35,11 +35,19 @@ tags:
 - Healthy volunteers: False
 - Summary: The purpose of this study was to establish the efficacy, safety, and tolerability of remibrutinib (LOU064) in adult participants suffering from chronic spontaneous urticaria (CSU) inadequately controlled by H1-antihistamines in comparison to placebo.
 
+## Operational design summary
+- Arms represented in current CT.gov export: 2
+- Active dose levels represented in current local source layer: 1
+- Total study enrollment in CT.gov: 470 (ACTUAL)
+- Design interpretation: 2-arm placebo-controlled pivotal REMIX-1 study with remibrutinib 25 mg twice daily versus placebo.
+- Per-arm sample size summary: 313 remibrutinib, 157 placebo.
+- Arm-size evidence source: PMID 40043237 abstract.
+
 ## Arms
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
-| LOU064 25mg b.i.d. | EXPERIMENTAL | Patients initially randomized to Remibrutinib during the Double-blind treatment period and continued Remibrutinib during the Open-label treatment period (Up to Week 52) | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
-| Placebo | PLACEBO_COMPARATOR | Patients initially randomized to Placebo (Up to Week 24) | NR | Per-arm realized N not directly captured in current CT.gov inventory export |
+| LOU064 25mg b.i.d. | EXPERIMENTAL | Patients initially randomized to Remibrutinib during the Double-blind treatment period and continued Remibrutinib during the Open-label treatment period (Up to Week 52) | 313 | Directly supported by linked local publication/source text |
+| Placebo | PLACEBO_COMPARATOR | Patients initially randomized to Placebo (Up to Week 24) | 157 | Directly supported by linked local publication/source text |
 
 ## Key source-backed points
 - PMID 40043237 explicitly identifies this as REMIX-1 and reports 470 randomized patients, with 313 assigned to remibrutinib and 157 to placebo.

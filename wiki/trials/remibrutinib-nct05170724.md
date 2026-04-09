@@ -34,6 +34,12 @@ tags:
 - Healthy volunteers: False
 - Summary: The purpose of this Managed Access Program (MAP) Cohort Treatment Plan is to provide access to remibrutinib for adult patients with chronic spontaneous urticaria (CSU)
 
+## Operational design summary
+- Arms represented in current CT.gov export: NR
+- Active dose levels represented in current local source layer: NR
+- Total study enrollment in CT.gov: None (None)
+- Per-arm sample size summary: direct per-arm N has not yet been promoted from the current local source layer.
+
 ## Arms
 | Arm | Type | Description | N | Evidence status |
 |---|---|---|---:|---|
