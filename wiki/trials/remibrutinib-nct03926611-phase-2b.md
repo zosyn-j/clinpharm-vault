@@ -40,19 +40,19 @@ tags:
 - Active dose regimens represented in current local source layer: 6
 - Total study enrollment in CT.gov: 311 (ACTUAL)
 - Design interpretation: 7-arm dose-finding study with 6 active oral remibrutinib regimens plus placebo.
-- Per-arm sample size summary: Publication abstract directly supports 311 total randomized and a 1:1:1:1:1:1:1 design, but the exact realized per-arm N is not stated in the currently saved local excerpt.
-- Arm-size evidence source: ClinicalTrials.gov markdown plus PMID 36096203 abstract.
+- Per-arm sample size summary: ClinicalTrials.gov results-section denominators support randomized group sizes of 44 (Arm 1), 44 (Arm 2), 47 (Arm 3), 44 (Arm 4), 44 (Arm 5), 45 (Arm 6), and 43 (placebo), totaling 311 participants.
+- Arm-size evidence source: ClinicalTrials.gov API v2 resultsSection participant flow and baseline-characteristics denominators, plus PMID 36096203 abstract.
 
 ## Arms
 | Arm | Type | Dose | Frequency | Route | Description | N | Evidence status |
 |---|---|---|---|---|---|---:|---|
-| LOU064 Arm 1 | EXPERIMENTAL | 10 mg | QD | Oral | 10 mg LOU064 qd capsule once daily | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
-| LOU064 Arm 2 | EXPERIMENTAL | 35 mg | QD | Oral | 35 mg capsule qd LOU064 once daily | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
-| LOU064 Arm 3 | EXPERIMENTAL | 100 mg | QD | Oral | 100 mg capsule qd LOU064 once daily | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
-| LOU064 Arm 4 | EXPERIMENTAL | 10 mg | BID | Oral | 10 mg capsule LOU064 bid | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
-| LOU064 Arm 5 | EXPERIMENTAL | 25 mg | BID | Oral | 25 mg capsule LOU064 bid | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
-| LOU064 Arm 6 | EXPERIMENTAL | 100 mg | BID | Oral | 100 mg capsule LOU064 bid | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
-| Placebo Arm | PLACEBO_COMPARATOR | NR | BID | NR | Participants took matching placebo twice daily | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| LOU064 Arm 1 | EXPERIMENTAL | 10 mg | QD | Oral | 10 mg LOU064 qd capsule once daily | 44 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
+| LOU064 Arm 2 | EXPERIMENTAL | 35 mg | QD | Oral | 35 mg capsule qd LOU064 once daily | 44 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
+| LOU064 Arm 3 | EXPERIMENTAL | 100 mg | QD | Oral | 100 mg capsule qd LOU064 once daily | 47 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
+| LOU064 Arm 4 | EXPERIMENTAL | 10 mg | BID | Oral | 10 mg capsule LOU064 bid | 44 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
+| LOU064 Arm 5 | EXPERIMENTAL | 25 mg | BID | Oral | 25 mg capsule LOU064 bid | 44 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
+| LOU064 Arm 6 | EXPERIMENTAL | 100 mg | BID | Oral | 100 mg capsule LOU064 bid | 45 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
+| Placebo Arm | PLACEBO_COMPARATOR | NR | BID | NR | Participants took matching placebo twice daily | 43 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
 
 ## Key source-backed points
 - PMID 36096203 identifies this as the randomized phase 2b CSU dose-finding trial and reports 311 randomized patients across 6 remibrutinib regimens plus placebo.

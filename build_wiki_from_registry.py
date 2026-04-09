@@ -189,8 +189,17 @@ TRIAL_OPERATIONAL_OVERRIDES = {
     'NCT03926611': {
         'active_dose_levels_count': 6,
         'design_summary': '7-arm dose-finding study with 6 active oral remibrutinib regimens plus placebo.',
-        'per_arm_summary': 'Publication abstract directly supports 311 total randomized and a 1:1:1:1:1:1:1 design, but the exact realized per-arm N is not stated in the currently saved local excerpt.',
-        'source_note': 'ClinicalTrials.gov markdown plus PMID 36096203 abstract.',
+        'per_arm_summary': 'ClinicalTrials.gov results-section denominators support randomized group sizes of 44 (Arm 1), 44 (Arm 2), 47 (Arm 3), 44 (Arm 4), 44 (Arm 5), 45 (Arm 6), and 43 (placebo), totaling 311 participants.',
+        'arm_sizes': {
+            'LOU064 Arm 1': '44',
+            'LOU064 Arm 2': '44',
+            'LOU064 Arm 3': '47',
+            'LOU064 Arm 4': '44',
+            'LOU064 Arm 5': '44',
+            'LOU064 Arm 6': '45',
+            'Placebo Arm': '43',
+        },
+        'source_note': 'ClinicalTrials.gov API v2 resultsSection participant flow and baseline-characteristics denominators, plus PMID 36096203 abstract.',
     },
     'NCT05030311': {
         'active_dose_levels_count': 1,
@@ -236,7 +245,11 @@ TRIAL_OPERATIONAL_OVERRIDES = {
     'NCT05368285': {
         'active_dose_levels_count': 3,
         'design_summary': 'Placebo-controlled 16-week core with three active barzolvolimab dose regimens, followed by re-randomized active extension reflected in the 6 CT.gov arm groups.',
-        'per_arm_summary': 'Publication abstract supports placebo-controlled core randomization of 75 mg Q4W (n=53), 150 mg Q4W (n=52), 300 mg Q8W (n=51), and placebo (n=51).',
+        'per_arm_summary': 'Publication abstract supports placebo-controlled core randomization of 75 mg Q4W (n=53), 150 mg Q4W (n=52), 300 mg Q8W (n=51), and placebo (n=51). The currently generated 52-week CT.gov labels only map cleanly to the sustained 150 mg and 300 mg arms; the re-randomized 75 mg and placebo extension arms remain unresolved at exact row level in the current local evidence layer.',
+        'arm_sizes': {
+            'barzolvolimab 150 mg': '52',
+            'barzolvolimab 300 mg': '51',
+        },
         'source_note': 'PMID 41747871 abstract.',
     },
     'NCT05405660': {
@@ -256,20 +269,55 @@ TRIAL_OPERATIONAL_OVERRIDES = {
     'NCT03137069': {
         'active_dose_levels_count': 3,
         'design_summary': 'Pilot plus dose-ranging fenebrutinib phase 2 study with separate cohort 1 and cohort 2 structures.',
-        'per_arm_summary': 'PMCID full text directly supports cohort 2 randomized sizes of placebo n=23, fenebrutinib 50 mg daily n=23, 150 mg daily n=24, and 200 mg twice daily n=23; CT.gov lists 134 actual participants overall across both cohorts.',
+        'per_arm_summary': 'ClinicalTrials.gov results-section denominators support cohort 1 placebo n=13 and fenebrutinib 200 mg BID n=28, plus cohort 2 placebo n=23, fenebrutinib 50 mg daily n=23, 150 mg daily n=24, and 200 mg twice daily n=23, totaling 134 participants.',
         'arm_sizes': {
+            'Cohort 1: Placebo': '13',
+            'Cohort 1: GDC-0853 200mg BID': '28',
             'Cohort 2: Placebo': '23',
             'Cohort 2: GDC-0853 50mg QD': '23',
             'Cohort 2: GDC-0853 150mg QD': '24',
             'Cohort 2: GDC-0853 200mg BID': '23',
         },
-        'source_note': 'PMCID PMC8604722 full text.',
+        'source_note': 'ClinicalTrials.gov API v2 resultsSection participant flow and baseline-characteristics denominators; PMCID PMC8604722 full text remains the linked manuscript source.',
+    },
+    'NCT03693625': {
+        'active_dose_levels_count': 1,
+        'design_summary': 'Open-label fenebrutinib extension study that re-treated participants according to parent-study assignment in cohort 2 of GS39684.',
+        'per_arm_summary': 'ClinicalTrials.gov results-section denominators support parent-study GDC-0853 n=23 and parent-study placebo n=8, totaling 31 participants.',
+        'arm_sizes': {
+            'Parent Study: GDC-0853': '23',
+            'Parent Study: Placebo': '8',
+        },
+        'source_note': 'ClinicalTrials.gov API v2 resultsSection participant flow and baseline-characteristics denominators.',
     },
     'NCT05107115': {
         'active_dose_levels_count': 3,
         'design_summary': '4-arm phase 2 dose-ranging study with three oral rilzabrutinib regimens plus placebo.',
         'per_arm_summary': 'PMCID full text directly supports randomized sizes of 400 mg/d n=38, 800 mg/d n=41, 1200 mg/d n=41, and placebo n=40 overall; it also reports primary-analysis sample sizes of placebo n=36, 400 mg/d n=37, 800 mg/d n=35, and 1200 mg/d n=35.',
-        'source_note': 'PMID 40266575 abstract plus PMCID PMC12019677 full text.',
+        'arm_sizes': {
+            'Rilzabrutinib dose A': '38',
+            'Rilzabrutinib dose B': '41',
+            'Rilzabrutinib dose C': '41',
+            'Placebo': '40',
+        },
+        'arm_regimens': {
+            'Rilzabrutinib dose A': {'dose': '400 mg', 'frequency': 'QPM', 'route': 'Oral'},
+            'Rilzabrutinib dose B': {'dose': '400 mg', 'frequency': 'BID', 'route': 'Oral'},
+            'Rilzabrutinib dose C': {'dose': '400 mg', 'frequency': 'TID', 'route': 'Oral'},
+            'Placebo': {'dose': 'NR', 'frequency': 'Matched oral placebo', 'route': 'Oral'},
+        },
+        'source_note': 'PMID 40266575 abstract plus PMCID PMC12019677 full text; CT.gov dose A/B/C rows are mapped to the publication regimen order (400 mg QPM, 400 mg BID, 400 mg TID).',
+    },
+    'NCT06077773': {
+        'active_dose_levels_count': 3,
+        'design_summary': 'Terminated phase 2 CSU study with placebo, EP262 50 mg, and EP262 150 mg enrolled in Part 1; CT.gov still lists a planned EP262 25 mg arm not carried into the posted results groups.',
+        'per_arm_summary': 'ClinicalTrials.gov results-section denominators support placebo n=38, EP262 50 mg n=37, and EP262 150 mg n=38, totaling 113 participants. The posted results note that Part 2 was not enrolled, so the listed EP262 25 mg row remains unresolved in the current local layer.',
+        'arm_sizes': {
+            'Placebo': '38',
+            'EP262 50 mg': '37',
+            'EP262 150 mg': '38',
+        },
+        'source_note': 'ClinicalTrials.gov API v2 resultsSection participant flow and baseline-characteristics denominators.',
     },
     'NCT06865651': {
         'active_dose_levels_count': 2,
@@ -629,6 +677,7 @@ def trial_operational_snapshot(ct: dict) -> dict:
         if label:
             arm_sizes[label] = str(enrollment)
     arm_regimens = {arm.get('label', 'NR'): arm_regimen_details(arm) for arm in arm_groups}
+    arm_regimens.update(override.get('arm_regimens', {}))
     return {
         'arm_count': arm_count,
         'active_dose_levels_count': active_dose_levels,

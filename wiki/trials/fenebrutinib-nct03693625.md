@@ -37,14 +37,15 @@ tags:
 - Arms represented in current CT.gov export: 2
 - Active dose regimens represented in current local source layer: 1
 - Total study enrollment in CT.gov: 31 (ACTUAL)
-- Per-arm sample size summary: 31 total across 2 listed arms; exact arm-specific counts are not explicitly stated in the current local source text.
-- Arm-size evidence source: ClinicalTrials.gov arm descriptions and summary text.
+- Design interpretation: Open-label fenebrutinib extension study that re-treated participants according to parent-study assignment in cohort 2 of GS39684.
+- Per-arm sample size summary: ClinicalTrials.gov results-section denominators support parent-study GDC-0853 n=23 and parent-study placebo n=8, totaling 31 participants.
+- Arm-size evidence source: ClinicalTrials.gov API v2 resultsSection participant flow and baseline-characteristics denominators.
 
 ## Arms
 | Arm | Type | Dose | Frequency | Route | Description | N | Evidence status |
 |---|---|---|---|---|---|---:|---|
-| Parent Study: GDC-0853 | EXPERIMENTAL | 200mg | NR | Oral | Participants (who had received 50, 150 and 200mg GDC-0853 in Cohort 2 of the Parent GS39684 Study) received open-label fenebrutinib/GDC-0853 at a dose of 200mg orally twice a day. | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
-| Parent Study: Placebo | PLACEBO_COMPARATOR | 200mg | NR | Oral | Participants (who had received Placebo in Cohort 2 of the Parent GS39684 Study) received open-label fenebrutinib/GDC-0853 at a dose of 200mg orally twice a day. | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| Parent Study: GDC-0853 | EXPERIMENTAL | 200mg | NR | Oral | Participants (who had received 50, 150 and 200mg GDC-0853 in Cohort 2 of the Parent GS39684 Study) received open-label fenebrutinib/GDC-0853 at a dose of 200mg orally twice a day. | 23 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
+| Parent Study: Placebo | PLACEBO_COMPARATOR | 200mg | NR | Oral | Participants (who had received Placebo in Cohort 2 of the Parent GS39684 Study) received open-label fenebrutinib/GDC-0853 at a dose of 200mg orally twice a day. | 8 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
 
 ## Endpoints
 - Primary outcomes:

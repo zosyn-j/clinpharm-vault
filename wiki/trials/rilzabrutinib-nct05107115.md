@@ -41,15 +41,15 @@ After completion of the double-blind phase of the study, participants will be gi
 - Total study enrollment in CT.gov: 161 (ACTUAL)
 - Design interpretation: 4-arm phase 2 dose-ranging study with three oral rilzabrutinib regimens plus placebo.
 - Per-arm sample size summary: PMCID full text directly supports randomized sizes of 400 mg/d n=38, 800 mg/d n=41, 1200 mg/d n=41, and placebo n=40 overall; it also reports primary-analysis sample sizes of placebo n=36, 400 mg/d n=37, 800 mg/d n=35, and 1200 mg/d n=35.
-- Arm-size evidence source: PMID 40266575 abstract plus PMCID PMC12019677 full text.
+- Arm-size evidence source: PMID 40266575 abstract plus PMCID PMC12019677 full text; CT.gov dose A/B/C rows are mapped to the publication regimen order (400 mg QPM, 400 mg BID, 400 mg TID).
 
 ## Arms
 | Arm | Type | Dose | Frequency | Route | Description | N | Evidence status |
 |---|---|---|---|---|---|---:|---|
-| Rilzabrutinib dose A | EXPERIMENTAL | Rilzabrutinib dose A | NR | NR | dose A | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
-| Rilzabrutinib dose B | EXPERIMENTAL | Rilzabrutinib dose B | NR | NR | dose B | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
-| Rilzabrutinib dose C | EXPERIMENTAL | Rilzabrutinib dose C | NR | NR | dose C | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
-| Placebo | PLACEBO_COMPARATOR | NR | NR | NR | Matching placebo | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| Rilzabrutinib dose A | EXPERIMENTAL | 400 mg | QPM | Oral | dose A | 38 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
+| Rilzabrutinib dose B | EXPERIMENTAL | 400 mg | BID | Oral | dose B | 41 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
+| Rilzabrutinib dose C | EXPERIMENTAL | 400 mg | TID | Oral | dose C | 41 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
+| Placebo | PLACEBO_COMPARATOR | NR | Matched oral placebo | Oral | Matching placebo | 40 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
 
 ## Endpoints
 - Primary outcomes:

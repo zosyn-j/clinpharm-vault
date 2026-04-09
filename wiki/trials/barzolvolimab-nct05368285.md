@@ -38,7 +38,7 @@ tags:
 - Active dose regimens represented in current local source layer: 3
 - Total study enrollment in CT.gov: 208 (ACTUAL)
 - Design interpretation: Placebo-controlled 16-week core with three active barzolvolimab dose regimens, followed by re-randomized active extension reflected in the 6 CT.gov arm groups.
-- Per-arm sample size summary: Publication abstract supports placebo-controlled core randomization of 75 mg Q4W (n=53), 150 mg Q4W (n=52), 300 mg Q8W (n=51), and placebo (n=51).
+- Per-arm sample size summary: Publication abstract supports placebo-controlled core randomization of 75 mg Q4W (n=53), 150 mg Q4W (n=52), 300 mg Q8W (n=51), and placebo (n=51). The currently generated 52-week CT.gov labels only map cleanly to the sustained 150 mg and 300 mg arms; the re-randomized 75 mg and placebo extension arms remain unresolved at exact row level in the current local evidence layer.
 - Arm-size evidence source: PMID 41747871 abstract.
 
 ## Arms
@@ -46,8 +46,8 @@ tags:
 |---|---|---|---|---|---|---:|---|
 | barzolvolimab 75 mg then 150 mg | EXPERIMENTAL | 75 mg -> 150 mg | Q4W | Subcutaneous | barzolvolimab 75 mg injection subcutaneous every 4 weeks for 16 weeks and then 150 mg injection subcutaneous every 4 weeks for 36 weeks | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
 | barzolvolimab 75 mg then 300 mg | EXPERIMENTAL | 75 mg -> 300 mg | Q4W + Q8W | Subcutaneous | barzolvolimab 75 mg injection subcutaneous every 4 weeks for 16 weeks and then 300 mg injection subcutaneous every 8 weeks for 36 weeks | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
-| barzolvolimab 150 mg | EXPERIMENTAL | 150 mg | Q4W | Subcutaneous | barzolvolimab 150 mg injection subcutaneous every 4 weeks for 52 weeks | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
-| barzolvolimab 300 mg | EXPERIMENTAL | 300 mg | Q8W | Subcutaneous | barzolvolimab 300 mg injection subcutaneous every 8 weeks for 52 weeks | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| barzolvolimab 150 mg | EXPERIMENTAL | 150 mg | Q4W | Subcutaneous | barzolvolimab 150 mg injection subcutaneous every 4 weeks for 52 weeks | 52 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
+| barzolvolimab 300 mg | EXPERIMENTAL | 300 mg | Q8W | Subcutaneous | barzolvolimab 300 mg injection subcutaneous every 8 weeks for 52 weeks | 51 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
 | Placebo then barzolvolimab 150 mg | EXPERIMENTAL | 150 mg | Q4W | Subcutaneous | Placebo injection subcutaneous every 4 weeks for 16 weeks and then barzolvolimab 150 mg injection subcutaneous every 4 weeks for 36 weeks | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
 | Placebo then barzolvolimab 300 mg | EXPERIMENTAL | 300 mg | Q4W + Q8W | Subcutaneous | Placebo injection subcutaneous every 4 weeks for 16 weeks and then barzolvolimab 300 mg injection subcutaneous every 8 weeks for 36 weeks | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
 

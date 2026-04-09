@@ -38,7 +38,7 @@ indications:
 ## Operational study design view
 | Trial | Arms in registry | Active dose regimens | Total enrollment | Per-arm sample size summary |
 |---|---:|---:|---:|---|
-| [NCT03926611](../trials/remibrutinib-nct03926611-phase-2b.md) | 7 | 6 | 311 | Publication abstract directly supports 311 total randomized and a 1:1:1:1:1:1:1 design, but the exact realized per-arm N is not stated in the currently saved local excerpt. |
+| [NCT03926611](../trials/remibrutinib-nct03926611-phase-2b.md) | 7 | 6 | 311 | ClinicalTrials.gov results-section denominators support randomized group sizes of 44 (Arm 1), 44 (Arm 2), 47 (Arm 3), 44 (Arm 4), 44 (Arm 5), 45 (Arm 6), and 43 (placebo), totaling 311 participants. |
 | [NCT04109313](../trials/remibrutinib-nct04109313.md) | 1 | 1 | 229 | All participants n=229 |
 | [NCT05030311](../trials/remibrutinib-nct05030311.md) | 2 | 1 | 470 | 313 remibrutinib, 157 placebo. |
 | [NCT05032157](../trials/remibrutinib-nct05032157.md) | 2 | 1 | 455 | 300 remibrutinib, 155 placebo. |

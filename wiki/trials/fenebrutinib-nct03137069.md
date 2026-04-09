@@ -38,14 +38,14 @@ tags:
 - Active dose regimens represented in current local source layer: 3
 - Total study enrollment in CT.gov: 134 (ACTUAL)
 - Design interpretation: Pilot plus dose-ranging fenebrutinib phase 2 study with separate cohort 1 and cohort 2 structures.
-- Per-arm sample size summary: PMCID full text directly supports cohort 2 randomized sizes of placebo n=23, fenebrutinib 50 mg daily n=23, 150 mg daily n=24, and 200 mg twice daily n=23; CT.gov lists 134 actual participants overall across both cohorts.
-- Arm-size evidence source: PMCID PMC8604722 full text.
+- Per-arm sample size summary: ClinicalTrials.gov results-section denominators support cohort 1 placebo n=13 and fenebrutinib 200 mg BID n=28, plus cohort 2 placebo n=23, fenebrutinib 50 mg daily n=23, 150 mg daily n=24, and 200 mg twice daily n=23, totaling 134 participants.
+- Arm-size evidence source: ClinicalTrials.gov API v2 resultsSection participant flow and baseline-characteristics denominators; PMCID PMC8604722 full text remains the linked manuscript source.
 
 ## Arms
 | Arm | Type | Dose | Frequency | Route | Description | N | Evidence status |
 |---|---|---|---|---|---|---:|---|
-| Cohort 1: Placebo | PLACEBO_COMPARATOR | NR | BID | NR | Participants received matching placebo twice daily from Day 1 to 56. | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
-| Cohort 1: GDC-0853 200mg BID | EXPERIMENTAL | 200mg | BID | NR | Participants received GDC-0853 200mg twice daily from Day 1 to 56. | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
+| Cohort 1: Placebo | PLACEBO_COMPARATOR | NR | BID | NR | Participants received matching placebo twice daily from Day 1 to 56. | 13 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
+| Cohort 1: GDC-0853 200mg BID | EXPERIMENTAL | 200mg | BID | NR | Participants received GDC-0853 200mg twice daily from Day 1 to 56. | 28 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
 | Cohort 2: Placebo | PLACEBO_COMPARATOR | NR | BID | NR | Participants received matching placebo up to twice daily from Day 1 to 56. | 23 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
 | Cohort 2: GDC-0853 50mg QD | EXPERIMENTAL | 50mg | QD | NR | Participants received GDC-0853 50mg once daily from Day 1 to 56. | 23 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
 | Cohort 2: GDC-0853 150mg QD | EXPERIMENTAL | 150mg | QD | NR | Participants received GDC-0853 150mg once daily from Day 1 to 56. | 24 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
