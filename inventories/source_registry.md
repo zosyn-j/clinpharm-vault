@@ -1,6 +1,6 @@
 # Program and trial source registry
 
-- Generated: 2026-04-09T16:58:14.998407+00:00
+- Generated: 2026-04-09T17:56:39.415269+00:00
 - Built from: `inventories/ctgov_priority_trials.json`, `inventories/sponsor_priority_sources.json`, `inventories/publication_priority_curation.json`
 - Purpose: join raw ClinicalTrials.gov caches, sponsor artifacts, and curated publication records into a single auditable registry by program and trial ID.
 - Linking rule: only attach sponsor artifacts or publications to a specific NCT when an explicit identifier is present in the cached metadata or curated manuscript record.
@@ -10,7 +10,7 @@
 | Program | Class | CT.gov trials | Sponsor artifacts | Primary pubs | Supporting pubs | Publication status |
 |---|---|---:|---:|---:|---:|---|
 | Barzolvolimab | KIT | 8 | 6 | 3 | 2 | primary_manuscripts_found |
-| BLU-808 | KIT | 1 | 4 | 0 | 0 | no_pubmed_hits |
+| BLU-808 | KIT | 1 | 5 | 0 | 0 | no_pubmed_hits |
 | Briquilimab | KIT | 3 | 1 | 0 | 1 | supporting_only |
 | EP262 | MRGPRX2 | 2 | 1 | 0 | 0 | search_collisions_only |
 | EVO756 | MRGPRX2 | 2 | 7 | 0 | 0 | no_pubmed_hits |
@@ -73,7 +73,7 @@
 
 - Priority class(es): KIT
 - CT.gov trials: 1
-- Sponsor artifacts: 4
+- Sponsor artifacts: 5
 - Primary publications: 0
 - Supporting publications: 0
 - Publication status: no_pubmed_hits
@@ -90,6 +90,7 @@
 - AAAAI WAO 2025 publications page (Blueprint Medicines)
 - AAAAI WAO 2025 BLU-808 WT KIT poster (Blueprint Medicines)
 - AAAAI 2024 BLU-808 WT KIT poster (Blueprint Medicines)
+- Sanofi completes acquisition of Blueprint Medicines (Sanofi)
 
 ## Briquilimab
 

@@ -10,7 +10,7 @@ This page is a derived interpretation layer. It is meant to answer the question:
 | Program | Class | Highest phase | Trials | Primary pubs | Strategy confidence | Strategy headline |
 |---|---|---|---:|---:|---|---|
 | [Barzolvolimab](../programs/barzolvolimab.md) | KIT | Phase 3 | 8 | 3 | High | Parallel KIT franchise build across CSU and CIndU, now extending into multiple phase 3 tracks. |
-| [BLU-808](../programs/blu-808.md) | KIT | Phase 2 | 1 | 0 | Low | Broad early basket-style KIT exploration across CSU and CIndU before visible program narrowing. |
+| [BLU-808](../programs/blu-808.md) | KIT | Phase 2 | 1 | 0 | Medium | Broad early wild-type KIT exploration across CSU and CIndU, now carried inside Sanofi after the Blueprint acquisition. |
 | [Briquilimab](../programs/briquilimab.md) | KIT | Phase 2 | 3 | 0 | Medium | Earlier-stage KIT exploration across CSU and CIndU, with extension follow-up but no visible late-stage build yet. |
 | [EP262](../programs/ep262.md) | MRGPRX2 | Phase 2 | 2 | 0 | Low | Split proof-of-concept strategy across CIndU and CSU, but still early and sponsor-heavy in the current evidence layer. |
 | [EVO756](../programs/evo756.md) | MRGPRX2 | Phase 2 | 2 | 0 | Medium | Parallel MRGPRX2 development in CSU and CIndU from the phase 2 stage. |
@@ -36,14 +36,16 @@ This page is a derived interpretation layer. It is meant to answer the question:
 
 ### BLU-808
 - Program page: [open](../programs/blu-808.md)
-- Strategic read: The current registry footprint is still thin, but the visible study design suggests Blueprint is testing whether a wild-type KIT program can generate signal across both spontaneous and inducible urticaria before committing to a narrower late-stage path.
-- Why this read is plausible in the current local layer: Broad early basket-style KIT exploration across CSU and CIndU before visible program narrowing.
-- Evidence depth: 1 CT.gov trials, 0 primary publication(s), 4 sponsor artifact(s)
+- Strategic read: The current registry footprint is still thin, but the visible study design suggests BLU-808 remains a breadth-first wild-type KIT urticaria program spanning both spontaneous and inducible disease. The corporate context changed materially once Sanofi completed the Blueprint Medicines acquisition in July 2025, so future BLU-808 decisions should be read as Sanofi portfolio prioritization rather than a standalone Blueprint narrowing decision.
+- Why this read is plausible in the current local layer: Broad early wild-type KIT exploration across CSU and CIndU, now carried inside Sanofi after the Blueprint acquisition.
+- Evidence depth: 1 CT.gov trials, 0 primary publication(s), 5 sponsor artifact(s)
 - Key reasons:
   - Only one CT.gov-linked study is visible in the current local layer, but it explicitly spans both CIndU and CSU.
-  - At this stage the apparent strategy is breadth-first signal seeking, not yet a deep registrational stack.
+  - The current study stack still looks like early cross-phenotype signal seeking rather than a mature registrational build.
+  - The cached Sanofi completion press release explicitly brings Blueprint's KIT-driven pipeline into Sanofi and assigns BLU-808 milestone value in the deal structure, which supports treating the asset as part of Sanofi's immunology portfolio context rather than only a historical Blueprint program.
 - What to watch:
-  - Whether later sponsor or abstract evidence shows which urticaria subtype becomes the lead indication.
+  - Whether later Sanofi pipeline materials show a clearer lead urticaria phenotype or narrower development focus for BLU-808.
+  - Whether sponsor-facing trial materials and future disclosures start reflecting Sanofi ownership directly instead of legacy Blueprint branding.
 
 ### Briquilimab
 - Program page: [open](../programs/briquilimab.md)

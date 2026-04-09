@@ -349,16 +349,18 @@ PROGRAM_STRATEGY_OVERRIDES = {
         'confidence': 'High',
     },
     'blu-808': {
-        'headline': 'Broad early basket-style KIT exploration across CSU and CIndU before visible program narrowing.',
-        'readout': 'The current registry footprint is still thin, but the visible study design suggests Blueprint is testing whether a wild-type KIT program can generate signal across both spontaneous and inducible urticaria before committing to a narrower late-stage path.',
+        'headline': 'Broad early wild-type KIT exploration across CSU and CIndU, now carried inside Sanofi after the Blueprint acquisition.',
+        'readout': 'The current registry footprint is still thin, but the visible study design suggests BLU-808 remains a breadth-first wild-type KIT urticaria program spanning both spontaneous and inducible disease. The corporate context changed materially once Sanofi completed the Blueprint Medicines acquisition in July 2025, so future BLU-808 decisions should be read as Sanofi portfolio prioritization rather than a standalone Blueprint narrowing decision.',
         'bullets': [
             'Only one CT.gov-linked study is visible in the current local layer, but it explicitly spans both CIndU and CSU.',
-            'At this stage the apparent strategy is breadth-first signal seeking, not yet a deep registrational stack.',
+            'The current study stack still looks like early cross-phenotype signal seeking rather than a mature registrational build.',
+            'The cached Sanofi completion press release explicitly brings Blueprint\'s KIT-driven pipeline into Sanofi and assigns BLU-808 milestone value in the deal structure, which supports treating the asset as part of Sanofi\'s immunology portfolio context rather than only a historical Blueprint program.',
         ],
         'watch_items': [
-            'Whether later sponsor or abstract evidence shows which urticaria subtype becomes the lead indication.',
+            'Whether later Sanofi pipeline materials show a clearer lead urticaria phenotype or narrower development focus for BLU-808.',
+            'Whether sponsor-facing trial materials and future disclosures start reflecting Sanofi ownership directly instead of legacy Blueprint branding.',
         ],
-        'confidence': 'Low',
+        'confidence': 'Medium',
     },
     'briquilimab': {
         'headline': 'Earlier-stage KIT exploration across CSU and CIndU, with extension follow-up but no visible late-stage build yet.',
@@ -480,6 +482,8 @@ def remi_override(trial_id: str) -> dict:
 
 
 def infer_sponsor(program_entry: dict) -> str:
+    if program_entry.get('program_key') == 'blu-808':
+        return 'Blueprint Medicines (acquired by Sanofi)'
     sponsors = []
     sponsors.extend([t.get('lead_sponsor') for t in program_entry.get('ctgov_trials', []) if t.get('lead_sponsor')])
     sponsors.extend([s.get('sponsor') for s in program_entry.get('sponsor_artifacts', []) if s.get('sponsor')])

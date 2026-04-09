@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T16:58:14.998407+00:00",
+  "generated_at": "2026-04-09T17:56:39.415269+00:00",
   "built_from": {
     "ctgov": "inventories/ctgov_priority_trials.json",
     "sponsor": "inventories/sponsor_priority_sources.json",
@@ -694,6 +694,19 @@
             "raw/sponsors/kit/blu-808/aaaai-2024-blu-808-wt-kit-poster.md"
           ],
           "explicit_trial_ids": []
+        },
+        {
+          "label": "Sanofi completes acquisition of Blueprint Medicines",
+          "sponsor": "Sanofi",
+          "kind": "pdf",
+          "status": "ok",
+          "url": "https://www.sanofi.com/assets/dotcom/pressreleases/2025/2025-07-18-05-00-00-3117709-en.pdf",
+          "saved_files": [
+            "raw/sponsors/kit/blu-808/sanofi-completes-acquisition-of-blueprint-medicines.pdf",
+            "raw/sponsors/kit/blu-808/sanofi-completes-acquisition-of-blueprint-medicines.txt",
+            "raw/sponsors/kit/blu-808/sanofi-completes-acquisition-of-blueprint-medicines.md"
+          ],
+          "explicit_trial_ids": []
         }
       ],
       "publication_status": "no_pubmed_hits",
@@ -737,7 +750,7 @@
       ],
       "source_layer_counts": {
         "ctgov_trials": 1,
-        "sponsor_artifacts": 4,
+        "sponsor_artifacts": 5,
         "primary_publications": 0,
         "supporting_publications": 0
       }

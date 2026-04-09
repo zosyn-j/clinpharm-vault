@@ -1,6 +1,6 @@
 # Sponsor priority-source inventory
 
-- Built: 2026-04-09T01:06:40.549706+00:00
+- Built: 2026-04-09T17:52:13.130713+00:00
 - Goal: raw sponsor-source cache for BTK, KIT, and MRGPRX2 urticaria programs
 - Format: HTML pages saved as raw HTML plus extracted Markdown text; PDFs saved as raw PDF plus pdftotext output plus Markdown wrapper
 
@@ -21,6 +21,7 @@
 | KIT | blu-808 | Blueprint Medicines | AAAAI WAO 2025 publications page | html | ok | raw/sponsors/kit/blu-808/aaaai-wao-2025-publications-page.html<br>raw/sponsors/kit/blu-808/aaaai-wao-2025-publications-page.md |
 | KIT | blu-808 | Blueprint Medicines | AAAAI WAO 2025 BLU-808 WT KIT poster | pdf | ok | raw/sponsors/kit/blu-808/aaaai-wao-2025-blu-808-wt-kit-poster.pdf<br>raw/sponsors/kit/blu-808/aaaai-wao-2025-blu-808-wt-kit-poster.txt<br>raw/sponsors/kit/blu-808/aaaai-wao-2025-blu-808-wt-kit-poster.md |
 | KIT | blu-808 | Blueprint Medicines | AAAAI 2024 BLU-808 WT KIT poster | pdf | ok | raw/sponsors/kit/blu-808/aaaai-2024-blu-808-wt-kit-poster.pdf<br>raw/sponsors/kit/blu-808/aaaai-2024-blu-808-wt-kit-poster.txt<br>raw/sponsors/kit/blu-808/aaaai-2024-blu-808-wt-kit-poster.md |
+| KIT | blu-808 | Sanofi | Sanofi completes acquisition of Blueprint Medicines | pdf | ok | raw/sponsors/kit/blu-808/sanofi-completes-acquisition-of-blueprint-medicines.pdf<br>raw/sponsors/kit/blu-808/sanofi-completes-acquisition-of-blueprint-medicines.txt<br>raw/sponsors/kit/blu-808/sanofi-completes-acquisition-of-blueprint-medicines.md |
 | KIT | briquilimab | Jasper Therapeutics | Briquilimab program page | html | ok | raw/sponsors/kit/briquilimab/briquilimab-program-page.html<br>raw/sponsors/kit/briquilimab/briquilimab-program-page.md |
 | MRGPRX2 | evo756 | Evommune | MRGPRX2 antagonist program page | html | ok | raw/sponsors/mrgprx2/evo756/mrgprx2-antagonist-program-page.html<br>raw/sponsors/mrgprx2/evo756/mrgprx2-antagonist-program-page.md |
 | MRGPRX2 | evo756 | Evommune | Clinical trials page | html | ok | raw/sponsors/mrgprx2/evo756/clinical-trials-page.html<br>raw/sponsors/mrgprx2/evo756/clinical-trials-page.md |

@@ -203,6 +203,20 @@
       ]
     },
     {
+      "program": "blu-808",
+      "priority_class": "KIT",
+      "sponsor": "Sanofi",
+      "kind": "pdf",
+      "label": "Sanofi completes acquisition of Blueprint Medicines",
+      "url": "https://www.sanofi.com/assets/dotcom/pressreleases/2025/2025-07-18-05-00-00-3117709-en.pdf",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/kit/blu-808/sanofi-completes-acquisition-of-blueprint-medicines.pdf",
+        "raw/sponsors/kit/blu-808/sanofi-completes-acquisition-of-blueprint-medicines.txt",
+        "raw/sponsors/kit/blu-808/sanofi-completes-acquisition-of-blueprint-medicines.md"
+      ]
+    },
+    {
       "program": "briquilimab",
       "priority_class": "KIT",
       "sponsor": "Jasper Therapeutics",
