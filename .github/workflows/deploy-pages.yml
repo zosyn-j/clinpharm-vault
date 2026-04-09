@@ -32,6 +32,8 @@ jobs:
           pip install markdown
 
       - name: Build static site
+        env:
+          SITE_PREFIX: /clinpharm-vault
         run: python build_vault_site.py
 
       - name: Configure Pages

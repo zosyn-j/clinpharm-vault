@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from pathlib import Path
 import html
+import os
 import re
 import shutil
 
@@ -11,6 +12,7 @@ ROOT = Path(__file__).resolve().parent
 WIKI = ROOT / 'wiki'
 INVENTORIES = ROOT / 'inventories'
 SITE = ROOT / 'site'
+SITE_PREFIX = os.environ.get('SITE_PREFIX', '').rstrip('/')
 
 STYLE = """
 :root {
@@ -65,6 +67,13 @@ blockquote { border-left: 4px solid #b8cae0; margin-left: 0; padding-left: 14px;
 """
 
 
+def site_href(path: str) -> str:
+    path = path.lstrip('/')
+    if SITE_PREFIX:
+        return f"{SITE_PREFIX}/{path}"
+    return f"/{path}"
+
+
 def normalize_wiki_links(md_text: str, current_md: Path) -> str:
     def replace_obsidian(match):
         target = match.group(1)
@@ -72,7 +81,7 @@ def normalize_wiki_links(md_text: str, current_md: Path) -> str:
         target_path = (current_md.parent / target).resolve()
         try:
             rel = target_path.relative_to(WIKI).with_suffix('.html')
-            href = '/' + str(rel)
+            href = site_href(str(rel))
         except Exception:
             href = '#'
         return f'[{label}]({href})'
@@ -86,9 +95,13 @@ def normalize_wiki_links(md_text: str, current_md: Path) -> str:
             target_path = (current_md.parent / target).resolve()
             try:
                 rel = target_path.relative_to(WIKI).with_suffix('.html')
-                href = '/' + str(rel)
+                href = site_href(str(rel))
             except Exception:
-                href = target.replace('.md', '.html')
+                try:
+                    rel = target_path.relative_to(ROOT).with_suffix('.html')
+                    href = site_href(str(rel))
+                except Exception:
+                    href = target.replace('.md', '.html')
             return f'[{label}]({href})'
         return match.group(0)
 
@@ -110,14 +123,14 @@ def nav_html() -> str:
         'Disputes': sorted((WIKI / 'disputes').glob('*.md')),
     }
     out = ["<h2>ClinPharm Vault</h2>", "<div class='small'>Source-first clinical pharmacology knowledge base</div>"]
-    out.append("<p><a href='/index.html'>Home</a></p>")
+    out.append(f"<p><a href='{site_href('index.html')}'>Home</a></p>")
     for title, files in sections.items():
         out.append(f"<h3>{html.escape(title)}</h3><ul>")
         for f in files:
             rel = f.relative_to(WIKI)
             href = str(rel).replace('.md', '.html')
             name = f.stem.replace('-', ' ').title()
-            out.append(f"<li><a href='/{href}'>{html.escape(name)}</a></li>")
+            out.append(f"<li><a href='{site_href(href)}'>{html.escape(name)}</a></li>")
         out.append("</ul>")
     return ''.join(out)
 
