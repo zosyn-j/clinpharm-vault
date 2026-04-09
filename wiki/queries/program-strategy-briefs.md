@@ -119,7 +119,7 @@ This page is a derived interpretation layer. It is meant to answer the question:
 - Program page: [open](../programs/sep-631.md)
 - Strategic read: The current local layer shows SEP-631 as strategically interesting, but still early from an evidence-architecture perspective. Right now it reads more like a program signal from sponsor materials than a transparently disclosed clinical development strategy.
 - Why this read is plausible in the current local layer: Pipeline-visible MRGPRX2 program without a disclosed CT.gov study stack in the current local cache.
-- Evidence depth: 0 CT.gov trials, 0 primary publication(s), 2 sponsor artifact(s)
+- Evidence depth: 0 CT.gov trials, 0 primary publication(s), 3 sponsor artifact(s)
 - Key reasons:
   - No CT.gov-linked urticaria records are currently captured in the local registry.
   - The visible strategy therefore comes mostly from sponsor and poster materials rather than a fully surfaced trial stack.

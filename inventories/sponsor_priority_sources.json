@@ -353,6 +353,20 @@
       ]
     },
     {
+      "program": "sep-631",
+      "priority_class": "MRGPRX2",
+      "sponsor": "Septerna",
+      "kind": "pdf",
+      "label": "Corporate slide deck planned Phase 2b CSU study",
+      "url": "https://ir.septerna.com/static-files/74083270-2800-426f-a4fe-f556c4235943",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/mrgprx2/sep-631/septerna-corporate-slide-deck-phase-2b-csu-plan.pdf",
+        "raw/sponsors/mrgprx2/sep-631/septerna-corporate-slide-deck-phase-2b-csu-plan.txt",
+        "raw/sponsors/mrgprx2/sep-631/septerna-corporate-slide-deck-phase-2b-csu-plan.md"
+      ]
+    },
+    {
       "program": "ep262",
       "priority_class": "MRGPRX2",
       "sponsor": "Escient Pharmaceuticals",

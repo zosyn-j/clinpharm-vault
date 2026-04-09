@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T17:56:39.415269+00:00",
+  "generated_at": "2026-04-09T18:38:40.198683+00:00",
   "built_from": {
     "ctgov": "inventories/ctgov_priority_trials.json",
     "sponsor": "inventories/sponsor_priority_sources.json",
@@ -2690,6 +2690,19 @@
             "raw/sponsors/mrgprx2/sep-631/aaaai-2026-poster-pdf.md"
           ],
           "explicit_trial_ids": []
+        },
+        {
+          "label": "Corporate slide deck planned Phase 2b CSU study",
+          "sponsor": "Septerna",
+          "kind": "pdf",
+          "status": "ok",
+          "url": "https://ir.septerna.com/static-files/74083270-2800-426f-a4fe-f556c4235943",
+          "saved_files": [
+            "raw/sponsors/mrgprx2/sep-631/septerna-corporate-slide-deck-phase-2b-csu-plan.pdf",
+            "raw/sponsors/mrgprx2/sep-631/septerna-corporate-slide-deck-phase-2b-csu-plan.txt",
+            "raw/sponsors/mrgprx2/sep-631/septerna-corporate-slide-deck-phase-2b-csu-plan.md"
+          ],
+          "explicit_trial_ids": []
         }
       ],
       "publication_status": "no_pubmed_hits",
@@ -2703,7 +2716,7 @@
       "trial_registry": [],
       "source_layer_counts": {
         "ctgov_trials": 0,
-        "sponsor_artifacts": 2,
+        "sponsor_artifacts": 3,
         "primary_publications": 0,
         "supporting_publications": 0
       }

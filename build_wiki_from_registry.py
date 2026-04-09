@@ -450,6 +450,23 @@ PROGRAM_STRATEGY_OVERRIDES = {
     },
 }
 
+PROGRAM_OPERATIONAL_OVERRIDES = {
+    'sep-631': {
+        'rows': [
+            {
+                'trial': 'Planned Phase 2b CSU study (sponsor slide deck)',
+                'arms': '5',
+                'dose_regimens': '4',
+                'enrollment': 'NR',
+                'per_arm_summary': '4 active SEP-631 oral QD dose levels plus placebo; enrollment not disclosed in current source.',
+            },
+        ],
+        'notes': [
+            'Septerna corporate slide deck page 25 describes a planned global, randomized, double-blind, placebo-controlled Phase 2b CSU study with 4 SEP-631 oral QD dose levels plus placebo, adults 18 to 65 years who remain symptomatic on second-generation H1 antihistamine therapy, and change from baseline in UAS7 at week 12 as the primary endpoint.',
+        ],
+    },
+}
+
 
 def load_json(path: Path):
     return json.loads(path.read_text())
@@ -535,6 +552,10 @@ def get_program_strategy(program_entry: dict) -> dict:
         'watch_items': ['Manual enrichment is still needed before making a stronger strategy claim.'],
         'confidence': 'Low',
     }
+
+
+def get_program_operational_override(program_key: str) -> dict:
+    return PROGRAM_OPERATIONAL_OVERRIDES.get(program_key, {})
 
 
 def get_trial_operational_override(trial_id: str) -> dict:
@@ -935,6 +956,13 @@ def build_program_page(program_entry: dict, trial_slug_map: dict[str, str]) -> s
         total_enrollment = ct_rec.get('enrollment', trial.get('enrollment', 'NR'))
         per_arm = snap['per_arm_summary'] or 'Direct per-arm N has not yet been promoted from the current local source layer.'
         lines.append(f"| [{trial['trial_id']}](../trials/{link_name}) | {arm_count} | {dose_count} | {total_enrollment} | {per_arm} |")
+    program_operational = get_program_operational_override(program_entry['program_key'])
+    for row in program_operational.get('rows', []):
+        lines.append(
+            f"| {row['trial']} | {row['arms']} | {row['dose_regimens']} | {row['enrollment']} | {row['per_arm_summary']} |"
+        )
+    for note in program_operational.get('notes', []):
+        lines.extend(['', f'- {note}'])
     lines.extend([
         '',
         '## Study Inventory',

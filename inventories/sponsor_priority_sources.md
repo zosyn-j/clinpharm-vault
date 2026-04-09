@@ -1,6 +1,6 @@
 # Sponsor priority-source inventory
 
-- Built: 2026-04-09T17:52:13.130713+00:00
+- Built: 2026-04-09T18:37:51.606653+00:00
 - Goal: raw sponsor-source cache for BTK, KIT, and MRGPRX2 urticaria programs
 - Format: HTML pages saved as raw HTML plus extracted Markdown text; PDFs saved as raw PDF plus pdftotext output plus Markdown wrapper
 
@@ -32,4 +32,5 @@
 | MRGPRX2 | evo756 | Evommune | EADV 2025 CIndU presentation PDF | pdf | ok | raw/sponsors/mrgprx2/evo756/eadv-2025-cindu-presentation-pdf.pdf<br>raw/sponsors/mrgprx2/evo756/eadv-2025-cindu-presentation-pdf.txt<br>raw/sponsors/mrgprx2/evo756/eadv-2025-cindu-presentation-pdf.md |
 | MRGPRX2 | sep-631 | Septerna | Pipeline page | html | ok | raw/sponsors/mrgprx2/sep-631/pipeline-page.html<br>raw/sponsors/mrgprx2/sep-631/pipeline-page.md |
 | MRGPRX2 | sep-631 | Septerna | AAAAI 2026 poster PDF | pdf | ok | raw/sponsors/mrgprx2/sep-631/aaaai-2026-poster-pdf.pdf<br>raw/sponsors/mrgprx2/sep-631/aaaai-2026-poster-pdf.txt<br>raw/sponsors/mrgprx2/sep-631/aaaai-2026-poster-pdf.md |
+| MRGPRX2 | sep-631 | Septerna | Corporate slide deck planned Phase 2b CSU study | pdf | ok | raw/sponsors/mrgprx2/sep-631/septerna-corporate-slide-deck-phase-2b-csu-plan.pdf<br>raw/sponsors/mrgprx2/sep-631/septerna-corporate-slide-deck-phase-2b-csu-plan.txt<br>raw/sponsors/mrgprx2/sep-631/septerna-corporate-slide-deck-phase-2b-csu-plan.md |
 | MRGPRX2 | ep262 | Escient Pharmaceuticals | Pipeline page | html | ok | raw/sponsors/mrgprx2/ep262/pipeline-page.html<br>raw/sponsors/mrgprx2/ep262/pipeline-page.md |

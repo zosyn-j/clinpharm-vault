@@ -1,0 +1,1129 @@
+Pioneering a New Era of GPCR Drug Discovery
+Corporate Presentation
+March 2026
+
+Nasdaq: SEPN
+© 2026 SEPTERNA
+
+Forward-Looking Statements
+This presentation contains express or implied forward‐looking statements of Septerna, Inc. (the “Company,” “we,” or “our”) within the meaning of the Private
+Securities Litigation Reform Act of 1995, as amended. All statements other than statements of historical facts contained in this presentation, including statements
+regarding our business strategy, plans, estimated R&D program milestones and objectives of management are forward-looking statements. Such forward-looking
+statements include, but are not limited to, statements regarding: the continued advancement of our PTH1R agonist program, including the planned initiation of a
+Phase 1 clinical trial for SEP-479 in the first half of 2026 subject to successful completion of regulatory submissions; the continued advancement of SEP-631,
+including the plan to initiate a Phase 2b clinical study in CSU in the second half of 2026 subject to the successful completion of long-term preclinical toxicology
+studies; the role of MRGPRX2 in mast cell-driven diseases; the timing, progress and results of conducting our research and development programs, including our
+plans to advance the TSHR program; the intended and potential benefits of the collaboration with Novo Nordisk, including our ability to jointly discover, develop and
+commercialize multiple potential oral small molecule therapies for obesity, type 2 diabetes, and other cardiometabolic diseases and the potential resulting
+milestones and royalties (if any); our ability to demonstrate, and the timing of, preclinical proof-of-concept in vivo and ex vivo for multiple programs; the potential of
+our proprietary Native Complex Platform®; the ability of preclinical or Phase 1 safety and efficacy observations to successfully translate into clinical outcomes; the
+size and growth potential of the markets for our current and future product candidates; our expectations regarding strategic plans for our business, product
+candidates, and technology; the scope of protection we are able to establish and maintain for intellectual property rights covering our Native Complex Platform® and
+our product candidates; our ability to maintain existing collaborations and to identify and enter into future license agreements and collaborations; and the accuracy
+of our estimates regarding expenses and capital requirements, including our expected cash runway at least into 2029. Such forward-looking statements reflect the
+current views of the Company and are subject to known and unknown risks and other factors, which are, in some cases, beyond the Company’s control. Risks that
+contribute to the uncertain nature of the forward-looking statements include those risks and uncertainties set forth in the section titled "Risk Factors" in our most
+recent Annual Report on Form 10-K for the year ended December 31, 2024, as well as any subsequent filings with the Securities and Exchange Commission.
+Certain information in this presentation (including market data and statistical information) and statements made orally during this presentation are the good faith
+estimates of management and have been obtained from various sources (including third-party sources such as independent industry publications, governmental
+publications, and reports by market research firms), and we do not guarantee the accuracy or completeness of such information.
+No representations or warranties (expressed or implied) are made about the accuracy of such forward-looking statements, and there can be no assurance as to the
+reliability or correctness of such projections and actual results may vary materially from those projected. The Company undertakes no obligation to update such
+statements to reflect events that occur or circumstances that exist after the date on which they were made.
+© 2026 SEPTERNA
+
+2
+
+Septerna: Pioneering a New
+Era of GPCR Drug Discovery
+with Oral Small Molecules
+Native Complex Platform® designed to unlock the
+full potential of GPCR therapies
+• Iterative structure-based drug design to rapidly optimize
+and validate programs in animal models
+
+Portfolio strategy to drive value creation
+• Validated targets + early clinical readouts +
+multi-billion $ market opportunities
+
+Well-capitalized
+• Cash runway expected to support operating plans at least
+into 2029
+
+© 2026 SEPTERNA
+
+Lead Programs
+SEP-479 PTH1R Agonist: Potential first-in-class oral
+small molecule for hypoparathyroidism; Phase 1 clinical
+trial initiation anticipated in 1H 2026
+SEP-631 MRGPRX2 NAM: Pipeline-in-a-product
+opportunity for mast cell-driven diseases; Phase 1
+SAD/MAD demonstrated robust PD with QD dosing;
+targeting initiation of Phase 2 trial in CSU in 2H 2026
+
+Discovery Stage
+TSHR NAM: Potential disease-modifying treatment for
+Graves’ disease and TED; progressing multiple lead
+compounds toward development candidate selection
+Incretin Receptor Agonists: Potential multi-billion $
+collaboration with Novo Nordisk for oral small
+molecules for metabolic diseases
+
+GPCR: G protein-coupled receptor; NAM: negative allosteric modulator; TED: thyroid eye disease; CSU: chronic spontaneous urticaria
+
+3
+
+GPCR Drug Discovery Success Has Been Highly Concentrated
+to a Small Fraction of GPCRs
+Historically productive target class, yet
+substantial untapped opportunity to expand
+the number of druggable GPCRs
+~1/3 of all FDA-approved drugs
+(~500 approved products) target GPCRs
+
+>70% of GPCR drugs target 6 small
+subfamilies of GPCRs
+
+~75% of potential GPCR targets
+remain undrugged
+
+Our focus: Unlocking difficult-to-drug GPCRs
+with our Native Complex Platform®
+© 2026 SEPTERNA
+
+4
+
+Proprietary Native Complex Platform®
+Today’s GPCR Drug Discovery Challenge
+• Several new small molecule drug discovery technologies have largely been inaccessible to GPCRs
+• Inability to isolate fully functional GPCR proteins significantly limits use of modern discovery tools
+
+Native Complex Platform® : Industrialized Workflows to Unlock Difficult-to-Drug GPCRs
+Native
+Complexes
+GPCR
+
+High-Resolution
+GPCR Structures
+
+Technologies to Screen
+Billions of Compounds
+
+Structure-Based Drug
+Design & Optimization
+
+Novel binding pockets and new
+insights into GPCR modulation
+
+Discovery of new leads with
+relevant modes of action
+
+<1 year from initiation of med
+chem to activity in animal models
+for each program to date
+
+Ligand
+
+Lipid
+Bilayer
+G protein
+
+Retain GPCR natural structure,
+function, and dynamics
+
+© 2026 SEPTERNA
+
+5
+
+Advancing a Deep Portfolio of Oral Small Molecule
+GPCR-Targeted Programs
+Wholly-Owned Programs
+
+Development Status
+
+Program / Target
+
+Therapeutic Area
+
+SEP-479 (PTH1R)
+
+Endocrinology
+
+Mode of Action
+
+Indications / US Patient Population
+
+Agonist
+
+Hypoparathyroidism: ~70k
+
+SEP-631 (MRGPRX2)
+
+Immunology and Inflammation
+
+Negative Allosteric Modulator
+
+Discovery
+
+IND-enabling
+
+Phase 1
+
+Phase 2
+
+Phase 1 initiation* Anticipate Phase 1
+anticipated in
+topline data in
+1H 2026
+late 2026 / early 2027
+Phase 2 initiation *
+anticipated in
+2H 2026
+
+CSU: ~1.5mm
+Other mast cell diseases
+
+Endocrinology
+
+TSHR Program
+Negative Allosteric Modulator
+
+Graves’ disease: ~2mm
+Thyroid eye disease: ~1mm
+
+Research Areas:
+
+Neurology, Women’s Health, Cardiovascular Disease and Respiratory Disease
+
+Partnered Programs
+
+Partner
+
+Metabolic Programs
+GLP-1R, GIPR, GCGR + Undisclosed
+
+Undisclosed
+© 2026 SEPTERNA
+
+Obesity and Other Cardiometabolic Diseases
+
+Undisclosed
+* Pending successful completion of regulatory submissions
+
+6
+
+SEP-479: Oral Small Molecule PTH1R Agonist
+Targeting PTH1R for Hypoparathyroidism
+
+© 2026 SEPTERNA
+
+Hypoparathyroidism: Significant Unmet Need for an
+Oral PTH Replacement
+Hypoparathyroidism: Low PTH leads to low blood calcium
+
+PTH: Master Regulator of Blood Calcium
+
+• ~70K patients in US; ~140K patients in EU
+
+Challenging patient symptoms
+• Muscle cramps, tingling, brain fog
+• Life-threatening complications: cardiac arrhythmias, seizures
+
+Standard-of-care limitations
+• Calcium supplements (high doses several times per day) and
+Vitamin D do not fully resolve symptoms and lead to complications
+including calcifications and renal impairment
+• Approved injectable PTH therapy will require life-long daily injections
+
+Our Strategy: Functionally replace PTH with oral small
+molecule PTH1R agonist to normalize serum calcium
+
+© 2026 SEPTERNA
+
+PTH: Parathyroid Hormone
+
+8
+
+Native Complex Platform Identified Portfolio of PTH1R Agonists with
+Potential to Address Significant Unmet Need in Hypoparathyroidism
+Native Complex Hit Identification and
+Structure-Based Optimization
+Multiple PTH1R agonists with distinct binding sites identified
+and optimized in parallel to candidate quality molecules
+
+SEP-479: Development Candidate
+Potent, selective, oral small molecule PTH1R agonist
+Demonstrated comparable effects to PTH peptides in
+cell-based assays and in vivo models
+
+PTH
+
+PTH1R
+
+G protein
+
+Rapid Iterative
+Structure-Based
+Drug Discovery
+
+<1 year from initiation of
+medicinal chemistry to
+activity in an animal model
+
+Normalized serum calcium in preclinical rat surgical
+model of hypoparathyroidism
+Monkey PK/PD study demonstrated robust decreases
+in endogenous PTH and increases in serum calcium
+Excellent pharmaceutical properties; projected to
+achieve full-day HypoPT control with QD dosing
+IND-enabling studies have been completed
+
+On track to initiate Phase 1 in 1H 2026
+© 2026 SEPTERNA
+
+9
+
+SEP-479: A Potent, Selective PTH1R Agonist Normalized Serum
+Calcium and Phosphate in Hypoparathyroidism Animal Model
+Rat surgical model of
+hypoparathyroidism
+
+SEP-479: 28-day Oral QD Dosing
+Sustained Normalization of
+Serum Ca2+ Levels
+
+Sustained Normalization of
+Serum Phosphate Levels
+
+Rat
+Surgery to remove
+parathyroid glands
+Decreased serum
+calcium (hypocalcemia)
+Oral small molecule
+PTH1R agonist
+Normalize
+serum calcium
+
+© 2026 SEPTERNA
+
+PO: oral dosing QD: once daily dosing
+
+BID: twice daily dosing
+
+10
+
+SEP-479: Preclinical Studies Demonstrated Favorable Oral
+Small Molecule Candidate Profile
+SEP-479: 7-day Healthy Cynomolgus Monkey Pharmacodynamic Study
+Serum PTH Levels
+
+Serum Ca2+ Levels
+
+• Demonstrated robust dose-dependent decreases in endogenous PTH levels and increases in serum calcium
+• Lessons from PTH peptide therapies: doses that lead to ~0.5-1 mg/dL calcium increases in healthy volunteers translated into relevant
+therapeutic pharmacology in hypoparathyroidism patients
+
+SEP-479: Pharmacokinetics Studies (Mouse, Rat, Dog, Cyno)
+• Demonstrated high oral bioavailability and projected human half-life ~43-87 hours with potential to support QD human dosing
+© 2026 SEPTERNA
+
+11
+
+SEP-479: On Track to Initiate Phase 1 in 1H 2026
+Non-clinical safety studies have completed
+• 28-day GLP toxicology studies completed in rats, dogs, and cynomolgus monkeys
+• SEP-479 was generally well tolerated in all non-clinical safety studies
+• Dose-limiting effect in each species was on-target hypercalcemia, as expected for a PTH1R agonist
+
+Drug product manufacturing for Phase 1 trial is complete
+Phase 1 healthy volunteer SAD / MAD trial planned for initiation in Australia in 1H 2026
+• Goal: Evaluate the safety, tolerability, PK and PD of oral SEP-479 in healthy adult volunteers
+• PD activity to be assessed by decreases in endogenous PTH levels and increases in serum calcium
+• Anticipate topline data in late 2026 / early 2027
+
+© 2026 SEPTERNA
+
+12
+
+SEP-631: Oral Small Molecule MRGPRX2 NAM
+Targeting MRGPRX2 for Mast Cell-Driven Diseases
+
+© 2026 SEPTERNA
+
+MRGPRX2 is a Key Regulator of Mast Cell Degranulation
+Activated by Several Endogenous Ligands
+MRGPRX2 is activated by a host of endogenous
+agonists leading to IgE-independent mast cell
+degranulation
+• Include several neuropeptides and immune ligands
+
+Mast cell degranulation leads to release of
+mediators which cause pain, itch, inflammation,
+and edema
+• Pain and itch are driven by mast cells co-localized with
+sensory neurons
+• Inflammation and edema are driven by mast cell mediator
+effects on tissue capillaries leading to vasodilation,
+vascular permeability, and leukocyte recruitment
+
+Targeting MRGPRX2 has the potential to disrupt
+feedback loops that drive these effects
+
+© 2026 SEPTERNA
+
+14
+
+SEP-631: MRGPRX2 NAM with a Potentially Differentiated
+Profile for Mast Cell-Driven Diseases
+SEP-631 is a negative allosteric modulator (NAM)
+• Binds to a novel allosteric site, distinct from the agonist
+binding pocket
+
+SEP-631 Induces a Structural Change in MRGPRX2
+That Completely Closes the Agonist Binding Pocket
+MRGPRX2
+
+Potently inhibits MRGPRX2 activation with an
+insurmountable NAM profile
+• Very high binding affinity (Ki ~0.5 nM)
+• Slow dissociation rate (t1/2 > 2 hours)
+
+Locks MRGPRX2 in a state that prevents binding of
+all agonists, even at high agonist concentrations
+
+MRGPRX2
++ SEP-631
+
+Extracellular
+view
+Extracellular
+loop
+
+Agonist*
+
+Agonist
+binding
+pocket
+
+Agonist pocket
+no longer exists
+
+• Potent inhibition of MRGPRX2-induced degranulation for both
+mast cell lines and primary human skin mast cells
+
+PK profile across species projected to once-daily
+oral dosing in humans
+
+© 2026 SEPTERNA
+
+Transmembrane
+view
+
+*Cortistatin-14
+
+15
+
+SEP-631 Inhibited MRGPRX2 Activation in Humanized Mouse
+Translational Model
+Human MRGPRX2 Knock-in (KI)
+Mouse Model of Skin Extravasation
+Knock-in Mouse
+mMRGPRB2 KO
+hMRGPRX2 KI
+
+SEP-631 Potently Inhibited Skin Extravasation
+
+Cortistatin-14 (0.7 µg/ml)
+
+Icatibant (10 µg/ml)
+
+Treat with oral MRGPRX2
+NAM (SEP-631) or vehicle
+Administer Evans Blue dye
+Intradermal skin challenge
+with cortistatin-14 or icatibant
+(MRGPRX2 agonists)
+Measure
+extravasation of
+dye into skin
+
+Extravasation
+(no MRGPRX2 inhibition)
+
+© 2026 SEPTERNA
+
+No extravasation
+(MRGPRX2 inhibition)
+
+KO: gene knockout KI: gene knock-in
+
+SEP-631’s insurmountable NAM profile translated to
+complete inhibition of MRGPRX2-mediated skin
+extravasation in a preclinical urticaria translational model
+
+16
+
+SEP-631 Preclinical Data Supports Potential Best-in-Class Profile
+SEP-631 Preclinical Profile
+Subnanomolar binding affinity and slow off-rate kinetics
+Insurmountable negative allosteric modulator mechanism closes off agonist binding pocket
+• Inability to activate receptor despite presence of high doses of endogenous agonists
+
+Potent inhibition of MRGPRX2 activation in knock-in animals and primary human mast cells
+Excellent oral PK across species
+• Projects to once-daily human dosing
+
+Excellent pharmaceutical properties
+• Low drug-drug interaction risk based on in vitro profiling
+• Low food effect risk based on preclinical studies
+
+Generally well-tolerated in pharmacology and GLP toxicology studies
+Convenient tablet formulation developed
+
+© 2026 SEPTERNA
+
+17
+
+SEP-631 Phase 1 Study Design
+Goal: Evaluate the safety, tolerability, PK, PD (with an icatibant skin challenge), and food effects
+• 120 healthy adult volunteers, double-blind, randomized, and placebo-controlled SAD/MAD study design
+Part A. SEP-631 PO single dose (SAD)
+Single
+ascending
+dose
+
+Randomization
+6:2
+(SEP-631:placebo)
+
+n=8 / cohort
+
+10 mg
+
+90 mg
+
+30 mg
+
+200 mg
+
+300 mg
+
+400 mg
+
+Key endpoints
+
+Skin Challenge (Pre-dose)
+
+Safety / tolerability
+PK
+
+P L
+H
+N
+
+L H
+
+Part B. SEP-631 PO QD for 10 days (MAD)
+Multiple
+ascending
+dose
+
+Key endpoints
+
+Randomization
+12:4
+(SEP-631:placebo)
+10 mg
+
+n=16 / cohort
+
+30 mg
+
+90 mg
+
+200 mg
+
+SEP-631 dosing
+QD x 9 days
+
+Safety / tolerability
+PK
+PD: skin challenge
+
+Skin Challenge Objective (Post-dose)
+
+Part C. SEP-631 PO single dose crossover
+
+Food effect
+n=8
+
+Randomized
+open-label
+crossover
+
+200 mg
+Fasted
+200 mg
+Fed
+
+5-day
+washout
+
+200 mg
+Fasted
+200 mg
+Fed
+
+Key endpoints
+Safety / tolerability
+
+P L
+
+H
+
+N L
+H
+
+PK (fasted vs fed)
+
+L = icatibant 10 µg/mL; H = icatibant 100 µg/mL;
+N = negative control (saline); P = positive control (histamine)
+© 2026 SEPTERNA
+
+18
+
+SEP-631: Adverse Event Profile Comparable to Placebo and
+Pharmacokinetics Support Once-Daily Oral Dosing
+Safety
+• Rate of TEAEs with SEP-631 was comparable with placebo
+• No severe or serious events were reported
+• 3 events of mild transaminase elevations (<1.5x ULN) observed; not dose-dependent and comparable to placebo rates
+
+Pharmacokinetics
+• Elimination half-life of SEP-631 is approximately 24 hours,
+supporting once-daily (QD) dosing
+
+Multiple Dose Pharmacokinetics (Day 10)
+
+Food Effect Study
+• SEP-631 with high-fat, high-calorie meal resulted in similar exposure
+to fasted conditions (AUC and Cmax)
+
+SEP-631 was well tolerated with a PK profile that
+supports QD oral dosing and without food restrictions
+
+© 2026 SEPTERNA
+
+19
+
+Pharmacodynamics Assessed Using an Icatibant Skin Challenge
+Icatibant is a selective MRGPRX2 agonist that induces a skin wheal response following intradermal injection
+Skin challenge performed at baseline (Day –1) and steady-state (Day 9) following SEP-631 or placebo treatment
+• Skin challenge agents: saline (injection negative control), histamine (wheal positive control), and icatibant at 10 μg/mL and 100 μg/mL
+
+Wheals imaged using a precision image-based detector (AllergyScope
+Forearm Intradermal
+Injection Pattern
+
+AllergyScopeTM Detector
+
+Saline
+
+Histamine
+
+Icatibant
+10 µg/mL
+
+Icatibant
+10 µg/mL
+
+Icatibant
+100 µg/mL
+
+Icatibant
+100 µg/mL
+
+© 2026 SEPTERNA
+
+)
+Baseline Skin Challenge (Day -1)
+
+20
+
+SEP-631 Inhibits Icatibant Wheal Formation in Dose-Dependent
+Manner to Complete Inhibition
+• SEP-631 completely inhibited icatibant 10 μg/mL-induced wheals at 10 mg QD, the lowest dose evaluated
+• SEP-631 inhibited icatibant 100 μg/mL-induced wheals in a dose-dependent manner, with near to complete
+inhibition at 90 and 200 mg QD
+Icatibant 10 µg/mL
+
+© 2026 SEPTERNA
+
+Nominal p-values comparing each SEP-631 dose level to placebo for change from baseline are based on an ANCOVA
+model including a fixed effect for treatment group and baseline wheal response as a covariate
+
+Icatibant 100 µg/mL
+
+21
+
+SEP-631 Preclinical Profile Translated Well to Phase 1 Clinical
+Trial Results
+SEP-631 Preclinical Profile
+• Subnanomolar binding affinity
+• Slow receptor off-rate kinetics
+
+Translation
+Target Coverage
+
+• Excellent oral PK across preclinical species
+
+Pharmacokinetics
+
+• Insurmountable NAM blocks agonist binding
+pocket for all MRGPRX2 agonists tested
+
+Pharmacodynamics
+
+• Generally well-tolerated in GLP tox studies
+• Low DDI risk based on in vitro profiling
+
+Safety
+
+Robust SEP-631 Phase 1 Results
+• Estimated high receptor occupancy (>99%)
+• Confirmed QD oral dosing (half-life ~24 hrs)
+• No food effect, excellent dosing flexibility
+• Full inhibition of icatibant-induced skin wheal
+formation at both high and low icatibant doses
+• All AEs considered mild or moderate
+• No LFT abnormalities or other observations
+
+Potential Best-in-Class Profile of SEP-631:
+• Excellent potency with mechanism that provides broad insurmountable inhibition
+• Clean clinical safety profile
+• Convenient, once daily oral tablet with a flexible dosing schedule
+© 2026 SEPTERNA
+
+22
+
+SEP-631: Initial Phase 2 Development Strategy
+Broad opportunity across a range of allergic and
+inflammatory diseases where mast cells are implicated in
+disease pathophysiology
+• Mast cells reside in organ systems throughout the body contributing to
+pain, itch, and inflammation
+
+Our Strategy: since the skin has the highest level of
+MRGPRX2 expression on mast cells, plan to rapidly
+advance into Chronic Urticaria studies
+• Targeting initiation of a Phase 2b Chronic Spontaneous Urticaria
+study in 2H 2026
+• Pursue open-label Chronic Inducible Urticaria (CIndU) study in
+symptomatic dermatographism following initiation of CSU study
+
+Exploring path forward in other high potential indications
+where tissue mast cells express MRGPRX2 including:
+• Atopic Dermatitis, Interstitial Cystitis / Bladder Pain Syndrome,
+Migraine, and Asthma
+© 2026 SEPTERNA
+
+23
+
+Chronic Spontaneous Urticaria (CSU): High Disease Burden,
+Large Patient Population
+• CSU is an undertreated dermatology condition characterized by
+itchy and painful wheals and angioedema
+
+CSU Skin Wheals and Angioedema
+
+• Significant burden of disease; patients experience1:
+Disease Burden
+
+% CSU Patients
+
+High to very high impact on their daily life
+
+~40%
+
+Mod-to-severe pain / discomfort
+
+~60%
+
+Mod-to-severe anxiety / depression
+
+~50%
+
+Miss work at least once per week
+
+~20%
+
+• ~40% of patients are refractory to first-line high-dose antihistamines2-4
+• High unmet need for safe second-line oral treatment options
+• Growing commercial opportunity: ~2-3M CSU patients in the US5
+
+© 2026 SEPTERNA
+
+1. ASSURE study, 2. 2022 Kaplan, et al CSU Review article, 3. AWARE study, 4. Guillen et al , 5. GA2LEN task force report
+
+24
+
+Plan to Initiate Phase 2b Dose-Ranging Chronic Spontaneous
+Urticaria Study in 2H 2026
+• Long-term GLP toxicology studies in rats and dogs to be completed by mid-year 2026
+• Planned global, randomized, double-blind, placebo-controlled study to evaluate safety and exploratory
+efficacy of SEP-631 in CSU
+
+• Adults 18 to 65 years
+• Moderate to Severe CSU
+• Remain symptomatic on
+second-generation H1
+antihistamine
+
+Randomization
+
+Patient Population:
+
+SEP-631 Dose #1 PO QD
+
+Primary Endpoint:
+
+SEP-631 Dose #2 PO QD
+
+• Change from baseline in
+UAS7 at Week 12
+
+SEP-631 Dose #3 PO QD
+
+Key Secondary Endpoints:
+•
+•
+•
+•
+
+SEP-631 Dose #4 PO QD
+Placebo
+
+Day 1
+
+Safety / Tolerability
+UAS7≤6 and UAS7=0
+Change in ISS7
+Change in HSS7
+
+Week 12
+
+• Following initiation of the CSU study, we plan to pursue an open-label Chronic Inducible Urticaria (CIndU) study
+
+© 2026 SEPTERNA
+
+UAS7: Urticaria Activity Score over 7 days; ISS7: Itch Severity Score over 7 days; HSS7: Hives Severity Score over 7 days
+
+25
+
+Exploring Opportunities for SEP-631 in Additional Indications
+with High Unmet Need
+• Indications characterized by mast cells playing a central role in disease pathology and evidence of MRGPRX2
+expression on tissue-resident mast cells
+• Indications cover breadth of target organs and have different pathologies and unmet needs
+• Developing cost-efficient and right-sized clinical strategies to demonstrate SEP-631 benefit
+Atopic Dermatitis
+
+Interstitial Cystitis
+
+• >10M moderate to severe AD
+patients1,2
+
+• ~1-4M interstitial cystitis
+patients3
+
+• MRGPRX2 could play a
+central role in itch resolution
+
+• No compelling treatment
+options
+
+• Safe, oral treatment would
+grow market
+
+• Bladder has second highest
+level of MRGPRX2
+expression after skin
+
+© 2026 SEPTERNA
+
+Migraine
+• ~15-25M moderate-to-severe
+migraine patients4; ~40%
+would benefit from
+preventative treatment5
+
+Asthma
+• ~1-3M severe asthma
+patients6,7
+• High unmet need for safe, oral
+treatment
+
+• Current therapies provide only
+modest efficacy and drug
+cycling is common
+
+Estimates are US addressable patients. 1. National Eczema Association, 2. 2019 Fuxench, et al, 3. 2022 Anger, et al, 4. 2024 Cohen, et al,
+5. 2021 American Headache Society Consensus Statement, 6. ACAAI, 7. 2020 Wang, et al
+
+26
+
+TSHR NAM Program
+Oral Small Molecule Targeting TSHR for Graves’ Disease and TED
+
+© 2026 SEPTERNA
+
+No Disease-Modifying Therapies for Graves’ Disease and
+Thyroid Eye Disease (TED)
+Graves’ Disease & TED Pathophysiology:
+• Autoantibodies activate TSHR in thyroid gland and in orbital
+fibroblasts behind the eyes
+
+Graves’ Disease
+• >2M patients in US
+• Standard-of-care: antithyroid drugs, radioactive iodine,
+thyroidectomy
+
+TED
+• Develops in ~50% of Graves’ disease patients
+• TEPEZZA® (anti-IGF-1R) decreases proptosis but requires
+multiple IV infusions; serious side effects (e.g., hearing loss)
+
+Challenge: Each Patient Has Unique Autoantibodies
+• High-affinity, frequently polyclonal, high titer
+Our Strategy: TSHR NAM as oral disease-modifying treatment
+for all Graves’ disease and TED patients
+© 2026 SEPTERNA
+
+28
+
+Oral Small Molecule TSHR NAMs Reversed Symptoms in Novel
+Graves’ Disease Model
+• Selective TSHR NAMs
+• Blocked activation of TSHR by
+patient-derived autoantibodies
+• Insurmountable NAM profiles in cellbased assays
+
+TSHR Activating
+Antibody
+
+Mouse
+
+6 weeks
+
+↑ Thyroid Hormone Levels
+↑ Thyroid Size
+↑ Eye Proptosis (bulging)
+
+TSHR Activating Ab
++TSHR NAM
+1 week
+
+Reversal of Thyroid and
+Eye Manifestations
+
+Isotype mAb control + Vehicle
+
+• Preclinical Leads Inhibited
+Diverse Patient Autoantibodies
+• Fully inhibited several Graves’ patient
+polyclonal serum samples in primary
+orbital fibroblasts
+
+• Reversed Graves’ Animal
+Disease Model Effects
+
+Agonist mAb + Vehicle
+
+Agonist mAb + SP-1351
+
+• Normalization of thyroid hormone T4
+• Reduction in thyroid weight
+• Reversal of proptosis
+
+Lead optimization is ongoing towards selection of a development candidate
+© 2026 SEPTERNA
+
+29
+
+Metabolic Programs
+Oral Small Molecule Programs Targeting GLP-1R, GIPR, GCGR and Other Targets for
+Obesity, Diabetes, and Other Cardiometabolic Diseases
+
+© 2026 SEPTERNA
+
+Collaboration with Novo Nordisk for Oral Small Molecules for
+Metabolic Diseases
+Septerna and Novo commenced four initial R&D
+programs targeting five GPCRs
+• Includes GLP-1, GIP and glucagon receptors
+• Collaboration includes Septerna’s preclinical, selective, oral,
+small molecule GIP receptor agonists
+
+Potential multi-billion $ opportunity
+• $195M upfront payment received in July ‘25
+• ~$500M in R&D, regulatory and commercial milestones for
+each program
+• Mid-to-high single-digit tiered royalties based on global
+product sales
+• Opt-in right for worldwide profit-share for one program
+
+Novo responsible for coverage of all collaboration
+R&D expenses
+© 2026 SEPTERNA
+
+Collaboration Objective: discover, develop and
+commercialize multiple novel mono-, dual-, or
+triple-acting oral small molecule drug candidates
+directed to obesity, type 2 diabetes and other
+cardiometabolic diseases
+
+31
+
+Building a World-Class GPCR-Focused
+Biotechnology Company
+
+© 2026 SEPTERNA
+
+Proven Leaders in GPCR Drug Development and Company Building
+Senior Leadership
+
+Jeff Finer, MD PhD
+CEO
+
+Liz Bhatt, MS MBA
+President & COO
+
+Jae Kim, MD
+CMO
+
+Dan Long, DPhil
+Uwe Klein, PhD
+Gil Labrucherie, CFA JD
+SVP Biological Sciences SVP Drug Discovery
+CFO
+
+Samira Shaikhly
+CPO
+
+Board of Directors
+
+Academic Co-Founders
+
+• Jeff Finer, MD, PhD, CEO
+
+• Robert J. Lefkowitz, MD, Duke University Medical Center
+
+• Jeff Tong, PhD, Third Rock Ventures
+
+• Arthur Christopoulos, PhD, Monash University
+
+• Alan Ezekowitz, MD, DPhil, Third Rock Ventures
+
+• Patrick Sexton, PhD, DSc, Monash University
+
+• Abe Bassan, Samsara BioCapital
+
+Drug Discovery Advisory Board
+
+• Jake Simson, PhD, RA Capital
+• Bernard Coulie, MD, PhD, MBA, Independent Director
+• Shalini Sharp, MBA, Independent Director
+• Keith Gottesdiener, MD, Independent Director
+
+Mark Wilson, JD
+CLO
+
+• Ruth Wexler, PhD, formerly with BMS
+• John Lowe, PhD, formerly with Pfizer
+• Craig Lindsley, PhD, Vanderbilt, formerly with Merck
+• Tom Baillie, PhD, DSc, formerly with Merck
+• David Lacey, MD, formerly with Amgen
+
+© 2026 SEPTERNA
+
+33
+
+Septerna: Pioneering a New Era of GPCR Drug Discovery
+• Portfolio of oral small molecule GPCRtargeted programs
+
+Wholly-Owned Programs
+
+Development Status
+
+Program / Target
+
+Discovery
+
+• Multi-product pipeline, each with a multibillion $ market opportunity
+
+SEP-479 (PTH1R)
+
+• Native Complex Platform® drives rapid
+compound identification and portfolio
+expansion
+• Well-capitalized with cash runway
+expected to support operating plans at
+least into 2029
+
+© 2026 SEPTERNA
+
+Mode of Action
+
+IND-enabling
+
+Phase 1
+
+Phase 2
+
+Phase 1 initiation*
+Anticipate Phase 1
+anticipated in
+topline data in
+1H 2026
+late 2026 / early 2027
+
+Agonist
+
+SEP-631 (MRGPRX2)
+
+Phase 2 initiation*
+anticipated in
+2H 2026
+
+Negative Allosteric Modulator
+
+TSHR Program
+Negative Allosteric Modulator
+
+Partnered Programs
+
+Metabolic Programs
+
+Partner
+
+GLP-1R, GIPR, GCGR +
+Undisclosed
+
+Obesity and Other
+Cardiometabolic
+Diseases
+
+Undisclosed
+
+Undisclosed
+
+* Pending successful completion of regulatory submissions
+
+34
+
+Pioneering a New Era of GPCR Drug Discovery
+
+© 2026 SEPTERNA
+
+
