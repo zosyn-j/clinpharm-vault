@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-04-09T17:56:39.474267+00:00",
+  "generated_at": "2026-04-09T18:28:49.902046+00:00",
   "base_dir": "/home/jordon/ClinPharmVault",
-  "count": 0,
-  "findings": []
+  "count": 1,
+  "findings": [
+    {
+      "path": "wiki/programs/sep-631.md",
+      "line": 34,
+      "tags": [
+        "DISPUTE"
+      ],
+      "text": "[DISPUTE: Septerna is planning Ph2 in CSU with 4 dose levels and a placebo arm, see slide deck: https://ir.septerna.com/static-files/74083270-2800-426f-a4fe-f556c4235943 , page 25]"
+    }
+  ]
 }
