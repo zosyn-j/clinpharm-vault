@@ -1,8 +1,8 @@
 # Dispute and review index
 
-- Generated: 2026-04-09T01:55:17.930563+00:00
+- Generated: 2026-04-09T02:13:59.149652+00:00
 - Findings: 5
-- Scope: knowledge-content Markdown files under `research-db/csu-cindu-db-v2/`, excluding `raw/`, `inventories/`, `docs/`, and `templates/`.
+- Scope: knowledge-content Markdown files under the ClinPharm vault, excluding `raw/`, `inventories/`, `docs/`, and `templates/`.
 
 | File | Line | Tag(s) | Text |
 |---|---:|---|---|

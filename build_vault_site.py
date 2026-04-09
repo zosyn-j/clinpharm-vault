@@ -94,6 +94,7 @@ def nav_html() -> str:
         'Programs': sorted((WIKI / 'programs').glob('*.md')),
         'Trials': sorted((WIKI / 'trials').glob('*.md')),
         'Queries': sorted((WIKI / 'queries').glob('*.md')),
+        'Disputes': sorted((WIKI / 'disputes').glob('*.md')),
     }
     out = ["<h2>ClinPharm Vault</h2>", "<div class='small'>Source-first clinical pharmacology knowledge base</div>"]
     out.append("<p><a href='/index.html'>Home</a></p>")

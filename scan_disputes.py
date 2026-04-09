@@ -24,6 +24,8 @@ def should_scan(path: Path) -> bool:
         return False
     if path.name == "README.md" and path.parent == BASE_DIR:
         return False
+    if path.name == "index.md" and 'disputes' in path.parts:
+        return False
     return not any(part in SKIP_PARTS for part in path.parts)
 
 
@@ -59,7 +61,7 @@ def main():
         "",
         f"- Generated: {payload['generated_at']}",
         f"- Findings: {payload['count']}",
-        "- Scope: knowledge-content Markdown files under `research-db/csu-cindu-db-v2/`, excluding `raw/`, `inventories/`, `docs/`, and `templates/`.",
+        "- Scope: knowledge-content Markdown files under the ClinPharm vault, excluding `raw/`, `inventories/`, `docs/`, and `templates/`.",
         "",
     ]
     if findings:
