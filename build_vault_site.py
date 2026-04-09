@@ -110,19 +110,37 @@ def normalize_wiki_links(md_text: str, current_md: Path) -> str:
     return md_text
 
 
+def split_frontmatter(md_text: str) -> tuple[dict[str, str], str]:
+    lines = md_text.splitlines()
+    if not lines or lines[0].strip() != '---':
+        return {}, md_text
+    frontmatter: dict[str, str] = {}
+    end_idx = None
+    for idx, line in enumerate(lines[1:], start=1):
+        if line.strip() == '---':
+            end_idx = idx
+            break
+        if ': ' in line and not line.startswith('  - '):
+            key, value = line.split(':', 1)
+            frontmatter[key.strip()] = value.strip().strip('"')
+    if end_idx is None:
+        return {}, md_text
+    body = '\n'.join(lines[end_idx + 1:]).lstrip()
+    return frontmatter, body
+
+
 def md_to_html(md_text: str, current_md: Path) -> str:
-    md_text = normalize_wiki_links(md_text, current_md)
-    return markdown.markdown(md_text, extensions=['tables', 'fenced_code'])
+    _, body = split_frontmatter(md_text)
+    body = normalize_wiki_links(body, current_md)
+    return markdown.markdown(body, extensions=['tables', 'fenced_code'])
 
 
 def display_name_for_md(path: Path) -> str:
     text = path.read_text(errors='ignore')
-    lines = text.splitlines()
-    if lines and lines[0].strip() == '---':
-        for line in lines[1:40]:
-            if line.startswith('title:'):
-                return line.split(':', 1)[1].strip().strip('"')
-    for line in lines:
+    frontmatter, body = split_frontmatter(text)
+    if frontmatter.get('title'):
+        return frontmatter['title']
+    for line in body.splitlines():
         if line.startswith('# '):
             return line[2:].strip()
     return path.stem.replace('-', ' ').title()
@@ -177,8 +195,9 @@ def render_file(md_path: Path, base_dir: Path):
     out = SITE / rel.with_suffix('.html')
     out.parent.mkdir(parents=True, exist_ok=True)
     text = md_path.read_text()
+    frontmatter, body = split_frontmatter(text)
     html_body = md_to_html(text, md_path)
-    title = text.splitlines()[0].lstrip('# ').strip() if text.strip() else md_path.stem
+    title = frontmatter.get('title') or next((line[2:].strip() for line in body.splitlines() if line.startswith('# ')), md_path.stem)
     out.write_text(wrap_page(title, html_body))
 
 
