@@ -128,6 +128,32 @@ Trials with source-backed results in the current local layer: 5 of 16
 - Well-tolerated; favorable safety profile; no liver safety concerns reported in topline release.
 - Sources: Novartis press release, 2026-02-18 (raw/sponsors/btk/remibrutinib/2026-cindu-phase-iii-remind-press-release.md)
 
+### Sponsor-sourced result evidence
+
+_Sponsor press releases complement the manuscript-backed REMIX results with topline framing of rapid onset, phase progression, durability, and CIndU expansion._
+
+**Novartis Phase III topline press release (August 2023)** (Sponsor press release)
+- REMIX-1 and REMIX-2 both met all primary and secondary endpoints, showing clinically meaningful and statistically significant improvements in UAS7 at week 12 (sponsor press release; exact effect sizes reported in PMID 40043237).
+- Rapid onset of action illustrated by UAS7 improvement at week 2 in both REMIX studies.
+- Sponsor framing positions remibrutinib as the potential first-in-class oral BTK treatment for CSU in a decade.
+- Safety: Well-tolerated with a favorable safety profile; liver function tests balanced between active and placebo arms across both studies (sponsor press release).
+- Source(s): raw/sponsors/btk/remibrutinib/2023-phase-iii-primary-endpoints-press-release.md
+
+**Novartis 52-week sustained efficacy and safety press release (May 2024)** (Sponsor press release)
+- UAS7 improvements observed as early as week 1 and sustained to week 52 in both REMIX-1 and REMIX-2.
+- At week 24, placebo-to-remibrutinib crossover patients showed response as early as 1 week after switching, sustained to end of study.
+- Almost half of patients were completely free of itch and hives (UAS7 = 0) at week 52 (sponsor press release; manuscript-level detail in PMID 41115533).
+- Safety: Favorable and consistent safety profile up to 52 weeks; liver transaminase elevations balanced across arms, all asymptomatic, transient, and reversible.
+- Safety: AEs, SAEs, and treatment discontinuations due to AEs comparable between remibrutinib and placebo during the 24-week placebo-controlled period; exposure-adjusted rates did not increase with long-term treatment.
+- Source(s): raw/sponsors/btk/remibrutinib/2024-sustained-efficacy-and-safety-press-release.md
+
+**Novartis RemIND CIndU Phase III press release (February 2026)** (Sponsor press release)
+- Remibrutinib described as the first therapy to achieve a Phase III primary endpoint in CIndU.
+- Statistically significant and clinically meaningful complete response rates versus placebo at week 12 in all three CIndU subtypes: symptomatic dermographism, cold urticaria, and cholinergic urticaria.
+- sNDA submitted to FDA for symptomatic dermographism based on RemIND results.
+- Safety: Well-tolerated with no liver safety concerns reported in topline release.
+- Source(s): raw/sponsors/btk/remibrutinib/2026-cindu-phase-iii-remind-press-release.md
+
 ## Evidence summary
 - Primary manuscript layer is strongest for the CSU efficacy chain: phase 2b core (PMID 36096203), phase 2b extension follow-up (PMID 37866460), REMIX phase 3 core results (PMID 40043237), and 52-week REMIX follow-up (PMID 41115533).
 - The REMIX papers directly support the pivotal phase 3 pair `NCT05030311` and `NCT05032157`, including trial names REMIX-1 and REMIX-2, randomized sample sizes, and week-12 plus week-52 efficacy framing.

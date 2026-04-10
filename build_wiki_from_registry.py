@@ -723,6 +723,51 @@ PROGRAM_SPONSOR_RESULTS: dict[str, dict] = {
             },
         ],
     },
+    'remibrutinib': {
+        'headline': 'Sponsor press releases complement the manuscript-backed REMIX results with topline framing of rapid onset, phase progression, durability, and CIndU expansion.',
+        'entries': [
+            {
+                'label': 'Novartis Phase III topline press release (August 2023)',
+                'result_status': 'Sponsor press release',
+                'efficacy': [
+                    'REMIX-1 and REMIX-2 both met all primary and secondary endpoints, showing clinically meaningful and statistically significant improvements in UAS7 at week 12 (sponsor press release; exact effect sizes reported in PMID 40043237).',
+                    'Rapid onset of action illustrated by UAS7 improvement at week 2 in both REMIX studies.',
+                    'Sponsor framing positions remibrutinib as the potential first-in-class oral BTK treatment for CSU in a decade.',
+                ],
+                'safety': [
+                    'Well-tolerated with a favorable safety profile; liver function tests balanced between active and placebo arms across both studies (sponsor press release).',
+                ],
+                'source_citations': ['raw/sponsors/btk/remibrutinib/2023-phase-iii-primary-endpoints-press-release.md'],
+            },
+            {
+                'label': 'Novartis 52-week sustained efficacy and safety press release (May 2024)',
+                'result_status': 'Sponsor press release',
+                'efficacy': [
+                    'UAS7 improvements observed as early as week 1 and sustained to week 52 in both REMIX-1 and REMIX-2.',
+                    'At week 24, placebo-to-remibrutinib crossover patients showed response as early as 1 week after switching, sustained to end of study.',
+                    'Almost half of patients were completely free of itch and hives (UAS7 = 0) at week 52 (sponsor press release; manuscript-level detail in PMID 41115533).',
+                ],
+                'safety': [
+                    'Favorable and consistent safety profile up to 52 weeks; liver transaminase elevations balanced across arms, all asymptomatic, transient, and reversible.',
+                    'AEs, SAEs, and treatment discontinuations due to AEs comparable between remibrutinib and placebo during the 24-week placebo-controlled period; exposure-adjusted rates did not increase with long-term treatment.',
+                ],
+                'source_citations': ['raw/sponsors/btk/remibrutinib/2024-sustained-efficacy-and-safety-press-release.md'],
+            },
+            {
+                'label': 'Novartis RemIND CIndU Phase III press release (February 2026)',
+                'result_status': 'Sponsor press release',
+                'efficacy': [
+                    'Remibrutinib described as the first therapy to achieve a Phase III primary endpoint in CIndU.',
+                    'Statistically significant and clinically meaningful complete response rates versus placebo at week 12 in all three CIndU subtypes: symptomatic dermographism, cold urticaria, and cholinergic urticaria.',
+                    'sNDA submitted to FDA for symptomatic dermographism based on RemIND results.',
+                ],
+                'safety': [
+                    'Well-tolerated with no liver safety concerns reported in topline release.',
+                ],
+                'source_citations': ['raw/sponsors/btk/remibrutinib/2026-cindu-phase-iii-remind-press-release.md'],
+            },
+        ],
+    },
     'rilzabrutinib': {
         'headline': 'Sponsor press release and conference poster provide additional detail beyond the primary manuscript for RILECSU Phase 2.',
         'entries': [
@@ -769,6 +814,97 @@ PROGRAM_OPERATIONAL_OVERRIDES = {
         'notes': [
             'Septerna corporate slide deck page 25 describes a planned global, randomized, double-blind, placebo-controlled Phase 2b CSU study with 4 SEP-631 oral QD dose levels plus placebo, adults 18 to 65 years who remain symptomatic on second-generation H1 antihistamine therapy, and change from baseline in UAS7 at week 12 as the primary endpoint.',
         ],
+    },
+}
+
+EFFICACY_SUMMARY_OVERRIDES: dict[str, dict] = {
+    'barzolvolimab': {
+        'tier': 'Rich CSU efficacy layer',
+        'headline': 'Deep KIT-sponsored CSU efficacy package with manuscript-backed phase 2 activity and unusually rich sponsor-poster durability follow-up.',
+        'strengths': [
+            'Phase 2 CSU evidence is no longer just a week-12 story: the local sponsor layer extends into week-52 control, patient-reported disease control, and post-treatment follow-up framing.',
+            'The newly cached EADV 2025 poster supports similar activity in low-IgE and normal/high-IgE subgroups, which matters strategically because low-IgE CSU is often discussed as a harder-to-treat biology.',
+            'Current local read: one of the strongest public non-BTK CSU efficacy packages in the vault, with clearer durability and subgroup texture than most peers.',
+        ],
+        'evidence_note': 'Manuscript-backed plus deep sponsor-poster layer',
+        'sources': [
+            'wiki/programs/barzolvolimab.md',
+            'wiki/trials/barzolvolimab-nct05368285.md',
+        ],
+    },
+    'remibrutinib': {
+        'tier': 'Rich CSU efficacy layer',
+        'headline': 'Richest BTK CSU package in the vault, spanning phase 2b signal, pivotal phase 3 confirmation, and 52-week follow-up.',
+        'strengths': [
+            'Phase 2b and REMIX phase 3 manuscripts together support rapid symptom reduction, clear week-12 efficacy, and sustained benefit through week 52.',
+            'Sponsor press releases add useful topline framing around rapid onset, durability, and the newer CIndU expansion without replacing the manuscript-backed CSU core.',
+            'Current local read: the most mature oral BTK urticaria efficacy story in the vault.',
+        ],
+        'evidence_note': 'Primarily manuscript-backed, with sponsor support for topline framing and CIndU expansion',
+        'sources': [
+            'wiki/programs/remibrutinib.md',
+            'wiki/trials/remibrutinib-nct03926611-phase-2b.md',
+        ],
+    },
+    'rilzabrutinib': {
+        'tier': 'Meaningful mid-depth CSU efficacy layer',
+        'headline': 'Credible Phase 2 CSU signal with early itch improvement, but still shallower and less mature than remibrutinib or barzolvolimab.',
+        'strengths': [
+            'The local stack supports week-12 ISS7, UAS7, and HSS7 improvement in RILECSU, with week-1 itch signal visible in sponsor materials.',
+            'Evidence remains phase-2-weighted and sponsor/manuscript coverage is narrower than the two flagship programs.',
+        ],
+        'evidence_note': 'Phase 2 manuscript plus sponsor press release/poster support',
+        'sources': [
+            'wiki/programs/rilzabrutinib.md',
+            'wiki/trials/rilzabrutinib-nct05107115.md',
+        ],
+    },
+    'evo756': {
+        'tier': 'Earlier proof-of-concept layer',
+        'headline': 'Mechanistic and proof-of-concept signal is visible, but mature CSU efficacy still sits below the flagship programs.',
+        'strengths': [
+            'Sponsor-backed healthy-volunteer and early urticaria program materials support target engagement and proof-of-concept logic.',
+            'Current local read: promising but earlier and less clinically mature than the leading CSU programs.',
+        ],
+        'evidence_note': 'Mostly sponsor-sourced early program evidence',
+        'sources': ['wiki/programs/evo756.md'],
+    },
+    'sep-631': {
+        'tier': 'Earlier proof-of-mechanism layer',
+        'headline': 'Strong mechanistic wheal-inhibition signal, but no mature public CSU efficacy package yet in the local layer.',
+        'strengths': [
+            'The AAAAI 2026 poster supports proof-of-mechanism and once-daily oral development logic.',
+            'Current local read: intriguing early mechanism story, not yet a mature clinical-efficacy competitor in public data.',
+        ],
+        'evidence_note': 'Sponsor-poster proof-of-mechanism data',
+        'sources': ['wiki/programs/sep-631.md'],
+    },
+    'ep262': {
+        'tier': 'Weak / negative public efficacy layer',
+        'headline': 'Current local public result layer is unfavorable after posted CT.gov phase 2 results failed to separate from placebo.',
+        'strengths': [
+            'The active-versus-placebo signal does not currently support a strong efficacy narrative in the vault.',
+        ],
+        'evidence_note': 'CT.gov posted results with negative topline read',
+        'sources': ['wiki/trials/ep262-nct06077773.md'],
+    },
+    'blu-808': {
+        'tier': 'Immature public efficacy layer',
+        'headline': 'Mechanism and ownership context are clearer now, but mature urticaria efficacy remains thin in the current public source stack.',
+        'strengths': [
+            'Current local value is mostly program tracking and source capture rather than efficacy interpretation.',
+        ],
+        'evidence_note': 'Program-tracking layer only',
+        'sources': ['wiki/programs/blu-808.md'],
+    },
+    'fenebrutinib': {
+        'tier': 'Moderate historical efficacy layer',
+        'headline': 'Historical BTK efficacy signal exists, but the current local layer is still thinner and less operationally useful than remibrutinib.',
+        'strengths': [
+            'Useful as a competitor/historical comparator, but not the flagship efficacy story in this vault.',
+        ],
+        'evidence_note': 'Publication-backed historical competitor layer',
+        'sources': ['wiki/programs/fenebrutinib.md'],
     },
 }
 
@@ -1182,6 +1318,24 @@ def build_remibrutinib_program_page(program_entry: dict, trial_slug_map: dict[st
                 lines.append(f"- {r['safety'][0]}")
             if r.get('source_citations'):
                 lines.append(f"- Sources: {'; '.join(r['source_citations'])}")
+            lines.append('')
+
+    sponsor_results = PROGRAM_SPONSOR_RESULTS.get('remibrutinib')
+    if sponsor_results:
+        lines.append(f"### Sponsor-sourced result evidence")
+        lines.append('')
+        lines.append(f"_{sponsor_results['headline']}_")
+        lines.append('')
+        for entry in sponsor_results['entries']:
+            lines.append(f"**{entry['label']}** ({entry['result_status']})")
+            if entry.get('efficacy'):
+                for item in entry['efficacy']:
+                    lines.append(f'- {item}')
+            if entry.get('safety'):
+                for item in entry['safety']:
+                    lines.append(f'- Safety: {item}')
+            if entry.get('source_citations'):
+                lines.append(f"- Source(s): {'; '.join(entry['source_citations'])}")
             lines.append('')
 
     lines.extend([
@@ -1627,6 +1781,7 @@ def build_query_pages(registry: dict, trial_slug_map: dict[str, str]):
         f"- Programs in current derived layer: {len(programs)}",
         f"- CT.gov trials in current registry: {sum(len(p.get('ctgov_trials', [])) for p in programs)}",
         '- Derived strategy view: [Program strategy briefs](../queries/program-strategy-briefs.md)',
+        '- Derived efficacy view: [Cross-program efficacy summary](../queries/cross-program-efficacy-summary.md)',
         '',
         '| Program | Class | Trials | Primary pubs | Program page |',
         '|---|---|---:|---:|---|',
@@ -1692,6 +1847,67 @@ def build_query_pages(registry: dict, trial_slug_map: dict[str, str]):
             strategy_lines.append(f"  - {item}")
         strategy_lines.append('')
     write_text(QUERIES_DIR / 'program-strategy-briefs.md', '\n'.join(strategy_lines))
+
+    efficacy_lines = [
+        '---',
+        'title: Cross-program efficacy summary',
+        'tags:',
+        '  - type/query',
+        '---',
+        '# Cross-program efficacy summary',
+        '',
+        'This page is a conservative derived read across the current local source stack. It is meant to answer a practical question: which programs currently have the clearest public efficacy story, and which still look early, thin, or weak?',
+        '',
+        '| Program | Class | Current read | Evidence type | Program page |',
+        '|---|---|---|---|---|',
+    ]
+    ordered_program_keys = [
+        'remibrutinib',
+        'barzolvolimab',
+        'rilzabrutinib',
+        'fenebrutinib',
+        'evo756',
+        'sep-631',
+        'ep262',
+        'blu-808',
+    ]
+    program_by_key = {program['program_key']: program for program in programs}
+    for key in ordered_program_keys:
+        program = program_by_key.get(key)
+        summary = EFFICACY_SUMMARY_OVERRIDES.get(key)
+        if not program or not summary:
+            continue
+        efficacy_lines.append(
+            f"| [{program['display_name']}](../programs/{key}.md) | {', '.join(program.get('priority_classes', [])) or 'NR'} | {summary['tier']} | {summary['evidence_note']} | [open](../programs/{key}.md) |"
+        )
+    efficacy_lines.extend([
+        '',
+        '## Quick read',
+        '- **Current flagship CSU efficacy pages:** remibrutinib and barzolvolimab.',
+        '- **Most mature oral BTK CSU story:** remibrutinib.',
+        '- **Deepest KIT sponsor-poster durability/subgroup story:** barzolvolimab.',
+        '- **Meaningful but shallower Phase 2 CSU story:** rilzabrutinib.',
+        '- **Earlier proof-of-concept / mechanism layer:** EVO756 and SEP-631.',
+        '- **Currently weak or immature public efficacy layer:** EP262, BLU-808, and other thin public programs.',
+        '',
+        '## Program-by-program notes',
+        '',
+    ])
+    for key in ordered_program_keys:
+        program = program_by_key.get(key)
+        summary = EFFICACY_SUMMARY_OVERRIDES.get(key)
+        if not program or not summary:
+            continue
+        efficacy_lines.append(f"### {program['display_name']}")
+        efficacy_lines.append(f"- Current read: {summary['headline']}")
+        efficacy_lines.append(f"- Evidence type: {summary['evidence_note']}")
+        efficacy_lines.append('- Why this matters:')
+        for item in summary.get('strengths', []):
+            efficacy_lines.append(f"  - {item}")
+        if summary.get('sources'):
+            efficacy_lines.append(f"- Key local pages: {'; '.join(f'`{src}`' for src in summary['sources'])}")
+        efficacy_lines.append('')
+    write_text(QUERIES_DIR / 'cross-program-efficacy-summary.md', '\n'.join(efficacy_lines))
 
 
 def main():

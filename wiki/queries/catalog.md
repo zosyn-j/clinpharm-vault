@@ -8,6 +8,7 @@ tags:
 - Programs in current derived layer: 9
 - CT.gov trials in current registry: 35
 - Derived strategy view: [Program strategy briefs](../queries/program-strategy-briefs.md)
+- Derived efficacy view: [Cross-program efficacy summary](../queries/cross-program-efficacy-summary.md)
 
 | Program | Class | Trials | Primary pubs | Program page |
 |---|---|---:|---:|---|
