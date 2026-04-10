@@ -81,16 +81,39 @@ Trials with source-backed results in the current local layer: 3 of 8
 **[NCT05368285](../trials/barzolvolimab-nct05368285.md)** (Published)
 - Primary endpoint met at week 12 (UAS7 change from baseline, LS mean delta versus placebo): 150 mg Q4W -12.55 (P < 0.0001), 300 mg Q8W -13.41 (P < 0.0001), 75 mg Q4W -6.60 (P = 0.0017).
 - Hair color changes (26%), neutropenia (17%), skin hypopigmentation (13%); all mechanism-related, mostly Grade 1, reversible upon discontinuation.
-- Sources: PMID 41747871; raw/sponsors/kit/barzolvolimab/aaaai-2025-csu-poster.md; raw/sponsors/kit/barzolvolimab/eadv-2024-congress-presentation.md
+- Sources: PMID 41747871; raw/sponsors/kit/barzolvolimab/aaaai-2025-csu-poster.md; raw/sponsors/kit/barzolvolimab/eadv-2024-congress-presentation.md; raw/sponsors/kit/barzolvolimab/eadv-2025-csu-ige-poster.md
 
 **[NCT05405660](../trials/barzolvolimab-nct05405660.md)** (Conference)
 - Primary endpoint (negative provocation test at week 12) -- Cold urticaria: 150 mg Q4W 53.1%, 300 mg Q8W 46.9%, placebo 12.5%.
 - 98% of TEAEs were Grade 1 or 2; hair color changes 13% (versus 0% placebo), neutropenia 10% (versus 0% placebo).
 - Sources: raw/sponsors/kit/barzolvolimab/phase-2-cindu-acaai-poster.md; raw/sponsors/kit/barzolvolimab/ir-press-release-pdf-additional-data.md
 
+### Sponsor-sourced result evidence
+
+_CSU sponsor-poster layer is unusually deep, extending the manuscript-backed phase 2 story into durability, quality-of-life, and IgE-subgroup analyses._
+
+**AAAAI 2025 CSU poster (52-week control and quality-of-life follow-up)** (Conference poster)
+- Improvement in urticaria control was sustained through week 52, with up to 82% of patients reporting well-controlled urticaria by UCT and approximately half reporting complete control at week 52.
+- The poster also frames week-52 quality-of-life improvement, with many patients reporting that CSU symptoms no longer had meaningful impact on daily life.
+- This poster strengthens the interpretation that the phase 2 CSU dataset is not only statistically positive at week 12, but also durable and patient-meaningful over longer follow-up.
+- Safety: Mechanism-related events highlighted in the sponsor poster remained mainly hair color change, neutropenia, urticaria, and skin pigment change, consistent with the broader barzolvolimab safety narrative.
+- Source(s): raw/sponsors/kit/barzolvolimab/aaaai-2025-csu-poster.md
+
+**EADV 2025 CSU IgE subgroup poster** (Conference poster)
+- Weeks 12 and 52 analyses suggest similarly strong efficacy for 150 mg Q4W and 300 mg Q8W in patients with low (< 40 IU/mL) and normal/high (>= 40 IU/mL) baseline IgE levels.
+- The cached poster text states that adjusted p-values were non-significant for comparisons between IgE subgroups, while most active-versus-placebo comparisons remained significant, supporting efficacy across biologically distinct CSU subsets.
+- This is especially useful strategically because low-IgE CSU is often discussed as a more autoimmune / anti-IgE-refractory phenotype.
+- Source(s): raw/sponsors/kit/barzolvolimab/eadv-2025-csu-ige-poster.md
+
+**Late follow-up sponsor disclosures (ACAAI/AAAAI-linked releases)** (Sponsor press release / IR PDF)
+- Sponsor disclosures extend the CSU phase 2 story beyond active treatment, including up to 41% complete response at week 76 and persistence of control after treatment discontinuation in a subset of week-52 responders.
+- One sponsor summary also highlights a subset analysis in which 88% of patients who completed 52 weeks on 150 mg Q4W or 300 mg Q8W and finished treatment with at least well-controlled disease reported complete response.
+- Safety: Sponsor summaries continue to describe the safety profile as well tolerated, with KIT-related tolerability findings largely reversible after discontinuation.
+- Source(s): raw/sponsors/kit/barzolvolimab/ir-press-release-additional-positive-data.md; raw/sponsors/kit/barzolvolimab/ir-press-release-pdf-additional-data.md
+
 ## Evidence Coverage
 - CT.gov trials in registry: 8
-- Sponsor artifacts in registry: 6
+- Sponsor artifacts in registry: 7
 - Primary publications in registry: 3
 - Supporting publications in registry: 2
 - Publication status: primary_manuscripts_found
@@ -133,6 +156,10 @@ Trials with source-backed results in the current local layer: 3 of 8
   - `raw/sponsors/kit/barzolvolimab/eadv-2024-congress-presentation.pdf`
   - `raw/sponsors/kit/barzolvolimab/eadv-2024-congress-presentation.txt`
   - `raw/sponsors/kit/barzolvolimab/eadv-2024-congress-presentation.md`
+- Sponsor artifact: EADV 2025 CSU IgE subgroup poster (Celldex)
+  - `raw/sponsors/kit/barzolvolimab/eadv-2025-csu-ige-poster.pdf`
+  - `raw/sponsors/kit/barzolvolimab/eadv-2025-csu-ige-poster.txt`
+  - `raw/sponsors/kit/barzolvolimab/eadv-2025-csu-ige-poster.md`
 - Sponsor artifact: IR press release PDF additional data (Celldex)
   - `raw/sponsors/kit/barzolvolimab/ir-press-release-pdf-additional-data.pdf`
   - `raw/sponsors/kit/barzolvolimab/ir-press-release-pdf-additional-data.txt`

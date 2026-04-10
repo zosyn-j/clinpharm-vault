@@ -167,6 +167,20 @@
       "priority_class": "KIT",
       "sponsor": "Celldex",
       "kind": "pdf",
+      "label": "EADV 2025 CSU IgE subgroup poster",
+      "url": "https://celldex.com/wp-content/uploads/2025/09/EADV2025_Poster.pdf",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/kit/barzolvolimab/eadv-2025-csu-ige-poster.pdf",
+        "raw/sponsors/kit/barzolvolimab/eadv-2025-csu-ige-poster.txt",
+        "raw/sponsors/kit/barzolvolimab/eadv-2025-csu-ige-poster.md"
+      ]
+    },
+    {
+      "program": "barzolvolimab",
+      "priority_class": "KIT",
+      "sponsor": "Celldex",
+      "kind": "pdf",
       "label": "IR press release PDF additional data",
       "url": "https://ir.celldex.com/node/16446/pdf",
       "status": "ok",

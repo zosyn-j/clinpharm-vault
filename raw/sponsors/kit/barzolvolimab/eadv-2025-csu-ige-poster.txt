@@ -1,0 +1,1157 @@
+Barzolvolimab Treatment Improves Urticaria Activity in Patients with Chronic Spontaneous Urticaria
+Regardless of Baseline IgE Levels
+
+P2489
+
+Martin Metz*1, Marcus Maurer1, Essack Mitha2, Jeffrey Leflein3, Maia Gotua4, Dorota Krasowska5, Jonny Peter6, Neetu Talreja7, Usman Chaudhry8, Elsa Paradise8, Deena
+Maurer8, Diego Alvarado8, Steven Greenberg8, Jonathan Bernstein9 1 Institute of Allergology, Charité-Universitätsmedizin Berlin, corporate member of Freie Universitäts Berlin and Humboldt-Universitäts zu Berlin, Berlin, Germany,
+2Newtown Clinical Research, Johannesburg, South Africa, 3Respiratory Medicine Research Institute of Michigan, Ypsilanti, United States, 4Center of Allergy and Immunology, Tbilisi, Georgia, 5Medical University of Lublin, Lublin, Poland, 6University of Cape Town Lung
+
+Institute, Cape Town, South Africa, 7The Allergy Group and Treasure Valley Medical Research, Boise, United States, 8Celldex Therapeutics Inc, Hampton, NJ, United States, 9University of Cincinnati College of Medicine and Bernstein Allergy Group/Clinical Research
+Center, Cincinnati, United States
+
+CSU Phase 2 Study Design and Key Eligibility
+
+Background
+
+Randomized Placebo-controlled Phase 2 Study
+
+• Mast cells (MCs) are key effector cells in chronic spontaneous urticaria (CSU).
+• Barzolvolimab, a humanized monoclonal antibody that inhibits KIT activation by SCF,
+demonstrated rapid and durable depletion of skin MCs1.
+• We previously reported that barzolvolimab treatment resulted in statistically significant
+and clinically meaningful improvement in weekly Urticaria Activity Score (UAS7) at 12
+weeks, with deepening of response over 52 weeks in antihistamine-refractory CSU
+patients (NCT05368285), including patients who received prior omalizumab.
+• Low circulating IgE levels have been associated with autoimmune (Type 2b) disease
+and refractoriness to anti-IgE therapies2,3,4.
+• Here we report UAS7 and Urticaria Control Test over 7 days (UCT7) results in relation to
+baseline total IgE level at Weeks 12 and 52 for the two higher barzolvolimab doses.
+
+52 Week Total Treatment Period
+16 Week Placebo
+Controlled Treatment
+Period
+
+4 Week
+Screening
+
+36 Week Active Treatment Period
+
+24 Week Follow Up Period
+
+Arm 1
+
+Barzolvolimab 75 mg Q4W
+
+Arm 2
+
+Barzolvolimab 150 mg Q4W
+
+R
+
+R
+
+Arm 1 & Arm 4 are randomized equally to Arm 2 & Arm 3
+
+Arm 3
+
+Barzolvolimab 300 mg Q8W
+
+Arm 4
+
+Placebo Q4W
+Last dose
+
+Primary Endpoint:
+Mean change from baseline to Week 12 of UAS7
+(Urticaria Activity Score)
+
+• Randomized, double-blind, placebo-controlled,
+dose-finding study.
+
+References
+
+• Patients with moderate to severe CSU who
+remain symptomatic despite treatment with up
+to 4X labeled dose of antihistamines; including
+patients with prior biologics.
+
+1 Terhorst-Molawi et al. Allergy 2023. 78(5):1269-1279; 2 Kolkhir et al. Clin Rev Aller Clin Imm 2022. 149(6):1819-1831; 3 Schoepke et al.
+
+Allergy 2019. 74(12):2427-2436. ; 4 Ertas et al. 2017 Allergy. 73(3):705-712
+
+Exploratory Endpoint:
+Urticaria Control Test 7 (UCT7)
+
+• 208 patients enrolled and 207 patients treated.
+• 189 patients entered the follow-up period.
+
+Methods and Baseline Characteristics
+Patients receiving placebo, or barzolvolimab at 150 mg Q4W or 300 mg
+Q8W were subgrouped according to baseline IgE levels as previously
+defined2,3
+
+•
+
+Baseline characteristics
+median (IQR)
+
+IgE normal/high ≥ 40 IU/mL
+IgE low < 40 IU/mL
+
+•
+•
+
+Age, years
+BMI
+
+150 mg Q4W
+(N=29)
+
+300 mg Q8W
+(N=35)
+
+42.0 (33.3 - 50.3)
+
+44.0 (37.0 – 48.0)
+
+47.0 (37.5 - 57)
+
+28.0 (82.3)
+
+22.0 (75.9)
+
+28.0 (80.0)
+
+28.8 (24.9 - 35.2)
+
+27.9 (24.6 – 33.0)
+
+4.4 (3.2 - 6.6)
+
+5.7 (4.4 - 6.8)
+
+Tryptase (ng/mL)
+
+Statistical analyses to determine significance between groups was
+conducted using one-way ANOVA with Tukey’s Multiple Comparisons
+Test, Welch's t-test, or z-test for two population proportions, as
+appropriate.
+
+•
+
+IgE low (< 40 IU/mL)
+
+Placebo
+(N=34)
+
+Female, n (%)
+
+Analysis was conducted in patients with observable data Weeks 12 and
+52. Analysis included patients who received 150 mg or 300 mg of
+barzolvolimab for 52 weeks. Placebo comparison was done for the week
+12 analysis.
+
+•
+
+IgE normal/high (≥ 40 IU/mL)
+Placebo
+(N=16)
+
+150 mg Q4W
+(N=20)
+
+300 mg Q8W
+(N=15)
+
+45.0 (31.5 - 60.8) 51.0 (42.8 - 62.3) 51.0 (46.5 - 55)
+7.0 (43.8)
+
+14.0 (70.0)
+
+12.0 (80.0)
+
+28.8 (26.0 – 34.0) 30.2 (25.2 - 34.7) 27.4 (24.1 - 29.8) 33.3 (27.2 - 35.5)
+4.7 (3.8 - 6.4)
+
+4.8 (4.0 - 5.9)
+
+5.6 (4.4 - 7.5)
+
+5.7 (4.4 - 7.4)
+
+Total IgE (IU/mL)
+
+176.0 (99.8 - 317.3) 115.0 (66.0 – 222.0) 150.0 (87.5 – 258.0) 12.0 (3.5 - 20.8) 11.5 (5.5 - 18.3) 20.0 (3.5 – 35.0)
+
+UAS7
+
+32.0 (27.3 - 38.3)
+
+30.0 (25.0 - 36.0)
+
+UAS7, Severe Disease n (%)
+
+25.0 (73.5)
+
+19.0 (65.5)
+
+26.0 (74.3)
+
+7.0 (43.8)
+
+16.0 (80.0)
+
+13.0 (86.7)
+
+UCT7
+
+5.0 (4.0 – 6.0)
+
+4.0 (1.5 - 6.5)
+
+4.0 (1.0 -6.0)
+
+6.0 (5.0 – 8.0)
+
+5.5 (3.3 - 6.8)
+
+3.0 (0 – 5.0)
+
+7.0 (20.6)
+
+6.0 (20.7)
+
+6.0 (17.1)
+
+1.0 (6.0)
+
+4.0 (21.0)
+
+5.0 (33.3)
+
+Previous experience with omalizumab, n (%)
+
+30.3 (27.4 – 36.0) 26.0 (19.4 - 30.4) 33.0 (29.5 - 38.5) 31.0 (28.0 – 37.0)
+
+Results
+
+• Analyses shown reflect mean ± SE values.
+
+Barzolvolimab exhibits similar efficacy in patients with normal/high vs. low total IgE levels*+^
+UAS7 Kinetics
+
+36
+
+30
+
+30
+
+30
+
+18
+
+n = 29
+n = 20
+
+24
+
+UAS7
+
+24
+
+UAS7
+
+n = 34
+n = 16
+
+18
+
+18
+
+12
+
+12
+
+12
+
+6
+
+6
+
+6
+
+0
+
+0
+
+0
+
+8
+
+16
+
+24
+
+32
+
+40
+
+48
+
+0
+
+8
+
+Weeks
+
+16
+
+24
+
+32
+
+40
+
+48
+
+8
+4
+
+0
+
+8
+
+16
+
+24
+
+32
+
+Weeks
+
+Weeks
+
+IgE ≥ 40 IU/mL
+IgE < 40 IU/mL
+
+40
+
+48
+
+0
+
+0
+
+8
+
+16
+
+24
+
+32
+
+40
+
+46
+
+16
+
+19
+
+13
+
+30
+
+26
+
+-9.3
+
+-11.0
+
+-20
+-23.6
+
+-30
+
+-21.7
+
+-23.4
+-26.3
+
+0
+
+33
+
+-6.1
+
+-22.0
+
+-27.1
+
+Overall
+36
+
+IgE < 40 IU/mL
+
+37
+
+16
+
+9
+
+20
+
+-20
+
+barzolvolimab
+150 mg Q4W
+
+-30
+
+-25.5
+
+-27.5
+
+-25.6
+-29.8
+
+-23.7
+
+barzolvolimab
+300 mg Q8W
+
+-30.9
+
+73.7
+
+60
+
+63.2
+
+60.6
+53.8
+
+40
+20
+
+16.7
+
+12.8
+
+Proportion of Patients
+Achieving UAS7 ≤ 6
+
+Proportion of Patients
+Achieving UAS7 ≤ 6
+
+59.6
+
+63.8
+
+71.1
+
+75.0
+66.7
+
+6
+
+28
+
+Overall
+
+1
+
+12
+
+9
+
+IgE < 40 IU/mL
+
+5
+
+70.0
+
+8.3
+
+14
+
+20
+
+Overall
+
+IgE ≥ 40 IU/mL
+
+6
+
+IgE < 40 IU/mL
+
+14
+
+80
+
+42
+
+24
+
+51.1
+
+46.2
+
+42.3
+
+38.3
+
+40
+
+33.3
+
+20
+10.0
+
+6.4
+
+0
+
+n=
+
+0
+
+3
+
+24
+
+Overall
+
+18
+
+0
+
+11
+
+6
+
+IgE < 40 IU/mL
+
+3
+
+11
+
+11
+
+IgE ≥ 40 IU/mL
+
+Proportion of Patients
+Achieving UAS7 = 0
+
+Proportion of Patients
+Achieving UAS7 = 0
+
+57.9
+
+60
+
+18
+
+14
+
+Overall
+
+barzolvolimab
+150 mg Q4W
+barzolvolimab
+300 mg Q8W
+21
+
+Overall
+
+12
+
+5
+
+IgE < 40 IU/mL
+
+32
+
+40
+
+48
+
+13
+
+9.4
+
+8.5
+
+7.5
+
+5
+
+30
+
+0
+
+30
+
+13
+
+Overall
+
+IgE ≥ 40 IU/mL
+
+6
+
+17
+
+IgE < 40 IU/mL
+
+24
+
+IgE ≥ 40 IU/mL
+
+Week 52
+100
+92.9
+
+64.3
+
+61.7
+
+61.5
+
+59.4
+
+50
+25
+
+22.2
+
+16.3
+
+78.9
+
+73.0
+
+75
+
+64.3
+
+50
+25
+
+7
+
+29
+
+32
+
+1
+
+14
+
+9
+
+IgE < 40 IU/mL
+
+6
+
+16
+
+19
+
+n=
+
+0
+
+30
+
+27
+
+Overall
+
+IgE ≥ 40 IU/mL
+
+13
+
+8
+
+IgE < 40 IU/mL
+
+15
+
+18
+
+IgE ≥ 40 IU/mL
+
+Proportion of patients achieving complete disease control (UCT7 = 16)
+
+Placebo
+
+27
+
+12
+
+73.7
+
+Overall
+
+53.6
+
+20
+
+n=
+
+24
+
+10
+
+Week 52
+
+80
+
+40
+
+0
+
+21
+
+10.2
+
+9.7
+
+Week 12
+
+55.6
+
+55.3
+
+12
+
+IgE < 40 IU/mL
+
+68.1
+
+IgE ≥ 40 IU/mL
+
+65.0
+
+60
+
+24
+
+12.8
+
+100
+
+75
+
+0
+
+75.0
+
+71.1
+
+8.6
+
+1.2
+
+33
+
+n=
+
+Week 52
+
+80
+
+16
+
+6.7
+
+20
+
+Proportion of patients achieving complete disease control (UAS7 = 0)
+Week 12
+
+8
+
+85.7
+
+barzolvolimab
+300 mg Q8W
+
+20
+
+12
+
+8.3
+
+100
+
+barzolvolimab
+150 mg Q4W
+
+27
+
+8.3
+
+3.0
+
+2.3
+
+71.4
+
+40
+
+28
+
+0
+
+Weeks
+
+Week 12
+
+Placebo
+
+n=
+
+48
+
+Proportion of patients achieving well-controlled disease (UCT7 ≥ 12)
+
+60
+
+0
+
+30
+
+40
+
+Week 52
+
+5
+
+Proportion of Patients
+Achieving UCT7 = 16
+
+n=
+
+barzolvolimab
+300 mg Q8W
+
+10
+
+8.6
+
+8.6
+
+6.3
+
+0
+
+32
+
+15
+
+Week 52
+80
+
+24
+
+Weeks
+
+0
+
+-40
+
+69.2
+
+barzolvolimab
+150 mg Q4W
+
+16
+
+n = 35
+n = 15
+
+28
+
+Placebo
+
+80
+
+Placebo
+
+8
+
+15
+
+IgE ≥ 40 IU/mL
+
+-10
+
+Week 12
+
+barzolvolimab
+300 mg Q8W
+
+0
+
+0
+
+Week 12
+
+Mean CFB in UCT7
+
+-10
+
+45
+
+IgE ≥ 40 IU/mL
+
+4
+
+n = 29
+n = 20
+
+0
+
+8
+
+Mean change from baseline in UCT7
+
+Proportion of patients achieving well-controlled disease (UAS7 ≤ 6)
+
+barzolvolimab
+150 mg Q4W
+
+4
+
+Weeks
+
+Proportion of Patients
+Achieving UCT7 ≥ 12
+
+Mean CFB in UAS7
+
+46
+
+IgE < 40 IU/mL
+
+-40
+
+Placebo
+
+8
+
+48
+
+Week 52
+
+Mean CFB in UAS7
+
+Overall
+
+0
+
+barzolvolimab
+300 mg Q8W
+
+12
+
+IgE ≥ 40 IU/mL
+IgE < 40 IU/mL
+
+Week 12
+
+barzolvolimab
+150 mg Q4W
+
+12
+
+n = 34
+n = 16
+
+Mean change from baseline in UAS7
+
+Placebo
+
+16
+
+Mean CFB in UCT7
+
+0
+
+n = 35
+n = 15
+
+24
+
+12
+
+16
+
+UCT7
+
+36
+
+Active Treatment Phase
+150 mg Q4W or 300 mg Q8W
+
+300 mg Q8W
+
+Proportion of Patients
+Achieving UCT7≥ 12
+
+36
+
+PBO-controlled
+Phase
+
+16
+
+150 mg Q4W
+
+60
+40
+
+31.3
+
+27.7
+21.4
+
+20
+0
+
+2.3
+
+1
+
+3.7
+
+0
+
+25
+
+Overall
+
+IgE ≥ 40 IU/mL
+
+57.9
+
+53.2
+
+46.2
+
+n=
+
+15
+
+80
+
+13
+
+0
+
+11
+
+3
+
+IgE < 40 IU/mL
+
+1
+
+12
+
+10
+
+IgE ≥ 40 IU/mL
+
+Proportion of Patients
+Achieving UCT7 = 16
+
+42
+
+Active Treatment Phase
+150 mg Q4W or 300 mg Q8W
+
+Placebo
+
+UCT7
+
+42
+
+PBO-controlled
+Phase
+
+42
+
+UAS7
+
+300 mg Q8W
+
+150 mg Q4W
+
+UCT7
+
+Placebo
+
+UCT7 Kinetics
+
+71.4
+
+71.4
+
+68.4
+62.5
+
+60
+
+51.4
+
+50.0
+
+40
+20
+
+n=
+
+0
+
+25
+
+19
+
+Overall
+
+10
+
+5
+
+IgE < 40 IU/mL
+
+13
+
+14
+
+IgE ≥ 40 IU/mL
+
+* All comparisons between either dosing regimen vs. placebo in indicated analyses had an adjusted p-value < 0.01, except for UAS7 = 0 between 300 mg vs placebo (p-value = 0.026) and
+UCT = 16 between 300 mg and placebo (p-value = NS).
++ Adjusted p-value was non-significant for all comparisons between normal/high vs IgE low subgroups in indicated analyses.
+^ The rate ratio (95% CI) of achieving a complete response in patients with low compared to normal/high baseline IgE was 1.37 (0.74-2.55) and 1.24 (0.71-2.16) in the 150 mg Q4W and 300
+mg Q8W groups, respectively.
+
+Conclusions
+
+• Barzolvolimab treatment demonstrated rapid and strong efficacy in a Phase 2 study in CSU and was well tolerated.
+• Similarly strong efficacy was observed in patients with normal/high (≥ 40 IU/mL) or low (< 40 IU/mL) IgE levels for both dosing regimens as determined
+by:
+• Changes in UAS7 or UCT7 at Weeks 12 and 52
+• Rates of well-controlled or complete disease control
+
+• These data suggest that mast cells are important drivers of CSU regardless of the underlying endotype and are consistent with the mechanism of
+action of barzolvolimab.
+• Barzolvolimab is a promising therapy for all patients with moderate to severe CSU, regardless of underlying endotype.
+
+

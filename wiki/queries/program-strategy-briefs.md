@@ -25,7 +25,7 @@ This page is a derived interpretation layer. It is meant to answer the question:
 - Program page: [open](../programs/barzolvolimab.md)
 - Strategic read: The current local source layer suggests Celldex is not treating barzolvolimab as a single-study CSU asset. Instead, it is using early KIT proof across both spontaneous and inducible urticaria to support a broader late-stage urticaria franchise.
 - Why this read is plausible in the current local layer: Parallel KIT franchise build across CSU and CIndU, now extending into multiple phase 3 tracks.
-- Evidence depth: 8 CT.gov trials, 3 primary publication(s), 6 sponsor artifact(s)
+- Evidence depth: 8 CT.gov trials, 3 primary publication(s), 7 sponsor artifact(s)
 - Key reasons:
   - Completed early studies cover both CSU and CIndU, so proof-of-concept was established across more than one urticaria phenotype before the current phase 3 wave.
   - Two active phase 3 CSU studies plus a separate recruiting phase 3 CIndU study suggest deliberate parallel expansion rather than sequential single-indication development.

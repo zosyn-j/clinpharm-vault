@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T22:47:30.505252+00:00",
+  "generated_at": "2026-04-10T23:35:38.660434+00:00",
   "built_from": {
     "ctgov": "inventories/ctgov_priority_trials.json",
     "sponsor": "inventories/sponsor_priority_sources.json",
@@ -210,6 +210,19 @@
             "raw/sponsors/kit/barzolvolimab/eadv-2024-congress-presentation.pdf",
             "raw/sponsors/kit/barzolvolimab/eadv-2024-congress-presentation.txt",
             "raw/sponsors/kit/barzolvolimab/eadv-2024-congress-presentation.md"
+          ],
+          "explicit_trial_ids": []
+        },
+        {
+          "label": "EADV 2025 CSU IgE subgroup poster",
+          "sponsor": "Celldex",
+          "kind": "pdf",
+          "status": "ok",
+          "url": "https://celldex.com/wp-content/uploads/2025/09/EADV2025_Poster.pdf",
+          "saved_files": [
+            "raw/sponsors/kit/barzolvolimab/eadv-2025-csu-ige-poster.pdf",
+            "raw/sponsors/kit/barzolvolimab/eadv-2025-csu-ige-poster.txt",
+            "raw/sponsors/kit/barzolvolimab/eadv-2025-csu-ige-poster.md"
           ],
           "explicit_trial_ids": []
         },
@@ -614,7 +627,7 @@
       ],
       "source_layer_counts": {
         "ctgov_trials": 8,
-        "sponsor_artifacts": 6,
+        "sponsor_artifacts": 7,
         "primary_publications": 3,
         "supporting_publications": 2
       }

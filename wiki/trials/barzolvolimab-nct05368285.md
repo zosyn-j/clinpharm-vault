@@ -57,7 +57,8 @@ tags:
 ### Efficacy
 - Primary endpoint met at week 12 (UAS7 change from baseline, LS mean delta versus placebo): 150 mg Q4W -12.55 (P < 0.0001), 300 mg Q8W -13.41 (P < 0.0001), 75 mg Q4W -6.60 (P = 0.0017).
 - Complete response (UAS7 = 0) at week 12: 150 mg 51.1%, 300 mg 37.5%, 75 mg 22.9%, placebo 6.4%.
-- Week 52 sustained results (all patients on 150 mg or 300 mg): up to 71% complete response, up to 74% well-controlled disease.
+- Week 52 sustained results (all patients on 150 mg or 300 mg): up to 71% complete response, up to 74% well-controlled disease, with early gains visible from week 1.
+- EADV 2025 sponsor poster indicates similarly strong efficacy in low-IgE and normal/high-IgE subgroups at weeks 12 and 52, supporting activity beyond a narrow biomarker-defined subset.
 - Week 76 off-treatment follow-up: up to 41% maintained complete response (UAS7 = 0); 69% of Week 52 responders still well-controlled; suggestive of disease modification.
 
 ### Safety
@@ -69,6 +70,7 @@ tags:
 - PMID 41747871
 - raw/sponsors/kit/barzolvolimab/aaaai-2025-csu-poster.md
 - raw/sponsors/kit/barzolvolimab/eadv-2024-congress-presentation.md
+- raw/sponsors/kit/barzolvolimab/eadv-2025-csu-ige-poster.md
 
 ## Endpoints
 - Primary outcomes:

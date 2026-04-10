@@ -544,7 +544,8 @@ TRIAL_RESULT_OVERRIDES: dict[str, dict] = {
         'efficacy': [
             'Primary endpoint met at week 12 (UAS7 change from baseline, LS mean delta versus placebo): 150 mg Q4W -12.55 (P < 0.0001), 300 mg Q8W -13.41 (P < 0.0001), 75 mg Q4W -6.60 (P = 0.0017).',
             'Complete response (UAS7 = 0) at week 12: 150 mg 51.1%, 300 mg 37.5%, 75 mg 22.9%, placebo 6.4%.',
-            'Week 52 sustained results (all patients on 150 mg or 300 mg): up to 71% complete response, up to 74% well-controlled disease.',
+            'Week 52 sustained results (all patients on 150 mg or 300 mg): up to 71% complete response, up to 74% well-controlled disease, with early gains visible from week 1.',
+            'EADV 2025 sponsor poster indicates similarly strong efficacy in low-IgE and normal/high-IgE subgroups at weeks 12 and 52, supporting activity beyond a narrow biomarker-defined subset.',
             'Week 76 off-treatment follow-up: up to 41% maintained complete response (UAS7 = 0); 69% of Week 52 responders still well-controlled; suggestive of disease modification.',
         ],
         'safety': [
@@ -552,7 +553,7 @@ TRIAL_RESULT_OVERRIDES: dict[str, dict] = {
             'AEs were not dose-dependent; no association between infections and neutropenia.',
             'Treatment-related SAEs: 2 (1%) across 156 barzolvolimab-treated patients.',
         ],
-        'source_citations': ['PMID 41747871', 'raw/sponsors/kit/barzolvolimab/aaaai-2025-csu-poster.md', 'raw/sponsors/kit/barzolvolimab/eadv-2024-congress-presentation.md'],
+        'source_citations': ['PMID 41747871', 'raw/sponsors/kit/barzolvolimab/aaaai-2025-csu-poster.md', 'raw/sponsors/kit/barzolvolimab/eadv-2024-congress-presentation.md', 'raw/sponsors/kit/barzolvolimab/eadv-2025-csu-ige-poster.md'],
     },
     # -- Barzolvolimab Phase 2 CIndU --
     'NCT05405660': {
@@ -641,6 +642,47 @@ TRIAL_RESULT_OVERRIDES: dict[str, dict] = {
 
 
 PROGRAM_SPONSOR_RESULTS: dict[str, dict] = {
+    'barzolvolimab': {
+        'headline': 'CSU sponsor-poster layer is unusually deep, extending the manuscript-backed phase 2 story into durability, quality-of-life, and IgE-subgroup analyses.',
+        'entries': [
+            {
+                'label': 'AAAAI 2025 CSU poster (52-week control and quality-of-life follow-up)',
+                'result_status': 'Conference poster',
+                'efficacy': [
+                    'Improvement in urticaria control was sustained through week 52, with up to 82% of patients reporting well-controlled urticaria by UCT and approximately half reporting complete control at week 52.',
+                    'The poster also frames week-52 quality-of-life improvement, with many patients reporting that CSU symptoms no longer had meaningful impact on daily life.',
+                    'This poster strengthens the interpretation that the phase 2 CSU dataset is not only statistically positive at week 12, but also durable and patient-meaningful over longer follow-up.',
+                ],
+                'safety': [
+                    'Mechanism-related events highlighted in the sponsor poster remained mainly hair color change, neutropenia, urticaria, and skin pigment change, consistent with the broader barzolvolimab safety narrative.',
+                ],
+                'source_citations': ['raw/sponsors/kit/barzolvolimab/aaaai-2025-csu-poster.md'],
+            },
+            {
+                'label': 'EADV 2025 CSU IgE subgroup poster',
+                'result_status': 'Conference poster',
+                'efficacy': [
+                    'Weeks 12 and 52 analyses suggest similarly strong efficacy for 150 mg Q4W and 300 mg Q8W in patients with low (< 40 IU/mL) and normal/high (>= 40 IU/mL) baseline IgE levels.',
+                    'The cached poster text states that adjusted p-values were non-significant for comparisons between IgE subgroups, while most active-versus-placebo comparisons remained significant, supporting efficacy across biologically distinct CSU subsets.',
+                    'This is especially useful strategically because low-IgE CSU is often discussed as a more autoimmune / anti-IgE-refractory phenotype.',
+                ],
+                'safety': [],
+                'source_citations': ['raw/sponsors/kit/barzolvolimab/eadv-2025-csu-ige-poster.md'],
+            },
+            {
+                'label': 'Late follow-up sponsor disclosures (ACAAI/AAAAI-linked releases)',
+                'result_status': 'Sponsor press release / IR PDF',
+                'efficacy': [
+                    'Sponsor disclosures extend the CSU phase 2 story beyond active treatment, including up to 41% complete response at week 76 and persistence of control after treatment discontinuation in a subset of week-52 responders.',
+                    'One sponsor summary also highlights a subset analysis in which 88% of patients who completed 52 weeks on 150 mg Q4W or 300 mg Q8W and finished treatment with at least well-controlled disease reported complete response.',
+                ],
+                'safety': [
+                    'Sponsor summaries continue to describe the safety profile as well tolerated, with KIT-related tolerability findings largely reversible after discontinuation.',
+                ],
+                'source_citations': ['raw/sponsors/kit/barzolvolimab/ir-press-release-additional-positive-data.md', 'raw/sponsors/kit/barzolvolimab/ir-press-release-pdf-additional-data.md'],
+            },
+        ],
+    },
     'sep-631': {
         'headline': 'Phase 1 proof-of-mechanism data available from AAAAI 2026 poster (sponsor-sourced).',
         'entries': [

@@ -1,6 +1,6 @@
 # Program and trial source registry
 
-- Generated: 2026-04-10T22:47:30.505252+00:00
+- Generated: 2026-04-10T23:35:38.660434+00:00
 - Built from: `inventories/ctgov_priority_trials.json`, `inventories/sponsor_priority_sources.json`, `inventories/publication_priority_curation.json`
 - Purpose: join raw ClinicalTrials.gov caches, sponsor artifacts, and curated publication records into a single auditable registry by program and trial ID.
 - Linking rule: only attach sponsor artifacts or publications to a specific NCT when an explicit identifier is present in the cached metadata or curated manuscript record.
@@ -9,7 +9,7 @@
 
 | Program | Class | CT.gov trials | Sponsor artifacts | Primary pubs | Supporting pubs | Publication status |
 |---|---|---:|---:|---:|---:|---|
-| Barzolvolimab | KIT | 8 | 6 | 3 | 2 | primary_manuscripts_found |
+| Barzolvolimab | KIT | 8 | 7 | 3 | 2 | primary_manuscripts_found |
 | BLU-808 | KIT | 1 | 5 | 0 | 0 | no_pubmed_hits |
 | Briquilimab | KIT | 3 | 1 | 0 | 1 | supporting_only |
 | EP262 | MRGPRX2 | 2 | 1 | 0 | 0 | search_collisions_only |
@@ -23,7 +23,7 @@
 
 - Priority class(es): KIT
 - CT.gov trials: 8
-- Sponsor artifacts: 6
+- Sponsor artifacts: 7
 - Primary publications: 3
 - Supporting publications: 2
 - Publication status: primary_manuscripts_found
@@ -63,6 +63,7 @@
 - AAAAI 2025 CSU poster (Celldex)
 - Phase 2 CIndU ACAAI poster (Celldex)
 - EADV 2024 congress presentation (Celldex)
+- EADV 2025 CSU IgE subgroup poster (Celldex)
 - IR press release PDF additional data (Celldex)
 
 ### Remaining publication PMIDs not manually curated yet
