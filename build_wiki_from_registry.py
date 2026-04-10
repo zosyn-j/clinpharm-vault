@@ -606,6 +606,21 @@ TRIAL_RESULT_OVERRIDES: dict[str, dict] = {
         ],
         'source_citations': ['PMID 40266575', 'PMCID PMC12019677'],
     },
+    # -- EP262 Phase 2 CSU (terminated) --
+    'NCT06077773': {
+        'result_status': 'Posted (CT.gov)',
+        'efficacy': [
+            'Primary endpoint not met: UAS7 change from baseline at week 6 showed no significant separation from placebo for either EP262 dose.',
+            'EP262 50 mg: LS mean UAS7 change -8.43 versus placebo -10.41; difference +1.99 (95% CI -1.96 to 5.94; P = 0.41).',
+            'EP262 150 mg: LS mean UAS7 change -11.95 versus placebo -10.41; difference -1.53 (95% CI -5.49 to 2.42; P = 0.52).',
+            'Study was terminated; Part 2 was not enrolled.',
+        ],
+        'safety': [
+            'TEAEs: placebo 12/38 (31.6%), EP262 50 mg 15/37 (40.5%), EP262 150 mg 19/38 (50.0%).',
+            'Grade >= 3 TEAEs: placebo 1, EP262 50 mg 0, EP262 150 mg 1.',
+        ],
+        'source_citations': ['ClinicalTrials.gov posted results (NCT06077773 resultsSection)'],
+    },
     # -- EVO756 Phase 2 CIndU (symptomatic dermographism) --
     'NCT06603220': {
         'result_status': 'Conference',
@@ -624,6 +639,79 @@ TRIAL_RESULT_OVERRIDES: dict[str, dict] = {
     },
 }
 
+
+PROGRAM_SPONSOR_RESULTS: dict[str, dict] = {
+    'sep-631': {
+        'headline': 'Phase 1 proof-of-mechanism data available from AAAAI 2026 poster (sponsor-sourced).',
+        'entries': [
+            {
+                'label': 'SEP-631 Phase 1 SAD/MAD in healthy volunteers (NCT07069036)',
+                'result_status': 'Conference (sponsor poster)',
+                'efficacy': [
+                    'Complete inhibition of icatibant 10 µg/mL-induced skin wheals at doses as low as 10 mg QD after 9 days of treatment.',
+                    'Complete inhibition of icatibant 100 µg/mL-induced skin wheals at 90 to 200 mg QD.',
+                    '120 participants dosed across SAD (n=48), MAD (n=64), and food-effect (n=8) parts.',
+                    'PK profile supports once-daily oral dosing; no clinically meaningful food effect observed.',
+                ],
+                'safety': [
+                    'TEAE rate comparable with placebo across all dose cohorts; no severe or serious TEAEs.',
+                    'SAD: most common TEAEs were headache (11.1% SEP-631 vs 8.3% placebo) and transaminase increases (5.6% vs 8.3%).',
+                    'MAD: most common TEAEs were headache; one mild transaminase elevation with SEP-631 and one with placebo.',
+                ],
+                'source_citations': ['raw/sponsors/mrgprx2/sep-631/aaaai-2026-poster-pdf.md'],
+            },
+        ],
+    },
+    'evo756': {
+        'headline': 'Phase 1 proof-of-concept data available from GA2LEN 2024 presentation (sponsor-sourced), in addition to Phase 2 CIndU trial results.',
+        'entries': [
+            {
+                'label': 'EVO756 Phase 1 SAD/MAD proof-of-concept in healthy volunteers',
+                'result_status': 'Conference (sponsor presentation)',
+                'efficacy': [
+                    'Proof-of-concept trial in 132 subjects showed robust target engagement via icatibant skin challenge.',
+                    'EVO756 significantly inhibited wheal formation induced by icatibant at multiple dose levels after 14 days of treatment.',
+                    'PK profile supports once-daily oral dosing.',
+                ],
+                'safety': [
+                    'Well tolerated; TEAE rate comparable with placebo across all dosing cohorts.',
+                    'No severe or serious adverse events; most common TEAEs: headache and IV catheter site pain.',
+                ],
+                'source_citations': ['raw/sponsors/mrgprx2/evo756/ga2len-2024-trial-results-presentation-pdf.md'],
+            },
+        ],
+    },
+    'rilzabrutinib': {
+        'headline': 'Sponsor press release and conference poster provide additional detail beyond the primary manuscript for RILECSU Phase 2.',
+        'entries': [
+            {
+                'label': 'Sanofi RILECSU Phase 2 press release (February 2024)',
+                'result_status': 'Sponsor press release',
+                'efficacy': [
+                    'Rilzabrutinib 400 mg TID (ITT population): significant ISS7 reduction at week 12 (LSM -9.58 vs -6.31 placebo; P = 0.0181).',
+                    'Significant UAS7 reduction at week 12 (LSM -17.95 vs -11.20; P = 0.0116).',
+                    'Significant HSS7 reduction at week 12 (LSM -8.31 vs -4.89; P < 0.01).',
+                    'Significant ISS7 changes observed as early as week 1.',
+                ],
+                'safety': [
+                    'No events of cytopenia, bleeding, or atrial fibrillation (distinguishing from older BTK inhibitors).',
+                    'Most common TEAEs (TID): diarrhea 29.3%, nausea 19.5%, headache 9.8%.',
+                ],
+                'source_citations': ['raw/sponsors/btk/rilzabrutinib/phase-2-csu-results-press-release.md'],
+            },
+            {
+                'label': 'RILECSU Phase 2 hives poster (AAAAI 2024)',
+                'result_status': 'Conference poster',
+                'efficacy': [
+                    'Significant and sustained improvements in UAS7 through week 12 with rilzabrutinib 1200 mg/day.',
+                    'Nominally significant improvements in percent change in HSS7 as early as week 1 with all rilzabrutinib doses.',
+                ],
+                'safety': [],
+                'source_citations': ['raw/sponsors/btk/rilzabrutinib/rilecsu-phase-2-hives-poster.md'],
+            },
+        ],
+    },
+}
 
 PROGRAM_OPERATIONAL_OVERRIDES = {
     'sep-631': {
@@ -1203,6 +1291,28 @@ def build_program_page(program_entry: dict, trial_slug_map: dict[str, str]) -> s
                 lines.append(f"- {r['safety'][0]}")
             if r.get('source_citations'):
                 lines.append(f"- Sources: {'; '.join(r['source_citations'])}")
+            lines.append('')
+
+    sponsor_results = PROGRAM_SPONSOR_RESULTS.get(program_entry['program_key'])
+    if sponsor_results:
+        if not result_trials:
+            lines.extend(['', '## Program Results Summary', ''])
+            lines.append('No CT.gov-linked trial in this program has a manuscript-backed result override yet.')
+            lines.append('')
+        lines.append(f"### Sponsor-sourced result evidence")
+        lines.append('')
+        lines.append(f"_{sponsor_results['headline']}_")
+        lines.append('')
+        for entry in sponsor_results['entries']:
+            lines.append(f"**{entry['label']}** ({entry['result_status']})")
+            if entry.get('efficacy'):
+                for item in entry['efficacy']:
+                    lines.append(f'- {item}')
+            if entry.get('safety'):
+                for item in entry['safety']:
+                    lines.append(f'- Safety: {item}')
+            if entry.get('source_citations'):
+                lines.append(f"- Source(s): {'; '.join(entry['source_citations'])}")
             lines.append('')
 
     lines.extend([

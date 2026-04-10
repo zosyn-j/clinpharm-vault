@@ -67,6 +67,34 @@
       ]
     },
     {
+      "program": "rilzabrutinib",
+      "priority_class": "BTK",
+      "sponsor": "Sanofi",
+      "kind": "pdf",
+      "label": "Phase 2 CSU results press release",
+      "url": "https://www.sanofi.com/assets/dotcom/pressreleases/2024/2024-02-24-14-51-48-2834723-en.pdf",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/btk/rilzabrutinib/phase-2-csu-results-press-release.pdf",
+        "raw/sponsors/btk/rilzabrutinib/phase-2-csu-results-press-release.txt",
+        "raw/sponsors/btk/rilzabrutinib/phase-2-csu-results-press-release.md"
+      ]
+    },
+    {
+      "program": "rilzabrutinib",
+      "priority_class": "BTK",
+      "sponsor": "Sanofi",
+      "kind": "pdf",
+      "label": "RILECSU Phase 2 hives poster",
+      "url": "https://congress.sanofimedical.com/s3fs-public/2024-11/Rilzabrutinib%20Reduces%20Hives%20Severity%20and%20Frequency%20in%20Participants%20With%20Chronic%20Spontaneous%20Urticaria%20in%20RILECSU%20Phase%202%20Trial.pdf?VersionId=DNf1c.cCx36.vmeBiWX61v6Om.WWUDi8",
+      "status": "ok",
+      "saved_files": [
+        "raw/sponsors/btk/rilzabrutinib/rilecsu-phase-2-hives-poster.pdf",
+        "raw/sponsors/btk/rilzabrutinib/rilecsu-phase-2-hives-poster.txt",
+        "raw/sponsors/btk/rilzabrutinib/rilecsu-phase-2-hives-poster.md"
+      ]
+    },
+    {
       "program": "barzolvolimab",
       "priority_class": "KIT",
       "sponsor": "Celldex",

@@ -1,6 +1,6 @@
 # Program and trial source registry
 
-- Generated: 2026-04-09T18:38:40.198683+00:00
+- Generated: 2026-04-10T22:47:30.505252+00:00
 - Built from: `inventories/ctgov_priority_trials.json`, `inventories/sponsor_priority_sources.json`, `inventories/publication_priority_curation.json`
 - Purpose: join raw ClinicalTrials.gov caches, sponsor artifacts, and curated publication records into a single auditable registry by program and trial ID.
 - Linking rule: only attach sponsor artifacts or publications to a specific NCT when an explicit identifier is present in the cached metadata or curated manuscript record.
@@ -16,7 +16,7 @@
 | EVO756 | MRGPRX2 | 2 | 7 | 0 | 0 | no_pubmed_hits |
 | Fenebrutinib | BTK | 2 | 0 | 1 | 3 | primary_manuscripts_found |
 | Remibrutinib | BTK | 16 | 4 | 4 | 2 | primary_manuscripts_found |
-| Rilzabrutinib | BTK | 1 | 1 | 1 | 1 | primary_manuscripts_found |
+| Rilzabrutinib | BTK | 1 | 3 | 1 | 1 | primary_manuscripts_found |
 | SEP-631 | MRGPRX2 | 0 | 3 | 0 | 0 | no_pubmed_hits |
 
 ## Barzolvolimab
@@ -258,7 +258,7 @@
 
 - Priority class(es): BTK
 - CT.gov trials: 1
-- Sponsor artifacts: 1
+- Sponsor artifacts: 3
 - Primary publications: 1
 - Supporting publications: 1
 - Publication status: primary_manuscripts_found
@@ -274,6 +274,8 @@
 ### Program-level sponsor artifacts without explicit NCT linkage
 
 - Sanofi pipeline page (Sanofi)
+- Phase 2 CSU results press release (Sanofi)
+- RILECSU Phase 2 hives poster (Sanofi)
 
 ### Remaining publication PMIDs not manually curated yet
 

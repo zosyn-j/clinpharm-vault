@@ -108,7 +108,7 @@ This page is a derived interpretation layer. It is meant to answer the question:
 - Program page: [open](../programs/rilzabrutinib.md)
 - Strategic read: In the current local evidence layer, rilzabrutinib looks like a narrower CSU-centered BTK program rather than a broad urticaria franchise. The strategic posture appears more concentrated and later-entry than remibrutinib’s multi-branch stack.
 - Why this read is plausible in the current local layer: More focused BTK challenger strategy in CSU, with a thinner visible development stack than remibrutinib.
-- Evidence depth: 1 CT.gov trials, 1 primary publication(s), 1 sponsor artifact(s)
+- Evidence depth: 1 CT.gov trials, 1 primary publication(s), 3 sponsor artifact(s)
 - Key reasons:
   - The current local layer shows one clear CSU trial and one primary manuscript, without the same visible extension, CIndU, pediatric, or real-world lattice seen for remibrutinib.
   - That makes the program easier to describe, but also indicates less disclosed breadth in the current source cache.

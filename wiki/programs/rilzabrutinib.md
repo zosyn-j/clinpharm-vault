@@ -56,9 +56,27 @@ Trials with source-backed results in the current local layer: 1 of 1
 - Favorable risk-benefit; no dose-dependent AEs; most frequent AEs: diarrhea and nausea (mild).
 - Sources: PMID 40266575; PMCID PMC12019677
 
+### Sponsor-sourced result evidence
+
+_Sponsor press release and conference poster provide additional detail beyond the primary manuscript for RILECSU Phase 2._
+
+**Sanofi RILECSU Phase 2 press release (February 2024)** (Sponsor press release)
+- Rilzabrutinib 400 mg TID (ITT population): significant ISS7 reduction at week 12 (LSM -9.58 vs -6.31 placebo; P = 0.0181).
+- Significant UAS7 reduction at week 12 (LSM -17.95 vs -11.20; P = 0.0116).
+- Significant HSS7 reduction at week 12 (LSM -8.31 vs -4.89; P < 0.01).
+- Significant ISS7 changes observed as early as week 1.
+- Safety: No events of cytopenia, bleeding, or atrial fibrillation (distinguishing from older BTK inhibitors).
+- Safety: Most common TEAEs (TID): diarrhea 29.3%, nausea 19.5%, headache 9.8%.
+- Source(s): raw/sponsors/btk/rilzabrutinib/phase-2-csu-results-press-release.md
+
+**RILECSU Phase 2 hives poster (AAAAI 2024)** (Conference poster)
+- Significant and sustained improvements in UAS7 through week 12 with rilzabrutinib 1200 mg/day.
+- Nominally significant improvements in percent change in HSS7 as early as week 1 with all rilzabrutinib doses.
+- Source(s): raw/sponsors/btk/rilzabrutinib/rilecsu-phase-2-hives-poster.md
+
 ## Evidence Coverage
 - CT.gov trials in registry: 1
-- Sponsor artifacts in registry: 1
+- Sponsor artifacts in registry: 3
 - Primary publications in registry: 1
 - Supporting publications in registry: 1
 - Publication status: primary_manuscripts_found
@@ -77,6 +95,14 @@ Trials with source-backed results in the current local layer: 1 of 1
 - Sponsor artifact: Sanofi pipeline page (Sanofi)
   - `raw/sponsors/btk/rilzabrutinib/sanofi-pipeline-page.html`
   - `raw/sponsors/btk/rilzabrutinib/sanofi-pipeline-page.md`
+- Sponsor artifact: Phase 2 CSU results press release (Sanofi)
+  - `raw/sponsors/btk/rilzabrutinib/phase-2-csu-results-press-release.pdf`
+  - `raw/sponsors/btk/rilzabrutinib/phase-2-csu-results-press-release.txt`
+  - `raw/sponsors/btk/rilzabrutinib/phase-2-csu-results-press-release.md`
+- Sponsor artifact: RILECSU Phase 2 hives poster (Sanofi)
+  - `raw/sponsors/btk/rilzabrutinib/rilecsu-phase-2-hives-poster.pdf`
+  - `raw/sponsors/btk/rilzabrutinib/rilecsu-phase-2-hives-poster.txt`
+  - `raw/sponsors/btk/rilzabrutinib/rilecsu-phase-2-hives-poster.md`
 
 ## Interpretation
 

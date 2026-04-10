@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T18:38:40.198683+00:00",
+  "generated_at": "2026-04-10T22:47:30.505252+00:00",
   "built_from": {
     "ctgov": "inventories/ctgov_priority_trials.json",
     "sponsor": "inventories/sponsor_priority_sources.json",
@@ -2550,6 +2550,32 @@
             "raw/sponsors/btk/rilzabrutinib/sanofi-pipeline-page.md"
           ],
           "explicit_trial_ids": []
+        },
+        {
+          "label": "Phase 2 CSU results press release",
+          "sponsor": "Sanofi",
+          "kind": "pdf",
+          "status": "ok",
+          "url": "https://www.sanofi.com/assets/dotcom/pressreleases/2024/2024-02-24-14-51-48-2834723-en.pdf",
+          "saved_files": [
+            "raw/sponsors/btk/rilzabrutinib/phase-2-csu-results-press-release.pdf",
+            "raw/sponsors/btk/rilzabrutinib/phase-2-csu-results-press-release.txt",
+            "raw/sponsors/btk/rilzabrutinib/phase-2-csu-results-press-release.md"
+          ],
+          "explicit_trial_ids": []
+        },
+        {
+          "label": "RILECSU Phase 2 hives poster",
+          "sponsor": "Sanofi",
+          "kind": "pdf",
+          "status": "ok",
+          "url": "https://congress.sanofimedical.com/s3fs-public/2024-11/Rilzabrutinib%20Reduces%20Hives%20Severity%20and%20Frequency%20in%20Participants%20With%20Chronic%20Spontaneous%20Urticaria%20in%20RILECSU%20Phase%202%20Trial.pdf?VersionId=DNf1c.cCx36.vmeBiWX61v6Om.WWUDi8",
+          "saved_files": [
+            "raw/sponsors/btk/rilzabrutinib/rilecsu-phase-2-hives-poster.pdf",
+            "raw/sponsors/btk/rilzabrutinib/rilecsu-phase-2-hives-poster.txt",
+            "raw/sponsors/btk/rilzabrutinib/rilecsu-phase-2-hives-poster.md"
+          ],
+          "explicit_trial_ids": []
         }
       ],
       "publication_status": "primary_manuscripts_found",
@@ -2653,7 +2679,7 @@
       ],
       "source_layer_counts": {
         "ctgov_trials": 1,
-        "sponsor_artifacts": 1,
+        "sponsor_artifacts": 3,
         "primary_publications": 1,
         "supporting_publications": 1
       }
