@@ -99,6 +99,35 @@ indications:
 - [NCT07408219](../trials/remibrutinib-nct07408219.md) - NR; RECRUITING; Chronic Spontaneous Urticaria
   - Early real-world comparative satisfaction/effectiveness survey against dupilumab.
 
+## Program Results Summary
+
+Trials with source-backed results in the current local layer: 5 of 16
+
+**[NCT03926611](../trials/remibrutinib-nct03926611-phase-2b.md)** (Published)
+- Primary endpoint (UAS7 change from baseline at week 4): LS mean ranged from -14.7 to -20.0 across 6 active dose regimens versus -5.4 for placebo; nominal P < 0.0001 for all doses versus placebo.
+- Most adverse events were mild or moderate with no dose-dependent pattern.
+- Sources: PMID 36096203
+
+**[NCT04109313](../trials/remibrutinib-nct04109313.md)** (Published)
+- 194 of 230 (84.3%) patients from the core study entered the open-label treatment period (remibrutinib 100 mg BID).
+- Safety comparable to core study; most TEAEs mild-to-moderate.
+- Sources: PMID 37866460
+
+**[NCT05030311](../trials/remibrutinib-nct05030311.md)** (Published)
+- Primary endpoint met: week-12 UAS7 LS mean change -20.0 (remibrutinib) versus -13.8 (placebo), P < 0.001.
+- AE and SAE rates similar between remibrutinib and placebo through week 24.
+- Sources: PMID 40043237; PMID 41115533
+
+**[NCT05032157](../trials/remibrutinib-nct05032157.md)** (Published)
+- Primary endpoint met: week-12 UAS7 LS mean change -19.4 (remibrutinib) versus -11.7 (placebo), P < 0.001.
+- Safety profile consistent with REMIX-1; no new signals at 52 weeks.
+- Sources: PMID 40043237; PMID 41115533
+
+**[NCT05976243](../trials/remibrutinib-nct05976243.md)** (Topline)
+- Primary endpoint met for all three CIndU subtypes: significantly higher complete response rates versus placebo at week 12 for symptomatic dermographism, cold urticaria, and cholinergic urticaria.
+- Well-tolerated; favorable safety profile; no liver safety concerns reported in topline release.
+- Sources: Novartis press release, 2026-02-18 (raw/sponsors/btk/remibrutinib/2026-cindu-phase-iii-remind-press-release.md)
+
 ## Evidence summary
 - Primary manuscript layer is strongest for the CSU efficacy chain: phase 2b core (PMID 36096203), phase 2b extension follow-up (PMID 37866460), REMIX phase 3 core results (PMID 40043237), and 52-week REMIX follow-up (PMID 41115533).
 - The REMIX papers directly support the pivotal phase 3 pair `NCT05030311` and `NCT05032157`, including trial names REMIX-1 and REMIX-2, randomized sample sizes, and week-12 plus week-52 efficacy framing.

@@ -54,6 +54,24 @@ tags:
 - The week-12 UAS7 least-squares mean change was -19.4 with remibrutinib versus -11.7 with placebo.
 - PMID 41115533 reports sustained week-52 benefit and consistent long-term safety across the REMIX phase 3 program.
 
+## Key Efficacy and Safety Findings
+- Result status: Published
+
+### Efficacy
+- Primary endpoint met: week-12 UAS7 LS mean change -19.4 (remibrutinib) versus -11.7 (placebo), P < 0.001.
+- Well-controlled disease (UAS7 <= 6) at week 12: 46.8% versus 19.6% (P < 0.001).
+- Complete response (UAS7 = 0) at week 12: 27.9% versus 6.5% (P < 0.001).
+- 52-week UAS7 change from baseline (remibrutinib): -22.98 (95% CI -24.51 to -21.44); sustained benefit confirmed.
+
+### Safety
+- Safety profile consistent with REMIX-1; no new signals at 52 weeks.
+- Most common AEs (>= 5%): respiratory tract infections and headache, comparable with placebo.
+- Liver transaminase elevations balanced across arms; all asymptomatic, transient, and reversible.
+
+### Result source(s)
+- PMID 40043237
+- PMID 41115533
+
 ## Endpoints
 - Primary outcomes:
   - Mean Change From Baseline in Weekly Urticaria Activity Score (UAS7) at Week 12 (Scenario 1 With UAS7 as Primary Efficacy Endpoint) (time frame: Baseline, Week 12)

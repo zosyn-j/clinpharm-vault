@@ -51,6 +51,26 @@ tags:
 | Cohort 2: GDC-0853 150mg QD | EXPERIMENTAL | 150mg | QD | NR | Participants received GDC-0853 150mg once daily from Day 1 to 56. | 24 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
 | Cohort 2: GDC-0853 200mg BID | EXPERIMENTAL | 200mg | BID | NR | Participants received GDC-0853 200mg twice daily from Day 1 to 56. | 23 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
 
+## Key Efficacy and Safety Findings
+- Result status: Published
+
+### Efficacy
+- Cohort 2 primary endpoint (UAS7 change at week 8, LS mean difference versus placebo): 200 mg BID -9.5 (95% CI -16.7 to -2.4; significant), 150 mg QD -6.4 (95% CI -13.4 to 0.6; trend), 50 mg QD -0.5 (not significant).
+- Well-controlled disease (UAS7 <= 6) at week 8: 200 mg BID 57%, 150 mg 46%, 50 mg 35%, placebo 22%.
+- Complete response (UAS7 = 0) at week 8: 200 mg BID 39%, 150 mg 25%, 50 mg 13%, placebo 4%.
+- Rapid onset: 200 mg BID week-4 UAS7 LS mean difference -10.8 versus placebo (95% CI -18.2 to -3.3).
+- Exploratory: all doses reduced IgG-anti-FcεRI autoantibodies (median change -43.7% to -53.6% versus +20.4% placebo).
+
+### Safety
+- No SAEs in Cohort 2; most common AEs: urticaria (15%), nasopharyngitis (11%), headache (6%).
+- Grade 2/3 liver transaminase elevations in 2 patients each at 150 mg QD and 200 mg BID; all asymptomatic and reversible.
+- Dose-dependent creatinine increases starting week 1; no serious or opportunistic infections.
+- Note: further CSU studies of fenebrutinib are not planned; program pivoted to MS.
+
+### Result source(s)
+- PMID 34750553
+- PMCID PMC8604722
+
 ## Endpoints
 - Primary outcomes:
   - Change From Baseline in the Urticaria Activity Score Over 7 Days (UAS7) at Day 57 (time frame: Baseline and Day 57)

@@ -48,6 +48,16 @@ indications:
 ### Other registry entries
 - None in current registry
 
+
+## Program Results Summary
+
+Trials with source-backed results in the current local layer: 1 of 2
+
+**[NCT03137069](../trials/fenebrutinib-nct03137069.md)** (Published)
+- Cohort 2 primary endpoint (UAS7 change at week 8, LS mean difference versus placebo): 200 mg BID -9.5 (95% CI -16.7 to -2.4; significant), 150 mg QD -6.4 (95% CI -13.4 to 0.6; trend), 50 mg QD -0.5 (not significant).
+- No SAEs in Cohort 2; most common AEs: urticaria (15%), nasopharyngitis (11%), headache (6%).
+- Sources: PMID 34750553; PMCID PMC8604722
+
 ## Evidence Coverage
 - CT.gov trials in registry: 2
 - Sponsor artifacts in registry: 0

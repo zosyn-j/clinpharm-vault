@@ -59,6 +59,20 @@ tags:
 - The manuscript reports week-4 UAS7 change from baseline ranging from -14.7 to -20.0 across active doses versus -5.4 for placebo.
 - The saved abstract describes rapid onset of action with symptom reduction from week 1 through week 12.
 
+## Key Efficacy and Safety Findings
+- Result status: Published
+
+### Efficacy
+- Primary endpoint (UAS7 change from baseline at week 4): LS mean ranged from -14.7 to -20.0 across 6 active dose regimens versus -5.4 for placebo; nominal P < 0.0001 for all doses versus placebo.
+- Best-performing regimen (25 mg BID): week-4 UAS7 change -20.0 versus -5.4 placebo.
+- Rapid onset of symptom reduction observed from week 1 through week 12.
+
+### Safety
+- Most adverse events were mild or moderate with no dose-dependent pattern.
+
+### Result source(s)
+- PMID 36096203
+
 ## Endpoints
 - Primary outcomes:
   - Change From Baseline in Weekly Urticaria Activity Score (UAS7) at Week 4 (time frame: Baseline, Week 4)

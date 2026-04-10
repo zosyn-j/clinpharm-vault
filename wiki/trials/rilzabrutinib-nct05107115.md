@@ -51,6 +51,26 @@ After completion of the double-blind phase of the study, participants will be gi
 | Rilzabrutinib dose C | EXPERIMENTAL | 400 mg | TID | Oral | dose C | 41 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
 | Placebo | PLACEBO_COMPARATOR | NR | Matched oral placebo | Oral | Matching placebo | 40 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
 
+## Key Efficacy and Safety Findings
+- Result status: Published
+
+### Efficacy
+- Primary endpoint (ISS7 change at week 12, 1200 mg/d versus placebo, omalizumab-naive): LS mean -9.21 versus -5.77; difference -3.44 (95% CI -6.25 to -0.62; P = 0.02).
+- UAS7 change at week 12 (1200 mg/d versus placebo): LS mean -16.89 versus -10.14; difference -6.75 (95% CI -12.23 to -1.26; P = 0.02).
+- Well-controlled disease (UAS7 <= 6) at week 12: 34.3% versus 11.1% (difference 20.3%).
+- Rapid onset: improvements in ISS7, UAS7, HSS7, and AAS7 observed as early as week 1.
+- Exploratory biomarkers (1200 mg/d): IgG anti-FcεRI -38.7%, IgG anti-TPO -46.7% versus placebo.
+
+### Safety
+- Favorable risk-benefit; no dose-dependent AEs; most frequent AEs: diarrhea and nausea (mild).
+- No cytopenia, bleeding, or atrial fibrillation events (distinguishing from older irreversible BTKIs).
+- 3 SAEs total, none related to rilzabrutinib.
+- ALT > 3x ULN: 4 cases total across arms; all resolved, 3 while continuing drug.
+
+### Result source(s)
+- PMID 40266575
+- PMCID PMC12019677
+
 ## Endpoints
 - Primary outcomes:
   - Change from baseline in weekly urticaria activity score (UAS7) at Week 12 (except US and US reference countries) (time frame: From baseline to Week 12)

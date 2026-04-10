@@ -47,6 +47,21 @@ tags:
 | CDX-0159 | EXPERIMENTAL | NR | NR | NR | CDX-0159 every 4-8 weeks | 35 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
 | Normal Saline | PLACEBO_COMPARATOR | NR | NR | NR | Normal saline every 4-8 weeks | 10 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
 
+## Key Efficacy and Safety Findings
+- Result status: Published
+
+### Efficacy
+- At week 12 across all barzolvolimab doses combined: 71% achieved well-controlled disease (UAS7 <= 6), 57% achieved complete response (UAS7 = 0).
+- 77% achieved well-controlled UCT (>= 12); 43% achieved complete UCT response (UCT = 16).
+- Rapid symptom reduction within 1 week; response paralleled tryptase suppression.
+- Similar response regardless of prior omalizumab use (44% of patients had prior omalizumab).
+
+### Safety
+- Well tolerated; hair color change was the most common AE (mechanism-related KIT effect).
+
+### Result source(s)
+- PMID 40415544
+
 ## Endpoints
 - Primary outcomes:
   - Safety as assessed by the incidence and severity of adverse events (time frame: From Day 1 (first dose) to Day 169 (last follow-up visit))

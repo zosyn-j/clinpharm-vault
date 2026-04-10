@@ -54,6 +54,25 @@ tags:
 - The week-12 UAS7 least-squares mean change was -20.0 with remibrutinib versus -13.8 with placebo.
 - PMID 41115533 reports sustained week-52 UAS7 improvement for patients originally randomized to remibrutinib and rapid improvement after placebo-to-remibrutinib transition at week 24.
 
+## Key Efficacy and Safety Findings
+- Result status: Published
+
+### Efficacy
+- Primary endpoint met: week-12 UAS7 LS mean change -20.0 (remibrutinib) versus -13.8 (placebo), P < 0.001.
+- Well-controlled disease (UAS7 <= 6) at week 12: 49.8% versus 24.8% (P < 0.001).
+- Complete response (UAS7 = 0) at week 12: 31.1% versus 10.5% (P < 0.001).
+- 52-week UAS7 change from baseline (remibrutinib): -23.22 (95% CI -24.78 to -21.66); sustained improvement confirmed.
+- Placebo-to-remibrutinib crossover at week 24 showed similar response as early as 1 week after switch.
+
+### Safety
+- AE and SAE rates similar between remibrutinib and placebo through week 24.
+- Petechiae higher with remibrutinib (3.8% versus 0.3% in combined REMIX data).
+- Exposure-adjusted AE incidence at 52 weeks remained consistent with the 24-week analysis.
+
+### Result source(s)
+- PMID 40043237
+- PMID 41115533
+
 ## Endpoints
 - Primary outcomes:
   - Change From Baseline in Weekly Urticaria Score (UAS7) at Week 12 (Scenario 1 With UAS7 as Primary Efficacy Endpoint) (time frame: Baseline, Week 12)

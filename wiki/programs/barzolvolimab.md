@@ -68,6 +68,26 @@ indications:
 ### Other registry entries
 - None in current registry
 
+
+## Program Results Summary
+
+Trials with source-backed results in the current local layer: 3 of 8
+
+**[NCT04538794](../trials/barzolvolimab-nct04538794.md)** (Published)
+- At week 12 across all barzolvolimab doses combined: 71% achieved well-controlled disease (UAS7 <= 6), 57% achieved complete response (UAS7 = 0).
+- Well tolerated; hair color change was the most common AE (mechanism-related KIT effect).
+- Sources: PMID 40415544
+
+**[NCT05368285](../trials/barzolvolimab-nct05368285.md)** (Published)
+- Primary endpoint met at week 12 (UAS7 change from baseline, LS mean delta versus placebo): 150 mg Q4W -12.55 (P < 0.0001), 300 mg Q8W -13.41 (P < 0.0001), 75 mg Q4W -6.60 (P = 0.0017).
+- Hair color changes (26%), neutropenia (17%), skin hypopigmentation (13%); all mechanism-related, mostly Grade 1, reversible upon discontinuation.
+- Sources: PMID 41747871; raw/sponsors/kit/barzolvolimab/aaaai-2025-csu-poster.md; raw/sponsors/kit/barzolvolimab/eadv-2024-congress-presentation.md
+
+**[NCT05405660](../trials/barzolvolimab-nct05405660.md)** (Conference)
+- Primary endpoint (negative provocation test at week 12) -- Cold urticaria: 150 mg Q4W 53.1%, 300 mg Q8W 46.9%, placebo 12.5%.
+- 98% of TEAEs were Grade 1 or 2; hair color changes 13% (versus 0% placebo), neutropenia 10% (versus 0% placebo).
+- Sources: raw/sponsors/kit/barzolvolimab/phase-2-cindu-acaai-poster.md; raw/sponsors/kit/barzolvolimab/ir-press-release-pdf-additional-data.md
+
 ## Evidence Coverage
 - CT.gov trials in registry: 8
 - Sponsor artifacts in registry: 6

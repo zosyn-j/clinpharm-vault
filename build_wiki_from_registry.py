@@ -450,6 +450,181 @@ PROGRAM_STRATEGY_OVERRIDES = {
     },
 }
 
+TRIAL_RESULT_OVERRIDES: dict[str, dict] = {
+    # -- Remibrutinib CSU Phase 2b core --
+    'NCT03926611': {
+        'result_status': 'Published',
+        'efficacy': [
+            'Primary endpoint (UAS7 change from baseline at week 4): LS mean ranged from -14.7 to -20.0 across 6 active dose regimens versus -5.4 for placebo; nominal P < 0.0001 for all doses versus placebo.',
+            'Best-performing regimen (25 mg BID): week-4 UAS7 change -20.0 versus -5.4 placebo.',
+            'Rapid onset of symptom reduction observed from week 1 through week 12.',
+        ],
+        'safety': [
+            'Most adverse events were mild or moderate with no dose-dependent pattern.',
+        ],
+        'source_citations': ['PMID 36096203'],
+    },
+    # -- Remibrutinib Phase 2b OLE --
+    'NCT04109313': {
+        'result_status': 'Published',
+        'efficacy': [
+            '194 of 230 (84.3%) patients from the core study entered the open-label treatment period (remibrutinib 100 mg BID).',
+            'Mean UAS7 change from baseline: -17.6 at week 4, -21.8 at week 52.',
+            'Complete response (UAS7 = 0): 28.2% at week 4, 55.8% at week 52.',
+            'Well-controlled disease (UAS7 <= 6): 52.7% at week 4, 68.0% at week 52.',
+        ],
+        'safety': [
+            'Safety comparable to core study; most TEAEs mild-to-moderate.',
+            'Three most common TEAE classes: infections (30.9%), skin/subcutaneous (26.8%), GI disorders (16.5%).',
+        ],
+        'source_citations': ['PMID 37866460'],
+    },
+    # -- REMIX-1 --
+    'NCT05030311': {
+        'result_status': 'Published',
+        'efficacy': [
+            'Primary endpoint met: week-12 UAS7 LS mean change -20.0 (remibrutinib) versus -13.8 (placebo), P < 0.001.',
+            'Well-controlled disease (UAS7 <= 6) at week 12: 49.8% versus 24.8% (P < 0.001).',
+            'Complete response (UAS7 = 0) at week 12: 31.1% versus 10.5% (P < 0.001).',
+            '52-week UAS7 change from baseline (remibrutinib): -23.22 (95% CI -24.78 to -21.66); sustained improvement confirmed.',
+            'Placebo-to-remibrutinib crossover at week 24 showed similar response as early as 1 week after switch.',
+        ],
+        'safety': [
+            'AE and SAE rates similar between remibrutinib and placebo through week 24.',
+            'Petechiae higher with remibrutinib (3.8% versus 0.3% in combined REMIX data).',
+            'Exposure-adjusted AE incidence at 52 weeks remained consistent with the 24-week analysis.',
+        ],
+        'source_citations': ['PMID 40043237', 'PMID 41115533'],
+    },
+    # -- REMIX-2 --
+    'NCT05032157': {
+        'result_status': 'Published',
+        'efficacy': [
+            'Primary endpoint met: week-12 UAS7 LS mean change -19.4 (remibrutinib) versus -11.7 (placebo), P < 0.001.',
+            'Well-controlled disease (UAS7 <= 6) at week 12: 46.8% versus 19.6% (P < 0.001).',
+            'Complete response (UAS7 = 0) at week 12: 27.9% versus 6.5% (P < 0.001).',
+            '52-week UAS7 change from baseline (remibrutinib): -22.98 (95% CI -24.51 to -21.44); sustained benefit confirmed.',
+        ],
+        'safety': [
+            'Safety profile consistent with REMIX-1; no new signals at 52 weeks.',
+            'Most common AEs (>= 5%): respiratory tract infections and headache, comparable with placebo.',
+            'Liver transaminase elevations balanced across arms; all asymptomatic, transient, and reversible.',
+        ],
+        'source_citations': ['PMID 40043237', 'PMID 41115533'],
+    },
+    # -- RemIND CIndU Phase 3 --
+    'NCT05976243': {
+        'result_status': 'Topline',
+        'efficacy': [
+            'Primary endpoint met for all three CIndU subtypes: significantly higher complete response rates versus placebo at week 12 for symptomatic dermographism, cold urticaria, and cholinergic urticaria.',
+            'Described as the first therapy to achieve a Phase III primary endpoint in CIndU.',
+        ],
+        'safety': [
+            'Well-tolerated; favorable safety profile; no liver safety concerns reported in topline release.',
+        ],
+        'source_citations': ['Novartis press release, 2026-02-18 (raw/sponsors/btk/remibrutinib/2026-cindu-phase-iii-remind-press-release.md)'],
+    },
+    # -- Barzolvolimab Phase 1b CSU --
+    'NCT04538794': {
+        'result_status': 'Published',
+        'efficacy': [
+            'At week 12 across all barzolvolimab doses combined: 71% achieved well-controlled disease (UAS7 <= 6), 57% achieved complete response (UAS7 = 0).',
+            '77% achieved well-controlled UCT (>= 12); 43% achieved complete UCT response (UCT = 16).',
+            'Rapid symptom reduction within 1 week; response paralleled tryptase suppression.',
+            'Similar response regardless of prior omalizumab use (44% of patients had prior omalizumab).',
+        ],
+        'safety': [
+            'Well tolerated; hair color change was the most common AE (mechanism-related KIT effect).',
+        ],
+        'source_citations': ['PMID 40415544'],
+    },
+    # -- Barzolvolimab Phase 2 CSU --
+    'NCT05368285': {
+        'result_status': 'Published',
+        'efficacy': [
+            'Primary endpoint met at week 12 (UAS7 change from baseline, LS mean delta versus placebo): 150 mg Q4W -12.55 (P < 0.0001), 300 mg Q8W -13.41 (P < 0.0001), 75 mg Q4W -6.60 (P = 0.0017).',
+            'Complete response (UAS7 = 0) at week 12: 150 mg 51.1%, 300 mg 37.5%, 75 mg 22.9%, placebo 6.4%.',
+            'Week 52 sustained results (all patients on 150 mg or 300 mg): up to 71% complete response, up to 74% well-controlled disease.',
+            'Week 76 off-treatment follow-up: up to 41% maintained complete response (UAS7 = 0); 69% of Week 52 responders still well-controlled; suggestive of disease modification.',
+        ],
+        'safety': [
+            'Hair color changes (26%), neutropenia (17%), skin hypopigmentation (13%); all mechanism-related, mostly Grade 1, reversible upon discontinuation.',
+            'AEs were not dose-dependent; no association between infections and neutropenia.',
+            'Treatment-related SAEs: 2 (1%) across 156 barzolvolimab-treated patients.',
+        ],
+        'source_citations': ['PMID 41747871', 'raw/sponsors/kit/barzolvolimab/aaaai-2025-csu-poster.md', 'raw/sponsors/kit/barzolvolimab/eadv-2024-congress-presentation.md'],
+    },
+    # -- Barzolvolimab Phase 2 CIndU --
+    'NCT05405660': {
+        'result_status': 'Conference',
+        'efficacy': [
+            'Primary endpoint (negative provocation test at week 12) -- Cold urticaria: 150 mg Q4W 53.1%, 300 mg Q8W 46.9%, placebo 12.5%.',
+            'Symptomatic dermographism: 150 mg Q4W 57.6%, 300 mg Q8W 42.4%, placebo 3.2%.',
+            'Critical Temperature Threshold (ColdU) LS mean change at week 12: 150 mg -9.61 C, 300 mg -8.82 C versus placebo -0.82 C (both P < 0.0001).',
+            'Critical Friction Threshold (SD) LS mean change at week 12: 150 mg -2.46 pins, 300 mg -2.27 pins versus placebo -0.30 pins (both P < 0.0001 and P = 0.0002).',
+            'Week 20: complete response up to 66% ColdU, 49% SD.',
+        ],
+        'safety': [
+            '98% of TEAEs were Grade 1 or 2; hair color changes 13% (versus 0% placebo), neutropenia 10% (versus 0% placebo).',
+            'No difference in AE-related discontinuation rates between active (2%) and placebo (3%).',
+        ],
+        'source_citations': ['raw/sponsors/kit/barzolvolimab/phase-2-cindu-acaai-poster.md', 'raw/sponsors/kit/barzolvolimab/ir-press-release-pdf-additional-data.md'],
+    },
+    # -- Fenebrutinib Phase 2 CSU --
+    'NCT03137069': {
+        'result_status': 'Published',
+        'efficacy': [
+            'Cohort 2 primary endpoint (UAS7 change at week 8, LS mean difference versus placebo): 200 mg BID -9.5 (95% CI -16.7 to -2.4; significant), 150 mg QD -6.4 (95% CI -13.4 to 0.6; trend), 50 mg QD -0.5 (not significant).',
+            'Well-controlled disease (UAS7 <= 6) at week 8: 200 mg BID 57%, 150 mg 46%, 50 mg 35%, placebo 22%.',
+            'Complete response (UAS7 = 0) at week 8: 200 mg BID 39%, 150 mg 25%, 50 mg 13%, placebo 4%.',
+            'Rapid onset: 200 mg BID week-4 UAS7 LS mean difference -10.8 versus placebo (95% CI -18.2 to -3.3).',
+            'Exploratory: all doses reduced IgG-anti-FcεRI autoantibodies (median change -43.7% to -53.6% versus +20.4% placebo).',
+        ],
+        'safety': [
+            'No SAEs in Cohort 2; most common AEs: urticaria (15%), nasopharyngitis (11%), headache (6%).',
+            'Grade 2/3 liver transaminase elevations in 2 patients each at 150 mg QD and 200 mg BID; all asymptomatic and reversible.',
+            'Dose-dependent creatinine increases starting week 1; no serious or opportunistic infections.',
+            'Note: further CSU studies of fenebrutinib are not planned; program pivoted to MS.',
+        ],
+        'source_citations': ['PMID 34750553', 'PMCID PMC8604722'],
+    },
+    # -- Rilzabrutinib RILECSU Phase 2 --
+    'NCT05107115': {
+        'result_status': 'Published',
+        'efficacy': [
+            'Primary endpoint (ISS7 change at week 12, 1200 mg/d versus placebo, omalizumab-naive): LS mean -9.21 versus -5.77; difference -3.44 (95% CI -6.25 to -0.62; P = 0.02).',
+            'UAS7 change at week 12 (1200 mg/d versus placebo): LS mean -16.89 versus -10.14; difference -6.75 (95% CI -12.23 to -1.26; P = 0.02).',
+            'Well-controlled disease (UAS7 <= 6) at week 12: 34.3% versus 11.1% (difference 20.3%).',
+            'Rapid onset: improvements in ISS7, UAS7, HSS7, and AAS7 observed as early as week 1.',
+            'Exploratory biomarkers (1200 mg/d): IgG anti-FcεRI -38.7%, IgG anti-TPO -46.7% versus placebo.',
+        ],
+        'safety': [
+            'Favorable risk-benefit; no dose-dependent AEs; most frequent AEs: diarrhea and nausea (mild).',
+            'No cytopenia, bleeding, or atrial fibrillation events (distinguishing from older irreversible BTKIs).',
+            '3 SAEs total, none related to rilzabrutinib.',
+            'ALT > 3x ULN: 4 cases total across arms; all resolved, 3 while continuing drug.',
+        ],
+        'source_citations': ['PMID 40266575', 'PMCID PMC12019677'],
+    },
+    # -- EVO756 Phase 2 CIndU (symptomatic dermographism) --
+    'NCT06603220': {
+        'result_status': 'Conference',
+        'efficacy': [
+            'Open-label study in symptomatic dermographism (n = 30, 300 mg QD or 50 mg BID, 4 weeks).',
+            '93% of patients showed clinical response at 4 weeks in either FricTest score or Pruritus-NRS.',
+            '70% improved in FricTest score; 30% achieved complete FricTest response.',
+            '82% had reduced Pruritus-NRS; 41% achieved clinically meaningful >= 4-point itch NRS reduction.',
+            'Onset of improvement as early as week 1 (including 3 complete responses at week 1).',
+            '50% of complete responders were IgE-high (>= 100 IU/mL), showing activity not limited to IgE-low patients.',
+        ],
+        'safety': [
+            'No serious TEAEs; no discontinuations due to AEs; well tolerated and consistent with Phase 1 profile.',
+        ],
+        'source_citations': ['raw/sponsors/mrgprx2/evo756/eadv-2025-cindu-presentation-pdf.md', 'raw/sponsors/mrgprx2/evo756/cindu-top-line-press-release-pdf.md'],
+    },
+}
+
+
 PROGRAM_OPERATIONAL_OVERRIDES = {
     'sep-631': {
         'rows': [
@@ -552,6 +727,10 @@ def get_program_strategy(program_entry: dict) -> dict:
         'watch_items': ['Manual enrichment is still needed before making a stronger strategy claim.'],
         'confidence': 'Low',
     }
+
+
+def get_trial_result_override(trial_id: str) -> dict:
+    return TRIAL_RESULT_OVERRIDES.get(trial_id, {})
 
 
 def get_program_operational_override(program_key: str) -> dict:
@@ -855,6 +1034,26 @@ def build_remibrutinib_program_page(program_entry: dict, trial_slug_map: dict[st
                 lines.append(f"  - {override['program_blurb']}")
         lines.append('')
 
+    result_trials = []
+    for trial in program_entry.get('ctgov_trials', []):
+        r = get_trial_result_override(trial['trial_id'])
+        if r:
+            result_trials.append((trial, r))
+    if result_trials:
+        lines.extend(['## Program Results Summary', ''])
+        lines.append(f"Trials with source-backed results in the current local layer: {len(result_trials)} of {len(program_entry.get('ctgov_trials', []))}")
+        lines.append('')
+        for trial, r in result_trials:
+            link_name = trial_link_name(program_entry['program_key'], trial['trial_id'], trial_slug_map)
+            lines.append(f"**[{trial['trial_id']}](../trials/{link_name})** ({r.get('result_status', 'NR')})")
+            if r.get('efficacy'):
+                lines.append(f"- {r['efficacy'][0]}")
+            if r.get('safety'):
+                lines.append(f"- {r['safety'][0]}")
+            if r.get('source_citations'):
+                lines.append(f"- Sources: {'; '.join(r['source_citations'])}")
+            lines.append('')
+
     lines.extend([
         '## Evidence summary',
         '- Primary manuscript layer is strongest for the CSU efficacy chain: phase 2b core (PMID 36096203), phase 2b extension follow-up (PMID 37866460), REMIX phase 3 core results (PMID 40043237), and 52-week REMIX follow-up (PMID 41115533).',
@@ -985,6 +1184,26 @@ def build_program_page(program_entry: dict, trial_slug_map: dict[str, str]) -> s
     add_group('Completed / historical studies', completed)
     add_group('Active / recruiting studies', active)
     add_group('Other registry entries', other)
+
+    result_trials = []
+    for trial in program_entry.get('ctgov_trials', []):
+        r = get_trial_result_override(trial['trial_id'])
+        if r:
+            result_trials.append((trial, r))
+    if result_trials:
+        lines.extend(['', '## Program Results Summary', ''])
+        lines.append(f"Trials with source-backed results in the current local layer: {len(result_trials)} of {len(program_entry.get('ctgov_trials', []))}")
+        lines.append('')
+        for trial, r in result_trials:
+            link_name = trial_link_name(program_entry['program_key'], trial['trial_id'], trial_slug_map)
+            lines.append(f"**[{trial['trial_id']}](../trials/{link_name})** ({r.get('result_status', 'NR')})")
+            if r.get('efficacy'):
+                lines.append(f"- {r['efficacy'][0]}")
+            if r.get('safety'):
+                lines.append(f"- {r['safety'][0]}")
+            if r.get('source_citations'):
+                lines.append(f"- Sources: {'; '.join(r['source_citations'])}")
+            lines.append('')
 
     lines.extend([
         '## Evidence Coverage',
@@ -1156,6 +1375,23 @@ def build_trial_page(program_entry: dict, ct: dict, trial_registry_entry: dict) 
         lines.extend(['', '## Key source-backed points'])
         for item in override['key_points']:
             lines.append(f'- {item}')
+
+    result = get_trial_result_override(ct['nct_id'])
+    if result:
+        lines.extend(['', '## Key Efficacy and Safety Findings'])
+        lines.append(f"- Result status: {result.get('result_status', 'NR')}")
+        if result.get('efficacy'):
+            lines.extend(['', '### Efficacy'])
+            for item in result['efficacy']:
+                lines.append(f'- {item}')
+        if result.get('safety'):
+            lines.extend(['', '### Safety'])
+            for item in result['safety']:
+                lines.append(f'- {item}')
+        if result.get('source_citations'):
+            lines.extend(['', '### Result source(s)'])
+            for cite in result['source_citations']:
+                lines.append(f'- {cite}')
 
     lines.extend(['', '## Endpoints'])
     if ct.get('primary_outcomes'):

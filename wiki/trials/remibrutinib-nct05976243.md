@@ -61,6 +61,19 @@ The purpose of the OLE period is to collect long-term efficacy, safety, and tole
 - Primary endpoints are subtype-specific complete-response measures at week 12 for symptomatic dermographism, cold urticaria, and cholinergic urticaria.
 - This is the main late-stage CIndU branch currently visible in the remibrutinib raw-source layer.
 
+## Key Efficacy and Safety Findings
+- Result status: Topline
+
+### Efficacy
+- Primary endpoint met for all three CIndU subtypes: significantly higher complete response rates versus placebo at week 12 for symptomatic dermographism, cold urticaria, and cholinergic urticaria.
+- Described as the first therapy to achieve a Phase III primary endpoint in CIndU.
+
+### Safety
+- Well-tolerated; favorable safety profile; no liver safety concerns reported in topline release.
+
+### Result source(s)
+- Novartis press release, 2026-02-18 (raw/sponsors/btk/remibrutinib/2026-cindu-phase-iii-remind-press-release.md)
+
 ## Endpoints
 - Primary outcomes:
   - Proportion of participants with complete response in Total Fric Score; symptomatic dermographism (time frame: Week 12)

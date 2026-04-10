@@ -1,0 +1,442 @@
+P.054
+
+Rilzabrutinib Reduces Hives Severity and Frequency in Participants With
+Chronic Spontaneous Urticaria in RILECSU Phase 2 Trial
+Silvia Ferrucci1; Jordan Talia2; Gary Gross3; Akiko Yagami4; Iris Sun5; Leda Mannent6; Jessica Gereige7
+Dermatology Unit, Fondazione IRCCS Cà Granda Ospedale Maggiore Policlinico, Milan, Italy; 2Department of Dermatology, Mount Sinai Hospital, New York, New York, USA;
+3
+Dallas Allergy & Asthma Center, Dallas, TX, USA; 4Department of Allergology, Fujita Health University School of Medicine, Aichi, Japan; 5Sanofi, Beijing, China; 6Sanofi, Paris, France;
+7
+Sanofi, Cambridge, MA, USA
+
+Copies of this poster
+obtained through Quick
+Response (QR) Code are
+for personal use only
+
+1
+
+Key Conclusions
+
+1
+
+2
+
+Significant and sustained
+improvements in UAS7,
+measuring hives and itch, were
+observed through Week 12
+with rilzabrutinib 1200 mg/day
+
+3
+
+Nominally significant improvements
+in percent change in HSS7 were
+observed as early as Week 1 with all
+rilzabrutinib doses. Improvements
+were sustained through Week 12 with
+rilzabrutinib 1200 mg/day
+
+Introduction
+
+Results
+
+ Chronic spontaneous urticaria (CSU) is a common,
+chronic, immunological skin disease characterised by the
+spontaneous appearance of itchy hives, angioedema, or
+both for >6 weeks1
+
+Figure 2. Rilzabrutinib 1200 mg/day showed fast
+(Week 1) and sustained improvements vs placebo up to
+Week 12 in UAS76,a
+
+ CSU is driven by the pathologic activation of
+cutaneous mast cells by various mechanisms, such
+as auto-antibodies2
+
+LS Mean CFB (±SE) in UAS7
+
+0
+
+ Rilzabrutinib is an oral, reversible, covalent BTK inhibitor
+
+4
+
+ In the RILECSU phase 2 trial, in patients with CSU
+whose disease is not adequately controlled with
+H1-antihistamines, rilzabrutinib 1200 mg/day significantly
+reduced weekly Urticaria Activity Score (UAS7) vs placebo
+at Week 12, meeting its primary endpoint5
+— Weekly Hives Severity Score (HSS7) was
+nominally significantly reduced at Week 12 with
+rilzabrutinib 1200 mg/day
+
+2
+
+4
+
+8
+
+10
+
+Rilzabrutinib 400 mg/day
+Placebo
+Rilzabrutinib 800 mg/day
+Rilzabrutinib 1200 mg/day
+
+12
+
+0
+LS Mean % CFB (±SE) in HSS7
+
+ Bruton’s tyrosine kinase (BTK) is expressed in many
+immune cells (eg, B cells and mast cells) and plays a
+critical role in multiple immune-mediated diseases3
+
+0
+
+-5
+-9.74
+
+-10
+
+-15
+
+-10.14
+**
+
+Primary
+endpoint
+was met with
+rilzabrutinib
+1200 mg/day
+
+-14.24
+** ** **
+*
+
+-16.89
+
+*
+
+*
+
+-20
+
+*
+
+**
+
+*
+
+**
+
+0
+
+2
+
+Weeks
+6
+
+4
+
+8
+
+10
+
+12
+
+-10
+-20
+-30
+-40
+***
+
+-50
+
+**
+
+**
+
+**
+
+-60
+
+*
+
+*
+
+**
+
+**
+
+**
+
+**
+
+**
+
+-70
+
+*
+
+*P<0.05 vs placebo; color-coded based on dose.
+a
+P-values are nominal except at Week 12.
+
+Objective
+
+Rilzabrutinib may be
+an effective treatment
+option to reduce the
+severity and frequency
+of hives for patients
+with CSU
+
+Figure 3. Rilzabrutinib 1200 mg/day showed fast
+(Week 1) and sustained improvements vs placebo up to
+Week 12 in HSS7a
+
+Rilzabrutinib 400 mg/day
+Placebo
+Rilzabrutinib 800 mg/day
+Rilzabrutinib 1200 mg/day
+Weeks
+6
+
+4
+
+Participants treated with
+rilzabrutinib 1200 mg/day
+had more days without hives
+during the 12-week doubleblind period than those
+receiving placebo
+
+**
+
+*P<0.05 vs placebo; color-coded based on dose.
+a
+P-values are nominal.
+
+Figure 4. HSS7 severity was improved with rilzabrutinib at Week 12 at an individual level
+Week
+
+ To evaluate the effect of rilzabrutinib on the severity and
+frequency of hives during the 12-week double-blind period
+of the RILECSU phase 2 trial in adults with moderate-tosevere CSU who were omalizumab-naïve (primary analysis
+population)
+
+BL
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+HSS7
+
+Week
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+BL
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+Severe (≥14)
+
+Placebo (n=32a)
+
+400 mg/day (n=30a)
+
+Moderate (8-<14)
+
+Methods
+
+Mild (<8)
+Data not available
+
+800 mg/day (n=26a)
+
+Open-Label Extension
+
+Double-Blind Treatment Period
+Week 0
+
+Week 12
+
+Week 16
+
+Randomised
+1:1:1:1 (N=160)
+
+Primary Endpoint
+
+Week 52
+
+Week 56
+
+End of efficacy
+evaluations
+
+R
+
+Rilzabrutinib 800 mg/day
+(n=41)
+Week
+-4 to 0
+
+Rilzabrutinib 400 mg/day
+(n=38)
+
+Transition to Open-Label?
+
+Rilzabrutinib 1200 mg/day
+(n=41)
+Rilzabrutinib 1200 mg/day
+
+1200 mg/day (n=28a)
+
+Figure 1. RILECSU Phase 2 trial (NCT05107115)
+
+ No scores worsened with rilzabrutinib 1200 mg/day compared to baseline, and 1 score (3.6%) was unchanged
+— Among 16 patients with severe HSS7 at baseline, 13 (81.3%) achieved mild or moderate HSS7 at Week 12 with
+rilzabrutinib 1200 mg/day
+
+Safety
+follow-up
+
+YES
+
+N is based on primary analysis population (omalizumab-naïve; N=143) with HSS7 scores available at Week 12.
+
+a
+
+NO
+Safety
+follow-up
+
+Figure 5. Participants on rilzabrutinib 1200 mg/day experience more days without hives over the 12-week
+double-blind period than placebo
+
+Placebo
+(n=40)
+
+Days Without Hives Over Time Through Week 12
+
+Outcomes
+ CFB in weekly Hives Severity Score (HSS7) at Week 12
+ CFB in HSS7 over time
+ Days without hives during 12-week double-blind period
+(post hoc)
+
+40
+Mean (±SE) Days Without Hives
+
+Primary analysis population: omalizumab-naïve patients (N=143)
+Intent-to-treat population: omalizumab-naïve and omalizumab-incomplete responders (N=160);
+omalizumab-incomplete responders randomised as follows: 400 mg/day arm (n=1), 800 mg/day
+(n=6), 1200 mg/day (n=6), and placebo (n=4).
+Note: Rilzabrutinib tablets were taken orally.
+
+26.7
+30
+
+20
+
+14.3
+9.6
+
+10
+
+0
+
+Statistical Analysis
+
+24.3
+
+ Multiplicity adjustments were only performed on the
+primary endpoint
+
+N=36
+
+N=37
+
+N=35
+
+N=35
+
+Placebo
+
+400 mg/day
+
+800 mg/day
+
+1200 mg/day
+
+Rilzabrutinib
+
+References
+
+Abbreviations
+
+Acknowledgments
+
+1. Kaplan, A, et al. Allergy. 2023;78(2):389–401; 2. Church, MK, et al. Immunol Rev. 2018;282(1):232–247; 3. Mendes-Bastos P, et al.
+Allergy. 2022;77(8):2355-2366; 4. Ucpinar S, et al. Clin Transl Sci. 2023;16(7):1210-1219; 5. Giménez-Arnau A, et al. Poster presented
+at: EAACI; May 31-June 3, 2024; Valencia, Spain; 6. Giménez-Arnau A, et al. Presented at: EADV-S; May 16-18, 2024; St. Julian’s, Malta.
+
+BTK, Bruton’s tyrosine kinase; CFB, change from baseline; CSU, chronic spontaneous urticaria;
+HSS7, weekly Hives Severity Score; LS, least squares; MCID, minimal clinically important
+difference; SE, standard error; UAS7, weekly Urticaria Activity Score.
+
+Medical writing support was provided by Sierra Swords, PhD, from IMPRINT
+Science (New York, NY, USA) and was funded by Sanofi. The authors also
+thank the study patients, trial staff, and investigators for their participation.
+
+Disclosures
+Silvia Ferrucci is the principal investigator in a clinical trial of Amgen, Sanofi, Novartis, Eli Lilly, LEO Pharma, and AbbVie, and she is an advisory board speaker for Novartis, Menarini, Sanofi, AbbVie, and LEO Pharma. Jordan Talia reports serving as a consultant and/or advisory board member for Arcutis Biotherapeutics,
+Stifel Financial, LEO Pharma, Johnson & Johnson, Primus Pharmaceuticals, Calliditas Pharmaceuticals, UCB. Gary Gross is a principal investigator in clinical trials for AstraZeneca, GSK, Genentech, Insmed, and Sanofi; has received lecture fees from ALK, AstraZeneca, Sanofi/Regeneron; and is a consultant and advisory
+board member for Hikma. Akiko Yagami reports lecture fees from Eli Lilly, Novartis, Sanofi, and Taiho Pharmaceutical; and has been consigned/joint research expenses by Maruho. Iris Sun, Leda Mannent, and Jessica Gereige are employees of Sanofi and may hold stock and/or stock options in the company.
+
+Presented at the 7th GA2LEN Global Urticaria Forum; 4-5 December 2024; Berlin
+
+

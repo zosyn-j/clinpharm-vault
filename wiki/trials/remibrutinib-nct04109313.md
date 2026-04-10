@@ -52,6 +52,22 @@ tags:
 - Participants with UAS7 <16 at Week 16 of the prior study could enter an observational period before treatment restart if they relapsed.
 - Participants with persistent activity or relapse could receive open-label remibrutinib 100 mg twice daily for up to 52 weeks.
 
+## Key Efficacy and Safety Findings
+- Result status: Published
+
+### Efficacy
+- 194 of 230 (84.3%) patients from the core study entered the open-label treatment period (remibrutinib 100 mg BID).
+- Mean UAS7 change from baseline: -17.6 at week 4, -21.8 at week 52.
+- Complete response (UAS7 = 0): 28.2% at week 4, 55.8% at week 52.
+- Well-controlled disease (UAS7 <= 6): 52.7% at week 4, 68.0% at week 52.
+
+### Safety
+- Safety comparable to core study; most TEAEs mild-to-moderate.
+- Three most common TEAE classes: infections (30.9%), skin/subcutaneous (26.8%), GI disorders (16.5%).
+
+### Result source(s)
+- PMID 37866460
+
 ## Endpoints
 - Primary outcomes:
   - Number of Participants With Treatment-emergent Adverse Events (AEs) (time frame: From first dose of treatment up to 28 days after last dose, assessed up to 56 weeks)

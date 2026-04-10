@@ -1,0 +1,168 @@
+# Sanofi Phase 2 CSU results press release
+
+- Program: rilzabrutinib
+- Priority class: BTK
+- Sponsor: Sanofi
+- Source URL: https://www.sanofi.com/assets/dotcom/pressreleases/2024/2024-02-24-14-51-48-2834723-en.pdf
+- Fetched at: 2026-04-10T22:29:58.941601+00:00
+- Raw PDF: phase-2-csu-results-press-release.pdf
+- Extracted text: phase-2-csu-results-press-release.txt
+
+## Extracted PDF text
+
+```text
+Press Release
+
+Phase 2 results demonstrate rilzabrutinib rapidly reduced
+itch severity and significantly improved disease activity in
+adults with chronic spontaneous urticaria
+•
+
+•
+•
+•
+
+Late-breaking data at 2024 AAAAI showed rilzabrutinib, an oral BTK inhibitor,
+significantly reduced weekly itch severity score (ISS7) as early as the first week of
+treatment in adults with moderate to severe CSU
+Data form the basis for the Phase 3 CSU and prurigo nodularis programs to start in 2024
+Pivotal Phase 3 readout in immune thrombocytopenia and Phase 2 readouts in asthma,
+IgG4-related disease and warm autoimmune hemolytic anemia expected in 2024
+Rilzabrutinib is one of 12 potential blockbusters in Sanofi’s leading immunology pipeline
+
+Paris, February 24, 2024. Positive results from the Phase 2 study RILECSU showed that
+rilzabrutinib significantly improved itch, hives and urticaria in adults with moderate-to-severe
+chronic spontaneous urticaria (CSU), whose symptoms are not adequately controlled by H1
+antihistamines. These results were presented today in a late-breaking poster at the 2024
+American Academy of Allergy, Asthma and Immunology (AAAAI) Annual Meeting in Washington,
+DC and form the basis for the Phase 3 program which is on track to start in 2024.
+Professor Marcus Maurer, M.D.
+Professor of Dermatology and Allergy, Executive Director of the Institute of Allergology at the Charité
+Berlin
+“People with CSU are living with debilitating symptoms such as intensely itchy recurrent hives,
+swelling, or both which can have a high impact on their day-to-day lives. These data are
+promising news for patients that cannot be controlled with standard-of-care antihistamines – the
+possibility of controlling itch rapidly with an oral medicine would offer an important advancement
+in the treatment of this disease.”
+Naimish Patel, M.D.
+Head of Global Development, Immunology and Inflammation, Sanofi
+“These data reinforce the potential of rilzabrutinib as a treatment option for patients with
+moderate-to-severe CSU and we believe that the rapid improvement of itch could make a
+meaningful difference in alleviating the physical and psychosocial burden these patients suffer
+from. Based on these data, later this year we will advance rilzabrutinib into Phase 3 development
+in both CSU and prurigo nodularis, another skin disorder characterized by relentless itching. We
+also look forward to data readouts for rilzabrutinib in 2024 with the opportunity to further
+demonstrate its potential impact across multiple immune-mediated diseases.”
+Key Results
+In this dose-ranging study, different doses of rilzabrutinib were evaluated: 400 mg once every
+evening (QPM), 400 mg twice a day (BID), 400 mg three times a day (TID).
+In the intent-to-treat (ITT) population which included either patients who were previously naïve
+or incomplete responders to omalizumab, Rilzabrutinib 400 mg TID demonstrated:
+• Significant reduction from baseline in weekly itch severity score (ISS7) at Week 12, a
+key symptom of the disease, [least squares mean (LSM) -9.58 vs -6.31, respectively;
+p=0.0181]. Significant changes in ISS7 were seen as early as Week 1.
+• Significant reduction from baseline to week 12 in weekly urticaria activity score (UAS7)
+[LSM -17.95 vs -11.20, respectively; p=0.0116].
+• Significant reduction from baseline to week 12 in weekly hives severity score (HSS7)
+[LSM -8.31 vs -4.89; p<0.0100].
+1/3
+
+Internal
+
+Rilzabrutinib was generally well-tolerated with no events of cytopenia, bleeding or atrial
+fibrillation seen with other BTK inhibitor. Treatment-emergent AEs occurring at a higher
+frequency with rilzabrutinib vs placebo were diarrhea (29.3% TID and BID, 7.9% QPM, 15%
+placebo), nausea (19.5% TID, 17.1% BID, 13.2% QPM, 5.0% placebo), headache (9.8% TID,
+14.6% BID, 5.3% QPM, 0.0% placebo) and abdominal pain (0.0% TID, 12.2% BID, 2.6% QPM,
+5.0% placebo).
+Rilzabrutinib is currently under clinical investigation, and its safety and efficacy have not been
+evaluated by any regulatory authority.
+
+About CSU
+
+CSU is an inflammatory skin condition driven mainly by the activation of cutaneous mast cells,
+which causes itchy recurrent hives, swelling, or both. CSU is typically treated with H1
+antihistamines and biologics; however, the disease remains uncontrolled in up to 50% of
+patients, who are left with limited alternative treatment options. These individuals continue to
+experience debilitating symptoms that can significantly impact quality of life.
+
+About the RILECSU study
+
+RILECSU is a 52-week Phase 2 study, comprising a 12-week randomized, double-blind, placebocontrolled, dose-ranging, efficacy and safety period, followed by a 40-week open-label extension
+period.
+RILECSU is evaluating rilzabrutinib in adult patients with moderate-to-severe CSU who remain
+symptomatic despite use of H1 antihistamine treatment and are either naïve to or incomplete
+responders to omalizumab. The primary endpoint was change from baseline in weekly itch
+severity score ISS7 at 12 weeks. Secondary endpoints include change from baseline in weekly
+UAS7 at 12 weeks and change from baseline weekly HSS7 at 12 weeks.
+Participants in the trial (n=160) were randomized 1:1:1:1 to rilzabrutinib 400mg once every
+evening (QPM), 400mg twice a day (BID), 400mg three times a day (TID), or matching placebo.
+
+About Rilzabrutinib
+
+Rilzabrutinib is an oral, reversible, covalent BTK inhibitor that has the potential to be a first- or
+best-in-class treatment of a number of immune-mediated diseases. BTK, expressed in B cells
+and mast cells, plays a critical role in multiple immune-mediated disease processes. With the
+application of Sanofi’s TAILORED COVALENCY® technology, rilzabrutinib can selectively inhibit
+the BTK target while potentially reducing the risk of off-target side effects.
+
+About Sanofi
+We are an innovative global healthcare company, driven by one purpose: we chase the miracles
+of science to improve people’s lives. Our team, across some 100 countries, is dedicated to
+transforming the practice of medicine by working to turn the impossible into the possible. We
+provide potentially life-changing treatment options and life-saving vaccine protection to millions
+of people globally, while putting sustainability and social responsibility at the center of our
+ambitions.
+Sanofi is listed on EURONEXT: SAN and NASDAQ: SNY
+
+Media Relations
+Sandrine Guendoul | + 33 6 25 09 14 25 | sandrine.guendoul@sanofi.com
+Sally Bain | + 1 617 834 6026 | sally.bain@sanofi.com
+Victor Rouault | + 33 6 70 93 71 40 | victor.rouault@sanofi.com
+
+Investor Relations
+Eva Schaefer-Jansen | + 33 7 86 80 56 39 | eva.schaefer-jansen@sanofi.com
+Arnaud Delépine | + 33 6 73 69 36 93 | arnaud.delepine@sanofi.com
+Corentine Driancourt | + 33 6 40 56 92 21 | corentine.driancourt@sanofi.com
+Felix Lauscher | + 1 908 612 7239 | felix.lauscher@sanofi.com
+
+2/3
+
+Internal
+
+Tarik Elgoutni| + 1 617 710 3587 | tarik.elgoutni@sanofi.com
+Nathalie Pham | + 33 7 85 93 30 17 | nathalie.pham@sanofi.com
+
+Sanofi Forward-Looking Statements
+
+This press release contains forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995,
+as amended. Forward-looking statements are statements that are not historical facts. These statements include
+projections and estimates and their underlying assumptions, statements regarding plans, objectives, intentions and
+expectations with respect to future financial results, events, operations, services, product development and potential,
+and statements regarding future performance. Forward-looking statements are generally identified by the words
+“expects”, “anticipates”, “believes”, “intends”, “estimates”, “plans” and similar expressions. Although Sanofi’s
+management believes that the expectations reflected in such forward-looking statements are reasonable, investors are
+cautioned that forward-looking information and statements are subject to various risks and uncertainties, many of which
+are difficult to predict and generally beyond the control of Sanofi, that could cause actual results and developments to
+differ materially from those expressed in, or implied or projected by, the forward-looking information and statements.
+These risks and uncertainties include among other things, the uncertainties inherent in research and development, future
+clinical data and analysis, including post marketing, decisions by regulatory authorities, such as the FDA or the EMA,
+regarding whether and when to approve any drug, device or biological application that may be filed for any such product
+candidates as well as their decisions regarding labelling and other matters that could affect the availability or commercial
+potential of such product candidates, the fact that product candidates if approved may not be commercially successful,
+the future approval and commercial success of therapeutic alternatives, Sanofi’s ability to benefit from external growth
+opportunities, to complete related transactions and/or obtain regulatory clearances, risks associated with intellectual
+property and any related pending or future litigation and the ultimate outcome of such litigation, trends in exchange
+rates and prevailing interest rates, volatile economic and market conditions, cost containment initiatives and subsequent
+changes thereto, and the impact that pandemics or other global crises may have on us, our customers, suppliers,
+vendors, and other business partners, and the financial condition of any one of them, as well as on our employees and
+on the global economy as a whole. The risks and uncertainties also include the uncertainties discussed or identified in
+the public filings with the SEC and the AMF made by Sanofi, including those listed under “Risk Factors” and “Cautionary
+Statement Regarding Forward-Looking Statements” in Sanofi’s annual report on Form 20-F for the year ended December
+31, 2023. Other than as required by applicable law, Sanofi does not undertake any obligation to update or revise any
+forward-looking information or statements.
+
+3/3
+
+
+```

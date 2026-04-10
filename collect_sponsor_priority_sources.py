@@ -23,6 +23,8 @@ SOURCES = [
     {'program': 'remibrutinib', 'priority_class': 'BTK', 'sponsor': 'Novartis', 'kind': 'html', 'label': '2026 CIndU Phase III RemIND press release', 'url': 'https://www.novartis.com/news/media-releases/novartis-remibrutinib-first-therapy-achieve-phase-iii-primary-endpoint-chronic-inducible-urticaria-cindu'},
     {'program': 'remibrutinib', 'priority_class': 'BTK', 'sponsor': 'Novartis', 'kind': 'html', 'label': 'Novartis trial page NCT06865651', 'url': 'https://www.novartis.com/clinicaltrials/study/nct06865651'},
     {'program': 'rilzabrutinib', 'priority_class': 'BTK', 'sponsor': 'Sanofi', 'kind': 'html', 'label': 'Sanofi pipeline page', 'url': 'https://www.sanofi.com/en/our-science/our-pipeline'},
+    {'program': 'rilzabrutinib', 'priority_class': 'BTK', 'sponsor': 'Sanofi', 'kind': 'pdf', 'label': 'Phase 2 CSU results press release', 'url': 'https://www.sanofi.com/assets/dotcom/pressreleases/2024/2024-02-24-14-51-48-2834723-en.pdf'},
+    {'program': 'rilzabrutinib', 'priority_class': 'BTK', 'sponsor': 'Sanofi', 'kind': 'pdf', 'label': 'RILECSU Phase 2 hives poster', 'url': 'https://congress.sanofimedical.com/s3fs-public/2024-11/Rilzabrutinib%20Reduces%20Hives%20Severity%20and%20Frequency%20in%20Participants%20With%20Chronic%20Spontaneous%20Urticaria%20in%20RILECSU%20Phase%202%20Trial.pdf?VersionId=DNf1c.cCx36.vmeBiWX61v6Om.WWUDi8'},
 
     # KIT
     {'program': 'barzolvolimab', 'priority_class': 'KIT', 'sponsor': 'Celldex', 'kind': 'html', 'label': 'IR press release positive results', 'url': 'https://ir.celldex.com/news-releases/news-release-details/celldex-therapeutics-presents-positive-results-barzolvolimab'},

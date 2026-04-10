@@ -51,6 +51,25 @@ tags:
 | Placebo then barzolvolimab 150 mg | EXPERIMENTAL | 150 mg | Q4W | Subcutaneous | Placebo injection subcutaneous every 4 weeks for 16 weeks and then barzolvolimab 150 mg injection subcutaneous every 4 weeks for 36 weeks | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
 | Placebo then barzolvolimab 300 mg | EXPERIMENTAL | 300 mg | Q4W + Q8W | Subcutaneous | Placebo injection subcutaneous every 4 weeks for 16 weeks and then barzolvolimab 300 mg injection subcutaneous every 8 weeks for 36 weeks | NR | Summary-level arm-size evidence exists, but exact N is not mapped to this CT.gov arm label in the current local layer |
 
+## Key Efficacy and Safety Findings
+- Result status: Published
+
+### Efficacy
+- Primary endpoint met at week 12 (UAS7 change from baseline, LS mean delta versus placebo): 150 mg Q4W -12.55 (P < 0.0001), 300 mg Q8W -13.41 (P < 0.0001), 75 mg Q4W -6.60 (P = 0.0017).
+- Complete response (UAS7 = 0) at week 12: 150 mg 51.1%, 300 mg 37.5%, 75 mg 22.9%, placebo 6.4%.
+- Week 52 sustained results (all patients on 150 mg or 300 mg): up to 71% complete response, up to 74% well-controlled disease.
+- Week 76 off-treatment follow-up: up to 41% maintained complete response (UAS7 = 0); 69% of Week 52 responders still well-controlled; suggestive of disease modification.
+
+### Safety
+- Hair color changes (26%), neutropenia (17%), skin hypopigmentation (13%); all mechanism-related, mostly Grade 1, reversible upon discontinuation.
+- AEs were not dose-dependent; no association between infections and neutropenia.
+- Treatment-related SAEs: 2 (1%) across 156 barzolvolimab-treated patients.
+
+### Result source(s)
+- PMID 41747871
+- raw/sponsors/kit/barzolvolimab/aaaai-2025-csu-poster.md
+- raw/sponsors/kit/barzolvolimab/eadv-2024-congress-presentation.md
+
 ## Endpoints
 - Primary outcomes:
   - Mean change from baseline to Week 12 of UAS7 (Urticaria Activity Score) (time frame: From baseline to Day 85 (Week 12))

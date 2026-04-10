@@ -46,6 +46,16 @@ indications:
 ### Other registry entries
 - None in current registry
 
+
+## Program Results Summary
+
+Trials with source-backed results in the current local layer: 1 of 1
+
+**[NCT05107115](../trials/rilzabrutinib-nct05107115.md)** (Published)
+- Primary endpoint (ISS7 change at week 12, 1200 mg/d versus placebo, omalizumab-naive): LS mean -9.21 versus -5.77; difference -3.44 (95% CI -6.25 to -0.62; P = 0.02).
+- Favorable risk-benefit; no dose-dependent AEs; most frequent AEs: diarrhea and nausea (mild).
+- Sources: PMID 40266575; PMCID PMC12019677
+
 ## Evidence Coverage
 - CT.gov trials in registry: 1
 - Sponsor artifacts in registry: 1

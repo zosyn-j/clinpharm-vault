@@ -51,6 +51,24 @@ tags:
 | barzolvolimab 300 mg in patients with Chronic Inducible Cold Urticaria | EXPERIMENTAL | 300 mg | Q8W | Subcutaneous | barzolvolimab 300 mg injection subcutaneous every 8 weeks for 20 weeks | 32 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
 | Placebo Comparator in patients with Chronic Inducible Cold Urticaria | PLACEBO_COMPARATOR | NR | Q4W | Subcutaneous | Placebo injection subcutaneous every 4 weeks for 20 weeks | 32 | Directly supported by linked local publication/source text or explicit CT.gov arm-level enrollment context |
 
+## Key Efficacy and Safety Findings
+- Result status: Conference
+
+### Efficacy
+- Primary endpoint (negative provocation test at week 12) -- Cold urticaria: 150 mg Q4W 53.1%, 300 mg Q8W 46.9%, placebo 12.5%.
+- Symptomatic dermographism: 150 mg Q4W 57.6%, 300 mg Q8W 42.4%, placebo 3.2%.
+- Critical Temperature Threshold (ColdU) LS mean change at week 12: 150 mg -9.61 C, 300 mg -8.82 C versus placebo -0.82 C (both P < 0.0001).
+- Critical Friction Threshold (SD) LS mean change at week 12: 150 mg -2.46 pins, 300 mg -2.27 pins versus placebo -0.30 pins (both P < 0.0001 and P = 0.0002).
+- Week 20: complete response up to 66% ColdU, 49% SD.
+
+### Safety
+- 98% of TEAEs were Grade 1 or 2; hair color changes 13% (versus 0% placebo), neutropenia 10% (versus 0% placebo).
+- No difference in AE-related discontinuation rates between active (2%) and placebo (3%).
+
+### Result source(s)
+- raw/sponsors/kit/barzolvolimab/phase-2-cindu-acaai-poster.md
+- raw/sponsors/kit/barzolvolimab/ir-press-release-pdf-additional-data.md
+
 ## Endpoints
 - Primary outcomes:
   - Percentage of patients with a negative provocation test at week 12 (time frame: From baseline to week 12)
