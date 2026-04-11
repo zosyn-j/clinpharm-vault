@@ -1,0 +1,266 @@
+from __future__ import annotations
+
+import json
+from pathlib import Path
+from typing import Iterable
+
+ROOT = Path(__file__).resolve().parent
+DATA_PATH = ROOT / 'data' / 'remibrutinib_longitudinal_uas7.json'
+ASSETS_DIR = ROOT / 'wiki' / 'assets' / 'plots'
+
+BLUE = '#1f5aa6'
+GRAY = '#6f7f8f'
+LIGHT_BLUE = '#dbe9f9'
+LIGHT_GRAY = '#e8eef5'
+INK = '#17212b'
+MUTED = '#5c6b7a'
+LINE = '#d8e1ec'
+BG = '#ffffff'
+
+
+def load_data() -> dict:
+    return json.loads(DATA_PATH.read_text())
+
+
+def xml_escape(text: object) -> str:
+    return (
+        str(text)
+        .replace('&', '&amp;')
+        .replace('<', '&lt;')
+        .replace('>', '&gt;')
+        .replace('"', '&quot;')
+    )
+
+
+def baseline_map(data: dict) -> dict[tuple[str, str], float]:
+    out: dict[tuple[str, str], float] = {}
+    for row in data.get('baseline', []):
+        if row.get('metric') != 'UAS7':
+            continue
+        out[(row['trial'], row['arm'])] = row['value']
+    return out
+
+
+def remi_cfb_series(data: dict) -> dict[str, dict[str, list[tuple[int, float]]]]:
+    series: dict[str, dict[str, list[tuple[int, float]]]] = {
+        'REMIX-1': {'remibrutinib 25 mg BID': [], 'placebo': []},
+        'REMIX-2': {'remibrutinib 25 mg BID': [], 'placebo': []},
+    }
+    for row in data.get('cfb_uas7', []):
+        trial = row['trial']
+        arm = row['arm']
+        series.setdefault(trial, {}).setdefault(arm, []).append((int(row['week']), float(row['ls_mean'])))
+    for trial in series:
+        for arm in series[trial]:
+            series[trial][arm] = sorted(series[trial][arm])
+    return series
+
+
+def remi_absolute_uas7_series(data: dict) -> dict[str, dict[str, list[tuple[int, float]]]]:
+    base = baseline_map(data)
+    series: dict[str, dict[str, list[tuple[int, float]]]] = {
+        'REMIX-1': {'remibrutinib 25 mg BID': [], 'placebo': []},
+        'REMIX-2': {'remibrutinib 25 mg BID': [], 'placebo': []},
+    }
+    for (trial, arm), baseline in base.items():
+        series.setdefault(trial, {}).setdefault(arm, []).append((0, baseline))
+    for row in data.get('cfb_uas7', []):
+        trial = row['trial']
+        arm = row['arm']
+        baseline = base[(trial, arm)]
+        value = baseline + float(row['ls_mean'])
+        series.setdefault(trial, {}).setdefault(arm, []).append((int(row['week']), value))
+    for trial in series:
+        for arm in series[trial]:
+            series[trial][arm] = sorted(series[trial][arm])
+    return series
+
+
+def remi_uas7_leq6_series(data: dict) -> dict[str, dict[str, list[tuple[int, float]]]]:
+    series: dict[str, dict[str, list[tuple[int, float]]]] = {
+        'REMIX-1': {'remibrutinib 25 mg BID': [], 'placebo': []},
+        'REMIX-2': {'remibrutinib 25 mg BID': [], 'placebo': []},
+    }
+    for row in data.get('responder_uas7_leq6', []):
+        trial = row['trial']
+        arm = row['arm']
+        series.setdefault(trial, {}).setdefault(arm, []).append((int(row['week']), float(row['value'])))
+    for trial in series:
+        for arm in series[trial]:
+            series[trial][arm] = sorted(series[trial][arm])
+    return series
+
+
+def pooled_week52(data: dict) -> dict[str, float]:
+    out: dict[str, float] = {}
+    for row in data.get('band_shift_pooled', []):
+        metric = row.get('metric')
+        week = row.get('week')
+        if week == 52 and metric in {'severe band (UAS7 28-42) %', 'complete response (UAS7=0) %'}:
+            out[metric] = float(row['value'])
+    return out
+
+
+def polyline(points: Iterable[tuple[float, float]], color: str) -> str:
+    pts = ' '.join(f'{x:.1f},{y:.1f}' for x, y in points)
+    return f"<polyline fill='none' stroke='{color}' stroke-width='3' points='{pts}' />"
+
+
+def circles(points: Iterable[tuple[float, float]], color: str) -> str:
+    return ''.join(
+        f"<circle cx='{x:.1f}' cy='{y:.1f}' r='4.5' fill='{color}' stroke='#ffffff' stroke-width='2' />"
+        for x, y in points
+    )
+
+
+def text(x: float, y: float, value: str, size: int = 14, weight: str = '400', fill: str = INK, anchor: str = 'start') -> str:
+    return f"<text x='{x:.1f}' y='{y:.1f}' font-family='Inter, Arial, sans-serif' font-size='{size}' font-weight='{weight}' fill='{fill}' text-anchor='{anchor}'>{xml_escape(value)}</text>"
+
+
+def line(x1: float, y1: float, x2: float, y2: float, stroke: str = LINE, width: int = 1, dash: str | None = None) -> str:
+    dash_attr = f" stroke-dasharray='{dash}'" if dash else ''
+    return f"<line x1='{x1:.1f}' y1='{y1:.1f}' x2='{x2:.1f}' y2='{y2:.1f}' stroke='{stroke}' stroke-width='{width}'{dash_attr} />"
+
+
+def rect(x: float, y: float, w: float, h: float, fill: str, stroke: str = 'none', radius: int = 0) -> str:
+    return f"<rect x='{x:.1f}' y='{y:.1f}' width='{w:.1f}' height='{h:.1f}' rx='{radius}' fill='{fill}' stroke='{stroke}' />"
+
+
+def build_two_panel_line_chart(
+    title_str: str,
+    subtitle: str,
+    series_by_trial: dict[str, dict[str, list[tuple[int, float]]]],
+    y_label: str,
+    filename: str,
+    y_min: float,
+    y_max: float,
+    week_ticks: list[int],
+    note_lines: list[str] | None = None,
+):
+    width, height = 1160, 620
+    panel_w, panel_h = 455, 320
+    left1, left2, top = 90, 610, 135
+    plot_bottom = top + panel_h
+
+    def x_scale(week: int, left: int) -> float:
+        return left + (week - min(week_ticks)) / (max(week_ticks) - min(week_ticks)) * panel_w
+
+    def y_scale(value: float) -> float:
+        return top + (y_max - value) / (y_max - y_min) * panel_h
+
+    parts = [
+        f"<svg xmlns='http://www.w3.org/2000/svg' width='{width}' height='{height}' viewBox='0 0 {width} {height}'>",
+        rect(0, 0, width, height, BG),
+        text(44, 46, title_str, size=28, weight='700', fill=INK),
+        text(44, 74, subtitle, size=15, fill=MUTED),
+        rect(870, 32, 16, 16, BLUE, radius=3),
+        text(894, 45, 'Remibrutinib 25 mg BID', size=14, fill=INK),
+        rect(870, 58, 16, 16, GRAY, radius=3),
+        text(894, 71, 'Placebo', size=14, fill=INK),
+    ]
+
+    trials = ['REMIX-1', 'REMIX-2']
+    lefts = [left1, left2]
+    for trial, left in zip(trials, lefts):
+        parts.append(rect(left - 24, top - 34, panel_w + 48, panel_h + 70, '#fbfdff', stroke=LINE, radius=14))
+        parts.append(text(left, top - 10, trial, size=18, weight='700', fill=INK))
+        for y_val in range(int(y_min), int(y_max) + 1, 5):
+            y = y_scale(y_val)
+            parts.append(line(left, y, left + panel_w, y, stroke=LINE, width=1))
+            parts.append(text(left - 10, y + 5, str(y_val), size=12, fill=MUTED, anchor='end'))
+        parts.append(line(left, top, left, plot_bottom, stroke=MUTED, width=1))
+        parts.append(line(left, plot_bottom, left + panel_w, plot_bottom, stroke=MUTED, width=1))
+        for week in week_ticks:
+            x = x_scale(week, left)
+            parts.append(line(x, plot_bottom, x, plot_bottom + 6, stroke=MUTED, width=1))
+            parts.append(text(x, plot_bottom + 24, str(week), size=12, fill=MUTED, anchor='middle'))
+
+        remi_points = [(x_scale(w, left), y_scale(v)) for w, v in series_by_trial[trial]['remibrutinib 25 mg BID']]
+        placebo_points = [(x_scale(w, left), y_scale(v)) for w, v in series_by_trial[trial]['placebo']]
+        parts.append(polyline(remi_points, BLUE))
+        parts.append(polyline(placebo_points, GRAY))
+        parts.append(circles(remi_points, BLUE))
+        parts.append(circles(placebo_points, GRAY))
+
+    parts.append(text(28, top + panel_h / 2, y_label, size=14, fill=MUTED, anchor='middle'))
+    parts.append(f"<g transform='rotate(-90 28 {top + panel_h / 2:.1f})'></g>")
+    parts.append(text(left1 + panel_w / 2, plot_bottom + 52, 'Week', size=14, fill=MUTED, anchor='middle'))
+    parts.append(text(left2 + panel_w / 2, plot_bottom + 52, 'Week', size=14, fill=MUTED, anchor='middle'))
+
+    if note_lines:
+        y = 510
+        for note in note_lines:
+            parts.append(text(44, y, note, size=13, fill=MUTED))
+            y += 20
+
+    parts.append('</svg>')
+    ASSETS_DIR.mkdir(parents=True, exist_ok=True)
+    (ASSETS_DIR / filename).write_text(''.join(parts))
+
+
+def build_pooled_week52_callout(data: dict, filename: str):
+    width, height = 760, 240
+    points = pooled_week52(data)
+    severe = points.get('severe band (UAS7 28-42) %')
+    complete = points.get('complete response (UAS7=0) %')
+    parts = [
+        f"<svg xmlns='http://www.w3.org/2000/svg' width='{width}' height='{height}' viewBox='0 0 {width} {height}'>",
+        rect(0, 0, width, height, BG),
+        rect(20, 20, width - 40, height - 40, '#fbfdff', stroke=LINE, radius=16),
+        text(40, 52, 'REMIX pooled week 52 landmarks (explicit numeric values only)', size=24, weight='700'),
+        text(40, 78, 'From the GUF/UCARE 2024 band-shift poster. These are pooled REMIX-1 + REMIX-2 values, not per-trial week 52 curves.', size=14, fill=MUTED),
+    ]
+    card_y = 110
+    card_w = 300
+    parts.append(rect(40, card_y, card_w, 84, LIGHT_BLUE, stroke=LINE, radius=14))
+    parts.append(text(60, card_y + 30, 'Complete response (UAS7 = 0)', size=17, weight='700'))
+    parts.append(text(60, card_y + 62, f'{complete:.1f}%', size=30, weight='700', fill=BLUE))
+    parts.append(rect(380, card_y, card_w, 84, LIGHT_GRAY, stroke=LINE, radius=14))
+    parts.append(text(400, card_y + 30, 'Still severe (UAS7 28 to 42)', size=17, weight='700'))
+    parts.append(text(400, card_y + 62, f'{severe:.1f}%', size=30, weight='700', fill=GRAY))
+    parts.append('</svg>')
+    ASSETS_DIR.mkdir(parents=True, exist_ok=True)
+    (ASSETS_DIR / filename).write_text(''.join(parts))
+
+
+def main():
+    data = load_data()
+    absolute_series = remi_absolute_uas7_series(data)
+    responder_series = remi_uas7_leq6_series(data)
+
+    build_two_panel_line_chart(
+        title_str='Remibrutinib longitudinal UAS7, first pass',
+        subtitle='Derived mean UAS7 = explicit baseline UAS7 plus explicit sponsor-portal change-from-baseline values. REMIX-1 and REMIX-2 shown separately.',
+        series_by_trial=absolute_series,
+        y_label='Derived mean UAS7',
+        filename='remibrutinib-uas7-absolute-first-pass.svg',
+        y_min=0,
+        y_max=32,
+        week_ticks=[0, 1, 2, 4, 12, 24],
+        note_lines=[
+            'Explicit numeric anchors are available through week 24. Week 52 mean UAS7 is not yet plotted because the current local extraction only gives graphical, not tabulated, values.',
+            'Source backbone: ACAAI 2024 early symptom improvement poster plus baseline values from the same sponsor-hosted extraction.',
+        ],
+    )
+
+    build_two_panel_line_chart(
+        title_str='Remibrutinib UAS7 ≤ 6 response over time, first pass',
+        subtitle='Explicit numeric responder rates extracted from the EADV 2024 52-week oral presentation. REMIX-1 and REMIX-2 shown separately.',
+        series_by_trial=responder_series,
+        y_label='Patients with UAS7 ≤ 6 (%)',
+        filename='remibrutinib-uas7-leq6-first-pass.svg',
+        y_min=0,
+        y_max=60,
+        week_ticks=[1, 2, 12, 24],
+        note_lines=[
+            'Week 52 UAS7 ≤ 6 per-trial numeric values are not yet tabulated in the current local extraction, so the plot stops at week 24.',
+            'A pooled week 52 callout is provided separately where explicit values exist.',
+        ],
+    )
+
+    build_pooled_week52_callout(data, 'remibrutinib-week52-pooled-landmarks.svg')
+    print('Built remibrutinib longitudinal UAS7 SVG plots')
+
+
+if __name__ == '__main__':
+    main()

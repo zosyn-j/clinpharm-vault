@@ -8,6 +8,7 @@ ROOT = Path(__file__).resolve().parent
 STEPS = [
     [sys.executable, str(ROOT / 'build_source_registry.py')],
     [sys.executable, str(ROOT / 'build_wiki_from_registry.py')],
+    [sys.executable, str(ROOT / 'build_longitudinal_uas7_plots.py')],
     [sys.executable, str(ROOT / 'scan_disputes.py')],
     [sys.executable, str(ROOT / 'build_vault_site.py')],
 ]

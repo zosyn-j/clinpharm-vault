@@ -41,6 +41,7 @@ pre { background: #eef3f8; padding: 12px; overflow-x: auto; border-radius: 10px;
 a { color: var(--accent2); }
 h1, h2, h3 { color: var(--accent); }
 h1 { margin-top: 0; }
+img { max-width: 100%; height: auto; border: 1px solid var(--line); border-radius: 12px; background: #fff; }
 .small { color: var(--sidebar-muted); font-size: 14px; }
 table { width: 100%; border-collapse: collapse; margin: 16px 0; font-size: 14px; }
 th, td { border: 1px solid var(--line); padding: 10px; text-align: left; vertical-align: top; }
@@ -209,6 +210,13 @@ def main():
         if md_path.name == 'README.md':
             continue
         render_file(md_path, WIKI)
+    for asset_path in WIKI.rglob('*'):
+        if asset_path.is_dir() or asset_path.suffix.lower() == '.md':
+            continue
+        rel = asset_path.relative_to(WIKI)
+        out = SITE / rel
+        out.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(asset_path, out)
     for md_path in [INVENTORIES / 'source_registry.md', INVENTORIES / 'dispute_index.md']:
         if md_path.exists():
             render_file(md_path, ROOT)
