@@ -113,6 +113,7 @@ _CSU sponsor-poster layer is unusually deep, extending the manuscript-backed pha
 
 ## Longitudinal efficacy view
 - Plotted page: [Barzolvolimab longitudinal UAS7](../queries/barzolvolimab-longitudinal-uas7.md)
+- Shared comparison page: [Cross-program longitudinal UAS7 comparison](../queries/cross-program-longitudinal-uas7.md)
 - Current explicit numeric plotting coverage: week 12 UAS7 change-from-baseline by core randomized arm, plus week 12 and week 52 UAS7 <= 6 and UAS7 = 0 landmarks.
 - Current main caveat: the week 52 values for the former 75 mg and placebo groups are post-week-16 transition-group landmarks, not unchanged original-arm trajectories.
 - Current main gap: the full week-by-week mean UAS7 curve is still graph-only in the current local extraction and remains intentionally unplotted.

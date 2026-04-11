@@ -156,6 +156,7 @@ _Sponsor press releases complement the manuscript-backed REMIX results with topl
 
 ## Longitudinal efficacy view
 - Plotted page: [Remibrutinib longitudinal UAS7](../queries/remibrutinib-longitudinal-uas7.md)
+- Shared comparison page: [Cross-program longitudinal UAS7 comparison](../queries/cross-program-longitudinal-uas7.md)
 - Current explicit numeric plotting coverage: derived mean UAS7 through weeks 0, 1, 2, 4, 12, and 24 for REMIX-1 and REMIX-2 separately.
 - Current responder plotting coverage: per-trial UAS7 <= 6 through weeks 1, 2, 12, and 24, plus pooled week 52 landmarks where explicit values were available.
 - Current main gap: exact week 52 mean UAS7 and per-trial week 52 UAS7 <= 6 values are still graph-only in the current local extraction and remain intentionally unplotted.

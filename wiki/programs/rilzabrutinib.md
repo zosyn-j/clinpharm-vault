@@ -76,6 +76,7 @@ _Sponsor press release and conference poster provide additional detail beyond th
 
 ## Longitudinal efficacy view
 - Plotted page: [Rilzabrutinib longitudinal UAS7](../queries/rilzabrutinib-longitudinal-uas7.md)
+- Shared comparison page: [Cross-program longitudinal UAS7 comparison](../queries/cross-program-longitudinal-uas7.md)
 - Current explicit numeric plotting coverage: randomized-arm UAS7 change-from-baseline landmarks at weeks 4 and 12, plus 1200 mg/day versus placebo UAS7 difference landmarks at weeks 1, 4, and 12.
 - Current responder plotting coverage: week 12 UAS7 <= 6 and UAS7 = 0 snapshot for placebo versus rilzabrutinib 1200 mg/day.
 - Current main gap: the current local extraction still does not support a safely tabulated four-arm week-by-week UAS7 curve or richer long-term CSU durability numerics.

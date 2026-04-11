@@ -7,9 +7,10 @@ tags:
 
 This page is a conservative derived read across the current local source stack. It is meant to answer a practical question: which programs currently have the clearest public efficacy story, and which still look early, thin, or weak?
 
-- First plotted longitudinal page now live: [Remibrutinib longitudinal UAS7](../queries/remibrutinib-longitudinal-uas7.md)
-- New plotted longitudinal landmarks: [Barzolvolimab longitudinal UAS7](../queries/barzolvolimab-longitudinal-uas7.md)
-- New plotted longitudinal landmarks: [Rilzabrutinib longitudinal UAS7](../queries/rilzabrutinib-longitudinal-uas7.md)
+- Shared comparison page now live: [Cross-program longitudinal UAS7 comparison](../queries/cross-program-longitudinal-uas7.md)
+- Program-specific plotted page: [Remibrutinib longitudinal UAS7](../queries/remibrutinib-longitudinal-uas7.md)
+- Program-specific plotted page: [Barzolvolimab longitudinal UAS7](../queries/barzolvolimab-longitudinal-uas7.md)
+- Program-specific plotted page: [Rilzabrutinib longitudinal UAS7](../queries/rilzabrutinib-longitudinal-uas7.md)
 
 | Program | Class | Current read | Evidence type | Program page |
 |---|---|---|---|---|
@@ -26,7 +27,7 @@ This page is a conservative derived read across the current local source stack. 
 - **Current flagship CSU efficacy pages:** remibrutinib and barzolvolimab.
 - **Most mature oral BTK CSU story:** remibrutinib.
 - **Deepest KIT sponsor-poster durability/subgroup story:** barzolvolimab.
-- **Current plotted longitudinal pages:** remibrutinib, barzolvolimab, and rilzabrutinib.
+- **Current plotted longitudinal pages:** remibrutinib, barzolvolimab, and rilzabrutinib, plus a shared cross-program comparison page.
 - **Meaningful but shallower Phase 2 CSU story:** rilzabrutinib, now with a landmark-based plotted page but still a thinner numeric time-series layer than the two flagship programs.
 - **Earlier proof-of-concept / mechanism layer:** EVO756 and SEP-631.
 - **Currently weak or immature public efficacy layer:** EP262, BLU-808, and other thin public programs.

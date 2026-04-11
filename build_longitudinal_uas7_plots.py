@@ -183,6 +183,43 @@ def rilza_week12_response_rows(data: dict) -> list[dict]:
     return rows
 
 
+def remi_week12_uas7_leq6_pooled(data: dict) -> dict[str, float]:
+    out: dict[str, float] = {}
+    for row in data.get('responder_uas7_leq6_pooled', []):
+        if int(row.get('week', -1)) == 12:
+            out[row['arm']] = float(row['value'])
+    return out
+
+
+def best_barzo_week12_uas7_leq6(data: dict) -> dict[str, float | str] | None:
+    placebo = None
+    best_active = None
+    for row in data.get('responder_uas7_leq6', []):
+        if int(row.get('week', -1)) != 12:
+            continue
+        arm = row['arm']
+        value = float(row['value'])
+        if arm.startswith('placebo'):
+            placebo = value
+        elif best_active is None or value > float(best_active['value']):
+            best_active = {'arm': arm, 'value': value}
+    if placebo is None or best_active is None:
+        return None
+    return {
+        'active_arm': str(best_active['arm']),
+        'active_value': float(best_active['value']),
+        'placebo_value': float(placebo),
+    }
+
+
+def rilza_week12_uas7_leq6(data: dict) -> dict[str, float]:
+    out: dict[str, float] = {}
+    for row in data.get('week12_response', []):
+        if row.get('metric') == 'UAS7 <= 6':
+            out[row['arm']] = float(row['value'])
+    return out
+
+
 def polyline(points: Iterable[tuple[float, float]], color: str) -> str:
     pts = ' '.join(f'{x:.1f},{y:.1f}' for x, y in points)
     return f"<polyline fill='none' stroke='{color}' stroke-width='3' points='{pts}' />"
@@ -506,6 +543,90 @@ def build_rilza_week12_response_chart(data: dict, filename: str):
     (ASSETS_DIR / filename).write_text(''.join(parts))
 
 
+def build_cross_program_week12_uas7_leq6_chart(remi_data: dict, barzo_data: dict, rilza_data: dict, filename: str):
+    remi = remi_week12_uas7_leq6_pooled(remi_data)
+    barzo = best_barzo_week12_uas7_leq6(barzo_data)
+    rilza = rilza_week12_uas7_leq6(rilza_data)
+    rows = [
+        {
+            'program': 'Remibrutinib',
+            'active_label': '25 mg BID pooled',
+            'active_value': remi.get('remibrutinib 25 mg BID'),
+            'placebo_value': remi.get('placebo'),
+            'color': BLUE,
+        },
+        {
+            'program': 'Barzolvolimab',
+            'active_label': str(barzo['active_arm']) if barzo else 'best active arm',
+            'active_value': float(barzo['active_value']) if barzo else None,
+            'placebo_value': float(barzo['placebo_value']) if barzo else None,
+            'color': GREEN,
+        },
+        {
+            'program': 'Rilzabrutinib',
+            'active_label': '1200 mg/day',
+            'active_value': rilza.get('1200 mg/day'),
+            'placebo_value': rilza.get('placebo'),
+            'color': TEAL,
+        },
+    ]
+
+    width, height = 1120, 600
+    left, top = 110, 150
+    plot_w, plot_h = 860, 280
+    plot_bottom = top + plot_h
+    bar_w = 90
+    pair_gap = 22
+    group_gap = 82
+    max_val = 80.0
+
+    def y_scale(value: float) -> float:
+        return top + (max_val - value) / max_val * plot_h
+
+    parts = [
+        f"<svg xmlns='http://www.w3.org/2000/svg' width='{width}' height='{height}' viewBox='0 0 {width} {height}'>",
+        rect(0, 0, width, height, BG),
+        text(44, 46, 'Cross-program week 12 UAS7 ≤ 6 comparison, first pass', size=28, weight='700', fill=INK),
+        text(44, 74, 'Explicit numeric week-12 well-controlled-disease landmarks only. Active-arm choices are intentionally conservative and shown exactly as the current local source layer allows.', size=15, fill=MUTED),
+        rect(left - 24, top - 34, plot_w + 48, plot_h + 140, '#fbfdff', stroke=LINE, radius=14),
+        rect(760, 112, 16, 16, GRAY, radius=3),
+        text(784, 125, 'Placebo / placebo-containing comparator', size=14, fill=INK),
+        rect(760, 138, 16, 16, BLUE, radius=3),
+        text(784, 151, 'Best explicit active landmark for that program', size=14, fill=INK),
+    ]
+
+    for y_val in range(0, 81, 10):
+        y = y_scale(float(y_val))
+        parts.append(line(left, y, left + plot_w, y, stroke=LINE, width=1))
+        parts.append(text(left - 10, y + 5, str(y_val), size=12, fill=MUTED, anchor='end'))
+    parts.append(line(left, top, left, plot_bottom, stroke=MUTED, width=1))
+    parts.append(line(left, plot_bottom, left + plot_w, plot_bottom, stroke=MUTED, width=1))
+
+    start_x = left + 70
+    for idx, row in enumerate(rows):
+        group_left = start_x + idx * (2 * bar_w + pair_gap + group_gap)
+        for arm_idx, key in enumerate(['placebo_value', 'active_value']):
+            value = row[key]
+            if value is None:
+                continue
+            x = group_left + arm_idx * (bar_w + pair_gap)
+            y = y_scale(float(value))
+            fill = GRAY if key == 'placebo_value' else row['color']
+            parts.append(rect(x, y, bar_w, plot_bottom - y, fill, stroke=fill, radius=6))
+            parts.append(text(x + bar_w / 2, y - 10, f"{float(value):.1f}%", size=14, weight='700', fill=fill, anchor='middle'))
+            label = 'Placebo' if key == 'placebo_value' else str(row['active_label'])
+            parts.append(text(x + bar_w / 2, plot_bottom + 24, label, size=12, fill=INK, anchor='middle'))
+        parts.append(text(group_left + bar_w + pair_gap / 2, plot_bottom + 56, row['program'], size=15, weight='700', fill=INK, anchor='middle'))
+
+    parts.append(text(32, top + plot_h / 2, 'Patients with UAS7 ≤ 6 (%)', size=14, fill=MUTED, anchor='middle'))
+    parts.append(f"<g transform='rotate(-90 32 {top + plot_h / 2:.1f})'></g>")
+    parts.append(text(44, 480, 'Remibrutinib uses pooled REMIX-1 and REMIX-2 week-12 UAS7 ≤ 6 values. Barzolvolimab uses the best explicit active core-arm week-12 value, with placebo from the same phase-2 source layer.', size=13, fill=MUTED))
+    parts.append(text(44, 502, 'Rilzabrutinib uses the week-12 1200 mg/day versus placebo snapshot from the primary analysis population. This is a comparison page, not a meta-analysis.', size=13, fill=MUTED))
+    parts.append('</svg>')
+    ASSETS_DIR.mkdir(parents=True, exist_ok=True)
+    (ASSETS_DIR / filename).write_text(''.join(parts))
+
+
 def main():
     remi_data = load_json(REMI_DATA_PATH)
     absolute_series = remi_absolute_uas7_series(remi_data)
@@ -628,7 +749,13 @@ def main():
     )
 
     build_rilza_week12_response_chart(rilza_data, 'rilzabrutinib-week12-response.svg')
-    print('Built remibrutinib, barzolvolimab, and rilzabrutinib longitudinal UAS7 SVG plots')
+    build_cross_program_week12_uas7_leq6_chart(
+        remi_data,
+        barzo_data,
+        rilza_data,
+        'cross-program-week12-uas7-leq6.svg',
+    )
+    print('Built remibrutinib, barzolvolimab, rilzabrutinib, and cross-program longitudinal UAS7 SVG plots')
 
 
 if __name__ == '__main__':
