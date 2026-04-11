@@ -1,0 +1,245 @@
+{
+  "meta": {
+    "description": "Barzolvolimab Phase 2 CSU longitudinal UAS7 landmark dataset",
+    "created": "2026-04-10",
+    "extraction_policy": "Only explicit numeric values from local manuscript and sponsor source text extractions. No curve-read guesses.",
+    "trial": "Phase 2 CSU dose-finding study (NCT05368285)",
+    "week_52_note": "At week 52, the 75 mg Q4W and placebo groups are shown as re-randomized transition groups after week 16 rather than preserved core-randomization arms."
+  },
+  "baseline": [
+    {
+      "source": "aaaai-2025-csu-poster",
+      "trial": "Phase 2 CSU (NCT05368285)",
+      "arm": "75 mg Q4W",
+      "n": 53,
+      "metric": "UAS7",
+      "value": 30.3,
+      "unit": "score"
+    },
+    {
+      "source": "aaaai-2025-csu-poster",
+      "trial": "Phase 2 CSU (NCT05368285)",
+      "arm": "150 mg Q4W",
+      "n": 52,
+      "metric": "UAS7",
+      "value": 30.8,
+      "unit": "score"
+    },
+    {
+      "source": "aaaai-2025-csu-poster",
+      "trial": "Phase 2 CSU (NCT05368285)",
+      "arm": "300 mg Q8W",
+      "n": 51,
+      "metric": "UAS7",
+      "value": 31.3,
+      "unit": "score"
+    },
+    {
+      "source": "aaaai-2025-csu-poster",
+      "trial": "Phase 2 CSU (NCT05368285)",
+      "arm": "placebo",
+      "n": 51,
+      "metric": "UAS7",
+      "value": 30.1,
+      "unit": "score"
+    }
+  ],
+  "cfb_uas7": [
+    {
+      "source": "aaaai-2025-csu-poster",
+      "trial": "Phase 2 CSU (NCT05368285)",
+      "arm": "75 mg Q4W",
+      "metric": "UAS7 CFB",
+      "week": 12,
+      "ls_mean": -17.06,
+      "evidence_type": "LS mean ANCOVA"
+    },
+    {
+      "source": "aaaai-2025-csu-poster",
+      "trial": "Phase 2 CSU (NCT05368285)",
+      "arm": "150 mg Q4W",
+      "metric": "UAS7 CFB",
+      "week": 12,
+      "ls_mean": -23.02,
+      "evidence_type": "LS mean ANCOVA"
+    },
+    {
+      "source": "aaaai-2025-csu-poster",
+      "trial": "Phase 2 CSU (NCT05368285)",
+      "arm": "300 mg Q8W",
+      "metric": "UAS7 CFB",
+      "week": 12,
+      "ls_mean": -23.87,
+      "evidence_type": "LS mean ANCOVA"
+    },
+    {
+      "source": "aaaai-2025-csu-poster",
+      "trial": "Phase 2 CSU (NCT05368285)",
+      "arm": "placebo",
+      "metric": "UAS7 CFB",
+      "week": 12,
+      "ls_mean": -10.47,
+      "evidence_type": "LS mean ANCOVA"
+    }
+  ],
+  "responder_uas7_leq6": [
+    {
+      "source": "eadv-2024-congress-presentation",
+      "trial": "Phase 2 CSU (NCT05368285)",
+      "arm": "75 mg Q4W -> 150 mg Q4W / 300 mg Q8W",
+      "metric": "UAS7<=6 %",
+      "week": 12,
+      "value": 41.7,
+      "evidence_type": "responder rate"
+    },
+    {
+      "source": "eadv-2024-congress-presentation",
+      "trial": "Phase 2 CSU (NCT05368285)",
+      "arm": "75 mg Q4W -> 150 mg Q4W / 300 mg Q8W",
+      "metric": "UAS7<=6 %",
+      "week": 52,
+      "value": 59.6,
+      "evidence_type": "responder rate"
+    },
+    {
+      "source": "eadv-2024-congress-presentation",
+      "trial": "Phase 2 CSU (NCT05368285)",
+      "arm": "150 mg Q4W",
+      "metric": "UAS7<=6 %",
+      "week": 12,
+      "value": 67.4,
+      "evidence_type": "responder rate"
+    },
+    {
+      "source": "eadv-2024-congress-presentation",
+      "trial": "Phase 2 CSU (NCT05368285)",
+      "arm": "150 mg Q4W",
+      "metric": "UAS7<=6 %",
+      "week": 52,
+      "value": 73.7,
+      "evidence_type": "responder rate"
+    },
+    {
+      "source": "eadv-2024-congress-presentation",
+      "trial": "Phase 2 CSU (NCT05368285)",
+      "arm": "300 mg Q8W",
+      "metric": "UAS7<=6 %",
+      "week": 12,
+      "value": 62.5,
+      "evidence_type": "responder rate"
+    },
+    {
+      "source": "eadv-2024-congress-presentation",
+      "trial": "Phase 2 CSU (NCT05368285)",
+      "arm": "300 mg Q8W",
+      "metric": "UAS7<=6 %",
+      "week": 52,
+      "value": 68.2,
+      "evidence_type": "responder rate"
+    },
+    {
+      "source": "eadv-2024-congress-presentation",
+      "trial": "Phase 2 CSU (NCT05368285)",
+      "arm": "placebo -> 150 mg Q4W / 300 mg Q8W",
+      "metric": "UAS7<=6 %",
+      "week": 12,
+      "value": 12.8,
+      "evidence_type": "responder rate"
+    },
+    {
+      "source": "eadv-2024-congress-presentation",
+      "trial": "Phase 2 CSU (NCT05368285)",
+      "arm": "placebo -> 150 mg Q4W / 300 mg Q8W",
+      "metric": "UAS7<=6 %",
+      "week": 52,
+      "value": 63.0,
+      "evidence_type": "responder rate"
+    }
+  ],
+  "complete_response_uas7_0": [
+    {
+      "source": "PMID41747871; eadv-2024-congress-presentation",
+      "trial": "Phase 2 CSU (NCT05368285)",
+      "arm": "75 mg Q4W -> 150 mg Q4W / 300 mg Q8W",
+      "metric": "UAS7=0 %",
+      "week": 12,
+      "value": 22.9,
+      "evidence_type": "complete response rate"
+    },
+    {
+      "source": "eadv-2024-congress-presentation",
+      "trial": "Phase 2 CSU (NCT05368285)",
+      "arm": "75 mg Q4W -> 150 mg Q4W / 300 mg Q8W",
+      "metric": "UAS7=0 %",
+      "week": 52,
+      "value": 53.5,
+      "evidence_type": "complete response rate"
+    },
+    {
+      "source": "PMID41747871; eadv-2024-congress-presentation",
+      "trial": "Phase 2 CSU (NCT05368285)",
+      "arm": "150 mg Q4W",
+      "metric": "UAS7=0 %",
+      "week": 12,
+      "value": 51.1,
+      "evidence_type": "complete response rate"
+    },
+    {
+      "source": "eadv-2024-congress-presentation",
+      "trial": "Phase 2 CSU (NCT05368285)",
+      "arm": "150 mg Q4W",
+      "metric": "UAS7=0 %",
+      "week": 52,
+      "value": 71.1,
+      "evidence_type": "complete response rate"
+    },
+    {
+      "source": "PMID41747871; eadv-2024-congress-presentation",
+      "trial": "Phase 2 CSU (NCT05368285)",
+      "arm": "300 mg Q8W",
+      "metric": "UAS7=0 %",
+      "week": 12,
+      "value": 37.5,
+      "evidence_type": "complete response rate"
+    },
+    {
+      "source": "eadv-2024-congress-presentation",
+      "trial": "Phase 2 CSU (NCT05368285)",
+      "arm": "300 mg Q8W",
+      "metric": "UAS7=0 %",
+      "week": 52,
+      "value": 52.3,
+      "evidence_type": "complete response rate"
+    },
+    {
+      "source": "PMID41747871; eadv-2024-congress-presentation",
+      "trial": "Phase 2 CSU (NCT05368285)",
+      "arm": "placebo -> 150 mg Q4W / 300 mg Q8W",
+      "metric": "UAS7=0 %",
+      "week": 12,
+      "value": 6.4,
+      "evidence_type": "complete response rate"
+    },
+    {
+      "source": "eadv-2024-congress-presentation",
+      "trial": "Phase 2 CSU (NCT05368285)",
+      "arm": "placebo -> 150 mg Q4W / 300 mg Q8W",
+      "metric": "UAS7=0 %",
+      "week": 52,
+      "value": 58.7,
+      "evidence_type": "complete response rate"
+    }
+  ],
+  "follow_up_landmarks": [
+    {
+      "source": "ir-press-release-additional-positive-data",
+      "trial": "Phase 2 CSU (NCT05368285)",
+      "metric": "UAS7=0 %",
+      "week": 76,
+      "value": 41.0,
+      "evidence_type": "sponsor summary",
+      "population": "up to; regimen not fully resolved in current cached text",
+      "note": "Seven months after completion of active dosing"
+    }
+  ]
+}

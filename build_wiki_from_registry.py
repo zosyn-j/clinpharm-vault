@@ -1518,6 +1518,17 @@ def build_program_page(program_entry: dict, trial_slug_map: dict[str, str]) -> s
                 lines.append(f"- Source(s): {'; '.join(entry['source_citations'])}")
             lines.append('')
 
+    if program_entry['program_key'] == 'barzolvolimab':
+        lines.extend([
+            '## Longitudinal efficacy view',
+            '- Plotted page: [Barzolvolimab longitudinal UAS7](../queries/barzolvolimab-longitudinal-uas7.md)',
+            '- Current explicit numeric plotting coverage: week 12 UAS7 change-from-baseline by core randomized arm, plus week 12 and week 52 UAS7 <= 6 and UAS7 = 0 landmarks.',
+            '- Current main caveat: the week 52 values for the former 75 mg and placebo groups are post-week-16 transition-group landmarks, not unchanged original-arm trajectories.',
+            '- Current main gap: the full week-by-week mean UAS7 curve is still graph-only in the current local extraction and remains intentionally unplotted.',
+            '- Local data backbone: `data/barzolvolimab_longitudinal_uas7.json` and `data/barzolvolimab_longitudinal_uas7_notes.md`.',
+            '',
+        ])
+
     lines.extend([
         '## Evidence Coverage',
         f"- CT.gov trials in registry: {len(program_entry.get('ctgov_trials', []))}",
@@ -1790,6 +1801,7 @@ def build_query_pages(registry: dict, trial_slug_map: dict[str, str]):
         '- Derived strategy view: [Program strategy briefs](../queries/program-strategy-briefs.md)',
         '- Derived efficacy view: [Cross-program efficacy summary](../queries/cross-program-efficacy-summary.md)',
         '- Derived longitudinal view: [Remibrutinib longitudinal UAS7](../queries/remibrutinib-longitudinal-uas7.md)',
+        '- Derived longitudinal view: [Barzolvolimab longitudinal UAS7](../queries/barzolvolimab-longitudinal-uas7.md)',
         '',
         '| Program | Class | Trials | Primary pubs | Program page |',
         '|---|---|---:|---:|---|',
@@ -1867,6 +1879,7 @@ def build_query_pages(registry: dict, trial_slug_map: dict[str, str]):
         'This page is a conservative derived read across the current local source stack. It is meant to answer a practical question: which programs currently have the clearest public efficacy story, and which still look early, thin, or weak?',
         '',
         '- First plotted longitudinal page now live: [Remibrutinib longitudinal UAS7](../queries/remibrutinib-longitudinal-uas7.md)',
+        '- New plotted longitudinal landmarks: [Barzolvolimab longitudinal UAS7](../queries/barzolvolimab-longitudinal-uas7.md)',
         '',
         '| Program | Class | Current read | Evidence type | Program page |',
         '|---|---|---|---|---|',
@@ -1896,6 +1909,7 @@ def build_query_pages(registry: dict, trial_slug_map: dict[str, str]):
         '- **Current flagship CSU efficacy pages:** remibrutinib and barzolvolimab.',
         '- **Most mature oral BTK CSU story:** remibrutinib.',
         '- **Deepest KIT sponsor-poster durability/subgroup story:** barzolvolimab.',
+        '- **Current plotted longitudinal pages:** remibrutinib and barzolvolimab.',
         '- **Meaningful but shallower Phase 2 CSU story:** rilzabrutinib.',
         '- **Earlier proof-of-concept / mechanism layer:** EVO756 and SEP-631.',
         '- **Currently weak or immature public efficacy layer:** EP262, BLU-808, and other thin public programs.',

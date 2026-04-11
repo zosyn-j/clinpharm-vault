@@ -5,11 +5,14 @@ from pathlib import Path
 from typing import Iterable
 
 ROOT = Path(__file__).resolve().parent
-DATA_PATH = ROOT / 'data' / 'remibrutinib_longitudinal_uas7.json'
+REMI_DATA_PATH = ROOT / 'data' / 'remibrutinib_longitudinal_uas7.json'
+BARZO_DATA_PATH = ROOT / 'data' / 'barzolvolimab_longitudinal_uas7.json'
 ASSETS_DIR = ROOT / 'wiki' / 'assets' / 'plots'
 
 BLUE = '#1f5aa6'
 GRAY = '#6f7f8f'
+GREEN = '#2f8a68'
+TEAL = '#3d88a8'
 LIGHT_BLUE = '#dbe9f9'
 LIGHT_GRAY = '#e8eef5'
 INK = '#17212b'
@@ -17,9 +20,18 @@ MUTED = '#5c6b7a'
 LINE = '#d8e1ec'
 BG = '#ffffff'
 
+BARZO_COLOR_MAP = {
+    '75 mg Q4W': '#7aa6d8',
+    '75 mg Q4W -> 150 mg Q4W / 300 mg Q8W': '#7aa6d8',
+    '150 mg Q4W': BLUE,
+    '300 mg Q8W': GREEN,
+    'placebo': GRAY,
+    'placebo -> 150 mg Q4W / 300 mg Q8W': GRAY,
+}
 
-def load_data() -> dict:
-    return json.loads(DATA_PATH.read_text())
+
+def load_json(path: Path) -> dict:
+    return json.loads(path.read_text())
 
 
 def xml_escape(text: object) -> str:
@@ -99,6 +111,35 @@ def pooled_week52(data: dict) -> dict[str, float]:
         if week == 52 and metric in {'severe band (UAS7 28-42) %', 'complete response (UAS7=0) %'}:
             out[metric] = float(row['value'])
     return out
+
+
+def barzo_landmark_series(data: dict, section: str) -> dict[str, list[tuple[int, float]]]:
+    order = [
+        '75 mg Q4W -> 150 mg Q4W / 300 mg Q8W',
+        '150 mg Q4W',
+        '300 mg Q8W',
+        'placebo -> 150 mg Q4W / 300 mg Q8W',
+    ]
+    series: dict[str, list[tuple[int, float]]] = {arm: [] for arm in order}
+    for row in data.get(section, []):
+        arm = row['arm']
+        series.setdefault(arm, []).append((int(row['week']), float(row['value'])))
+    for arm in series:
+        series[arm] = sorted(series[arm])
+    return series
+
+
+def barzo_week12_cfb_rows(data: dict) -> list[dict]:
+    order = ['75 mg Q4W', '150 mg Q4W', '300 mg Q8W', 'placebo']
+    row_by_arm = {row['arm']: row for row in data.get('cfb_uas7', []) if int(row.get('week', -1)) == 12}
+    return [row_by_arm[arm] for arm in order if arm in row_by_arm]
+
+
+def barzo_week76_complete_response(data: dict) -> float | None:
+    for row in data.get('follow_up_landmarks', []):
+        if row.get('metric') == 'UAS7=0 %' and int(row.get('week', -1)) == 76:
+            return float(row['value'])
+    return None
 
 
 def polyline(points: Iterable[tuple[float, float]], color: str) -> str:
@@ -223,10 +264,153 @@ def build_pooled_week52_callout(data: dict, filename: str):
     (ASSETS_DIR / filename).write_text(''.join(parts))
 
 
+def build_multi_series_landmark_chart(
+    title_str: str,
+    subtitle: str,
+    series_by_arm: dict[str, list[tuple[int, float]]],
+    filename: str,
+    y_label: str,
+    y_min: float,
+    y_max: float,
+    week_ticks: list[int],
+    color_map: dict[str, str],
+    legend_order: list[str],
+    note_lines: list[str] | None = None,
+):
+    width, height = 1040, 620
+    left, top = 100, 150
+    plot_w, plot_h = 820, 310
+    plot_bottom = top + plot_h
+
+    def x_scale(week: int) -> float:
+        return left + (week - min(week_ticks)) / (max(week_ticks) - min(week_ticks)) * plot_w
+
+    def y_scale(value: float) -> float:
+        return top + (y_max - value) / (y_max - y_min) * plot_h
+
+    parts = [
+        f"<svg xmlns='http://www.w3.org/2000/svg' width='{width}' height='{height}' viewBox='0 0 {width} {height}'>",
+        rect(0, 0, width, height, BG),
+        text(44, 46, title_str, size=28, weight='700', fill=INK),
+        text(44, 74, subtitle, size=15, fill=MUTED),
+        rect(left - 24, top - 34, plot_w + 48, plot_h + 78, '#fbfdff', stroke=LINE, radius=14),
+    ]
+
+    legend_x, legend_y = 640, 102
+    for idx, arm in enumerate(legend_order):
+        y = legend_y + idx * 24
+        parts.append(rect(legend_x, y - 12, 16, 16, color_map[arm], radius=3))
+        parts.append(text(legend_x + 24, y + 1, arm, size=13, fill=INK))
+
+    for y_val in range(int(y_min), int(y_max) + 1, 10):
+        y = y_scale(y_val)
+        parts.append(line(left, y, left + plot_w, y, stroke=LINE, width=1))
+        parts.append(text(left - 10, y + 5, str(y_val), size=12, fill=MUTED, anchor='end'))
+    parts.append(line(left, top, left, plot_bottom, stroke=MUTED, width=1))
+    parts.append(line(left, plot_bottom, left + plot_w, plot_bottom, stroke=MUTED, width=1))
+    for week in week_ticks:
+        x = x_scale(week)
+        parts.append(line(x, plot_bottom, x, plot_bottom + 6, stroke=MUTED, width=1))
+        parts.append(text(x, plot_bottom + 24, str(week), size=12, fill=MUTED, anchor='middle'))
+
+    for arm in legend_order:
+        points = [(x_scale(w), y_scale(v)) for w, v in series_by_arm.get(arm, [])]
+        if not points:
+            continue
+        color = color_map[arm]
+        parts.append(polyline(points, color))
+        parts.append(circles(points, color))
+
+    parts.append(text(30, top + plot_h / 2, y_label, size=14, fill=MUTED, anchor='middle'))
+    parts.append(f"<g transform='rotate(-90 30 {top + plot_h / 2:.1f})'></g>")
+    parts.append(text(left + plot_w / 2, plot_bottom + 52, 'Week', size=14, fill=MUTED, anchor='middle'))
+
+    if note_lines:
+        y = 520
+        for note in note_lines:
+            parts.append(text(44, y, note, size=13, fill=MUTED))
+            y += 20
+
+    parts.append('</svg>')
+    ASSETS_DIR.mkdir(parents=True, exist_ok=True)
+    (ASSETS_DIR / filename).write_text(''.join(parts))
+
+
+def build_barzo_week12_cfb_bar_chart(data: dict, filename: str):
+    rows = barzo_week12_cfb_rows(data)
+    width, height = 940, 520
+    left, top = 100, 130
+    plot_w, plot_h = 740, 250
+    plot_bottom = top + plot_h
+    bar_w = 110
+    min_val, max_val = -30.0, 0.0
+
+    def y_scale(value: float) -> float:
+        return top + (max_val - value) / (max_val - min_val) * plot_h
+
+    parts = [
+        f"<svg xmlns='http://www.w3.org/2000/svg' width='{width}' height='{height}' viewBox='0 0 {width} {height}'>",
+        rect(0, 0, width, height, BG),
+        text(44, 46, 'Barzolvolimab week 12 UAS7 primary-endpoint snapshot', size=28, weight='700', fill=INK),
+        text(44, 74, 'Explicit LS mean change-from-baseline values from the AAAAI 2025 CSU poster for the four core randomized arms.', size=15, fill=MUTED),
+        rect(left - 24, top - 34, plot_w + 48, plot_h + 90, '#fbfdff', stroke=LINE, radius=14),
+    ]
+
+    for y_val in range(-30, 1, 5):
+        y = y_scale(float(y_val))
+        parts.append(line(left, y, left + plot_w, y, stroke=LINE, width=1))
+        parts.append(text(left - 10, y + 5, str(y_val), size=12, fill=MUTED, anchor='end'))
+    parts.append(line(left, top, left, plot_bottom, stroke=MUTED, width=1))
+    parts.append(line(left, y_scale(0.0), left + plot_w, y_scale(0.0), stroke=MUTED, width=1))
+
+    gap = (plot_w - len(rows) * bar_w) / (len(rows) + 1)
+    zero_y = y_scale(0.0)
+    for idx, row in enumerate(rows):
+        x = left + gap + idx * (bar_w + gap)
+        value = float(row['ls_mean'])
+        value_y = y_scale(max(value, min_val))
+        bar_y = min(zero_y, value_y)
+        h = abs(value_y - zero_y)
+        fill = BARZO_COLOR_MAP.get(row['arm'], TEAL)
+        parts.append(rect(x, bar_y, bar_w, h, fill, stroke=fill, radius=6))
+        parts.append(text(x + bar_w / 2, value_y + 18, f'{value:.2f}', size=14, weight='700', fill=fill, anchor='middle'))
+        parts.append(text(x + bar_w / 2, plot_bottom + 30, row['arm'], size=12, fill=INK, anchor='middle'))
+
+    parts.append(text(30, top + plot_h / 2, 'LS mean UAS7 CFB', size=14, fill=MUTED, anchor='middle'))
+    parts.append(f"<g transform='rotate(-90 30 {top + plot_h / 2:.1f})'></g>")
+    parts.append(text(44, 450, 'The week-12 values are a clean randomized-arm comparison. Later week-52 landmarks shift to post-week-16 transition groups.', size=13, fill=MUTED))
+    parts.append('</svg>')
+    ASSETS_DIR.mkdir(parents=True, exist_ok=True)
+    (ASSETS_DIR / filename).write_text(''.join(parts))
+
+
+def build_barzo_week76_callout(data: dict, filename: str):
+    value = barzo_week76_complete_response(data)
+    if value is None:
+        return
+    width, height = 760, 240
+    parts = [
+        f"<svg xmlns='http://www.w3.org/2000/svg' width='{width}' height='{height}' viewBox='0 0 {width} {height}'>",
+        rect(0, 0, width, height, BG),
+        rect(20, 20, width - 40, height - 40, '#fbfdff', stroke=LINE, radius=16),
+        text(40, 52, 'Barzolvolimab post-treatment follow-up landmark', size=24, weight='700'),
+        text(40, 78, 'The current cached sponsor summary gives a high-level week-76 complete-response landmark, but not a clean regimen-resolved denominator table.', size=14, fill=MUTED),
+        rect(40, 110, 300, 84, LIGHT_BLUE, stroke=LINE, radius=14),
+        text(60, 140, 'Week 76 complete response (UAS7 = 0)', size=17, weight='700'),
+        text(60, 172, f'Up to {value:.1f}%', size=30, weight='700', fill=BLUE),
+        rect(380, 110, 300, 84, LIGHT_GRAY, stroke=LINE, radius=14),
+        text(400, 140, 'Interpretation status', size=17, weight='700'),
+        text(400, 172, 'Sponsor summary only', size=24, weight='700', fill=GRAY),
+        '</svg>',
+    ]
+    ASSETS_DIR.mkdir(parents=True, exist_ok=True)
+    (ASSETS_DIR / filename).write_text(''.join(parts))
+
+
 def main():
-    data = load_data()
-    absolute_series = remi_absolute_uas7_series(data)
-    responder_series = remi_uas7_leq6_series(data)
+    remi_data = load_json(REMI_DATA_PATH)
+    absolute_series = remi_absolute_uas7_series(remi_data)
+    responder_series = remi_uas7_leq6_series(remi_data)
 
     build_two_panel_line_chart(
         title_str='Remibrutinib longitudinal UAS7, first pass',
@@ -258,8 +442,55 @@ def main():
         ],
     )
 
-    build_pooled_week52_callout(data, 'remibrutinib-week52-pooled-landmarks.svg')
-    print('Built remibrutinib longitudinal UAS7 SVG plots')
+    build_pooled_week52_callout(remi_data, 'remibrutinib-week52-pooled-landmarks.svg')
+
+    barzo_data = load_json(BARZO_DATA_PATH)
+    barzo_uas7_leq6 = barzo_landmark_series(barzo_data, 'responder_uas7_leq6')
+    barzo_uas7_zero = barzo_landmark_series(barzo_data, 'complete_response_uas7_0')
+    legend_order = [
+        '75 mg Q4W -> 150 mg Q4W / 300 mg Q8W',
+        '150 mg Q4W',
+        '300 mg Q8W',
+        'placebo -> 150 mg Q4W / 300 mg Q8W',
+    ]
+
+    build_multi_series_landmark_chart(
+        title_str='Barzolvolimab UAS7 ≤ 6 landmarks, first pass',
+        subtitle='Explicit week-12 and week-52 values from the EADV 2024 congress presentation. These are landmark response rates, not a fully tabulated weekly curve.',
+        series_by_arm=barzo_uas7_leq6,
+        filename='barzolvolimab-uas7-leq6-landmarks.svg',
+        y_label='Patients with UAS7 ≤ 6 (%)',
+        y_min=0,
+        y_max=80,
+        week_ticks=[12, 52],
+        color_map=BARZO_COLOR_MAP,
+        legend_order=legend_order,
+        note_lines=[
+            'The week-52 values reflect post-week-16 transition groups for the prior 75 mg and placebo arms.',
+            'The full over-time UAS7 curve is still graph-only in the current local extraction.',
+        ],
+    )
+
+    build_multi_series_landmark_chart(
+        title_str='Barzolvolimab complete response (UAS7 = 0), first pass',
+        subtitle='Explicit week-12 and week-52 complete-response values from the manuscript-backed phase 2 sponsor/manuscript layer.',
+        series_by_arm=barzo_uas7_zero,
+        filename='barzolvolimab-uas7-complete-response-landmarks.svg',
+        y_label='Patients with UAS7 = 0 (%)',
+        y_min=0,
+        y_max=80,
+        week_ticks=[12, 52],
+        color_map=BARZO_COLOR_MAP,
+        legend_order=legend_order,
+        note_lines=[
+            'Week-12 complete-response values are also consistent with the phase 2 manuscript abstract.',
+            'Week-76 follow-up is shown separately because the current sponsor summary is not regimen-resolved.',
+        ],
+    )
+
+    build_barzo_week12_cfb_bar_chart(barzo_data, 'barzolvolimab-week12-uas7-cfb.svg')
+    build_barzo_week76_callout(barzo_data, 'barzolvolimab-week76-complete-response-callout.svg')
+    print('Built remibrutinib and barzolvolimab longitudinal UAS7 SVG plots')
 
 
 if __name__ == '__main__':
