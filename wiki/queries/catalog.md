@@ -9,6 +9,7 @@ tags:
 - CT.gov trials in current registry: 35
 - Derived strategy view: [Program strategy briefs](../queries/program-strategy-briefs.md)
 - Derived efficacy view: [Cross-program efficacy summary](../queries/cross-program-efficacy-summary.md)
+- Derived longitudinal view: [Remibrutinib longitudinal UAS7](../queries/remibrutinib-longitudinal-uas7.md)
 
 | Program | Class | Trials | Primary pubs | Program page |
 |---|---|---:|---:|---|

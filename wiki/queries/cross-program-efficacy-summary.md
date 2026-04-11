@@ -7,6 +7,8 @@ tags:
 
 This page is a conservative derived read across the current local source stack. It is meant to answer a practical question: which programs currently have the clearest public efficacy story, and which still look early, thin, or weak?
 
+- First plotted longitudinal page now live: [Remibrutinib longitudinal UAS7](../queries/remibrutinib-longitudinal-uas7.md)
+
 | Program | Class | Current read | Evidence type | Program page |
 |---|---|---|---|---|
 | [Remibrutinib](../programs/remibrutinib.md) | BTK | Rich CSU efficacy layer | Primarily manuscript-backed, with sponsor support for topline framing and CIndU expansion | [open](../programs/remibrutinib.md) |

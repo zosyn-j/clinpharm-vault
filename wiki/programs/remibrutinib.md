@@ -154,6 +154,13 @@ _Sponsor press releases complement the manuscript-backed REMIX results with topl
 - Safety: Well-tolerated with no liver safety concerns reported in topline release.
 - Source(s): raw/sponsors/btk/remibrutinib/2026-cindu-phase-iii-remind-press-release.md
 
+## Longitudinal efficacy view
+- Plotted page: [Remibrutinib longitudinal UAS7](../queries/remibrutinib-longitudinal-uas7.md)
+- Current explicit numeric plotting coverage: derived mean UAS7 through weeks 0, 1, 2, 4, 12, and 24 for REMIX-1 and REMIX-2 separately.
+- Current responder plotting coverage: per-trial UAS7 <= 6 through weeks 1, 2, 12, and 24, plus pooled week 52 landmarks where explicit values were available.
+- Current main gap: exact week 52 mean UAS7 and per-trial week 52 UAS7 <= 6 values are still graph-only in the current local extraction and remain intentionally unplotted.
+- Local data backbone: `data/remibrutinib_longitudinal_uas7.json` and `data/remibrutinib_longitudinal_uas7_notes.md`.
+
 ## Evidence summary
 - Primary manuscript layer is strongest for the CSU efficacy chain: phase 2b core (PMID 36096203), phase 2b extension follow-up (PMID 37866460), REMIX phase 3 core results (PMID 40043237), and 52-week REMIX follow-up (PMID 41115533).
 - The REMIX papers directly support the pivotal phase 3 pair `NCT05030311` and `NCT05032157`, including trial names REMIX-1 and REMIX-2, randomized sample sizes, and week-12 plus week-52 efficacy framing.
