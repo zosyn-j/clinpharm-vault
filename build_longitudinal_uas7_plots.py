@@ -7,6 +7,7 @@ from typing import Iterable
 ROOT = Path(__file__).resolve().parent
 REMI_DATA_PATH = ROOT / 'data' / 'remibrutinib_longitudinal_uas7.json'
 BARZO_DATA_PATH = ROOT / 'data' / 'barzolvolimab_longitudinal_uas7.json'
+RILZA_DATA_PATH = ROOT / 'data' / 'rilzabrutinib_longitudinal_uas7.json'
 ASSETS_DIR = ROOT / 'wiki' / 'assets' / 'plots'
 
 BLUE = '#1f5aa6'
@@ -27,6 +28,14 @@ BARZO_COLOR_MAP = {
     '300 mg Q8W': GREEN,
     'placebo': GRAY,
     'placebo -> 150 mg Q4W / 300 mg Q8W': GRAY,
+}
+
+RILZA_COLOR_MAP = {
+    'placebo': GRAY,
+    '400 mg/day': '#8db6e2',
+    '800 mg/day': TEAL,
+    '1200 mg/day': BLUE,
+    '1200 mg/day vs placebo': BLUE,
 }
 
 
@@ -140,6 +149,38 @@ def barzo_week76_complete_response(data: dict) -> float | None:
         if row.get('metric') == 'UAS7=0 %' and int(row.get('week', -1)) == 76:
             return float(row['value'])
     return None
+
+
+def rilza_cfb_series(data: dict) -> dict[str, list[tuple[int, float]]]:
+    order = ['placebo', '400 mg/day', '800 mg/day', '1200 mg/day']
+    series: dict[str, list[tuple[int, float]]] = {arm: [] for arm in order}
+    for row in data.get('cfb_uas7', []):
+        arm = row['arm']
+        series.setdefault(arm, []).append((int(row['week']), float(row['ls_mean'])))
+    for arm in series:
+        series[arm] = sorted(series[arm])
+    return series
+
+
+def rilza_difference_series(data: dict) -> dict[str, list[tuple[int, float]]]:
+    series = {'1200 mg/day vs placebo': []}
+    for row in data.get('uas7_difference_vs_placebo_1200mg', []):
+        series['1200 mg/day vs placebo'].append((int(row['week']), float(row['ls_mean_difference'])))
+    series['1200 mg/day vs placebo'] = sorted(series['1200 mg/day vs placebo'])
+    return series
+
+
+def rilza_week12_response_rows(data: dict) -> list[dict]:
+    metric_order = ['UAS7 <= 6', 'UAS7 = 0']
+    arm_order = ['placebo', '1200 mg/day']
+    rows = []
+    for metric in metric_order:
+        group = [row for row in data.get('week12_response', []) if row.get('metric') == metric]
+        row_by_arm = {row['arm']: row for row in group}
+        for arm in arm_order:
+            if arm in row_by_arm:
+                rows.append(row_by_arm[arm])
+    return rows
 
 
 def polyline(points: Iterable[tuple[float, float]], color: str) -> str:
@@ -407,6 +448,64 @@ def build_barzo_week76_callout(data: dict, filename: str):
     (ASSETS_DIR / filename).write_text(''.join(parts))
 
 
+def build_rilza_week12_response_chart(data: dict, filename: str):
+    rows = rilza_week12_response_rows(data)
+    width, height = 980, 560
+    left, top = 120, 140
+    plot_w, plot_h = 720, 260
+    plot_bottom = top + plot_h
+    bar_w = 120
+    group_gap = 120
+    arm_gap = 24
+    max_val = 40.0
+
+    def y_scale(value: float) -> float:
+        return top + (max_val - value) / max_val * plot_h
+
+    parts = [
+        f"<svg xmlns='http://www.w3.org/2000/svg' width='{width}' height='{height}' viewBox='0 0 {width} {height}'>",
+        rect(0, 0, width, height, BG),
+        text(44, 46, 'Rilzabrutinib week 12 response snapshot', size=28, weight='700', fill=INK),
+        text(44, 74, 'Explicit week-12 responder landmarks from PMCID PMC12019677 Table 2, comparing placebo with rilzabrutinib 1200 mg/day in the primary analysis population.', size=15, fill=MUTED),
+        rect(left - 24, top - 34, plot_w + 48, plot_h + 110, '#fbfdff', stroke=LINE, radius=14),
+        rect(720, 112, 16, 16, GRAY, radius=3),
+        text(744, 125, 'Placebo', size=14, fill=INK),
+        rect(720, 138, 16, 16, BLUE, radius=3),
+        text(744, 151, 'Rilzabrutinib 1200 mg/day', size=14, fill=INK),
+    ]
+
+    for y_val in range(0, 41, 10):
+        y = y_scale(float(y_val))
+        parts.append(line(left, y, left + plot_w, y, stroke=LINE, width=1))
+        parts.append(text(left - 10, y + 5, str(y_val), size=12, fill=MUTED, anchor='end'))
+    parts.append(line(left, top, left, plot_bottom, stroke=MUTED, width=1))
+    parts.append(line(left, plot_bottom, left + plot_w, plot_bottom, stroke=MUTED, width=1))
+
+    groups = ['UAS7 <= 6', 'UAS7 = 0']
+    row_map = {(row['metric'], row['arm']): row for row in rows}
+    start_x = left + 90
+    for idx, metric in enumerate(groups):
+        group_left = start_x + idx * (2 * bar_w + arm_gap + group_gap)
+        for arm_idx, arm in enumerate(['placebo', '1200 mg/day']):
+            row = row_map[(metric, arm)]
+            x = group_left + arm_idx * (bar_w + arm_gap)
+            value = float(row['value'])
+            y = y_scale(value)
+            fill = RILZA_COLOR_MAP[arm]
+            parts.append(rect(x, y, bar_w, plot_bottom - y, fill, stroke=fill, radius=6))
+            parts.append(text(x + bar_w / 2, y - 10, f'{value:.1f}%', size=14, weight='700', fill=fill, anchor='middle'))
+            label = 'Placebo' if arm == 'placebo' else '1200 mg/day'
+            parts.append(text(x + bar_w / 2, plot_bottom + 24, label, size=12, fill=INK, anchor='middle'))
+        parts.append(text(group_left + bar_w + arm_gap / 2, plot_bottom + 54, metric, size=14, weight='700', fill=INK, anchor='middle'))
+
+    parts.append(text(32, top + plot_h / 2, 'Patients (%)', size=14, fill=MUTED, anchor='middle'))
+    parts.append(f"<g transform='rotate(-90 32 {top + plot_h / 2:.1f})'></g>")
+    parts.append(text(44, 470, 'UAS7 <= 6 separates clearly at week 12; complete-response separation is numerically favorable but less definitive in this phase 2 dataset.', size=13, fill=MUTED))
+    parts.append('</svg>')
+    ASSETS_DIR.mkdir(parents=True, exist_ok=True)
+    (ASSETS_DIR / filename).write_text(''.join(parts))
+
+
 def main():
     remi_data = load_json(REMI_DATA_PATH)
     absolute_series = remi_absolute_uas7_series(remi_data)
@@ -490,7 +589,46 @@ def main():
 
     build_barzo_week12_cfb_bar_chart(barzo_data, 'barzolvolimab-week12-uas7-cfb.svg')
     build_barzo_week76_callout(barzo_data, 'barzolvolimab-week76-complete-response-callout.svg')
-    print('Built remibrutinib and barzolvolimab longitudinal UAS7 SVG plots')
+
+    rilza_data = load_json(RILZA_DATA_PATH)
+    rilza_cfb = rilza_cfb_series(rilza_data)
+    rilza_diff = rilza_difference_series(rilza_data)
+
+    build_multi_series_landmark_chart(
+        title_str='Rilzabrutinib UAS7 change from baseline landmarks, first pass',
+        subtitle='Explicit randomized-arm week-4 and week-12 LS mean change-from-baseline values from PMCID PMC12019677 Table 2.',
+        series_by_arm=rilza_cfb,
+        filename='rilzabrutinib-uas7-cfb-landmarks.svg',
+        y_label='LS mean UAS7 CFB',
+        y_min=-20,
+        y_max=0,
+        week_ticks=[4, 12],
+        color_map=RILZA_COLOR_MAP,
+        legend_order=['placebo', '400 mg/day', '800 mg/day', '1200 mg/day'],
+        note_lines=[
+            'This is a landmark plot, not a weekly curve. The current local numeric layer gives clean arm-resolved UAS7 CFB at weeks 4 and 12 only.',
+            'Week-1 onset is shown separately as an explicit 1200 mg/day versus placebo difference landmark because full per-arm week-1 means are not safely tabulated locally.',
+        ],
+    )
+
+    build_multi_series_landmark_chart(
+        title_str='Rilzabrutinib high-dose early-onset UAS7 difference, first pass',
+        subtitle='Explicit LS mean difference versus placebo for rilzabrutinib 1200 mg/day from PMCID PMC12019677, covering weeks 1, 4, and 12.',
+        series_by_arm=rilza_diff,
+        filename='rilzabrutinib-uas7-difference-vs-placebo.svg',
+        y_label='LS mean difference in UAS7 CFB',
+        y_min=-15,
+        y_max=0,
+        week_ticks=[1, 4, 12],
+        color_map=RILZA_COLOR_MAP,
+        legend_order=['1200 mg/day vs placebo'],
+        note_lines=[
+            'The most defensible early-onset rilzabrutinib numeric path in the current cache is the high-dose versus placebo contrast, not a four-arm week-by-week mean curve.',
+        ],
+    )
+
+    build_rilza_week12_response_chart(rilza_data, 'rilzabrutinib-week12-response.svg')
+    print('Built remibrutinib, barzolvolimab, and rilzabrutinib longitudinal UAS7 SVG plots')
 
 
 if __name__ == '__main__':

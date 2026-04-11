@@ -1,0 +1,164 @@
+{
+  "program": "rilzabrutinib",
+  "trial_id": "NCT05107115",
+  "trial_name": "RILECSU phase 2",
+  "notes": "First-pass landmark dataset using only explicit numeric values from the current local source layer. No hand-digitized weekly curve values are included.",
+  "baseline_randomized_uas7": [
+    {
+      "arm": "placebo",
+      "n": 40,
+      "value": 30.0,
+      "source": "PMCID PMC12019677 Table 1"
+    },
+    {
+      "arm": "400 mg/day",
+      "n": 38,
+      "value": 31.4,
+      "source": "PMCID PMC12019677 Table 1"
+    },
+    {
+      "arm": "800 mg/day",
+      "n": 41,
+      "value": 30.2,
+      "source": "PMCID PMC12019677 Table 1"
+    },
+    {
+      "arm": "1200 mg/day",
+      "n": 41,
+      "value": 29.9,
+      "source": "PMCID PMC12019677 Table 1"
+    }
+  ],
+  "cfb_uas7": [
+    {
+      "week": 4,
+      "arm": "placebo",
+      "n_primary": 36,
+      "ls_mean": -7.06,
+      "se": 1.72,
+      "source": "PMCID PMC12019677 Table 2"
+    },
+    {
+      "week": 4,
+      "arm": "400 mg/day",
+      "n_primary": 37,
+      "ls_mean": -9.14,
+      "se": 1.66,
+      "source": "PMCID PMC12019677 Table 2"
+    },
+    {
+      "week": 4,
+      "arm": "800 mg/day",
+      "n_primary": 35,
+      "ls_mean": -12.89,
+      "se": 1.73,
+      "source": "PMCID PMC12019677 Table 2"
+    },
+    {
+      "week": 4,
+      "arm": "1200 mg/day",
+      "n_primary": 35,
+      "ls_mean": -13.66,
+      "se": 1.72,
+      "source": "PMCID PMC12019677 Table 2"
+    },
+    {
+      "week": 12,
+      "arm": "placebo",
+      "n_primary": 36,
+      "ls_mean": -10.14,
+      "se": 2.05,
+      "source": "PMCID PMC12019677 Table 2"
+    },
+    {
+      "week": 12,
+      "arm": "400 mg/day",
+      "n_primary": 37,
+      "ls_mean": -9.74,
+      "se": 2.00,
+      "source": "PMCID PMC12019677 Table 2"
+    },
+    {
+      "week": 12,
+      "arm": "800 mg/day",
+      "n_primary": 35,
+      "ls_mean": -14.24,
+      "se": 2.06,
+      "source": "PMCID PMC12019677 Table 2"
+    },
+    {
+      "week": 12,
+      "arm": "1200 mg/day",
+      "n_primary": 35,
+      "ls_mean": -16.89,
+      "se": 2.04,
+      "source": "PMCID PMC12019677 Table 2"
+    }
+  ],
+  "uas7_difference_vs_placebo_1200mg": [
+    {
+      "week": 1,
+      "comparison": "1200 mg/day vs placebo",
+      "ls_mean_difference": -7.89,
+      "ci_low": -12.98,
+      "ci_high": -2.81,
+      "source": "PMCID PMC12019677 Figure 2 caption text / Results"
+    },
+    {
+      "week": 4,
+      "comparison": "1200 mg/day vs placebo",
+      "ls_mean_difference": -6.60,
+      "ci_low": -11.22,
+      "ci_high": -1.97,
+      "p_value": 0.01,
+      "source": "PMCID PMC12019677 Table 2"
+    },
+    {
+      "week": 12,
+      "comparison": "1200 mg/day vs placebo",
+      "ls_mean_difference": -6.75,
+      "ci_low": -12.23,
+      "ci_high": -1.26,
+      "p_value": 0.02,
+      "source": "PMCID PMC12019677 Table 2"
+    }
+  ],
+  "week12_response": [
+    {
+      "metric": "UAS7 <= 6",
+      "arm": "placebo",
+      "n_primary": 36,
+      "value": 11.1,
+      "source": "PMCID PMC12019677 Table 2"
+    },
+    {
+      "metric": "UAS7 <= 6",
+      "arm": "1200 mg/day",
+      "n_primary": 35,
+      "value": 34.3,
+      "response_difference_vs_placebo": 20.3,
+      "ci_low": 1.9,
+      "ci_high": 38.8,
+      "p_value": 0.04,
+      "source": "PMCID PMC12019677 Table 2"
+    },
+    {
+      "metric": "UAS7 = 0",
+      "arm": "placebo",
+      "n_primary": 36,
+      "value": 11.1,
+      "source": "PMCID PMC12019677 Table 2"
+    },
+    {
+      "metric": "UAS7 = 0",
+      "arm": "1200 mg/day",
+      "n_primary": 35,
+      "value": 20.0,
+      "response_difference_vs_placebo": 6.9,
+      "ci_low": -9.4,
+      "ci_high": 23.1,
+      "p_value": 0.43,
+      "source": "PMCID PMC12019677 Table 2"
+    }
+  ]
+}
