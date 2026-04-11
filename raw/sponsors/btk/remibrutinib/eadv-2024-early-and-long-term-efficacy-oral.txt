@@ -1,0 +1,638 @@
+Oral presentation session                                                                                                                                                       Ana M Giménez-Arnau
+FC04: Free communications 4                                                                                                                                          anamariagimenezarnau@gmail.com
+
+
+
+
+Early and long-term efficacy and safety of remibrutinib
+in patients with chronic spontaneous urticaria: 52-week
+data from the Phase 3 REMIX-1 and REMIX-2 studies
+Ana Maria Giménez-Arnau,1 Martin Metz,2,3 Michihiro Hide,4 Vipul Jain,5 Abdallah Khemis,6 Mark Lebwohl,7 Michael Palumbo,8 Sarbjit Saini,9
+Ekin Şavk,10 Gordon Sussman,11 Robert Szalewski,12 Irena Walecka Herniczek,13 Hugh Windom,14 Bin Yang,15 Sibylle Haemmerle,16 Karine Lheritier,16
+Paula G. P. Machado,17 El-Djouher Martzloff,16 Noriko Seko,18 Pengpeng Wang,19 Artem Zharkov,16 Marcus Maurer2,3*
+*Prof. Maurer M sadly passed away during the development of this poster. His invaluable contributions to this study research are honored with his recognition as a co-author in memoriam
+1Department of Dermatology, Hospital del Mar and Research Institute, Universitat Pompeu Fabra, Barcelona, Spain
+
+2Urticaria Center of Reference and Excellence (UCARE), Institute of Allergology, Charité – Universitätsmedizin Berlin, corporate member of
+
+ Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany
+3Fraunhofer Institute for Translational Medicine and Pharmacology ITMP, Immunology and Allergology, Berlin, Germany
+
+4Department of Dermatology, Hiroshima City Hiroshima Citizens Hospital, Hiroshima, Japan
+
+5Division of Clinical Immunology and Allergy, Department of Medicine, McMaster University, Hamilton, ON, Canada
+
+6Department of Dermatology, Polyclinique Saint George, Groupe KANTYS, Nice, France
+7Department of Dermatology, Icahn School of Medicine at Mount Sinai, New York, NY, USA                                                                                            Scan to obtain
+8Allergy and Clinical Immunology Associates, Pittsburgh, PA, USA
+
+9Johns Hopkins Asthma and Allergy Center, Baltimore, MD, USA
+                                                                                                                                                                                  • Presentation slides
+10Department of Dermatology, Aydın Adnan Menderes University School of Medicine, Aydın, Turkey
+
+11Division of Allergy and Clinical Immunology, University of Toronto, Toronto, ON, Canada
+
+12Allergy, Asthma, and Immunology Associates PC, Lincoln, NE, USA
+
+13Department of Dermatology, Centre of Postgraduate Medical Education/Central Clinical Hospital MSWiA, Warsaw, Poland
+
+14Food Allergy Center of Florida, Windom Allergy, Sarasota, FL, USA                                                                                                                https://bit.ly/Oral-FC04
+15Department of Dermatology, Dermatology Hospital, Southern Medical University, Guangzhou, China
+                                                                                                                                                                                   Copies of this presentation obtained through Quick Response
+16Novartis Pharma AG, Basel, Switzerland
+                                                                                                                                                                                   (QR) code are for personal use only and may not be
+17Novartis Pharmaceuticals Corporation, East Hanover, NJ, USA                                                                                                                      reproduced without permission of the authors.
+18Novartis Pharma KK, Tokyo, Japan
+19Novartis (China) Biomedical Research, Shanghai, China
+
+
+
+
+European Academy of Dermatology and Venereology, Amsterdam, 25-28 September 2024
+Introduction
+More than half of all patients with CSU remain symptomatic despite treatment with
+standard-dose second-generation H1-AH1
+                                                                                                                          Remibrutinib is a novel, highly selective oral, BTK inhibitor
+• Up-dosing of second-generation H1-AH, up to 4x the standard
+    dose, provides no or only partial relief in up to 75% of patients
+    who remain symptomatic despite treatment with standard-dose
+    second-generation H1-AH2
+
+• Remibrutinib demonstrated statistically significant superiority in
+    both primary endpoint scenarios (CFB in UAS7 and ISS7/HSS7
+    at week 12) vs placebo in patients with CSU remaining
+    symptomatic with second-generation H1-AH in the Phase 3
+    REMIX-1 (NCT05030311) and REMIX-2 (NCT05032157)
+    studies3
+
+
+                  Objective: To report the early (week 1) and long-term treatment (52 weeks) outcomes with remibrutinib from the
+                                                           REMIX-1 and REMIX-2 studies
+
+AH, antihistamine; BTK, Bruton’s tyrosine kinase; CFB, change from baseline; CSU, chronic spontaneous urticaria; FcεRI, high-affinity IgE receptor; H1, histamine-1; HSS7, weekly Hives Severity Score; Ig, immunoglobulin;
+ISS7, weekly Itch Severity Score; LYN, LCK/YES novel tyrosine kinase; SYK, spleen tyrosine kinase; UAS7, weekly Urticaria Activity Score.
+1. Guillen-Aguinaga S, et al. British J Derm. 2016;175:1153-1165. 2. Bernstein J, et al. Oral presentation at: ACAAI 2023 Annual Scientific Meeting; November 9-13, 2023; Anaheim, CA. Abstract D006. 3. Saini S, et al. Oral
+presentation at: ACAAI 2023 Annual Scientific Meeting; November 9-13, 2023; Anaheim, CA. Abstract LB001.
+Study design
+REMIX-1 and REMIX-2 are two Phase 3, randomised, placebo-controlled studies
+of remibrutinib 25 mg bid administered orally
+                                                                            Primary endpoint                                                                                           Final analysis
+                                               Weeks                               12                                             24                                                         52
+
+
+                                                                       Double-blind treatment period                                        Open-label treatment period                                Extension
+                                                               REMIX-1: N = 313
+                                                                                                            Remibrutinib 25 mg bid
+                                                               REMIX-2: N = 300
+      Adult patients with a
+       diagnosis of CSU
+                                                              • Background second-generation H1-AH used throughout the study in both arms
+        (for ≥6 months)                            R                                                                                                                                                 Follow-up or
+          inadequately                            2:1         • Rescue therapy (an alternative second-generation H1-AH) could be used as needed                                                       extension
+          controlled by
+      second-generation
+                                                                REMIX-1: N = 157
+             H1-AHa                                                                                Placebo                                Remibrutinib 25 mg bid
+                                                                REMIX-2: N = 155
+
+
+
+
+   Efficacy assessments are presented for each study; safety data is presented from a pooled analysis of both studies
+AH, antihistamine; bid, twice daily; CSU, chronic spontaneous urticaria; H1, histamine 1; N, number of patients; R, randomisation; UAS7, weekly Urticaria Activity Score.
+aPresence of itch and hives for ≥6 consecutive weeks prior to screening despite the use of a second-generation H1-antihistamine; UAS7 score ≥16, ISS7 score ≥6, and HSS7 score ≥6 during the 7 days prior to randomization
+
+(day 1).
+Assessments
+
+•     Change from baseline in UAS7 and responder rates for UAS7≤6 and UAS7=0 throughout the study
+
+•     Adverse events (AEs), serious AEs (SAEs), and laboratory parameters assessed throughout the study
+
+•     Summary statistics used for absolute change from baseline in UAS7, response rates for UAS7≤6 and
+      UAS7=0 over time by treatment group
+
+•     Statistical significance testing for:
+
+      o Change from baseline in UAS7 using linear mixed model with repeated measures for weeks 1 and 2
+          (post-hoc analysis) and for weeks 12 and 24 (pre-defined analysis)
+
+      o Responder rate for UAS7≤6 (post-hoc analysis at week 1; pre-defined analysis at weeks 2, 12 and 24)
+          and UAS7=0 (post-hoc analysis at weeks 1 and 2; pre-defined analysis at weeks 12 and 24) with
+          remibrutinib vs placebo using logistic regression model
+
+
+
+AE, adverse event; CSU, chronic spontaneous urticaria; SAE, serious adverse event; UAS7, weekly Urticaria Activity Score
+Patient demographics and baseline characteristicsa
+                                                                                                       REMIX-1                                                                    REMIX-2
+
+                                                                            Remibrutinib                                                              Remibrutinib
+                                                                                                        Placebo                   Total                                           Placebo                   Total
+                                                                             25 mg bid                  (n=157)                                        25 mg bid
+                                                                                                                                 (N=470)                                          (n=155)                  (N=455)
+                                                                              (n=313)                                                                   (n=300)
+
+Age (years), mean ± SD                                                        44.6 ± 14.3              45.9 ± 13.4              45.0 ± 14.0              41.9 ± 14.5              41.3 ± 14.6              41.7 ± 14.5
+
+Gender (female), n (%)                                                         212 (67.7)               109 (69.4)              321 (68.3)               197 (65.7)               100 (64.5)               297 (65.3)
+
+BMI (kg/m2), mean ± SD                                                         27.8 ± 6.4               28.3 ± 6.5               28.0 ± 6.4              27.0 ± 6.5               27.0 ± 6.0               27.0 ± 6.3
+
+Duration of CSU (years), mean ± SD                                              6.9 ± 9.3               6.1 ± 7.1                6.6 ± 8.6                5.5 ± 7.6               4.6 ± 6.2                5.2 ± 7.2
+
+UAS7, mean ± SD                                                                30.6 ± 7.9               29.6 ± 7.7               30.3 ± 7.9              30.2 ± 8.0               29.5 ± 7.6               30.0 ± 7.9
+
+HSS7, mean ± SD                                                                15.9 ± 4.6               15.3 ± 4.6               15.7 ± 4.6              15.9 ± 4.6               15.7 ± 4.5               15.8 ± 4.6
+
+ISS7, mean ± SD                                                                14.7 ± 4.2               14.3 ± 4.0               14.6 ± 4.1              14.3 ± 4.4               13.9 ± 4.1               14.2 ± 4.3
+
+Previous experience of angioedema, n (%)                                       173 (55.3)               70 (44.6)               243 (51.7)               143 (47.7)               69 (44.5)               212 (46.6)
+
+DLQI, mean ± SD                                                                14.2 ± 7.0               13.5 ± 6.8               14.0 ± 6.9              14.0 ± 7.5               13.6 ± 6.7               13.9 ± 7.3
+
+Previous exposure to anti-IgE biologics, n (%)                                 98 (31.3)                52 (33.1)               150 (31.9)               90 (30.0)                50 (32.3)               140 (30.8)
+
+
+
+
+             Patient demographics and baseline characteristics were well balanced between remibrutinib and placebo in both studies
+
+AAS7, weekly Angioedema Activity Score; bid, twice daily; BMI, body mass index; CSU, chronic spontaneous urticaria; DLQI, Dermatology Life Quality Index; HSS7, weekly Hives Severity Score; ISS7, weekly Itch Severity
+Score; IgE, immunoglobulin E; n, number of patients in each treatment arm; N, total number of patients in each study; SD, standard deviation; UAS7, weekly Urticaria Activity Score.
+aAll randomized patients.
+Significant improvements in UAS7 from baseline with remibrutinib vs placebo
+were observed as early as week 1, sustained through week 24a
+                                                              REMIX-1                                                                                                          REMIX-2
+
+
+
+                                             Week 1b        Week 2b        Week 12         Week 24                                                           Week 1b        Week 2b        Week 12           Week 24
+                                    0                                                                                                                0
+
+
+
+
+                                                                                                                     LS mean change from baseline
+    LS mean change from baseline
+
+
+
+
+                                                                                                                                                                    -2.9
+                                    -5              -4.0                                                                                             -5
+                                                                                                                                                                                    -5.2
+                                                                    -6.2
+
+
+
+
+                                                                                                                              in UAS7a
+             in UAS7a
+
+
+
+
+                                   -10                                                                                                              -10
+                                            -11.3                                                                                                           -11.3                              -11.7
+                                   -15                                             -13.8                                                            -15                                                          -13.7
+                                             P<0.001                                                                                                          P<0.001       -15.1
+                                                            -15.6                                  -16.0
+                                   -20                       P<0.001                                                                                -20                     P<0.001
+                                                                           -20.0                                                                                                           -19.4
+                                                                                           -20.7                                                                                                             -20.4
+                                                                           P<0.001          P<0.001                                                                                        P<0.001
+                                   -25                                                                                                              -25                                                      P<0.001
+
+
+
+                                         Remibrutinib 25 mg bid (n=309)        Placebo (n=153)                                                            Remibrutinib 25 mg bid (n=297)           Placebo (n=153)
+
+
+
+
+LS, least squares; MMRM, mixed effect model with repeated measures; n, number of patients in each treatment arm; UAS7, weekly Urticaria Activity Score.
+aFull analysis set; MMRM, imputed data; bPost-hoc analysis; P: nominal P value
+Improvements in UAS7 with remibrutinib were observed as early as week 1
+and sustained to week 52a
+                                                                           REMIX-1                                                                                                                               REMIX-2
+
+                                                                               Week                                                                                                                                  Week
+                                       0                                                                                                                                 0
+
+
+
+
+                                                                                                                                    Mean change from baseline in UAS7
+  Mean change from baseline in UAS7
+
+
+
+
+                                            0        4    8    12   16    20    24    28   32     36     40     44        48   52                                             0           4     8    12   16    20   24    28    32    36     40     44        48   52
+
+                                       -5                                              Patients on placebo transitioned
+                                                                                                                                                                         -5                                                 Patients on placebo transitioned
+                                                                                          to remibrutinib at week 24                                                                                                           to remibrutinib at week 24
+
+                                      -10                                                                                                                               -10
+                                            *                                                                                                                                     *
+                                      -15                                                                                                                               -15
+                                                *                                                                                                                                     *
+                                      -20                                                                                                                               -20
+                                                                                                                                                                                                     *
+                                                                *              *                                                                                        -25                                          *
+                                      -25
+
+                                                                                                                                                                        -30
+                                      -30
+
+
+                                                    Remibrutinib 25 mg bid (n=309)         Placebo-remibrutinib (n=153)                                                                   Remibrutinib 25 mg bid (n=297)        Placebo-remibrutinib (n=153)
+
+
+                                                                               *Significant improvements in UAS7 from baseline with remibrutinib vs placebo (P<0.001)b
+
+                                                                           Efficacy with remibrutinib was fast (week 1) and sustained up to week 52 with
+                                                                      patients switching from placebo to remibrutinib at week 24 following the same trend
+
+bid, twice daily; n, number of patients in each treatment arm; UAS7, weekly Urticaria Activity Score.
+aFull analysis set; observed data; bPost-hoc analysis for weeks 1 and 2, predefined analysis for weeks 12 and 24 using linear mixed model with repeated measures
+Significantly more patients achieved well-controlled disease (UAS7≤6) at
+week 1, which was sustained to week 24a
+                                                                      REMIX-1                                                                                                        REMIX-2
+
+
+                                                                                                  P<0.001
+                                                                                                                                                        60                                                          P<0.001
+                                         60                                      P<0.001
+                                                                                                 54.7                                                                                            P<0.001
+Proportion of patients with UAS7≤6 (%)
+
+
+
+
+                                                                                                               Proportion of patients with UAS7≤6 (%)
+                                                                                                                                                                                                                   51.9
+                                                                                49.8
+                                         50                                                                                                             50                                       46.8
+
+                                                                P<0.001
+                                         40                                                                                                             40                    P<0.001
+                                                                                                        35.3
+                                                               33.7
+                                                                                                                                                                              30.0
+                                         30                                                                                                             30                                                                 27.5
+                                                                                       24.8
+                                              P=0.001                                                                                                                                                   19.6
+                                         20                                                                                                             20   P=0.001
+                                              12.6
+                                                                                                                                                             10.8
+                                         10                                                                                                             10
+                                                                                                                                                                                     5.9
+                                                                      3.3
+                                                     0.7                                                                                                            0.7
+                                          0                                                                                                              0
+                                              Week 1b            Week 2           Week 12         Week 24                                                    Week 1b            Week 2           Week 12           Week 24
+
+                                                     Remibrutinib 25 mg bid (n=309)       Placebo (n=153)                                                       Remibrutinib 25 mg bid (n=297)           Placebo (n=153)
+
+
+bid, twice daily; n, number of patients; UAS7, weekly Urticaria Activity Score.
+aFull analysis set; logistic regression model, imputed data; bPost-hoc analysis.
+Well-controlled disease (UAS7≤6) with remibrutinib was observed as early as
+week 1 and sustained to week 52 in more than half of all patientsa
+                                                                                    REMIX-1                                                                                                                                          REMIX-2
+
+                                         80                                                                                                                                                80
+Proportion of patients with UAS7≤6 (%)
+
+
+
+
+                                                                                                                                                  Proportion of patients with UAS7≤6 (%)
+                                         70                                                                                                                                                70
+                                                                                                                                           64.1
+                                                                                                                                                                                                                                                                                               62.4
+                                                                                        *
+                                                                                       59.2                                                                                                                                             *
+                                         60                                                                                                62.9                                            60                                          56.5
+                                                                       *
+                                                                      52.1                                                                                                                                             *                                                                       62.2
+                                                                                                                                                                                                                      50.4
+                                         50                                                                                                                                                50
+
+                                         40                                            36.6                                                                                                40
+                                                           *
+                                                         33.8                                                                                                                                                                          31.2
+                                         30                           25.9                                                                                                                 30            *
+                                                                                                                                                                                                       30.0
+                                                                                                                                                                                                                      21.6
+
+                                         20          *                                                                                                                                     20
+                                                    12.7
+                                                                                                                                                                                                        *
+                                                                                                                                                                                                      10.8
+
+                                         10                                                         Patients on placebo transitioned to                                                    10                                                           Patients on placebo transitioned to
+                                                           3.3                                           remibrutinib at week 24                                                                                                                             remibrutinib at week 24
+                                              0.0                                                                                                                                               0.0      5.9
+                                                           0.7                                                                                                                                        0.7
+                                          0                                                                                                                                                 0
+                                              0          4       8    12     16   20      24   28       32     36      40      44     48   52                                                   0       4      8      12     16   20          24   28     32      36      40      44      48   52
+                                                                                       Week                                                                                                                                                 Week
+                                                             Remibrutinib 25 mg bid (n=309)              Placebo (n=153)                                                                                           Remibrutinib 25 mg bid (n=297)                  Placebo (n=153)
+
+
+                                                                             *Significantly more patients achieved well-controlled disease (UAS7≤6) with remibrutinib vs placebo (P<0.001)b
+
+    bid, twice daily; n, number of patients in each treatment arm; UAS7, weekly Urticaria Activity Score.
+    aFull analysis set; observed data. bPost-hoc analysis for week 1, predefined analysis for weeks 2, 12 and 24 using conducted using logistic regression model
+  Significantly more patients achieved complete absence of itch and hives
+  (UAS7=0) early, which was sustained to week 24a
+                                                                     REMIX-1                                                                                                    REMIX-2
+
+                                                                                             P<0.001                                                                                                       P<0.001
+
+                                         40                                                                                                        40.0
+
+
+
+
+                                                                                                          Proportion of patients with UAS7≤6 (%)
+                                                                          P<0.001                                                                                                                        35.7
+Proportion of patients with UAS7≤6 (%)
+
+
+
+
+                                                                                            35.6
+                                         35                                                                                                        35.0                              P<0.001
+                                                                        31.1
+                                         30                                                                                                        30.0                              27.9
+
+                                         25                                                                                                        25.0
+                                              P<0.001
+                                                                                                                                                          P<0.001
+                                                                                                   19.6
+                                         20                                                                                                        20.0
+                                              16.8
+                                                                                                                                                          15.5                                                  15.7
+                                         15                                                                                                        15.0
+                                                                               10.5
+                                         10                                                                                                        10.0
+                                                                                                                                                                                            6.5
+                                          5                                                                                                         5.0
+                                                        1.3                                                                                                         1.3
+                                          0                                                                                                         0.0
+                                              Week 2b                     Week 12            Week 24                                                      Week 2b                    Week 12              Week 24
+
+                                                     Remibrutinib 25 mg bid (n=309)     Placebo (n=153)                                                          Remibrutinib 25 mg bid (n=297)   Placebo (n=153)
+
+
+
+     bid, twice daily; n, number of patients; UAS7, weekly Urticaria Activity Score.
+     aFull analysis set; logistic regression model, imputed data; bPost-hoc analysis.
+Complete response (UAS7=0) with remibrutinib was observed early
+and sustained to week 52a
+                                                                                 REMIX-1                                                                                                                                        REMIX-2
+                                         60
+                                                                                                                                                                                           60
+Proportion of patients with UAS7=0 (%)
+
+
+
+
+                                                                                                                                                  Proportion of patients with UAS7=0 (%)
+                                         50
+                                                                                                                                           44.8
+                                                                                                                                                                                           50
+                                                                                                                                                                                                                                                                                         45.9
+
+                                                                                      *
+                                                                                     40.1
+                                         40
+                                                                                                                                                                                                                                     *
+                                                                                                                                                                                                                                    40.2
+                                                                                                                                           42.7                                            40                                                                                            42.2
+                                                                     *
+                                                                    32.7
+                                                                                                                                                                                                                   *
+                                                                                                                                                                                                                  30.3
+                                         30                                                                                                                                                30
+
+                                                                                  21.4
+                                         20                                                                                                                                                                                         19.2
+                                                                                                                                                                                           20
+                                                          *
+                                                      17.0          11.5                                                                                                                                *
+                                                                                                                                                                                                       15.6
+                                         10                                                                                                                                                10                       6.7
+                                                                                                    Patients on placebo transitioned to                                                                                                            Patients on placebo transitioned to
+                                                                                                         remibrutinib at week 24                                                                      1.3
+                                                                                                                                                                                                                                                        remibrutinib at week 24
+                                                    1.3
+                                              0.0                                                                                                                                               0.0
+                                          0                                                                                                                                                 0
+                                              0           4    8    12     16   20        24   28       32     36      40      44     48   52                                                   0       4     8    12     16   20        24   28     32      36      40     44      48   52
+                                                                                     Week                                                                                                                                            Week
+
+                                                          Remibrutinib 25 mg bid (n=309)                Placebo (n=153)                                                                                       Remibrutinib 25 mg bid (n=297)                 Placebo (n=153)
+
+
+                                                                            *Significantly more patients achieved complete response (UAS7=0) with remibrutinib vs placebo (P<0.001)b
+
+bid, twice daily; n, number of patients in each treatment arm; UAS7, weekly Urticaria Activity Score.
+aFull analysis set; observed data. bPost-hoc analysis for weeks 1 and 2, predefined analysis for weeks 12 and 24 using conducted using logistic regression model
+Overview of safety (pooled analysis of REMIX-1 and -2)
+
+                                                                                         Double-blind perioda
+                                                                                                                                                     Open labela
+                                                                                                                           Entire study perioda    Transitioned to
+                                                                                 Remibrutinib             Placebo              Remibrutinib         Remibrutinib
+                                                                                   (n=606)                (n=306)                 (n=606)             (n=262)
+ Median exposure, weeks                                                            24 Weeks              24 Weeks              52.1 Weeks            28.1 Weeks
+ AEs, n (%)
+                                                                               393 (64.9%) [276.4]   198 (64.7%) [273.5]    446 (73.6%) [199.8]   133 (50.8%) [144.8]
+ [EAIR, per 100 pt-y]
+ Serious AEs, n (%)
+                                                                                 20 (3.3%) [7.7]        7 (2.3%) [5.3]        25 (4.1%) [4.7]        3 (1.1%) [2.1]
+ [EAIR, per 100 pt-y]
+ Treatment discontinuation due to AE, n (%)
+                                                                                 17 (2.8%) [6.5]        9 (2.9%) [6.8]        28 (4.6%) [5.1]        4 (1.5%) [2.8]
+ [EAIR, per 100 pt-y]
+
+
+
+
+ • AEs, serious AEs, and AEs leading to treatment discontinuation were balanced between remibrutinib and placebo in the double-blind
+   treatment period
+ • Exposure-adjusted incidence rates of AEs, serious AEs, and AEs leading to treatment discontinuation did not increase with long-term
+   treatment (up to week 52)
+ • No serious AEs were considered related to study medication by the investigator across the phase 3 studies
+
+AE, adverse event; bid, twice daily; EAIR, exposure-adjusted incidence rate.
+a Safety set.
+Most common AEs (>3% in any treatment group)
+
+                                                                                                   Double-blind perioda                                      Open labela
+                                                                                                                                    Entire study perioda
+                                                                                                                                                           Transitioned to
+                                                                                                                                        Remibrutinib
+                                                                                                                                                            remibrutinib
+                                                                                         Remibrutinib              Placebo                 (n=606)
+                                                                                                                                                              (n=262)
+                                                                                           (n=606)                 (n=306)
+
+ Median exposure, weeks                                                                     24 Weeks               24 Weeks             52.1 Weeks           28.1 Weeks
+ COVID-19, n (%), [EAIR]                                                               65 (10.7%), [26.0]      35 (11.4%), [28.0]     94 (15.5%), [19.0]   19 (7.3%), [14.1]
+ Nasopharyngitis, n (%), [EAIR]                                                        40 (6.6%), [15.7]        14 (4.6%), [10.9]     55 (9.1%), [10.7]     9 (3.4%), [6.5]
+ Headache, n (%), [EAIR]                                                               38 (6.3%), [15.0]        19 (6.2%), [14.8]      47 (7.8%), [9.0]     4 (1.5%), [2.8]
+ Upper respiratory tract infection, n (%), [EAIR]                                       18 (3.0%), [6.9]         6 (2.0%), [4.6]       34 (5.6%), [6.4]    11 (4.2%), [7.9]
+ Urinary tract infection, n (%), [EAIR]                                                 19 (3.1%), [7.3]         8 (2.6%), [6.1]       28 (4.6%), [5.2]     4 (1.5%), [2.8]
+ Petechiae, n (%), [EAIR]                                                               23 (3.8%), [8.9]         1 (0.3%), [0.8]       24 (4.0%), [4.5]     7 (2.7%), [5.0]
+ Urticaria, n (%), [EAIR]                                                               15 (2.5%), [5.7]        15 (4.9%), [11.7]      20 (3.3%), [3.7]     7 (2.7%), [5.0]
+
+ • Respiratory tract infections were among the most common AEs and were comparable between remibrutinib and placebo during the double-blind
+   treatment period
+ • Petechiae was reported more commonly with remibrutinib vs placebo in the double-blind period; all were mild or moderate, and when seen,
+   tended to occur early on treatment (within first 3 months); they were not associated with clinically significant platelet count decreases.
+ • EAIRs of most common AEs did not increase with long-term treatment (up to week 52)
+
+AE, adverse event; bid, twice daily; EAIR, exposure-adjusted incidence rate; PT, preferred term.
+a Safety set.
+Liver safety (newly occurring transaminase elevations)
+
+                                                                                                        Double-blind perioda                                                      Open labela
+                                                                                                                                                         Entire study perioda
+                                                                                                                                                                                Transitioned to
+                                                                                                                                                             Remibrutinib
+                                                                                                                                                                                 remibrutinib
+                                                                                          Remibrutinib                            Placebo                       (n=606)
+                                                                                                                                                                                   (n=262)
+                                                                                            (n=606)                               (n=306)
+
+ Median exposure, weeks                                                                      24 Weeks                             24 Weeks                   52.1 Weeks           28.1 Weeks
+ ALT or AST >3x ULN, n (%)                                                                    8 (1.3%)                             4 (1.3%)                    9 (1.5%)            3 (1.2%)
+ ALT or AST >20x ULN, n (%)                                                                         0                                    0                        0                    0
+ ALT or AST >3x ULN and TBL >2x ULN (Hy’s
+                                                                                                    0                                    0                        0                    0
+ Law), n (%)
+
+
+
+
+ • Newly occurring liver transaminase (ALT or AST) elevations were infrequent and balanced between remibrutinib and placebo during the
+   double-blind treatment period
+
+ • All observed liver transaminase (ALT or AST) elevations across both studies were asymptomatic and transient/reversible
+
+AE, adverse event; bid, twice daily; ALT, alanine aminotransferase; AST, aspartate aminotransferase; TBL, total bilirubin; ULN, upper limit of normal.
+a Safety set.
+Conclusions
+
+• Both Phase III studies in patients with CSU inadequately controlled by H1-antihistamines, observed fast
+    improvement in UAS7 with remibrutinib, as early as week 1, with continued improvements up to week 52
+    versus placebo
+
+        – Patients who transitioned to remibrutinib from placebo at week 24, achieved fast and sustained reductions in UAS7
+             until study end
+
+• Remibrutinib showed favorable safety and tolerability on long-term treatment up to 52 weeks across both
+    REMIX studies
+
+• Remibrutinib has the potential to become a novel oral treatment option that provides fast and sustained
+    symptom relief for patients with CSU inadequately controlled by H1-anithistamines
+
+
+
+
+CSU, chronic spontaneous urticaria
+Disclosures
+Ana Giménez-Arnau reports roles as a medical advisor for Uriach, Sanofi, Genentech, Novartis, FAES, GSK, Amgen and Thermo Fisher and has research grants supported by Uriach, Novartis
+and Instituto de Salud Carlos III, FEDER; she also participates in educational activities for Uriac, Novartis, Genentech, Menarini, LEO Pharma, GSK, MSD, Almirall, Avène and Sanofi. Martin Metz
+is or recently was a speaker and/or advisor for AbbVie, Allmiral, ALK-Abello, Amgen, AstraZeneca, Argenx, Bayer, Beiersdorf, Celldex, Celltrion, Escient, Galderma, GlaxoSmithKline, Incyte,
+Jasper, Novartis, Pharvaris, Pfizer, Regeneron, Sanofi, Teva, ThirdHarmonicBio, Vifor. Michihiro Hide has received lecture and/or consultation fees from Japan Tabaclo, Kaken Pharmaceutical,
+Kyorin Pharaceutical, Kyowa Kirin, Meiji Seiyaku, Mitsubishi Tanabe Pharma, Nippon Zoki, Novartis, Sanofi, TAIHO Pharmaceutical and Teikoku Seiyaku. Vipul Jain has consulted as/or advised
+and/or received research funding from Pediapharm, Medexus, Sanofi, Regeneron, Bausch, Novartis, AbbVie, Aralez, ALK, Celgene, Amgen, Leo Pharma, Mylan, Pfizer, Covis Pharma, Galderma,
+Eli Lilly, GlaxoSmithKline, Incyte, Arcutis, Janssen and AstraZeneca. Abdallah Khemis has been a consultant for and/or has received honoraria and/or investigator fees from AbbVie, Actelion,
+Almirall, Amgen, Basilea, Bayer, Boehringer Ingelheim, Bristol-Myers Squibb, Celgene, Celltrion, Eli Lilly, Forward Pharma, GlaxoSmithKline, Galderma, Genentec, Janssen, La Roche Posay, LEO
+Pharma, Medac, Merck Sharp & Dohme, Novartis, Pierre Fabre Dermatologie, Pfizer, Regeneron, Roche, Sanofi and UCB Pharma. Mark Lebwohl is an employee of Mount Sinai and receives
+research funds from AbbVie, Amgen, Arcutis, Avotres, Boehringer Ingelheim, Dermavant Sciences, Eli Lilly, Incyte, Janssen Research & Development, LLC, Ortho Dermatologics, Regeneron and
+UCB, Inc., and is a consultant for Aditum Bio, Almirall, AltruBio Inc., AnaptysBio, Arcutis, Aristea Therapeutics, Arrive Technologies, Avotres Therapeutics, BiomX, Boehringer Ingelheim, Bristol
+Myers Squibb, Cara Therapeutics, Castle Biosciences, Corrona, Dermavant Sciences, Dr. Reddy’s Laboratories, Evelo Biosciences, Evommune, Inc., Facilitation of International Dermatology
+Education, Forte Biosciences, Foundation for Research and Education in Dermatology, Helsinn Therapeutics, Hexima Ltd., LEO Pharma, Meiji Seika Pharma, Mindera, Pfizer, Seanergy and
+Verrica. Michael Palumbo serves as a speaker for AstraZeneca, CSL Behring, Grifols, Regeneron, Sanofi Genzyme and Amgen. Sarbjit Saini has received grant/research/clinical trial support
+from the National Institutes of Health, Novartis, Sanofi, Amgen, and Regeneron and is a consultant/advisory board member for Allakos, Granular Therapeutics, Novartis, Aquestive, Regeneron,
+Escient, Innate, Celltrion, and Sanofi. Gordon Sussman has received research support from Aimmune, Amgen, AstraZeneca, DBV Technologies, Genentech, Kedrion S.p.A, Leo Pharma,
+Novartis, Nuvo Pharmaceuticals, Sanofi, Stallergenes, Merck, Schering Plough, Regeneron, and ALK; is a medical advisor and/or has received payment for lectures from Merck, Novartis, CSL
+Behring, Pfizer, Anaphylaxis Canada, the Allergy Asthma and Immunology Society of Ontario, and the Canadian Hereditary Angioedema Network. Ekin Şavk has acted as a
+speaker/consultant/advisor for Sanofi, Pfizer, Abbvie, Novartis, Lilly and Johnson&Johnson. Robert Szalewski serves as a speaker for AstraZeneca and Pharming and has received clinical trial
+support and/or consulting fees from Genentech, Sanofi, Arcutis, AstraZeneca, GlaxoSmithKline, Abbvie, Amgen, Novartis, and Regeneron. Irena Walecka Herniczek has received lecture and/or
+consultation fees from Novartis, Sanofi, AbbVie, Leo Pharma, Pfizer, Eli Lilly, AstraZeneca, Almirall, Boehringer Ingelheim, GlaxoSmithKline, Janssen, Medac, UCB Pharma and Boehringer
+Ingelheim. Hugh Windom has served as a Principal Investigator for Novartis, Sanofi, Astra-Zeneca, Areteia, Chiesi and Teva. Bin Yang has been a speaker for Sanofi, Pfizer, Abbvie, Novartis,
+Lilly and Johnson & Johnson. Sibylle Haemmerle, El-Djouher Martzloff and Karine Lheritier are employees of Novartis Pharma AG, Basel, Switzerland. Paula G P Machado is an employee of
+Novartis Pharmaceuticals Corporation, East Hanover, NJ, USA. Noriko Seko is an employee of Novartis Pharma KK, Tokyo, Japan. Pengpeng Wang is an employee of Novartis (China)
+Biomedical Research, Shanghai, China. Artem Zharkov is an employee of Novartis Pharma AG, Basel, Switzerland.
+                                                                                                                                 Ana M Giménez-Arnau
+Acknowledgments                                                                                                       anamariagimenezarnau@gmail.com
+
+
+
+
+• We thank all the study investigators and patients for their participation in these clinical studies
+• Editorial and medical writing support was provided by Suparna Mukherjee (Novartis Healthcare Pvt. Ltd.,
+  Hyderabad, India) and Sorcha McGinty (Novartis, Dublin, Ireland) in accordance with Good Publication
+  Practice (GPP3) guidelines (www.ismpp.org/gpp3). The final responsibility for the content lies with the
+  authors
+• This study is funded by Novartis Pharma AG, Basel, Switzerland
+
+
+
+                                                        Scan to obtain
+                                                        • Presentation slides
+
+
+
+
+                                                        https://bit.ly/Oral-FC04
+                                                        Copies of this presentation obtained through Quick Response
+                                                        (QR) code are for personal use only and may not be
+                                                        reproduced without permission of the authors.
+Back-up
+
+
+References
+             18
+Patient disposition: entire study perioda
+
+                                                                                                       REMIX-1                                         REMIX-2
+                                                                              Remibrutinib               Placebo►                     Remibrutinib    Placebo►
+                                                                               25 mg bid                remibrutinib      Total        25 mg bid     remibrutinib    Total
+ n (%)                                                                          (n=313)                   (n=157)        (N=470)        (n=300)         n=155)      (N=455)
+  No treatment due to mis-randomization                                             4 (1.3)                  3 (1.9)      7 (1.5)        3 (1.0)        2 (1.3)      5 (1.1)
+
+  Completed entire treatment period                                              252 (80.5)                 124 (79.0)   376 (80.0)     232 (77.3)     112 (72.3)   344 (75.6)
+
+  Discontinued treatment period                                                   57 (18.2)                 30 (19.1)    87 (18.5)      65 (21.7)      41 (26.5)    106 (23.3)
+
+ Primary reason for discontinuation of treatment period
+
+   Patient decision                                                                31 (9.9)                 18 (11.5)    49 (10.4)      36 (12.0)      18 (11.6)    54 (11.9)
+
+   Physician decision                                                               4 (1.3)                  2 (1.3)      6 (1.3)        7 (2.3)        2 (1.3)      9 (2.0)
+
+   Adverse event                                                                   15 (4.8)                  5 (3.2)      20 (4.3)       13 (4.3)       8 (5.2)      21 (4.6)
+
+   Pregnancy                                                                           0                        0            0              0           2 (1.3)      2 (0.4)
+
+   Unsatisfactory therapeutic effect                                                4 (1.3)                  3 (1.9)      7 (1.5)        4 (1.3)        7 (4.5)      11 (2.4)
+   Protocol deviation                                                                  0                     1 (0.6)      1 (0.2)        5 (1.7)        1 (0.6)      6 (1.3)
+   Lost to follow-up                                                                3 (1.0)                  1 (0.6)      4 (0.9)           0           3 (1.9)      3 (0.7)
+
+
+                                         Rates of treatment discontinuations were comparable between remibrutinib and placebo
+
+bid, twice daily; n, number of patients in each treatment arm; N, total number of patients in each study.
+a All randomised patients.
+
