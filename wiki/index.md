@@ -43,6 +43,11 @@ Current first-pass derived coverage now includes:
     <p>Open the source registry and jump out to the full raw data cache in GitHub.</p>
     <a href="data.html">Open data access page</a>
   </div>
+  <div class="card">
+    <h3>Phase 2 populations</h3>
+    <p>Compare enrolled CSU Phase 2 populations across remibrutinib, rilzabrutinib, barzolvolimab, fenebrutinib, and EVO756.</p>
+    <a href="queries/csu-phase-2-population-comparison.html">Open Phase 2 population table</a>
+  </div>
 </div>
 
 ## Current emphasis
@@ -53,6 +58,7 @@ Current first-pass derived coverage now includes:
 
 ## Key entry points
 - [Program and trial catalog](queries/catalog.md)
+- [CSU Phase 2 population comparison](queries/csu-phase-2-population-comparison.md)
 - [Remibrutinib program](programs/remibrutinib.md)
 - [Barzolvolimab program](programs/barzolvolimab.md)
 - [Fenebrutinib program](programs/fenebrutinib.md)
