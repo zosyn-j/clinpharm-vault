@@ -9,6 +9,7 @@ tags:
 - CT.gov trials in current registry: 35
 - Derived strategy view: [Program strategy briefs](../queries/program-strategy-briefs.md)
 - Derived efficacy view: [Cross-program efficacy summary](../queries/cross-program-efficacy-summary.md)
+- Derived population view: [CSU Phase 2 population comparison](../queries/csu-phase-2-population-comparison.md)
 - Shared longitudinal comparison: [Cross-program longitudinal UAS7 comparison](../queries/cross-program-longitudinal-uas7.md)
 - Derived longitudinal view: [Remibrutinib longitudinal UAS7](../queries/remibrutinib-longitudinal-uas7.md)
 - Derived longitudinal view: [Barzolvolimab longitudinal UAS7](../queries/barzolvolimab-longitudinal-uas7.md)

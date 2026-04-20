@@ -8,6 +8,7 @@ tags:
 This page is a conservative derived read across the current local source stack. It is meant to answer a practical question: which programs currently have the clearest public efficacy story, and which still look early, thin, or weak?
 
 - Shared comparison page now live: [Cross-program longitudinal UAS7 comparison](../queries/cross-program-longitudinal-uas7.md)
+- Population comparison page: [CSU Phase 2 population comparison](../queries/csu-phase-2-population-comparison.md)
 - Program-specific plotted page: [Remibrutinib longitudinal UAS7](../queries/remibrutinib-longitudinal-uas7.md)
 - Program-specific plotted page: [Barzolvolimab longitudinal UAS7](../queries/barzolvolimab-longitudinal-uas7.md)
 - Program-specific plotted page: [Rilzabrutinib longitudinal UAS7](../queries/rilzabrutinib-longitudinal-uas7.md)
