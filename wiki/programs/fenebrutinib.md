@@ -17,6 +17,8 @@ indications:
 - Development focus: Completed or historical urticaria development represented in current raw-source layer
 - Indications represented in current raw sources: Urticaria
 
+- Related query: [CSU Phase 2 population comparison](../queries/csu-phase-2-population-comparison.md)
+
 ## Strategy readout
 - Headline: Historical BTK CSU proof-of-concept program, not a visibly expanding current franchise in the local layer.
 - Current strategic read: The local evidence stack shows meaningful phase 2 CSU evidence for fenebrutinib, but the currently visible urticaria program looks more like an important earlier BTK proof point than an actively widening late-stage strategy.

@@ -17,6 +17,8 @@ indications:
 - Development focus: Completed or historical urticaria development represented in current raw-source layer
 - Indications represented in current raw sources: Chronic Spontaneous Urticaria
 
+- Related query: [CSU Phase 2 population comparison](../queries/csu-phase-2-population-comparison.md)
+
 ## Strategy readout
 - Headline: More focused BTK challenger strategy in CSU, with a thinner visible development stack than remibrutinib.
 - Current strategic read: In the current local evidence layer, rilzabrutinib looks like a narrower CSU-centered BTK program rather than a broad urticaria franchise. The strategic posture appears more concentrated and later-entry than remibrutinib’s multi-branch stack.

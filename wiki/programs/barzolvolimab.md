@@ -24,6 +24,8 @@ indications:
 - Development focus: Active clinical development represented in current raw-source layer
 - Indications represented in current raw sources: Chronic Spontaneous Urticaria, Cold Urticaria, Cold Contact Urticaria, Symptomatic Dermographism, Symptomatic Dermatographism, Cholinergic Urticaria, Chronic Inducible Urticaria, Cold-Induced Urticaria
 
+- Related query: [CSU Phase 2 population comparison](../queries/csu-phase-2-population-comparison.md)
+
 ## Strategy readout
 - Headline: Parallel KIT franchise build across CSU and CIndU, now extending into multiple phase 3 tracks.
 - Current strategic read: The current local source layer suggests Celldex is not treating barzolvolimab as a single-study CSU asset. Instead, it is using early KIT proof across both spontaneous and inducible urticaria to support a broader late-stage urticaria franchise.

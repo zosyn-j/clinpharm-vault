@@ -20,6 +20,8 @@ indications:
 - Alias(es): LOU064
 - Development shape in the current raw-source layer: foundational phase 2b CSU dose-finding, pivotal REMIX phase 3 CSU program, extension/lifecycle studies, late-stage CIndU expansion, comparator studies, and real-world follow-up.
 
+- Related query: [CSU Phase 2 population comparison](../queries/csu-phase-2-population-comparison.md)
+
 ## Strategy readout
 - Headline: Broad BTK franchise strategy: establish CSU depth first, then layer on lifecycle, comparator, pediatric, CIndU, and real-world expansion.
 - Current strategic read: The current local source layer suggests Novartis is treating remibrutinib as a platform urticaria program rather than a single pivotal asset. CSU is the deepest evidence base, but the surrounding studies show deliberate expansion into lifecycle management, differentiation versus standards, CIndU growth, and post-approval evidence generation.

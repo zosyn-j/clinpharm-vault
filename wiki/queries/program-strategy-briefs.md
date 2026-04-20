@@ -7,6 +7,8 @@ tags:
 
 This page is a derived interpretation layer. It is meant to answer the question: what does the current local source stack suggest each sponsor is trying to do with its urticaria program?
 
+- Related population view: [CSU Phase 2 population comparison](../queries/csu-phase-2-population-comparison.md)
+
 | Program | Class | Highest phase | Trials | Primary pubs | Strategy confidence | Strategy headline |
 |---|---|---|---:|---:|---|---|
 | [Barzolvolimab](../programs/barzolvolimab.md) | KIT | Phase 3 | 8 | 3 | High | Parallel KIT franchise build across CSU and CIndU, now extending into multiple phase 3 tracks. |
