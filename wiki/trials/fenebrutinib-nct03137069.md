@@ -76,7 +76,10 @@ tags:
   - Change From Baseline in the Urticaria Activity Score Over 7 Days (UAS7) at Day 57 (time frame: Baseline and Day 57)
 
 ## Clinical Pharmacology Findings
-- PK: ClinicalTrials.gov summary text indicates pharmacokinetics were part of the study objectives or assessments.
+- PK: Actual protocol-backed schedule recovered locally. The protocol rationale says the sampling schedule was designed around **multiple pre-dose plasma fenebrutinib concentrations** to estimate systemic exposure and support **exposure-response analyses** and future dose selection.
+- PK schedule: The extracted schedule table shows **Plasma PK assessment** at **Day 1, Week 1, Week 6, Week 12, and early termination**.
+- PK schedule citation: `tmp/fenebrutinib_nct03137069_layout.txt#L1429-L1434`; `tmp/fenebrutinib_nct03137069_layout.txt#L4106-L4107`
+- PK interpretation: This reads like a **sparse pre-dose / trough-like PK design** aimed at ER support rather than dense peak characterization.
 - PD: Not clearly summarized in the currently linked local source snippets.
 - Linked manuscripts: No trial-level primary publication is explicitly linked in the current registry.
 

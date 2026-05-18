@@ -78,7 +78,9 @@ tags:
   - Change From Baseline in Weekly Urticaria Activity Score (UAS7) at Week 4 (time frame: Baseline, Week 4)
 
 ## Clinical Pharmacology Findings
-- PK: Not clearly summarized in the currently linked local source snippets.
+- PK: Actual protocol-backed schedule recovered locally. The protocol objective states PK sampling would be performed at **Week 4 and Week 12**. The assessment schedule shows **PK sampling at Day 29 / Week 4 and Day 85 / Week 12**, with an unscheduled-visit PK option. The same protocol section says PK would be characterized **across all cohorts**, using **limited sampling up to 4 hours** to relate exposure to **AUC/Cmax** and PK/PD readouts, and Table 8-10 explicitly states **Day 1: no PK assessment**.
+- PK schedule citation: `tmp/remibrutinib_nct03926611_layout.txt#L494-L497`; `tmp/remibrutinib_nct03926611_layout.txt#L1596-L1617`; `tmp/remibrutinib_nct03926611_layout.txt#L2015-L2026`
+- PK interpretation: This reads like **limited rich steady-state PK embedded in the main study**, not a separate formal PK substudy in the current recovered protocol layer.
 - PD: Not clearly summarized in the currently linked local source snippets.
 - Linked manuscripts: Primary publication support is available in the registry (PMID 36096203; PMID 37866460).
 
